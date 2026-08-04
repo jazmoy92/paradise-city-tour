@@ -1,0 +1,102 @@
+{
+  "guyana": {
+    "needs_ad": false,
+    "cities": {
+      "georgetown": {
+        "names": {
+          "ar": "جورج تاون",
+          "en": "Georgetown",
+          "tr": "Georgetown"
+        },
+        "description": {
+          "ar": "عاصمة غيانا الاستوائية الخشبية، تشتهر بكاتدرائية القديس جورج الخشبية الشاهقة، الأسواق وسد الساحل.",
+          "en": "Guyana's Caribbean-flavored capital, known for wooden Victorian architecture and Stabroek Market.",
+          "tr": "Guyana'nın Karayip esintili başkenti; ahşap Victoria mimarisi ve Stabroek Pazarı ile tanınır."
+        },
+        "image": "res://images/georgetown_guyana.png",
+        "bg_image": "res://images/georgetown_bg.png",
+        "image_3d": "res://images/georgetown_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ماريوت جورج تاون غيانا",
+              "en": "Guyana Marriott Hotel Georgetown",
+              "tr": "Guyana Marriott Hotel Georgetown"
+            },
+            "image": "res://images/marriott_georgetown.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق بيكاسوس غيانا",
+              "en": "Pegasus Hotel Guyana",
+              "tr": "Pegasus Hotel Guyana"
+            },
+            "image": "res://images/pegasus_guyana.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيسترو إيل درادو جورج تاون",
+              "en": "Bistro Cafe & Bar Georgetown",
+              "tr": "Bistro Cafe & Bar Georgetown"
+            },
+            "image": "res://images/bistro_guyana.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق الكاري الهندي والغوياني والمأكولات البحرية",
+              "en": "Guyanese Curry & Caribbean Fusion",
+              "tr": "Guyana Körisi ve Karayip Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية القديس جورج الخشبية (St. George's Cathedral)",
+              "en": "St. George's Cathedral",
+              "tr": "Aziz Yorgi Katedrali"
+            },
+            "image": "res://images/st_georges_cathedral_guyana.png",
+            "description": {
+              "ar": "واحدة من أطول الكنائس المصنوعة بالكامل من الخشب الخالص في العالم (43 متراً).",
+              "en": "One of the world's tallest freestanding wooden church structures at 43.5 meters.",
+              "tr": "43,5 metre yüksekliğiyle dünyanın en yüksek ahşap kiliselerinden biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شلالات كايتير العظيمة (Kaieteur Falls Trip)",
+              "en": "Kaieteur Falls Excursion",
+              "tr": "Kaieteur Şelalesi Gezisi"
+            },
+            "image": "res://images/kaieteur_falls.png",
+            "description": {
+              "ar": "أضخم شلال فردي صاعد في العالم ينهمر بارتفاع 226 متراً وسط الغابة الاستوائية البكر.",
+              "en": "The world's largest single-drop waterfall by volume, plunging 226 meters in the Amazon rainforest.",
+              "tr": "226 metre yükseklikten dökülen dünyanın en büyük tek kitleli şelalesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "france": {
+    "needs_ad": false,
+    "cities": {
+      "paris": {
+        "names": {
+          "ar": "باريس",
+          "en": "Paris",
+          "tr": "Paris"
+        },
+        "description": {
+          "ar": "مدينة الأنوار والعواطف، تشتهر ببرج إيفل الأيقوني، متحف اللوفر العظيم، شارع الشانزلزيه، وكاتدرائية نوتردام.",
+          "en": "The City of Light, iconic for the Eiffel Tower, Louvre Museum, Champs-Élysées, and haute couture.",
+          "tr": "Işık Şehir; Eyfel Kulesi, Louvre Müzesi, Şanzelize Caddesi ve modasıyla dünyaca ünlüdür."
+        },
+        "image": "res://images/paris.png",
+        "bg_image": "res://images/paris_bg.png",
+        "image_3d": "res://images/paris_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا ريتز باريس",
+              "en": "Ritz Paris",
+              "tr": "Ritz Paris"
+            },
+            "image": "res://images/ritz_paris.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فورسيزونز جورج الخامس باريس",
+              "en": "Four Seasons Hotel George V Paris",
+              "tr": "Four Seasons Hotel George V Paris"
+            },
+            "image": "res://images/four_seasons_paris.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي جولي فيرن في برج إيفل (Le Jules Verne)",
+              "en": "Le Jules Verne (Eiffel Tower)",
+              "tr": "Le Jules Verne (Eyfel Kulesi)"
+            },
+            "image": "res://images/jules_verne_paris.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات فرنسية فاخرة داخل برج إيفل مباشرة",
+              "en": "Michelin-starred Fine Dining inside Eiffel Tower",
+              "tr": "Eyfel Kulesi İçinde Michelin Yıldızlı Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج إيفل (Eiffel Tower)",
+              "en": "Eiffel Tower (Tour Eiffel)",
+              "tr": "Eyfel Kulesi"
+            },
+            "image": "res://images/eiffel_tower.png",
+            "description": {
+              "ar": "أشهر رمز معمار حديدي في العالم بني عام 1889 بارتفاع 330 متراً.",
+              "en": "Wrought-iron lattice tower on the Champ de Mars, symbol of France.",
+              "tr": "Champ de Mars üzerindeki dövme demir kule, Fransa'nın küresel simgesi."
+            }
+          },
+          {
+            "name": {
+              "ar": "متحف اللوفر العظيم (Louvre Museum)",
+              "en": "Louvre Museum (Musée du Louvre)",
+              "tr": "Louvre Müzesi"
+            },
+            "image": "res://images/louvre_museum.png",
+            "description": {
+              "ar": "أكبر متحف فني في العالم وموطن لوحة الموناليزا الشهيرة.",
+              "en": "The world's largest art museum housing the Mona Lisa and Venus de Milo.",
+              "tr": "Mona Lisa ve Venus de Milo'ya ev sahipliği yapan dünyanın en büyük sanat müzesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع الشانزلزيه وقوس النصر (Champs-Élysées & Arc de Triomphe)",
+              "en": "Champs-Élysées & Arc de Triomphe",
+              "tr": "Şanzelize Bulvarı ve Zafer Takı"
+            },
+            "image": "res://images/champs_elysees.png",
+            "description": {
+              "ar": "أجمل جادة في العالم تتوج بقوس النصر التاريخي والمتاجر العالمية.",
+              "en": "Famous avenue connecting Place de la Concorde to the monumental Arc de Triomphe.",
+              "tr": "Concorde Meydanı'nı Zafer Takı'na bağlayan dünyaca ünlü bulvar."
+            }
+          }
+        ]
+      },
+      "nice": {
+        "names": {
+          "ar": "نيس (الكوت دازور)",
+          "en": "Nice",
+          "tr": "Nice"
+        },
+        "description": {
+          "ar": "عاصمة الريفييرا الفرنسية الساحرة، تتميز بـ ممشى الإنكليز (Promenade des Anglais) والشواطئ الفيروزية.",
+          "en": "Capital of the French Riviera, famous for the Promenade des Anglais, Mediterranean sea, and Old Town.",
+          "tr": "Fransız Rivierası'nın başkenti; Promenade des Anglais ve Akdeniz sahil şeridiyle ünlüdür."
+        },
+        "image": "res://images/nice.png",
+        "bg_image": "res://images/nice_bg.png",
+        "image_3d": "res://images/nice_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل لي نيجريسكو نيس",
+              "en": "Hotel Le Negresco",
+              "tr": "Hotel Le Negresco Nice"
+            },
+            "image": "res://images/le_negresco.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم شانتكلير نيس (Le Chantecler)",
+              "en": "Le Chantecler Restaurant",
+              "tr": "Le Chantecler Restoran"
+            },
+            "image": "res://images/chantecler_nice.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات بروفنسية وبحرية حائزة ميشلان",
+              "en": "Michelin-starred Provençal Gastronomy",
+              "tr": "Michelin Yıldızlı Provençal Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "ممشى الإنجليز الساحلي (Promenade des Anglais)",
+              "en": "Promenade des Anglais",
+              "tr": "Promenade des Anglais Sahil Bulvarı"
+            },
+            "image": "res://images/promenade_des_anglais.png",
+            "description": {
+              "ar": "أشهر كورنيش ساحلي مشجر بالنخيل والكراسي الأزرق المطلة على البحر المتوسط.",
+              "en": "Famous 7-kilometer oceanfront promenade lined with blue chairs and palm trees.",
+              "tr": "Mavi sandalyeleri ve palmiyeleriyle ünlü 7 kilometrelik sahil bulvarı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "تلة القلعة والطلة البانورامية (Castle Hill / Colline du Château)",
+              "en": "Castle Hill (Colline du Château)",
+              "tr": "Kale Tepesi (Colline du Château)"
+            },
+            "image": "res://images/castle_hill_nice.png",
+            "description": {
+              "ar": "متنزّه مرتفع يوفر أروع طلة بانورامية على خليج الملائكة والمدينة القديمة.",
+              "en": "Hilltop park featuring a waterfall, ruins, and breathtaking views over Baie des Anges.",
+              "tr": "Şelalesi, kalıntıları ve Melekler Körfezi manzarasıyla tepe parkı."
+            }
+          }
+        ]
+      },
+      "lyon": {
+        "names": {
+          "ar": "ليون",
+          "en": "Lyon",
+          "tr": "Lyon"
+        },
+        "description": {
+          "ar": "عاصمة الطهي والطهي الفرنسي العالمية، تشتهر بـ حارات البوشون التقليدية وعمارة عصر النهضة المصنفة يونسكو.",
+          "en": "France's gastronomic capital, world-famous for historic Traboules passages and Renaissance Lyon.",
+          "tr": "Fransa'nın gastronomi başkenti; tarihi Traboules geçitleri ve Rönesans mimarisiyle ünlüdür."
+        },
+        "image": "res://images/lyon.png",
+        "bg_image": "res://images/lyon_bg.png",
+        "image_3d": "res://images/lyon_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أنتركونتيننتال ليون - جران أوتيل ديو",
+              "en": "InterContinental Lyon - Grand Hôtel-Dieu",
+              "tr": "InterContinental Lyon - Grand Hôtel-Dieu"
+            },
+            "image": "res://images/intercontinental_lyon.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بول بوكوز العالمي (L'Auberge du Pont de Collonges)",
+              "en": "Restaurant Paul Bocuse",
+              "tr": "Paul Bocuse Restoranı"
+            },
+            "image": "res://images/paul_bocuse_lyon.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "قمة الطهي الفرنسي الكلاسيكي الأسطوري",
+              "en": "Legendary French Culinary Temple",
+              "tr": "Efsanevi Klasik Fransız Gastronomisi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "بازيليكا فورفيير المرتفعة (Basilica of Notre-Dame de Fourvière)",
+              "en": "Basilica of Notre-Dame de Fourvière",
+              "tr": "Fourvière Notre-Dame Bazilikası"
+            },
+            "image": "res://images/fourviere_lyon.png",
+            "description": {
+              "ar": "كنيسة بيضاء فاخرة تتربع فوق تلة فورفيير وتطل على نهرين والمدينة بالكامل.",
+              "en": "Minor basilica standing on Fourvière hill with grand mosaics and panoramic city views.",
+              "tr": "Fourvière tepesinde görkemli mozaikleri ve şehir manzarasıyla yükselen bazilika."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حارات وممرات ترابول السريّة (Traboules of Vieux Lyon)",
+              "en": "Traboules of Old Lyon",
+              "tr": "Eski Lyon Traboules Geçitleri"
+            },
+            "image": "res://images/traboules_lyon.png",
+            "description": {
+              "ar": "ممرات مغطاة بين المباني التاريخية كان يستخدمها صانعو الحرير للعبور بين الشوارع.",
+              "en": "Secret pedestrian passageways passing under buildings used by 19th-century silk weavers.",
+              "tr": "19. yüzyıl ipek dokumacılarının kullandığı binaların altından geçen gizli yaya geçitleri."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "jamaica": {
+    "needs_ad": false,
+    "cities": {
+      "kingston": {
+        "names": {
+          "ar": "كينغستون",
+          "en": "Kingston",
+          "tr": "Kingston"
+        },
+        "description": {
+          "ar": "عاصمة جامايكا الثقافية ومسقط رأس موسيقى الريغي، تشتهر بـ متحف بوب مارلي، جبال البلو ماونتن، وميناء بورت رويال.",
+          "en": "Jamaica's cultural capital, famous for the Bob Marley Museum, Blue Mountains coffee, and Port Royal history.",
+          "tr": "Bob Marley Müzesi, Mavi Dağlar kahvesi ve Port Royal tarihiyle ünlü Jamaika başkenti."
+        },
+        "image": "res://images/kingston.png",
+        "bg_image": "res://images/kingston_bg.png",
+        "image_3d": "res://images/kingston_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل اس كينغستون (S Hotel Kingston)",
+              "en": "S Hotel Kingston",
+              "tr": "S Hotel Kingston"
+            },
+            "image": "res://images/s_hotel_kingston.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق جران بليك كينغستون (The Jamaica Pegasus Hotel)",
+              "en": "The Jamaica Pegasus Hotel",
+              "tr": "The Jamaica Pegasus Hotel"
+            },
+            "image": "res://images/pegasus_kingston.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ديفون هاوس كينغستون (Devon House Bakery & Ices)",
+              "en": "Devon House Bakery & Ice Cream",
+              "tr": "Devon House Fırını ve Dondurma"
+            },
+            "image": "res://images/devon_house_icecream.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "فطائر الجامايكي الجرك المتبلة وأشهر دوندورمة كاريبية",
+              "en": "Jamaican Jerk Patties & World-famous Ice Cream",
+              "tr": "Jamaika Jerk Börekleri ve Ünlü Dondurma"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "متحف أسطورة الريغي بوب مارلي (Bob Marley Museum)",
+              "en": "Bob Marley Museum",
+              "tr": "Bob Marley Müzesi"
+            },
+            "image": "res://images/bob_marley_museum.png",
+            "description": {
+              "ar": "المنزل التاريخي الذي عاش وتسجل فيه أساطير المغني العالمي بوب مارلي.",
+              "en": "Former home and studio of reggae legend Bob Marley, filled with personal artifacts.",
+              "tr": "Reggae efsanesi Bob Marley'in kişisel eşyalarıyla dolu eski evi ve stüdyosu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر وديفون هاوس التاريخي (Devon House Heritage)",
+              "en": "Devon House Estate",
+              "tr": "Devon House Tarihi Malikane"
+            },
+            "image": "res://images/devon_house.png",
+            "description": {
+              "ar": "مقر تاريخي فاخر يعود لعام 1881 يمثل القصر الاستعماري الأول للبلاد.",
+              "en": "1881 Georgian-style mansion built by Jamaica's first black millionaire.",
+              "tr": "Jamaika'nın ilk siyah milyoneri tarafından 1881'de inşa edilen Gürcü tarzı malikane."
+            }
+          }
+        ]
+      },
+      "montego_bay": {
+        "names": {
+          "ar": "مونتيغو باي",
+          "en": "Montego Bay",
+          "tr": "Montego Bay"
+        },
+        "description": {
+          "ar": "عاصمة المنتجعات والشواطئ الفاخرة في جامايكا، تشتهر بـ شاطئ دكتورز كيف، شواطئ المرجان، والرياضات المائية.",
+          "en": "Jamaica's premier beach resort capital, famed for Doctor's Cave Beach, luxury resorts, and Hip Strip.",
+          "tr": "Doctor's Cave Plajı, lüks resortları ve Hip Strip caddesiyle ünlü sahil başkenti."
+        },
+        "image": "res://images/montego_bay.png",
+        "bg_image": "res://images/montego_bg.png",
+        "image_3d": "res://images/montego_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع هاف مون مونتيغو باي (Half Moon Resort)",
+              "en": "Half Moon Jamaica",
+              "tr": "Half Moon Jamaika"
+            },
+            "image": "res://images/half_moon.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل إس مونتيغو باي (S Hotel Jamaica)",
+              "en": "S Hotel Jamaica Montego Bay",
+              "tr": "S Hotel Jamaika Montego Bay"
+            },
+            "image": "res://images/s_hotel_mobay.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سكوتشيز الجرك مونتيغو باي (Scotchies)",
+              "en": "Scotchies Jerk Centre",
+              "tr": "Scotchies Jerk Merkezi"
+            },
+            "image": "res://images/scotchies_mobay.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "دجاج المطهو على خشب الفلفل الجامايكي الأصلي",
+              "en": "Authentic Pimento-wood Smoked Jamaican Jerk Chicken",
+              "tr": "Odun Ateşinde Tütsülenmiş Otantik Jamaika Jerk Tavuğu"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ دكتورز كيف الشرير (Doctor's Cave Beach)",
+              "en": "Doctor's Cave Beach",
+              "tr": "Doctor's Cave Plajı"
+            },
+            "image": "res://images/doctors_cave_beach.png",
+            "description": {
+              "ar": "أشهر شاطئ مياه معدنية دافئة برمال بيضاء ناصعة ومياه شفافة كثرت عنه الأساطير الشافية.",
+              "en": "World-famous turquoise beach fed by mineral springs, protected by coral reefs.",
+              "tr": "Maden kaynaklarıyla beslenen, mercan kayalıklarıyla korunan dünyaca ünlü turkuaz plaj."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر وبيت روز هول المكسور (Rose Hall Great House)",
+              "en": "Rose Hall Great House",
+              "tr": "Rose Hall Tarihi Konağı"
+            },
+            "image": "res://images/rose_hall.png",
+            "description": {
+              "ar": "قصر استعماري أثري مبني عام 1770 يرتبط بأسطورة أني بالمر والقصص الشبحية التراثية.",
+              "en": "18th-century restored Georgian mansion famous for the legend of the White Witch Annie Palmer.",
+              "tr": "Beyaz Cadı Annie Palmer efsanesiyle ünlü, restore edilmiş 18. yüzyıl Gürcü konağı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

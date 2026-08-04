@@ -1,0 +1,291 @@
+{
+  "argentina": {
+    "needs_ad": false,
+    "cities": {
+      "buenos_aires": {
+        "names": {
+          "ar": "بوينس آيرس",
+          "en": "Buenos Aires",
+          "tr": "Buenos Aires"
+        },
+        "description": {
+          "ar": "عاصمة الأرجنتين النابضة بالحياة، تشتهر بمسارحها العريقة، رقصة التانغو، حي لابوكا الملون، والعمارة الأوروبية الكلاسيكية.",
+          "en": "The cosmopolitan capital of Argentina, famous for tango culture, historic theaters, colorful La Boca district, and European-style architecture.",
+          "tr": "Arjantin'in canlı başkenti; tango kültürü, tarihi tiyatroları, renkli La Boca semti ve Avrupa tarzı mimarisiyle ünlüdür."
+        },
+        "image": "res://images/buenos_aires.png",
+        "bg_image": "res://images/buenos_aires_bg.png",
+        "image_3d": "res://images/buenos_aires_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ألويلار بالاس",
+              "en": "Alvear Palace Hotel",
+              "tr": "Alvear Palace Otel"
+            },
+            "image": "res://images/alvear_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فااينا بوينس آيرس",
+              "en": "Faena Hotel Buenos Aires",
+              "tr": "Faena Hotel Buenos Aires"
+            },
+            "image": "res://images/faena_hotel.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دون خوليو للمشويات",
+              "en": "Don Julio Parrilla",
+              "tr": "Don Julio Parrilla Restoran"
+            },
+            "image": "res://images/don_julio.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "لحوم أرجنتينية ومشويات فاخرة",
+              "en": "Argentine Steakhouse",
+              "tr": "Arjantin Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مسرح كولون الأوبرا",
+              "en": "Teatro Colón",
+              "tr": "Teatro Colón"
+            },
+            "image": "res://images/teatro_colon.png",
+            "description": {
+              "ar": "واحد من أفضل وأفخم دور الأوبرا في العالم من حيث الصوتيات والعمارة.",
+              "en": "One of the world's top opera houses, renowned for its acoustics and architecture.",
+              "tr": "Akustiği ve mimarisiyle dünyanın en iyi opera binalarından biri."
+            }
+          },
+          {
+            "name": {
+              "ar": "حي كامينيتو الملون في لابوكا",
+              "en": "Caminito in La Boca",
+              "tr": "La Boca'daki Caminito Sokağı"
+            },
+            "image": "res://images/caminito.png",
+            "description": {
+              "ar": "شارع متحفي مفتوح ملون تشتهر فيه عروض رقص التانغو.",
+              "en": "A street museum and colorful alley famous for street tango dancers.",
+              "tr": "Sokak tango dansçılarıyla ünlü renkli bir sokak müzesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مقبرة ريكوليتا التاريخية",
+              "en": "Recoleta Cemetery",
+              "tr": "Recoleta Mezarlığı"
+            },
+            "image": "res://images/recoleta.png",
+            "description": {
+              "ar": "مقبرة فخمة من الضريح الرخامية وتضم مدفن إيفا بيلون.",
+              "en": "Famed cemetery featuring elaborate marble mausoleums, including Eva Perón's grave.",
+              "tr": "Eva Perón'un mezarı da dahil olmak üzere süslü mermer anıt mezarlarla ünlü mezarlık."
+            }
+          }
+        ]
+      },
+      "mendoza": {
+        "names": {
+          "ar": "مندوزا",
+          "en": "Mendoza",
+          "tr": "Mendoza"
+        },
+        "description": {
+          "ar": "قلب منطقة صناعة العصير الطبيعي في الأرجنتين وتقع عند أقدام جبال الأنديز العالية، وهي مقصد لعشاق المغامرة والمناظر الجبلية.",
+          "en": "The heart of Argentina's wine country located at the foothills of the high Andes mountains, famous for Malbec and adventure tourism.",
+          "tr": "Yüksek And Dağları'nın eteklerinde yer alan Arjantin'in şarap bölgesinin kalbi; Malbec ve macera turizmiyle ünlüdür."
+        },
+        "image": "res://images/mendoza.png",
+        "bg_image": "res://images/mendoza_bg.png",
+        "image_3d": "res://images/mendoza_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا بارك حياة مندوزا",
+              "en": "Park Hyatt Mendoza Hotel",
+              "tr": "Park Hyatt Mendoza Otel"
+            },
+            "image": "res://images/park_hyatt_mendoza.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم 1884 فرانسيس مالمان",
+              "en": "1884 Restaurant Francis Mallmann",
+              "tr": "1884 Restoran Francis Mallmann"
+            },
+            "image": "res://images/1884_mendoza.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مشويات وأكل أرجنتيني على الحطب",
+              "en": "Patagonian Wood-fired Cuisine",
+              "tr": "Patagonya Odun Ateşi Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه أكونكاغوا الإقليمي",
+              "en": "Aconcagua Provincial Park",
+              "tr": "Aconcagua Eyalet Parkı"
+            },
+            "image": "res://images/aconcagua.png",
+            "description": {
+              "ar": "يحتوي قمة أكونكاغوا، أعلى جبل في الأرجنتين ونصف الكرة الغربي.",
+              "en": "Home to Mount Aconcagua, the highest peak in the Western and Southern Hemispheres.",
+              "tr": "Batı ve Güney Yarımküre'nin en yüksek zirvesi olan Aconcagua Dağı'na ev sahipliği yapar."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه سان مارتين الجبلي",
+              "en": "Parque General San Martín",
+              "tr": "Parque General San Martín"
+            },
+            "image": "res://images/san_martin_park.png",
+            "description": {
+              "ar": "حديقة شاسعة تضم بحيرة صناعية ومسارات مشي وحديقة حيوان.",
+              "en": "Huge urban park with a large lake, rose garden, and panoramic viewpoints.",
+              "tr": "Büyük bir gölü, gül bahçesi ve panoramik manzaraları olan devasa şehir parkı."
+            }
+          }
+        ]
+      },
+      "bariloche": {
+        "names": {
+          "ar": "باريلوتشي",
+          "en": "Bariloche",
+          "tr": "Bariloche"
+        },
+        "description": {
+          "ar": "مدينة في إقليم باتاغونيا تحيط بها البحيرات النظيفة والجبال الثلجية، وتشتهر بالشوكولاتة الفاخرة ومنتجعات التزلج.",
+          "en": "A Patagonian town famous for its Swiss-style alpine architecture, artisan chocolates, clear lakes, and ski resorts.",
+          "tr": "İsviçre tarzı alp mimarisi, çikolataları, berrak gölleri ve kayak merkezleriyle ünlü Patagonya kasabası."
+        },
+        "image": "res://images/bariloche.png",
+        "bg_image": "res://images/bariloche_bg.png",
+        "image_3d": "res://images/bariloche_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا للاو للاو",
+              "en": "Llao Llao Resort Golf & Spa",
+              "tr": "Llao Llao Resort Golf & Spa"
+            },
+            "image": "res://images/llao_llao.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ألتو إل فويغو",
+              "en": "Alto El Fuego",
+              "tr": "Alto El Fuego Restoran"
+            },
+            "image": "res://images/alto_fuego.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مشويات باتاغونية ولحوم الضأن",
+              "en": "Patagonian Lamb & Grill",
+              "tr": "Patagonya Kuzu ve Izgara"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتجع تزلج سيرو كاتيدرال",
+              "en": "Cerro Catedal Ski Resort",
+              "tr": "Cerro Catedal Kayak Merkezi"
+            },
+            "image": "res://images/cerro_catedal.png",
+            "description": {
+              "ar": "أكبر مركز للتزلج على الجليد في أمريكا الجنوبية.",
+              "en": "The largest ski resort in South America with world-class slopes.",
+              "tr": "Dünya standartlarında pistleriyle Güney Amerika'nın en büyük kayak merkezi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "طريق البحيرات السبع",
+              "en": "Seven Lakes Road (Ruta de los Siete Lagos)",
+              "tr": "Yedi Göller Yolu"
+            },
+            "image": "res://images/seven_lakes.png",
+            "description": {
+              "ar": "طريق سياحي ساحر يمر بين 7 بحيرات جبلية زرقاء غاية في الروعة.",
+              "en": "A scenic driving route connecting seven crystal-clear Patagonian lakes.",
+              "tr": "Yedi berrak Patagonya gölünü birbirine bağlayan manzaralı bir sürüş rotası."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

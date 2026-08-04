@@ -1,0 +1,207 @@
+{
+  "cambodia": {
+    "needs_ad": false,
+    "cities": {
+      "siem_reap": {
+        "names": {
+          "ar": "سيام ريب",
+          "en": "Siem Reap",
+          "tr": "Siem Reap"
+        },
+        "description": {
+          "ar": "البوابة الرئيسية لمجمع معابد أنغكور وات الأسطوري المصنف لدى اليونيسكو، وأشهر وجهات جنوب شرق آسيا.",
+          "en": "The gateway to the world-famous UNESCO Angkor Wat temple complex, rich in Khmer history.",
+          "tr": "Khmer tarihiyle zengin, dünyaca ünlü UNESCO Angkor Wat tapınak kompleksinin giriş kapısı."
+        },
+        "image": "res://images/siem_reap.png",
+        "bg_image": "res://images/siem_reap_bg.png",
+        "image_3d": "res://images/siem_reap_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق رافلز غراند أوتيل أنغكور",
+              "en": "Raffles Grand Hotel d'Angkor",
+              "tr": "Raffles Grand Hotel d'Angkor"
+            },
+            "image": "res://images/raffles_angkor.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع أمانسارا سيام ريب",
+              "en": "Amansara Siem Reap",
+              "tr": "Amansara Siem Reap"
+            },
+            "image": "res://images/amansara.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كويزين خمر كويزين مالميزون",
+              "en": "Cuisine Wat Damnak",
+              "tr": "Cuisine Wat Damnak Restoran"
+            },
+            "image": "res://images/wat_damnak.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق كمبودية وخميرية راقية راقية",
+              "en": "Modern Cambodian & Khmer Fine Dining",
+              "tr": "Modern Kamboçya ve Khmer Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "معبد أنغكور وات الأسطوري (Angkor Wat)",
+              "en": "Angkor Wat Temple",
+              "tr": "Angkor Wat Tapınağı"
+            },
+            "image": "res://images/angkor_wat.png",
+            "description": {
+              "ar": "أضخم نصب ديني على وجه الأرض تحفة العمارة الخميرية في القرن الثاني عشر.",
+              "en": "The largest religious monument in the world and supreme masterpiece of Khmer architecture.",
+              "tr": "Dünyanın en büyük dini anıtı ve Khmer mimarisinin yüce şaheseri."
+            }
+          },
+          {
+            "name": {
+              "ar": "معبد باي أون بوجوهه الحجرية (Bayon Temple)",
+              "en": "Bayon Temple",
+              "tr": "Bayon Tapınağı"
+            },
+            "image": "res://images/bayon_temple.png",
+            "description": {
+              "ar": "معبد شهير بـ 216 وجهاً منقوشاً من الحجر مبتسمة بأسلوب أسطوري.",
+              "en": "Iconic temple featuring over 200 smiling stone faces carved into towers.",
+              "tr": "Kulelerine oyulmuş 200'den fazla gülümseyen taş yüzüyle bilinen ikonik tapınak."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع الحانات والتسوق (Pub Street)",
+              "en": "Pub Street & Night Market",
+              "tr": "Pub Street ve Gece Pazarı"
+            },
+            "image": "res://images/pub_street.png",
+            "description": {
+              "ar": "مركز الحياة الليلية والمطاعم المضيئة بالأنوار والأسواق التراثية.",
+              "en": "Lively pedestrian neon-lit avenue packed with bars, massage spas, and markets.",
+              "tr": "Barlar, masaj salonları ve pazarlarla dolu neon ışıklı canlı cadde."
+            }
+          }
+        ]
+      },
+      "phnom_penh": {
+        "names": {
+          "ar": "بنوم بنه",
+          "en": "Phnom Penh",
+          "tr": "Phnom Penh"
+        },
+        "description": {
+          "ar": "عاصمة كمبوديا التاريخية الواقعة عند التقاء أنهار ميكونغ وتونلي ساب، تشتهر بالقصر الملكي والمعبد الفضي.",
+          "en": "Cambodia's bustling capital at the junction of the Mekong and Tonle Sap rivers, famous for the Royal Palace.",
+          "tr": "Mekong ve Tonle Sap nehirlerinin birleşimindeki canlı başkent; Kraliyet Sarayı ile ünlüdür."
+        },
+        "image": "res://images/phnom_penh.png",
+        "bg_image": "res://images/phnom_penh_bg.png",
+        "image_3d": "res://images/phnom_penh_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق روزوود بنوم بنه",
+              "en": "Rosewood Phnom Penh",
+              "tr": "Rosewood Phnom Penh"
+            },
+            "image": "res://images/rosewood_phnom_penh.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ماليس بنوم بنه",
+              "en": "Malis Cambodian Restaurant",
+              "tr": "Malis Kamboçya Restoranı"
+            },
+            "image": "res://images/malis_phnom_penh.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق أموك السمك والخمير التقليدي",
+              "en": "Living Khmer Cuisine & Fish Amok",
+              "tr": "Yaşayan Khmer Mutfağı ve Balık Amok"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "القصر الملكي والمعبد الفضي (Royal Palace & Silver Pagoda)",
+              "en": "Royal Palace & Silver Pagoda",
+              "tr": "Kraliyet Sarayı ve Gümüş Pagoda"
+            },
+            "image": "res://images/royal_palace_phnom_penh.png",
+            "description": {
+              "ar": "مجمع ملكي بسقوف كمبودية مذهبة وأرضية المعبد الفضي المصنوعة من 5000 بلاطة فضية.",
+              "en": "Regal complex with gilded roofs and a pagoda floor tiled with 5,000 silver tiles.",
+              "tr": "Yaldızlı çatılara ve 5.000 gümüş karoyla kaplı pagodaya sahip kraliyet kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كورنيش سيسواث النهري (Sisowath Quay)",
+              "en": "Sisowath Quay",
+              "tr": "Sisowath Quay Sahil Yolu"
+            },
+            "image": "res://images/sisowath_quay.png",
+            "description": {
+              "ar": "ممشى نهري بطول 3 كم مليء بالحدائق والمطاعم المطلة على نهر ميكونغ.",
+              "en": "3km long riverfront boulevard lined with hotels, restaurants, and street food.",
+              "tr": "Oteller, restoranlar ve sokak yemekleriyle dolu 3 km'lik nehir kıyısı bulvarı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

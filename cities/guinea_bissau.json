@@ -1,0 +1,177 @@
+{
+  "guinea_bissau": {
+    "needs_ad": false,
+    "cities": {
+      "bissau": {
+        "names": {
+          "ar": "بيساو",
+          "en": "Bissau",
+          "tr": "Bissau"
+        },
+        "description": {
+          "ar": "عاصمة غينيا بيساو المطلة على المصب النهري للأطلسي، تشتهر بوسط بيساو القديم والمباني البرتغالية العريقة.",
+          "en": "The coastal capital located on the Geba River estuary, featuring Portuguese colonial Bissau Velho.",
+          "tr": "Geba Nehri ağzındaki sahil başkenti; Portekiz sömürge dönemi Bissau Velho semtiyle tanınır."
+        },
+        "image": "res://images/bissau.png",
+        "bg_image": "res://images/bissau_bg.png",
+        "image_3d": "res://images/bissau_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق سيروتين بلاس بيساو",
+              "en": "Ceiba Hotel Bissau",
+              "tr": "Ceiba Hotel Bissau"
+            },
+            "image": "res://images/ceiba_bissau.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوا بيساو",
+              "en": "Restaurant Coqueiros Bissau",
+              "tr": "Restoran Coqueiros Bissau"
+            },
+            "image": "res://images/coqueiros_bissau.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "أسماك الطازجة وأرز كالدينيو برتغالي",
+              "en": "Portuguese Caldeirada & Fresh Atlantic Fish",
+              "tr": "Portekiz Caldeirada ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "حي بيساو فيلهو التاريخي (Bissau Velho)",
+              "en": "Bissau Velho (Old Town)",
+              "tr": "Bissau Velho (Eski Şehir)"
+            },
+            "image": "res://images/bissau_velho.png",
+            "description": {
+              "ar": "الحي الاستعماري القديم بشوارعه الهادئة والمباني الاستعمارية الوردية.",
+              "en": "Quiet colonial quarter filled with pastel pink Portuguese buildings and cobblestones.",
+              "tr": "Pastel pembe Portekiz binaları ve arnavut kaldırımlarıyla sakin sömürge mahallesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حصن أملكار كابرال التاريخي (Fortaleza de Amura)",
+              "en": "Fortaleza de São José da Amura",
+              "tr": "São José da Amura Kalesi"
+            },
+            "image": "res://images/fortaleza_amura.png",
+            "description": {
+              "ar": "قلعة عسكرية برتغالية يعود تاريخها للقرن السابع عشر وتضم الضريح الوطني.",
+              "en": "17th-century stone fortress housing national independence monuments.",
+              "tr": "Ulusal bağımsızlık anıtlarına ev sahipliği yapan 17. yüzyıl taş kalesi."
+            }
+          }
+        ]
+      },
+      "bubaque": {
+        "names": {
+          "ar": "بوباك (أرخبيل بيجاغوس)",
+          "en": "Bubaque",
+          "tr": "Bubaque"
+        },
+        "description": {
+          "ar": "الجزيرة الرئيسية لأرخبيل جزر بيجاغوس (UNESCO) المشهورة بالسلاحف الخضراء وحيوانات فرس النهر السابحة بالبحر.",
+          "en": "Main island of the UNESCO Bijagós Archipelago, famous for saltwater hippos and pristine beaches.",
+          "tr": "UNESCO Bijagós Takımadaları'nın ana adası; tuzlu su hipopotamları ve el değmemiş plajlarıyla tanınır."
+        },
+        "image": "res://images/bubaque.png",
+        "bg_image": "res://images/bubaque_bg.png",
+        "image_3d": "res://images/bubaque_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع دو شز كوستينيو بوباك",
+              "en": "Kunta Kinteh Eco-Lodge Bubaque",
+              "tr": "Kunta Kinteh Eco-Lodge Bubaque"
+            },
+            "image": "res://images/kunta_kinteh_bubaque.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيجاغوس إيكو ريزورت",
+              "en": "Chez Loutcha Bubaque",
+              "tr": "Chez Loutcha Bubaque Restoran"
+            },
+            "image": "res://images/chez_loutcha_bubaque.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "ثمار البحر الطازجة وأرز الكاجو المحمص",
+              "en": "Island Fresh Seafood & Cashew Rice",
+              "tr": "Taze Ada Deniz Ürünleri ve Kaju Pilavı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أرخبيل جزر بيجاغوس الطبيعي (Bijagós Archipelago - UNESCO)",
+              "en": "Bijagós Archipelago Biosphere Reserve",
+              "tr": "Bijagós Takımadaları Biyosfer Rezervi"
+            },
+            "image": "res://images/bijagos_archipelago.png",
+            "description": {
+              "ar": "أرخبيل مكون من 88 جزيرة استوائية يمثل محمية محيط حيوي عالمية.",
+              "en": "88 tropical islands serving as a pristine UNESCO biosphere reserve.",
+              "tr": "UNESCO biyosfer rezervi olarak hizmet veren 88 tropikal ada."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شواطئ بوباك العذراء (Bubaque Beaches)",
+              "en": "Bubaque Island Beaches",
+              "tr": "Bubaque Ada Plajları"
+            },
+            "image": "res://images/bubaque_beach.png",
+            "description": {
+              "ar": "شواطئ هادئة جداً محاطة بغابات المانغروف وأشجار النخيل الاستوائية.",
+              "en": "Untouched secluded stretches of sand bordered by thick coconut groves.",
+              "tr": "Hindistan cevizi korularıyla çevrili el değmemiş sakin kumsallar."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

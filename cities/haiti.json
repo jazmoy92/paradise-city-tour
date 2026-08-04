@@ -1,0 +1,178 @@
+{
+  "haiti": {
+    "needs_ad": false,
+    "cities": {
+      "port_au_prince": {
+        "names": {
+          "ar": "بورت أو برنس",
+          "en": "Port-au-Prince",
+          "tr": "Port-au-Prince"
+        },
+        "description": {
+          "ar": "عاصمة هايتي المطلة على الخليج الكاريبي، تشتهر ببيوت العمارة الزنجبيلية التراثية والأسواق والفنون الأفرو-كاريبية.",
+          "en": "Haiti's Caribbean capital, famous for Gingerbread architecture, Iron Market, and vibrant painting arts.",
+          "tr": "Zencefil Ev mimarisi, Demir Pazarı ve canlı resim sanatıyla ünlü Haiti başkenti."
+        },
+        "image": "res://images/port_au_prince.png",
+        "bg_image": "res://images/pap_bg.png",
+        "image_3d": "res://images/pap_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل إلمونت بورت أو برنس",
+              "en": "Karibe Hotel Port-au-Prince",
+              "tr": "Karibe Hotel Port-au-Prince"
+            },
+            "image": "res://images/karibe_hotel.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوافير بيتيون فيل",
+              "en": "La Réserve Restaurant Pétion-Ville",
+              "tr": "La Réserve Restoran"
+            },
+            "image": "res://images/la_reserve_haiti.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق الجريو الكاريبية والأسماك الهايتية",
+              "en": "Traditional Haitian Griot & Creole Seafood",
+              "tr": "Geleneksel Haiti Griot ve Kreol Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "السوق الحديدي التاريخي (Marché en Fer)",
+              "en": "Iron Market (Marché en Fer)",
+              "tr": "Demir Pazarı (Marché en Fer)"
+            },
+            "image": "res://images/iron_market.png",
+            "description": {
+              "ar": "سوق معدني أحمر شهير صُنع في باريس عام 1889 ويعتبر قلباً تجارياً وتراثياً.",
+              "en": "Historic red cast-iron landmark market built in 1889 selling art and crafts.",
+              "tr": "1889'da dökme demirden inşa edilmiş el sanatları satan tarihi kırmızı pazar."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي البيوت الزنجبيلية التاريخية (Gingerbread Houses)",
+              "en": "Gingerbread Houses District",
+              "tr": "Zencefil Evler Bölgesi"
+            },
+            "image": "res://images/gingerbread_houses.png",
+            "description": {
+              "ar": "منازل خشبية تراثية فريدة مزخرفة بالنوافذ والشرفات تعود لأواخر القرن التاسع عشر.",
+              "en": "Unique 19th-century Victorian-style wooden mansions with intricate fretwork.",
+              "tr": "Karmaşık oymalarıyla 19. yüzyıldan kalma benzersiz ahşap konaklar."
+            }
+          }
+        ]
+      },
+      "cap_haitien": {
+        "names": {
+          "ar": "كاب هايتيان",
+          "en": "Cap-Haïtien",
+          "tr": "Cap-Haïtien"
+        },
+        "description": {
+          "ar": "العاصمة التاريخية الشمالية، تشتهر بقلعة القلعة العظيمة (Citadelle Laferrière) المصنفة باليونيسكو وشواطئ لابادي.",
+          "en": "Northern historic city, gateway to the massive UNESCO Citadelle Laferrière fortress and Labadee.",
+          "tr": "UNESCO Citadelle Laferrière kalesine ve Labadee plajlarına açılan tarihi kuzey şehri."
+        },
+        "image": "res://images/cap_haitien.png",
+        "bg_image": "res://images/cap_haitien_bg.png",
+        "image_3d": "res://images/cap_haitien_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل كوا بينيت كاب هايتيان",
+              "en": "Cormier Plage Resort Cap-Haïtien",
+              "tr": "Cormier Plage Resort Cap-Haïtien"
+            },
+            "image": "res://images/cormier_plage.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لوسي كاب هايتيان",
+              "en": "Lakay Restaurant Cap-Haïtien",
+              "tr": "Lakay Restoran Cap-Haïtien"
+            },
+            "image": "res://images/lakay_haiti.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك وبحرية طازجة على البحر",
+              "en": "Oceanfront Haitian Seafood & Creole",
+              "tr": "Sahil Haiti Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة سيراديل لافيريير العظيمة (Citadelle Laferrière - UNESCO)",
+              "en": "Citadelle Laferrière",
+              "tr": "Citadelle Laferrière Kalesi"
+            },
+            "image": "res://images/citadelle_laferriere.png",
+            "description": {
+              "ar": "أضخم قلعة حجرية عسكرية بنيت في الأمريكتين وتقع فوق قمة جبل مرتفع.",
+              "en": "Largest fortress in the Americas, perched 900 meters atop Mount Bonnet à l'Évêque.",
+              "tr": "900 metre dağ zirvesinde yer alan Amerika kıtasının en büyük kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شواطئ ومنتجع لابادي (Labadee Beaches)",
+              "en": "Labadee Peninsula & Beach",
+              "tr": "Labadee Yarımadası ve Plajı"
+            },
+            "image": "res://images/labadee.png",
+            "description": {
+              "ar": "شبه جزيرة ساحر ذات رمال ناعمة ومرافق ألعاب مائية وانزلاق حبال هوا المائل.",
+              "en": "Private beach resort peninsula featuring tropical lagoons and the Dragon's Breath zipline.",
+              "tr": "Tropikal lagünlere ve zipline hattına sahip sahil resort yarımadası."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

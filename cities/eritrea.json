@@ -1,0 +1,178 @@
+{
+  "eritrea": {
+    "needs_ad": false,
+    "cities": {
+      "asmara": {
+        "names": {
+          "ar": "أسمرة",
+          "en": "Asmara",
+          "tr": "Asmara"
+        },
+        "description": {
+          "ar": "عاصمة إريتريا المسماة 'روما الصغيرة' والمصنفة بالكامل يونسكو لعلم عمارتها الحديث المدهش ومقاهي الإسبريسو.",
+          "en": "UNESCO-listed modernist capital, renowned for Futurism and Art-Deco Italian architecture and cafes.",
+          "tr": "UNESCO listesindeki modern başkent; Fütürizm ve Art-Deco İtalyan mimarisiyle ünlüdür."
+        },
+        "image": "res://images/asmara.png",
+        "bg_image": "res://images/asmara_bg.png",
+        "image_3d": "res://images/asmara_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أسمرة بالاس",
+              "en": "Asmara Palace Hotel",
+              "tr": "Asmara Palace Otel"
+            },
+            "image": "res://images/asmara_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كازا ديل إيتاليا أسمرة",
+              "en": "Casa del Formaggio Asmara",
+              "tr": "Casa del Formaggio Asmara"
+            },
+            "image": "res://images/casa_formaggio_asmara.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "معكرونة إيطالية زكية وزيبو محلي",
+              "en": "Authentic Italian Pasta & Eritrean Zigni",
+              "tr": "Otantik İtalyan Makarnası ve Eritre Zigni"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محطة وقود فيات تاجلييرو (Fiat Tagliero Building)",
+              "en": "Fiat Tagliero Building",
+              "tr": "Fiat Tagliero Binası"
+            },
+            "image": "res://images/fiat_tagliero.png",
+            "description": {
+              "ar": "تحفة المعمار المستقبلي بنيت عام 1938 بأجنحة طائرة خرسانية خالية من الأعمدة.",
+              "en": "Futurist-style service station shaped like an airplane with 30m cantilevered wings.",
+              "tr": "30 metrelik konsol kanatlarıyla uçak şeklinde tasarlanmış Fütürist benzin istasyonu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع هارنيت الإيطالي للمشاة (Harnet Avenue)",
+              "en": "Harnet Avenue",
+              "tr": "Harnet Bulvarı"
+            },
+            "image": "res://images/harnet_avenue.png",
+            "description": {
+              "ar": "الشارع الرئيسي المشجر بالنخيل والمصطف بمقاهي الإسباريسو والمباني الكلاسيكية.",
+              "en": "Main palm-lined boulevard dotted with outdoor espresso bars and cinema houses.",
+              "tr": "Açık hava espresso barları ve sinemalarla dolu palmiyeli ana bulvar."
+            }
+          }
+        ]
+      },
+      "massawa": {
+        "names": {
+          "ar": "مصوع",
+          "en": "Massawa",
+          "tr": "Massawa"
+        },
+        "description": {
+          "ar": "مدينة الميناء المرجانية القديمة على البحر الأحمر، تجمع بين التراث العثماني، العربي، والإيطالي.",
+          "en": "Historic Red Sea port city built on coral islands, featuring Ottoman and Italian coral-stone architecture.",
+          "tr": "Kızıldeniz'deki tarihi mercan adaları liman şehri; Osmanlı ve İtalyan mimarisiyle ünlüdür."
+        },
+        "image": "res://images/massawa.png",
+        "bg_image": "res://images/massawa_bg.png",
+        "image_3d": "res://images/massawa_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق غراند داهلاك مصوع",
+              "en": "Grand Dahlak Hotel Massawa",
+              "tr": "Grand Dahlak Hotel Massawa"
+            },
+            "image": "res://images/dahlak_hotel.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مصوع للأسماك المشوية",
+              "en": "Sallam Fish Restaurant Massawa",
+              "tr": "Sallam Balık Restoranı Massawa"
+            },
+            "image": "res://images/sallam_fish.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أسماك البحر الأحمر المطبوخة بالفرن الطيني",
+              "en": "Traditional Red Sea Clay-Oven Fish",
+              "tr": "Geleneksel Kızıldeniz Taş Fırın Balığı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المدينة القديمة المرجانية في مصوع (Massawa Old Town)",
+              "en": "Massawa Island Old Town",
+              "tr": "Massawa Ada Eski Şehri"
+            },
+            "image": "res://images/massawa_old_town.png",
+            "description": {
+              "ar": "أزقة أثرية بيضاء مبنية من الأحجار المرجانية البحرية تعود للحكم العثماني.",
+              "en": "Coral-block buildings, Ottoman arches, and Ottoman-era waterfront palaces.",
+              "tr": "Mercan taşından binalar, Osmanlı kemerleri ve sahil sarayları."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "أرخبيل جزر دهلك للغوص (Dahlak Archipelago)",
+              "en": "Dahlak Archipelago",
+              "tr": "Dahlak Takımadaları"
+            },
+            "image": "res://images/dahlak_archipelago.png",
+            "description": {
+              "ar": "مجموعة جزر عذراء غير مأهولة تمتاز بأروع شعاب مرجانية للغوص في البحر الأحمر.",
+              "en": "Uninhabited coral islands providing untouched world-class diving and marine life.",
+              "tr": "El değmemiş dünyaca ünlü dalış noktaları sunan ıssız mercan adaları."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "estonia": {
+    "needs_ad": false,
+    "cities": {
+      "tallinn": {
+        "names": {
+          "ar": "تالين",
+          "en": "Tallinn",
+          "tr": "Tallinn"
+        },
+        "description": {
+          "ar": "عاصمة إستونيا الرقمية المحفوظة بعناية (UNESCO)، تشتهر بمدينتها القديمة المحاطة بالأسوار والأبراج القوطية.",
+          "en": "Estonia's fairytale capital on the Baltic Sea, renowned for its UNESCO medieval Old Town.",
+          "tr": "Baltık Denizi kıyısındaki masalsı başkent; UNESCO ortaçağ Eski Kenti ile ünlüdür."
+        },
+        "image": "res://images/tallinn.png",
+        "bg_image": "res://images/tallinn_bg.png",
+        "image_3d": "res://images/tallinn_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شلوسليه تالين",
+              "en": "Schlössle Hotel Tallinn",
+              "tr": "Schlössle Hotel Tallinn"
+            },
+            "image": "res://images/schlossle_tallinn.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق تيليغراف تالين Autograph Collection",
+              "en": "Hotel Telegraaf, Autograph Collection",
+              "tr": "Hotel Telegraaf Tallinn"
+            },
+            "image": "res://images/hotel_telegraaf.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم هانزا أورغمايستر أولدي هانزا (Olde Hansa)",
+              "en": "Olde Hansa Medieval Restaurant",
+              "tr": "Olde Hansa Ortaçağ Restoranı"
+            },
+            "image": "res://images/olde_hansa.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "تجربة وجبات وتوابل القرون الوسطى بالشموع",
+              "en": "Authentic Medieval Feast & Spiced Ales",
+              "tr": "Otantik Ortaçağ Ziyafeti"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "البلدة القديمة التاريخية (Tallinn Old Town - UNESCO)",
+              "en": "Tallinn Old Town (Vanalinn)",
+              "tr": "Tallinn Eski Şehri (Vanalinn)"
+            },
+            "image": "res://images/tallinn_old_town.png",
+            "description": {
+              "ar": "أحد أفضل الأمثلة المحفوظة على الشوارع والأسوار القروسطية في أوروبا.",
+              "en": "Exceptionally intact 13th-century Hanseatic town with cobblestones and red towers.",
+              "tr": "Kırmızı kuleleri ve taş sokaklarıyla 13. yüzyıldan kalma korunan Hansa şehri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر وحدائق كادريورغ الإمبراطوري (Kadriorg Palace)",
+              "en": "Kadriorg Palace & Park",
+              "tr": "Kadriorg Sarayı ve Parkı"
+            },
+            "image": "res://images/kadriorg_palace.png",
+            "description": {
+              "ar": "قصر باروكي فخم بناه القيصر بطرس الأكبر لزوجته كاثرين الأولى.",
+              "en": "Petrine Baroque palace built for Catherine I of Russia with art galleries.",
+              "tr": "I. Katerina için inşa edilmiş, sanat galerisine sahip Petrine Barok sarayı."
+            }
+          }
+        ]
+      },
+      "tartu": {
+        "names": {
+          "ar": "تارتو",
+          "en": "Tartu",
+          "tr": "Tartu"
+        },
+        "description": {
+          "ar": "العاصمة الفكرية والأكاديمية لإستونيا وموطن أقدم جامعة في البلاد والمتاحف العلمية.",
+          "en": "Estonia's intellectual capital, home to the prestigious 1632 University of Tartu and science centers.",
+          "tr": "Etiyopya'nın entelektüel başkenti; prestijli Tartu Üniversitesi ve bilim merkezleriyle tanınır."
+        },
+        "image": "res://images/tartu.png",
+        "bg_image": "res://images/tartu_bg.png",
+        "image_3d": "res://images/tartu_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أنتونيس تارتو",
+              "en": "Hotel Antonius Tartu",
+              "tr": "Hotel Antonius Tartu"
+            },
+            "image": "res://images/hotel_antonius.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيل بوب تارتو",
+              "en": "Polpo Restaurant Tartu",
+              "tr": "Polpo Restoran Tartu"
+            },
+            "image": "res://images/polpo_tartu.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "مأكولات إستونية وأوروبية معاصرة",
+              "en": "Modern Nordic & European",
+              "tr": "Modern İskandinav ve Avrupa Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "جامعة تارتو والساحة النيوكلاسيكية",
+              "en": "University of Tartu Main Building",
+              "tr": "Tartu Üniversitesi Ana Binası"
+            },
+            "image": "res://images/tartu_university.png",
+            "description": {
+              "ar": "مبنى كلاسيكي عريق يعود للقرن السابع عشر يمثل قلب المدينة التعليمي.",
+              "en": "Neoclassical architectural icon founded by King Gustavus Adolphus of Sweden in 1632.",
+              "tr": "1632'de İsveç Kralı tarafından kurulan Neoklasik mimari simgesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "تمثال الطلاب القبلة (Kissing Students Fountain)",
+              "en": "Kissing Students Fountain",
+              "tr": "Öpüşen Öğrenciler Fıskiyeli Heykeli"
+            },
+            "image": "res://images/kissing_students.png",
+            "description": {
+              "ar": "رمز تارتو الرومانسي في وسط الساحة الكلاسيكية لقاعة المدينة.",
+              "en": "Iconic romantic sculpture and fountain in Town Hall Square.",
+              "tr": "Belediye Meydanı'ndaki ikonik romantik heykel ve fıskiye."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

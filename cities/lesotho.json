@@ -1,0 +1,92 @@
+{
+  "lesotho": {
+    "needs_ad": false,
+    "cities": {
+      "maseru": {
+        "names": {
+          "ar": "ماسيرو",
+          "en": "Maseru",
+          "tr": "Maseru"
+        },
+        "description": {
+          "ar": "عاصمة ليسوتو الواقعة في مملكة السماء المرتفعة، تشتهر بمركز الحرف اليدوية على شكل قبعة باسوتو والمنتزهات.",
+          "en": "Capital of the Kingdom in the Sky, set on the Mohokare River, known for Basotho hat craft centers.",
+          "tr": "Gökyüzündeki Krallık'ın başkenti; Mohokare Nehri kıyısında Basotho şapkalı zanaat merkezleriyle tanınır."
+        },
+        "image": "res://images/maseru.png",
+        "bg_image": "res://images/maseru_bg.png",
+        "image_3d": "res://images/maseru_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أفاني ماسيرو وسينما",
+              "en": "Avani Maseru Hotel",
+              "tr": "Avani Maseru Otel"
+            },
+            "image": "res://images/avani_maseru.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم النيل جاردن ماسيرو",
+              "en": "The Regal Restaurant Maseru",
+              "tr": "The Regal Restoran Maseru"
+            },
+            "image": "res://images/regal_maseru.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "مشويات ولحوم أفريقية وهندية",
+              "en": "African Grill & Indian Fusion",
+              "tr": "Afrika Izgara ve Hint Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مركز قبعة الباسوتو للحرف (Mokorotlo / Basotho Hat)",
+              "en": "Basotho Hat Craft Centre (Mokorotlo)",
+              "tr": "Basotho Şapkası El Sanatları Merkezi"
+            },
+            "image": "res://images/basotho_hat.png",
+            "description": {
+              "ar": "مبنى مخروطي مصمم على شكل القبعة القشية التقليدية للبلاد لبيع النسيج والمصنوعات.",
+              "en": "Building shaped like a giant traditional conical straw hat housing indigenous crafts.",
+              "tr": "Yerel el sanatlarını barındıran devasa konik samandan şapka şeklinde bina."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "هضبة ثابا بوسيو الملكية (Thaba Bosiu - UNESCO)",
+              "en": "Thaba Bosiu Cultural Village",
+              "tr": "Thaba Bosiu Kültür Köyü"
+            },
+            "image": "res://images/thaba_bosiu.png",
+            "description": {
+              "ar": "هضبة حجرية مقدسة حصنت الملك موشويشوي الأول ومقر مقابر الملوك.",
+              "en": "Sacred sandstone plateau serving as the historic stronghold and burial ground of kings.",
+              "tr": "Tarihi kale ve kralların mezarlığı olarak hizmet veren kutsal kumtaşı platosu."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

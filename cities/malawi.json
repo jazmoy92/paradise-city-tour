@@ -1,0 +1,92 @@
+{
+  "malawi": {
+    "needs_ad": false,
+    "cities": {
+      "lilongwe": {
+        "names": {
+          "ar": "ليلونغوي",
+          "en": "Lilongwe",
+          "tr": "Lilongwe"
+        },
+        "description": {
+          "ar": "عاصمة مالاوي المورقة بالحدائق الخضراء، تشتهر بمركز الحيوانات البرية وسوق التبغ التراثي.",
+          "en": "Malawi's green capital city, known for Lilongwe Wildlife Centre and local craft markets.",
+          "tr": "Lilongwe Yaban Hayatı Merkezi ve el sanatları pazarlarıyla ünlü Malavi başkenti."
+        },
+        "image": "res://images/lilongwe.png",
+        "bg_image": "res://images/lilongwe_bg.png",
+        "image_3d": "res://images/lilongwe_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق بريزيدنت والدر أوتيل ليلونغوي",
+              "en": "President Walmont Hotel Lilongwe",
+              "tr": "President Walmont Hotel Lilongwe"
+            },
+            "image": "res://images/walmont_lilongwe.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ماما ميا ليلونغوي",
+              "en": "Mama Mia Restaurant Lilongwe",
+              "tr": "Mama Mia Restoran Lilongwe"
+            },
+            "image": "res://images/mama_mia_lilongwe.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أسماك الشامبو من بحيرة مالاوي والأطباق الأفريقية",
+              "en": "Lake Malawi Chambo Fish & International",
+              "tr": "Malavi Gölü Chambo Balığı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مركز ليلونغوي لحماية البراراي (Lilongwe Wildlife Centre)",
+              "en": "Lilongwe Wildlife Centre",
+              "tr": "Lilongwe Yaban Hayatı Merkezi"
+            },
+            "image": "res://images/lilongwe_wildlife.png",
+            "description": {
+              "ar": "محمية غابات طبيعية بوسط العاصمة تخصص لإنقاذ الضباع والقرود والفهود.",
+              "en": "Award-winning wildlife rescue sanctuary set within a woodland park.",
+              "tr": "Ormanlık bir park içinde yer alan ödüllü yaban hayatı kurtarma barınağı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه بحيرة مالاوي الوطني القريب (Lake Malawi National Park - UNESCO)",
+              "en": "Lake Malawi Excursion",
+              "tr": "Malavi Gölü Gezisi"
+            },
+            "image": "res://images/lake_malawi.png",
+            "description": {
+              "ar": "أول منتزه بحيري ذو مياه عذبة في العالم ينفرد بوجود مئات أنواع الأسماك الملونة المدارية.",
+              "en": "UNESCO World Heritage freshwater lake famous for colorful cichlid fish and golden beaches.",
+              "tr": "Renkli ciklet balıkları ve altın kumsallarıyla ünlü UNESCO tatlı su gölü."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

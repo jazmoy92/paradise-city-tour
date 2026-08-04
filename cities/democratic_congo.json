@@ -1,0 +1,177 @@
+{
+  "democratic_congo": {
+    "needs_ad": false,
+    "cities": {
+      "kinshasa": {
+        "names": {
+          "ar": "كينشاسا",
+          "en": "Kinshasa",
+          "tr": "Kinşasa"
+        },
+        "description": {
+          "ar": "أكبر مدينة ناطقة بالفرنسية في العالم الواقعة على نهر الكونغو العظيم، وتشتهر بموسيقاها وفنونها الحية.",
+          "en": "The giant capital of DR Congo on the Congo River, famous for Soukous music and vibrant arts.",
+          "tr": "Kongo Nehri üzerindeki devasa başkent; Soukous müziği ve canlı sanat ortamıyla tanınır."
+        },
+        "image": "res://images/kinshasa.png",
+        "bg_image": "res://images/kinshasa_bg.png",
+        "image_3d": "res://images/kinshasa_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كيمبينسكي المجمّع كينشاسا",
+              "en": "Kempinski Hotel Fleuve Congo Kinshasa",
+              "tr": "Kempinski Hotel Fleuve Congo Kinshasa"
+            },
+            "image": "res://images/fleuve_congo_hotel.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سيركل غولف كينشاسا",
+              "en": "Cercle Gourmand Kinshasa",
+              "tr": "Cercle Gourmand Kinşasa"
+            },
+            "image": "res://images/cercle_gourmand.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "مشويات كونغولية وفرنسية",
+              "en": "Congolese Grill & French Fusion",
+              "tr": "Kongo Izgara ve Fransız Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محمية للائكة للقرود (Lola ya Bonobo)",
+              "en": "Lola ya Bonobo Sanctuary",
+              "tr": "Lola ya Bonobo Barınağı"
+            },
+            "image": "res://images/lola_ya_bonobo.png",
+            "description": {
+              "ar": "المحمية الوحيدة في العالم المخصصة لإنقاذ ورعاية قرود البونوبو المهددة بالإيقراض.",
+              "en": "The world's only sanctuary for orphaned bonobo primates.",
+              "tr": "Yetim kalmış bonobo primatları için dünyanın tek barınağı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المتحف الوطني لجمهورية الكونغو الديمقراطية",
+              "en": "National Museum of Democratic Republic of Congo",
+              "tr": "Kongo Demokratik Cumhuriyeti Ulusal Müzesi"
+            },
+            "image": "res://images/drc_national_museum.png",
+            "description": {
+              "ar": "متحف حديث يضم آلاف القطع والمنحوتات والأقنعة التراثية الفاخرة.",
+              "en": "Modern museum housing thousands of tribal masks, musical instruments, and statues.",
+              "tr": "Binlerce kabile maskesi, müzik aleti ve heykeline ev sahipliği yapan modern müze."
+            }
+          }
+        ]
+      },
+      "goma": {
+        "names": {
+          "ar": "غوما",
+          "en": "Goma",
+          "tr": "Goma"
+        },
+        "description": {
+          "ar": "مدينة تقع على ضفاف بحيرة كيفو وعند أقدام بركان نيراجونجو، وتعد البوابة لمنتزه فيرونغا الوطني ورؤية الغوريلا.",
+          "en": "Gateway city on Lake Kivu at the foot of Mount Nyiragongo, starting point for Virunga gorillas.",
+          "tr": "Kivu Gölü kıyısındaki şehir; Virunga gorilleri ve Nyiragongo Volkanı'na açılan kapıdır."
+        },
+        "image": "res://images/goma.png",
+        "bg_image": "res://images/goma_bg.png",
+        "image_3d": "res://images/goma_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كيرامبا كيفو لوج غوما",
+              "en": "Mikeno Lodge Virunga",
+              "tr": "Mikeno Lodge Virunga"
+            },
+            "image": "res://images/mikeno_lodge.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أوتيل أوركيد غوما",
+              "en": "Le Chalet Goma",
+              "tr": "Le Chalet Goma"
+            },
+            "image": "res://images/le_chalet_goma.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "أسماك البحيرة ومشويات بلجيكية",
+              "en": "Fresh Lake Kivu Fish & Grill",
+              "tr": "Taze Kivu Gölü Balıkları"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه فيرونغا الوطني وغوريلا الجبال (Virunga National Park)",
+              "en": "Virunga National Park (UNESCO)",
+              "tr": "Virunga Milli Parkı (UNESCO)"
+            },
+            "image": "res://images/virunga_park.png",
+            "description": {
+              "ar": "أقدم منتزه وطني في إفريقيا وموطن غوريلا الجبال النادرة وبركان نيراجونجو.",
+              "en": "Africa's oldest national park, famous for mountain gorilla trekking.",
+              "tr": "Dağ gorili safarileriyle ünlü Afrika'nın en eski milli parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بركان نيراجونجو (Mount Nyiragongo)",
+              "en": "Mount Nyiragongo Active Volcano",
+              "tr": "Nyiragongo Volkanı"
+            },
+            "image": "res://images/nyiragongo.png",
+            "description": {
+              "ar": "بركان نشط يضم أكبر بحيرة حمم بركانية سائلة ومشتعلة في العالم.",
+              "en": "Active stratovolcano featuring the world's largest churning lava lake.",
+              "tr": "Dünyanın en büyük lav gölüne sahip aktif stratovolkan."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "austria": {
+    "needs_ad": false,
+    "cities": {
+      "vienna": {
+        "names": {
+          "ar": "فيينا",
+          "en": "Vienna",
+          "tr": "Viyana"
+        },
+        "description": {
+          "ar": "عاصمة النمسا والإمبراطورية السابقة، مدينة القصور الفخمة، دار الأوبرا والموسيقى الكلاسيكية والمقاهي التاريخية.",
+          "en": "Austria's grand imperial capital, renowned for its palaces, classical music heritage, and historic coffee houses.",
+          "tr": "Avusturya'nın görkemli imparatorluk başkenti; sarayları, klasik müzik mirası ve tarihi kahvehaneleriyle ünlü."
+        },
+        "image": "res://images/vienna.png",
+        "bg_image": "res://images/vienna_bg.png",
+        "image_3d": "res://images/vienna_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ساخر فيينا",
+              "en": "Hotel Sacher Wien",
+              "tr": "Hotel Sacher Viyana"
+            },
+            "image": "res://images/hotel_sacher.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق إمبريال فيينا",
+              "en": "Hotel Imperial Vienna",
+              "tr": "Hotel Imperial Viyana"
+            },
+            "image": "res://images/hotel_imperial_vienna.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم شتايريريك فيينا",
+              "en": "Steirereck Restaurant",
+              "tr": "Steirereck Restoran"
+            },
+            "image": "res://images/steirereck.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "نمساوي فاخر معاصر",
+              "en": "Contemporary Austrian Fine Dining",
+              "tr": "Modern Avusturya Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر شونبرون الإمبراطوري",
+              "en": "Schönbrunn Palace",
+              "tr": "Schönbrunn Sarayı"
+            },
+            "image": "res://images/schonbrunn.png",
+            "description": {
+              "ar": "المقر الصيفي السابق لأباطرة هابسبورغ بحدائقه الشاسعة المصنفة يونسكو.",
+              "en": "Sumptuous 1,441-room Baroque summer palace of the Habsburg monarchs.",
+              "tr": "Habsburg hükümdarlarının 1.441 odalı görkemli Barok yazlık sarayı."
+            }
+          },
+          {
+            "name": {
+              "ar": "قصر بيلفيدير",
+              "en": "Belvedere Palace",
+              "tr": "Belvedere Sarayı"
+            },
+            "image": "res://images/belvedere.png",
+            "description": {
+              "ar": "قصر باروكي تاريخي يضم لوحة القبلة للرسام غوستاف كليمت.",
+              "en": "Baroque palace complex housing famous art masterpieces including Klimt's The Kiss.",
+              "tr": "Klimt'in 'Öpücük' tablosu da dahil ünlü sanat eserlerine ev sahipliği yapan Barok saray."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كاتدرائية سانت ستيفن",
+              "en": "St. Stephen's Cathedral",
+              "tr": "Aziz Stefan Katedrali"
+            },
+            "image": "res://images/st_stephens.png",
+            "description": {
+              "ar": "رمز فيينا القوطي بسقفها الملون من القشاط السيراميكي.",
+              "en": "Gothic cathedral landmark in central Vienna with its iconic multi-colored tiled roof.",
+              "tr": "Viyana'nın merkezinde renkli kiremit çatısıyla ikonik Gotik katedral."
+            }
+          }
+        ]
+      },
+      "salzburg": {
+        "names": {
+          "ar": "سالزبورغ",
+          "en": "Salzburg",
+          "tr": "Salzburg"
+        },
+        "description": {
+          "ar": "مسقط رأس الموسيقار موزارت وموقع تصوير فيلم 'صوت الموسيقى'، وتتميز بعمارتها الباروكية والقلعة المرتفعة.",
+          "en": "Birthplace of Mozart, set against the Alps with well-preserved Baroque architecture and Hohensalzburg Fortress.",
+          "tr": "Mozart'ın doğum yeri; Alp dağları fonunda iyi korunmuş Barok mimarisi ve Hohensalzburg Kalesi ile ünlü."
+        },
+        "image": "res://images/salzburg.png",
+        "bg_image": "res://images/salzburg_bg.png",
+        "image_3d": "res://images/salzburg_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أربولد ساخر سالزبورغ",
+              "en": "Hotel Sacher Salzburg",
+              "tr": "Hotel Sacher Salzburg"
+            },
+            "image": "res://images/sacher_salzburg.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم آيكاروس (هانغار-7)",
+              "en": "Ikarus Restaurant Hangar-7",
+              "tr": "Ikarus Restoran Hangar-7"
+            },
+            "image": "res://images/ikarus_salzburg.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "عالمي يتغير شهرياً بمفهوم النجوم",
+              "en": "International Guest Chef Concept",
+              "tr": "Aylık Değişen Uluslararası Şef Menüsü"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة هوهنسالزبورغ",
+              "en": "Hohensalzburg Fortress",
+              "tr": "Hohensalzburg Kalesi"
+            },
+            "image": "res://images/hohensalzburg.png",
+            "description": {
+              "ar": "إحدى أكبر القلاع الأوروبية القائمة منذ القرن الحادي عشر وتطل على كامل المدينة.",
+              "en": "One of the largest medieval castles in Europe perched atop Festungsberg hill.",
+              "tr": "Festungsberg tepesinde yer alan Avrupa'nın en büyük ortaçağ kalelerinden biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منزل ومتحف موزارت",
+              "en": "Mozart's Birthplace (Getreidegasse)",
+              "tr": "Mozart'ın Doğduğu Ev"
+            },
+            "image": "res://images/mozart_house.png",
+            "description": {
+              "ar": "البيت الأصفر الشهير في شارع غيترايديغاسه حيث ولد موزارت.",
+              "en": "The iconic yellow building where Wolfgang Amadeus Mozart was born in 1756.",
+              "tr": "1756 yılında Wolfgang Amadeus Mozart'ın doğduğu ikonik sarı bina."
+            }
+          }
+        ]
+      },
+      "innsbruck": {
+        "names": {
+          "ar": "إنسبروك",
+          "en": "Innsbruck",
+          "tr": "Innsbruck"
+        },
+        "description": {
+          "ar": "عاصمة جبال الألب والرياضات الشتوية، تحيط بها القمم الثلجية وتتميز بالسطح الذهبي الشهير وسط البلدة القديمة.",
+          "en": "Capital of the Alps, surrounded by towering mountains, famous for winter sports and the Golden Roof.",
+          "tr": "Alplerin başkenti; kış sporları, etrafını saran dağlar ve Altın Çatı binasıyla tanınır."
+        },
+        "image": "res://images/innsbruck.png",
+        "bg_image": "res://images/innsbruck_bg.png",
+        "image_3d": "res://images/innsbruck_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا جيل أوف إنسبروك",
+              "en": "Grand Hotel Europa Innsbruck",
+              "tr": "Grand Hotel Europa Innsbruck"
+            },
+            "image": "res://images/grand_europa_innsbruck.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ليشتنشتاين هاوس",
+              "en": "Lichtblick Restaurant",
+              "tr": "Lichtblick Restoran"
+            },
+            "image": "res://images/lichtblick.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أطباق نمساوية بانورامية",
+              "en": "Pan-Austrian Rooftop Dining",
+              "tr": "Panoramik Avusturya Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "معلم السطح الذهبي (Golden Roof)",
+              "en": "Golden Roof (Goldenes Dachl)",
+              "tr": "Altın Çatı (Goldenes Dachl)"
+            },
+            "image": "res://images/golden_roof.png",
+            "description": {
+              "ar": "مبنى أثري بني للإمبراطور ماكسميليان مغطى بـ 2,657 بلاطة نحاسية مذهبة.",
+              "en": "Landmark alcove balcony covered with 2,657 fire-gilded copper tiles.",
+              "tr": "2.657 adet yaldızlı bakır kiremit ile kaplı tarihi simge bina."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "عالم سواروفسكي للكريستال",
+              "en": "Swarovski Crystal Worlds",
+              "tr": "Swarovski Kristal Dünyası"
+            },
+            "image": "res://images/swarovski_crystal.png",
+            "description": {
+              "ar": "متحف وحدائق فنية ساحرة صممها سواروفسكي بالقرب من إنسبروك.",
+              "en": "Fantasy museum and park built by Swarovski featuring giant crystal art.",
+              "tr": "Swarovski tarafından inşa edilen dev kristal sanat eserlerine sahip müze ve park."
+            }
+          }
+        ]
+      },
+      "graz": {
+        "names": {
+          "ar": "غراتس",
+          "en": "Graz",
+          "tr": "Graz"
+        },
+        "description": {
+          "ar": "ثاني أكبر مدن النمسا، تجمع بين المدينة القديمة المدرجة باليونيسكو والعمارة المستقبلية الحديثة مع طابع جامعي فريد.",
+          "en": "Austria's second city, blending UNESCO-listed Renaissance old town with futuristic architecture.",
+          "tr": "Avusturya'nın ikinci büyük şehri; UNESCO listesindeki Rönesans eski kentini gelecekçi mimariyle birleştirir."
+        },
+        "image": "res://images/graz.png",
+        "bg_image": "res://images/graz_bg.png",
+        "image_3d": "res://images/graz_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شلوسبيرغ غراتس",
+              "en": "Schlossberghotel Graz",
+              "tr": "Schlossberghotel Graz"
+            },
+            "image": "res://images/schlossberghotel.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دير الشتايرير",
+              "en": "Der Steirer Graz",
+              "tr": "Der Steirer Graz"
+            },
+            "image": "res://images/der_steirer.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق مقاطعة شتايرمارك التقليدية",
+              "en": "Styrian Regional Cuisine",
+              "tr": "Stirya Bölgesel Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج الساعة في شلوسبيرغ",
+              "en": "Uhrturm Clock Tower",
+              "tr": "Uhrturm Saat Kulesi"
+            },
+            "image": "res://images/uhrturm.png",
+            "description": {
+              "ar": "برج ساعة أثري يعود للقرن الثالث عشر يقع أعلى تلة شلوسبيرغ.",
+              "en": "13th-century clock tower standing high above the town on Schlossberg hill.",
+              "tr": "Schlossberg tepesinde şehrin üzerinde yükselen 13. yüzyıldan kalma saat kulesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف الفن المعاصر (Kunsthaus Graz)",
+              "en": "Kunsthaus Graz",
+              "tr": "Kunsthaus Graz Sanat Müzesi"
+            },
+            "image": "res://images/kunsthaus_graz.png",
+            "description": {
+              "ar": "مبنى بتصميم مستقبلي كائني عالي التقنية يُعرف بـ 'الفضائي الودود'.",
+              "en": "Futuristic bio-morphic museum affectionately known as the 'Friendly Alien'.",
+              "tr": "Sevgiyle 'Dost Canlısı Uzaylı' olarak adlandırılan biyomorfik modern sanat müzesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "cuba": {
+    "needs_ad": false,
+    "cities": {
+      "havana": {
+        "names": {
+          "ar": "هافانا",
+          "en": "Havana",
+          "tr": "Havana"
+        },
+        "description": {
+          "ar": "عاصمة كوبا الأسطورية المليئة بالسيارات الكلاسيكية الملونة، المباني الاستعمارية العريقة، وممشى الماليقون الساحلي.",
+          "en": "Cuba's iconic capital, famous for vintage American cars, historic Havana Vieja, and Malecón oceanfront drive.",
+          "tr": "Küba'nın ikonik başkenti; klasik Amerikan arabaları, tarihi Havana Vieja ve Malecón sahil kordonuyla ünlüdür."
+        },
+        "image": "res://images/havana.png",
+        "bg_image": "res://images/havana_bg.png",
+        "image_3d": "res://images/havana_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق غران مانيزان كيمبينسكي هافانا",
+              "en": "Gran Hotel Manzana Kempinski La Habana",
+              "tr": "Gran Hotel Manzana Kempinski La Habana"
+            },
+            "image": "res://images/kempinski_havana.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ناسيونايل دي كوبا",
+              "en": "Hotel Nacional de Cuba",
+              "tr": "Hotel Nacional de Cuba"
+            },
+            "image": "res://images/hotel_nacional_cuba.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لا غواريدا هافانا",
+              "en": "La Guarida Paladar",
+              "tr": "La Guarida Restoran"
+            },
+            "image": "res://images/la_guarida.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات كوبية وكاريبية تقليدية فاخرة",
+              "en": "Classic Cuban Paladar Dining",
+              "tr": "Geleneksel Küba Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "هافانا القديمة (Habana Vieja - UNESCO)",
+              "en": "Old Havana (Habana Vieja)",
+              "tr": "Eski Havana (Habana Vieja)"
+            },
+            "image": "res://images/old_havana.png",
+            "description": {
+              "ar": "قلب المدينة التاريخي المكون من ساحات وقصور برتغالية وإسبانية قديمة.",
+              "en": "UNESCO World Heritage site filled with Baroque plazas and colonial architecture.",
+              "tr": "Barok meydanlar ve sömürge mimarisiyle dolu UNESCO Dünya Mirası alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ممشى الماليقون الساحلي (El Malecón)",
+              "en": "El Malecón Sea Drive",
+              "tr": "El Malecón Sahil Şeridi"
+            },
+            "image": "res://images/malecon_havana.png",
+            "description": {
+              "ar": "شارع الكورنيش بطول 8 كم على المحيط الأطلسي يجمع الموسيقيين والسيارات الكلاسيكية.",
+              "en": "Famous 8-kilometer sea wall and esplanade bustling with life at sunset.",
+              "tr": "Gün batımında hareketlenen 8 kilometrelik ünlü sahil kordonu."
+            }
+          }
+        ]
+      },
+      "varadero": {
+        "names": {
+          "ar": "فاراديرو",
+          "en": "Varadero",
+          "tr": "Varadero"
+        },
+        "description": {
+          "ar": "أشهر منتجع شاطئي في الكاريبي، يمتد على شبه جزيرة برمال بيضاء دقيقة ومياه فيروزية صافية.",
+          "en": "Cuba's premier beach resort town, stretching along 20 kilometers of flawless white sand.",
+          "tr": "Küba'nın en ünlü sahil şehri; 20 kilometrelik kusursuz beyaz kumsalıyla tanınır."
+        },
+        "image": "res://images/varadero.png",
+        "bg_image": "res://images/varadero_bg.png",
+        "image_3d": "res://images/varadero_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع الملياء فاراديرو",
+              "en": "Meliá Internacional Varadero",
+              "tr": "Meliá Internacional Varadero"
+            },
+            "image": "res://images/melia_varadero.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كازا أل كابوني فاراديرو",
+              "en": "Casa de Al Capone Restaurant",
+              "tr": "Casa de Al Capone Restoran"
+            },
+            "image": "res://images/al_capone_varadero.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أسماك ومأكولات بحرية مطلة على الشاطئ",
+              "en": "Seafood & Beachfront Grill",
+              "tr": "Deniz Ürünleri ve Sahil Izgarası"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ فاراديرو الكبير (Varadero Beach)",
+              "en": "Varadero Beach",
+              "tr": "Varadero Plajı"
+            },
+            "image": "res://images/varadero_beach.png",
+            "description": {
+              "ar": "أحد تصنيفات أجمل الشواطئ عالمياً بمياه فيروزية دافئة ورمال مرجانية.",
+              "en": "Consistently ranked among the top beaches in the world.",
+              "tr": "Sürekli olarak dünyanın en iyi plajları arasında gösterilen kumsal."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه هوسوني الطبيعي (Josone Park)",
+              "en": "Josone Park",
+              "tr": "Josone Parkı"
+            },
+            "image": "res://images/josone_park.png",
+            "description": {
+              "ar": "حديقة استوائية هادئة بنيت عام 1940 وتضم بحيرة وبط وقوارب تجديف.",
+              "en": "Neoclassical tropical garden featuring a lake, swimming pool, and botanical walks.",
+              "tr": "Gölü ve botanik yollarıyla Neoklasik tropikal bahçe."
+            }
+          }
+        ]
+      },
+      "trinidad": {
+        "names": {
+          "ar": "ترينيداد",
+          "en": "Trinidad",
+          "tr": "Trinidad"
+        },
+        "description": {
+          "ar": "مدينة تاريخية مجمدة في الزمن (UNESCO)، تشتهر ببيوتها الاستعمارية الملونة وشوارعها المرصوفة بالحصى.",
+          "en": "A frozen-in-time colonial town (UNESCO) famed for colorful pastel mansions and cobblestone streets.",
+          "tr": "Zamanda donup kalmış sömürge kasabası (UNESCO); renkli konakları ve taş sokaklarıyla ünlü."
+        },
+        "image": "res://images/trinidad_cuba.png",
+        "bg_image": "res://images/trinidad_bg.png",
+        "image_3d": "res://images/trinidad_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل أيبيروستار ترينيداد",
+              "en": "Iberostar Grand Trinidad",
+              "tr": "Iberostar Grand Trinidad"
+            },
+            "image": "res://images/iberostar_trinidad.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سان خوسيه ترينيداد",
+              "en": "Restaurante San José Trinidad",
+              "tr": "Restaurante San José Trinidad"
+            },
+            "image": "res://images/san_jose_trinidad.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق كوبية ولحوم مطهوة بالفرن الحجري",
+              "en": "Traditional Cuban & Wood-fired Dishes",
+              "tr": "Geleneksel Küba ve Taş Fırın Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "ساحة بلازا مايور (Plaza Mayor Trinidad)",
+              "en": "Plaza Mayor",
+              "tr": "Plaza Mayor Meydanı"
+            },
+            "image": "res://images/plaza_mayor_trinidad.png",
+            "description": {
+              "ar": "الساحة الإسبانية الرئيسية المحاطة بقصور القرن الثامن عشر التاريخية.",
+              "en": "Historic Spanish square flanked by yellow colonial mansions and palm trees.",
+              "tr": "Sarı sömürge konakları ve palmiyelerle çevrili tarihi İspanyol meydanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "وادي طواحين السكر (Valle de los Ingenios)",
+              "en": "Valley of the Sugar Mills",
+              "tr": "Şeker Değirmenleri Vadisi"
+            },
+            "image": "res://images/valle_de_los_ingenios.png",
+            "description": {
+              "ar": "وادي أثري يضم أبراج مراقبة ومزارع السكر القديمة المصنفة باليونيسكو.",
+              "en": "UNESCO valley containing ruins of 19th-century sugar plantations and watchtowers.",
+              "tr": "19. yüzyıl şeker plantasyonları ve gözetleme kuleleri kalıntılarını içeren vadi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

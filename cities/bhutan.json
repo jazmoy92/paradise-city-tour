@@ -1,0 +1,291 @@
+{
+  "bhutan": {
+    "needs_ad": false,
+    "cities": {
+      "thimphu": {
+        "names": {
+          "ar": "تيمفو",
+          "en": "Thimphu",
+          "tr": "Thimphu"
+        },
+        "description": {
+          "ar": "عاصمة مملكة بوتان الجبلية النادرة، وتتميز بغياب إشارات المرور، القلاع الدينية (الدرونغ)، والعمارة البوتانية التقليدية.",
+          "en": "The Himalayan capital of Bhutan, known for traditional architecture, Buddha Dordenma statue, and no traffic lights.",
+          "tr": "Butan'ın Himalaya başkenti; geleneksel mimarisi, Buddha Dordenma heykeli ve trafik lambasının olmamasıyla tanınır."
+        },
+        "image": "res://images/thimphu.png",
+        "bg_image": "res://images/thimphu_bg.png",
+        "image_3d": "res://images/thimphu_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق تاج تاشي تيمفو",
+              "en": "Taj Tashi Thimphu",
+              "tr": "Taj Tashi Thimphu"
+            },
+            "image": "res://images/taj_tashi.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع أمانكورا تيمفو",
+              "en": "Amankora Thimphu",
+              "tr": "Amankora Thimphu"
+            },
+            "image": "res://images/amankora_thimphu.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الأرز والصلصة البوتانية",
+              "en": "Folk Heritage Museum Restaurant",
+              "tr": "Folk Heritage Museum Restoran"
+            },
+            "image": "res://images/folk_heritage_restaurant.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أكل بوتاني تقليدي مع إيما داتشي (الفلفل والجبن)",
+              "en": "Authentic Bhutanese Ema Datshi",
+              "tr": "Otantik Butan Ema Datshi Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تمثال بودا دوردينما العظيم",
+              "en": "Buddha Dordenma Statue",
+              "tr": "Buddha Dordenma Heykeli"
+            },
+            "image": "res://images/buddha_dordenma.png",
+            "description": {
+              "ar": "تمثال برونزي مذهب ضخم يرتفع 51 متراً يطل على وادي تيمفو.",
+              "en": "Gigantic 51.5-meter gilded bronze Buddha statue atop a hill.",
+              "tr": "Tepenin üzerinde yükselen 51,5 metrelik devasa yaldızlı bronz Buda heykeli."
+            }
+          },
+          {
+            "name": {
+              "ar": "قلعة تاشيتشو درونغ (Tashichho Dzong)",
+              "en": "Tashichho Dzong",
+              "tr": "Tashichho Dzong"
+            },
+            "image": "res://images/tashichho_dzong.png",
+            "description": {
+              "ar": "حصن ودير بوذي يضم مكاتب الحكومة الملكية البوتانية.",
+              "en": "Buddhist monastery and fortress housing the throne room and government offices.",
+              "tr": "Kraliyet taht odasına ve hükümet ofislerine ev sahipliği yapan Budist manastırı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "محمية موتونغ موتونغ لموتونغ (محمية التاكين)",
+              "en": "Motithang Takin Preserve",
+              "tr": "Motithang Takin Barınağı"
+            },
+            "image": "res://images/takin_preserve.png",
+            "description": {
+              "ar": "محمية برية مخصصة لحيوان التاكين، الحيوان الوطني لبوتان.",
+              "en": "Wildlife reserve tailored for the Takin, Bhutan's unique national animal.",
+              "tr": "Butan'ın benzersiz ulusal hayvanı Takin için özel koruma alanı."
+            }
+          }
+        ]
+      },
+      "paro": {
+        "names": {
+          "ar": "بارو",
+          "en": "Paro",
+          "tr": "Paro"
+        },
+        "description": {
+          "ar": "وادي تاريخي يضم مطار بوتان الدولي الوحيد والدير المعلق الأيقوني عُش النمر (عش التنين).",
+          "en": "Historic valley town home to Bhutan's international airport and the world-famous Tiger's Nest Monastery.",
+          "tr": "Butan'ın uluslararası havalimanına ve dünyaca ünlü Kaplan Yuvası Manastırı'na ev sahipliği yapan vadi."
+        },
+        "image": "res://images/paro.png",
+        "bg_image": "res://images/paro_bg.png",
+        "image_3d": "res://images/paro_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أُما بارو باي كومو",
+              "en": "COMO Uma Paro",
+              "tr": "COMO Uma Paro"
+            },
+            "image": "res://images/uma_paro.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سونام تروبيل",
+              "en": "Sonam Trophel Restaurant",
+              "tr": "Sonam Trophel Restoran"
+            },
+            "image": "res://images/sonam_trophel.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "مأكولات أرز وبوتانية محليّة",
+              "en": "Traditional Bhutanese & Asian",
+              "tr": "Geleneksel Butan ve Asya Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "دير عش النمر (Taktsang Monastery)",
+              "en": "Paro Taktsang (Tiger's Nest)",
+              "tr": "Paro Taktsang (Kaplan Yuvası)"
+            },
+            "image": "res://images/tigers_nest.png",
+            "description": {
+              "ar": "أشهر معلم ديني معلق على الحافة الصخرية الشاهقة بارتفاع 900 متر فوق الوادي.",
+              "en": "Sacred cliffside monastery perched 900 meters above Paro Valley.",
+              "tr": "Paro Vadisi'nin 900 metre üzerinde kayalık uçuruma tutunmuş kutsal manastır."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المتحف الوطني البوتاني (تسونغ درونغ)",
+              "en": "National Museum of Bhutan (Ta Dzong)",
+              "tr": "Butan Ulusal Müzesi"
+            },
+            "image": "res://images/national_museum_paro.png",
+            "description": {
+              "ar": "برج مراقبة دائر يعود للقرن السابع عشر يضم آثار وفنون بوتانية نادرة.",
+              "en": "Circular watchtower filled with Bhutanese cultural treasures and thangkas.",
+              "tr": "Butan kültür hazineleri ve thangkalarla dolu dairesel gözetleme kulesi müzesi."
+            }
+          }
+        ]
+      },
+      "punakha": {
+        "names": {
+          "ar": "بوناخا",
+          "en": "Punakha",
+          "tr": "Punakha"
+        },
+        "description": {
+          "ar": "العاصمة الشتوية القديمة لبوتان المشهورة بقلعة بوناخا الواقعة عند التقاء نهرين وجسرها المعلق الخشبي.",
+          "en": "Ancient winter capital of Bhutan, renowned for the magnificent Punakha Dzong at the confluence of two rivers.",
+          "tr": "İki nehrin birleştiği yerde bulunan muhteşem Punakha Dzong ile tanınan eski kışlık başkent."
+        },
+        "image": "res://images/punakha.png",
+        "bg_image": "res://images/punakha_bg.png",
+        "image_3d": "res://images/punakha_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شيمولينج بوناخا",
+              "en": "Six Senses Punakha",
+              "tr": "Six Senses Punakha"
+            },
+            "image": "res://images/six_senses_punakha.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم شيلا بوناخا",
+              "en": "Chimi Lhakhang Cafeteria",
+              "tr": "Chimi Lhakhang Restoran"
+            },
+            "image": "res://images/chimi_restaurant.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أرز أحمر ومأكولات الجبال البوتانية",
+              "en": "Bhutanese Red Rice & Local Dishes",
+              "tr": "Butan Kırmızı Pirinci ve Yerel Yemekler"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة بوناخا درونغ (Punakha Dzong)",
+              "en": "Punakha Dzong",
+              "tr": "Punakha Dzong"
+            },
+            "image": "res://images/punakha_dzong.png",
+            "description": {
+              "ar": "أجمل قلعة في بوتان وتسمى 'قصر السعادة العظمى'.",
+              "en": "Considered the most majestic Dzong in Bhutan, located between Pho Chhu and Mo Chhu rivers.",
+              "tr": "Pho Chhu ve Mo Chhu nehirleri arasında yer alan Butan'ın en görkemli kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جسر بوناخا المعلق الخشبي",
+              "en": "Punakha Suspension Bridge",
+              "tr": "Punakha Asma Köprüsü"
+            },
+            "image": "res://images/punakha_bridge.png",
+            "description": {
+              "ar": "أحد أطول الجسور المعلقة في بوتان والمزخرف بأعلام الصلاة الملونة.",
+              "en": "One of the longest suspension bridges in Bhutan draped with colorful prayer flags.",
+              "tr": "Renkli dua bayraklarıyla süslenmiş Butan'ın en uzun asma köprülerinden biri."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

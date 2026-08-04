@@ -1,0 +1,192 @@
+{
+  "india": {
+    "needs_ad": false,
+    "cities": {
+      "agra": {
+        "names": {
+          "ar": "أغرا (تاج محل)",
+          "en": "Agra",
+          "tr": "Agra"
+        },
+        "description": {
+          "ar": "موطن صرح تاج محل الرخامي الأسطوري، قلعة أغرا الحمراء، والآثار المغولية الإسلامية الفخمة.",
+          "en": "Home to the legendary marble Taj Mahal, Agra Fort, and Mughal architectural treasures.",
+          "tr": "Efsanevi mermer Tac Mahal, Agra Kalesi ve Babür mimari hazinelerine ev sahipliği yapar."
+        },
+        "image": "res://images/agra.png",
+        "bg_image": "res://images/agra_bg.png",
+        "image_3d": "res://images/agra_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوبيروي أمارفيلاس أغرا (The Oberoi Amarvilas)",
+              "en": "The Oberoi Amarvilas, Agra",
+              "tr": "The Oberoi Amarvilas, Agra"
+            },
+            "image": "res://images/oberoi_agra.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيشاوري أغرا (Peshawri)",
+              "en": "Peshawri at ITC Mughal",
+              "tr": "Peshawri Restoran Agra"
+            },
+            "image": "res://images/peshawri_agra.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مشويات هندية ومأكولات مغولية عريقة",
+              "en": "North West Frontier & Mughal Tandoori",
+              "tr": "Kuzey Batı Sınırı ve Babür Tandır Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "صرح تاج محل الرخامي (Taj Mahal - UNESCO)",
+              "en": "Taj Mahal",
+              "tr": "Tac Mahal"
+            },
+            "image": "res://images/taj_mahal.png",
+            "description": {
+              "ar": "ضريح رخامي أبيض بناه الإمبراطور شاه جهان حباً لزوجته ممتاز محل، إحدى عجائب الدنيا السبع.",
+              "en": "Ivory-white marble mausoleum on the Yamuna river, one of the New 7 Wonders.",
+              "tr": "Yamuna nehri kıyısında fildişi beyazı mermer anıt mezar, Dünyanın Yeni 7 Harikası'ndan biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قلعة أغرا الحمراء (Agra Fort)",
+              "en": "Agra Fort",
+              "tr": "Agra Kalesi"
+            },
+            "image": "res://images/agra_fort.png",
+            "description": {
+              "ar": "قلعة إمبراطورية من الحجر الرملي الأحمر كانت مقراً لحكم الأباطرة المغول.",
+              "en": "Massive 16th-century red sandstone fortress serving as main residence of Mughal emperors.",
+              "tr": "Babür imparatorlarının ana ikametgahı olan 16. yüzyıldan kalma devasa kırmızı kumtaşı kale."
+            }
+          }
+        ]
+      },
+      "new_delhi": {
+        "names": {
+          "ar": "نيودلهي (دلهي)",
+          "en": "New Delhi",
+          "tr": "Yeni Delhi"
+        },
+        "description": {
+          "ar": "عاصمة الهند المزدحمة بالتاريخ والألوان، تشتهر بـ القلعة الحمراء، قطب منار، وبوابة الهند.",
+          "en": "India's capital, blending Old Delhi's historic monuments like Red Fort with New Delhi's grand avenues.",
+          "tr": "Eski Delhi'nin Kırmızı Kale gibi tarihi anıtlarını Yeni Delhi'nin bulvarlarıyla harmanlayan başkent."
+        },
+        "image": "res://images/new_delhi.png",
+        "bg_image": "res://images/delhi_bg.png",
+        "image_3d": "res://images/delhi_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا ليلا بالاس نيودلهي (The Leela Palace)",
+              "en": "The Leela Palace New Delhi",
+              "tr": "The Leela Palace Yeni Delhi"
+            },
+            "image": "res://images/leela_delhi.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق تاج محل نيودلهي (The Taj Mahal Hotel)",
+              "en": "Taj Mahal Hotel, New Delhi",
+              "tr": "Taj Mahal Hotel, Yeni Delhi"
+            },
+            "image": "res://images/taj_delhi.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بخارى نيودلهي (Bukhara Restaurant)",
+              "en": "Bukhara at ITC Maurya",
+              "tr": "Bukhara Restoran Yeni Delhi"
+            },
+            "image": "res://images/bukhara_delhi.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أشهر مطعم تندوري ودال بخارى في الهند والعالم",
+              "en": "World-famous North Indian Tandoori & Dal Bukhara",
+              "tr": "Dünyaca Ünlü Kuzey Hindistan Tandır Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منارة قطب منار التاريخية (Qutb Minar - UNESCO)",
+              "en": "Qutb Minar Complex",
+              "tr": "Kutup Minar Kompleksi"
+            },
+            "image": "res://images/qutb_minar.png",
+            "description": {
+              "ar": "أطول مئذنة حجرية حمراء في العالم بارتفاع 73 متراً تعود للقرن الثاني عشر.",
+              "en": "73-meter tall red sandstone minaret, the tallest brick minaret in the world.",
+              "tr": "73 metre yüksekliğinde, dünyanın en yüksek tuğla minaresi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "معبد أكشاردام العظيم (Akshardham Temple)",
+              "en": "Swaminarayan Akshardham",
+              "tr": "Akshardham Tapınağı"
+            },
+            "image": "res://images/akshardham.png",
+            "description": {
+              "ar": "أضخم مجمع معابد هندوسي منحوت من الحجر الرملي الوردي بدون أي دعم معدني.",
+              "en": "Massive modern Hindu temple complex built from pink sandstone and marble.",
+              "tr": "Pembe kumtaşı ve mermerden inşa edilmiş devasa modern Hindu tapınak kompleksi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

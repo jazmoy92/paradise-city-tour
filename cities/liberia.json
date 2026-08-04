@@ -1,0 +1,93 @@
+{
+  "liberia": {
+    "needs_ad": false,
+    "cities": {
+      "monrovia": {
+        "names": {
+          "ar": "مونروفيا",
+          "en": "Monrovia",
+          "tr": "Monrovia"
+        },
+        "description": {
+          "ar": "عاصمة ليبيريا الواقعة على شبه جزيرة المحيط الأطلسي، تشتهر بـ المتحف الوطني، شواطئ المانغروف وسوق المنسوجات.",
+          "en": "Liberia's Atlantic capital, famous for the National Museum, Centennial Pavilion, and Robertsport surfing.",
+          "tr": "Ulusal Müze, Yüzyıl Pavyonu ve sahil şeridiyle ünlü Liberya'nın Atlas Okyanusu başkenti."
+        },
+        "image": "res://images/monrovia.png",
+        "bg_image": "res://images/monrovia_bg.png",
+        "image_3d": "res://images/monrovia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل الفندق الفاخر مونروفيا (The Farmington Hotel)",
+              "en": "The Farmington Hotel Monrovia",
+              "tr": "The Farmington Hotel Monrovia"
+            },
+            "image": "res://images/farmington_monrovia.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مونت سيرادو مونروفيا",
+              "en": "Evelyn's Restaurant Monrovia",
+              "tr": "Evelyn's Restoran Monrovia"
+            },
+            "image": "res://images/evelyns_monrovia.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "أرز الجولوڤ والأرز الأمريكي الأفريقي والأسماك",
+              "en": "Traditional Liberian Jollof & Fresh Seafood",
+              "tr": "Geleneksel Liberya Jollof ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المتحف الوطني في ليبيريا (National Museum of Liberia)",
+              "en": "National Museum of Liberia",
+              "tr": "Liberya Ulusal Müzesi"
+            },
+            "image": "res://images/liberia_national_museum.png",
+            "description": {
+              "ar": "متحف رمم حديثاً يضم وثائق الاستقلال والمنحوتات التراثية الأفريقية.",
+              "en": "Restored museum displaying tribal masks, historical documents, and cultural art.",
+              "tr": "Kabile maskelerini ve tarihi belgeleri sergileyen restore edilmiş müze."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ سيلفر بيتش الاستوائي (Silver Beach Monrovia)",
+              "en": "Silver Beach",
+              "tr": "Gümüş Plaj (Silver Beach)"
+            },
+            "image": "res://images/silver_beach_monrovia.png",
+            "description": {
+              "ar": "شاطئ رملي مشجر بالنخيل على المحيط الأطلسي للاستجمام والمأكولات البحرية.",
+              "en": "Palm-fringed Atlantic beach popular for weekend getaways and grilled fish.",
+              "tr": "Hafta sonu kaçamakları ve ızgara balık için popüler palmiyeli plaj."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

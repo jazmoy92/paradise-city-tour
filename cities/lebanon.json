@@ -1,0 +1,194 @@
+{
+  "lebanon": {
+    "needs_ad": false,
+    "cities": {
+      "beirut": {
+        "names": {
+          "ar": "بيروت",
+          "en": "Beirut",
+          "tr": "Beyrut"
+        },
+        "description": {
+          "ar": "عاصمة لبنان النابضة بالثقافة والجمال، تشتهر بـ صخرة الروشة، كورنيش المنارة، وسط المدينة التراثي، ومطاعم المازة اللبنانية.",
+          "en": "Paris of the Middle East, famous for Raouche Pigeon Rocks, Corniche promenade, and world-class Lebanese cuisine.",
+          "tr": "Orta Doğu'nun Paris'i; Güvercin Kayalıkları (Raouche), sahil kordonu ve Lübnan mutfağıyla ünlüdür."
+        },
+        "image": "res://images/beirut.png",
+        "bg_image": "res://images/beirut_bg.png",
+        "image_3d": "res://images/beirut_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل ألبيرغو بيروت (Hotel Albergo)",
+              "en": "Hotel Albergo Beirut",
+              "tr": "Hotel Albergo Beyrut"
+            },
+            "image": "res://images/albergo_beirut.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فينيشيا بيروت (Phoenicia InterContinental Beirut)",
+              "en": "Phoenicia Hotel Beirut",
+              "tr": "Phoenicia Hotel Beyrut"
+            },
+            "image": "res://images/phoenicia_beirut.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كرم بيروت (Karam Beirut)",
+              "en": "Karam Beirut Restaurant",
+              "tr": "Karam Restoran Beyrut"
+            },
+            "image": "res://images/karam_beirut.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مازة لبنانية مشكلة ومشويات ومأكولات بحرية",
+              "en": "Authentic Lebanese Meze & Kebabs",
+              "tr": "Otantik Lübnan Mezesi ve Kebaplar"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "صخرة الروشة الأيقونية (Pigeon Rocks / Raouche)",
+              "en": "Raouche Pigeon Rocks",
+              "tr": "Güvercin Kayalıkları (Raouche)"
+            },
+            "image": "res://images/raouche_rocks.png",
+            "description": {
+              "ar": "تكوين صخري طبيعي عملاق يرتفع وسط مياه البحر الأبيض المتوسط قبالة الكورنيش.",
+              "en": "Two natural offshore rock formations towering like natural arches off the coast.",
+              "tr": "Sahil açıklarında doğal kemerler gibi yükselen iki devasa kaya oluşumu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كورنيش المنارة البحري (Beirut Corniche)",
+              "en": "Beirut Sea Corniche",
+              "tr": "Beyrut Sahil Kordonu"
+            },
+            "image": "res://images/beirut_corniche.png",
+            "description": {
+              "ar": "ممشى شاطئي ساحر مشجر بالنخيل يمتد من عين المريسة حتى الروشة.",
+              "en": "Seaside promenade lined with palm trees offering views of Mount Lebanon.",
+              "tr": "Lübnan Dağı manzaraları sunan palmiyeli sahil gezinti yolu."
+            }
+          }
+        ]
+      },
+      "byblos": {
+        "names": {
+          "ar": "جبيل (بيبلوس)",
+          "en": "Byblos (Jbeil)",
+          "tr": "Byblos (Cübeyl)"
+        },
+        "description": {
+          "ar": "أقدم مدينة مأهولة بالسكان باستمرار في العالم (UNESCO)، تشتهر بقلعتها الصليبية، مينائها الفينيقي، والسوق القديم.",
+          "en": "One of the world's oldest continuously inhabited cities (UNESCO), famed for Crusader Castle and Phoenician port.",
+          "tr": "Dünyanın kesintisiz yaşanan en eski şehirlerinden biri (UNESCO); Haçlı Kalesi ve Fenike limanıyla ünlüdür."
+        },
+        "image": "res://images/byblos.png",
+        "bg_image": "res://images/byblos_bg.png",
+        "image_3d": "res://images/byblos_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل بيبلوس سور مير (Byblos Sur Mer)",
+              "en": "Byblos Sur Mer Hotel",
+              "tr": "Byblos Sur Mer Otel"
+            },
+            "image": "res://images/byblos_sur_mer.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيبي بابينوس ميناء جبيل (Babbos Byblos)",
+              "en": "Chez Pépé Fishing Club Byblos",
+              "tr": "Chez Pépé Balıkçı Restoranı Byblos"
+            },
+            "image": "res://images/chez_pepe_byblos.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أسماك البحر المتوسط والمازة المباشرة على الميناء الفينيقي",
+              "en": "Historic Portside Lebanese Seafood",
+              "tr": "Tarihi Limanda Lübnan Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة جبيل الصليبية والأثرية (Byblos Castle)",
+              "en": "Byblos Crusader Castle",
+              "tr": "Byblos Haçlı Kalesi"
+            },
+            "image": "res://images/byblos_castle.png",
+            "description": {
+              "ar": "قلعة حجرية بنيت في القرن الثاني عشر على بقايا معابد فينيقية ومصرية قديمة.",
+              "en": "12th-century fortress built by Crusaders atop ancient Roman and Phoenician ruins.",
+              "tr": "Fenike ve Roma kalıntıları üzerine Haçlılar tarafından inşa edilen 12. yüzyıl kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ميناء جبيل الفينيقي التاريخي (Byblos Ancient Port)",
+              "en": "Byblos Ancient Harbor",
+              "tr": "Byblos Antik Limanı"
+            },
+            "image": "res://images/byblos_port.png",
+            "description": {
+              "ar": "أقدم ميناء تجاري صدر منه الأبجدية والورق البردي لجميع دول العالم.",
+              "en": "Historical harbor used for shipping cedar and papyrus since 3000 BC.",
+              "tr": "MÖ 3000'den beri sedir ve papirüs ticareti için kullanılan tarihi liman."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

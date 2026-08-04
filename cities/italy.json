@@ -1,0 +1,319 @@
+{
+  "italy": {
+    "needs_ad": false,
+    "cities": {
+      "rome": {
+        "names": {
+          "ar": "روما",
+          "en": "Rome",
+          "tr": "Roma"
+        },
+        "description": {
+          "ar": "المدينة الخالدة وعاصمة إيطاليا، تشتهر بـ الكولوسيوم العظيم، نافورة تريفي، البانثيون، ودولة الفاتيكان.",
+          "en": "The Eternal City, famous for the Colosseum, Trevi Fountain, Pantheon, and Vatican City.",
+          "tr": "Ebedi Şehir; Koloseum, Trevi Çeşmesi, Panteon ve Vatikan ile dünyaca ünlüdür."
+        },
+        "image": "res://images/rome.png",
+        "bg_image": "res://images/rome_bg.png",
+        "image_3d": "res://images/rome_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق هاسلير روما (Hotel Hassler Roma)",
+              "en": "Hotel Hassler Roma",
+              "tr": "Hotel Hassler Roma"
+            },
+            "image": "res://images/hassler_rome.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل دي روسي روما (Hotel de Russie)",
+              "en": "Hotel de Russie, Rocco Forte Hotel",
+              "tr": "Hotel de Russie Roma"
+            },
+            "image": "res://images/hotel_de_russie.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لا بيرغولا روما (La Pergola)",
+              "en": "La Pergola by Heinz Beck",
+              "tr": "La Pergola Restoran Roma"
+            },
+            "image": "res://images/la_pergola_rome.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "مطعم 3 نجوم ميشلان الفاخر الوحيد المطل على روما",
+              "en": "Rome's only Three-Michelin-starred Rooftop Fine Dining",
+              "tr": "Roma'nın Tek Üç Michelin Yıldızlı Lüks Çatı Restoranı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المدرج الروماني الكولوسيوم (Colosseum)",
+              "en": "Colosseum (Colosseo)",
+              "tr": "Koloseum (Colosseo)"
+            },
+            "image": "res://images/colosseum.png",
+            "description": {
+              "ar": "أضخم مدرج روماني قديم في العالم وإحدى عجائب الدنيا السبع الجديدة.",
+              "en": "The largest ancient amphitheater ever built, symbol of Imperial Rome.",
+              "tr": "İmparatorluk Roma'sının simgesi olan inşa edilmiş en büyük antik amfitiyatro."
+            }
+          },
+          {
+            "name": {
+              "ar": "نافورة تريفي (Trevi Fountain)",
+              "en": "Trevi Fountain (Fontana di Trevi)",
+              "tr": "Trevi Çeşmesi (Aşk Çeşmesi)"
+            },
+            "image": "res://images/trevi_fountain.png",
+            "description": {
+              "ar": "أشهر نافورة باروكية في العالم يرمي السياح فيها النقود للتمني للعودة لروما.",
+              "en": "Most famous Baroque fountain in the world where tourists toss coins for good luck.",
+              "tr": "Turistlerin dilek dileyip para attığı dünyanın en ünlü Barok çeşmesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "معبد البانثيون الروماني (Pantheon)",
+              "en": "Pantheon",
+              "tr": "Panteon"
+            },
+            "image": "res://images/pantheon_rome.png",
+            "description": {
+              "ar": "أفضل معبد روماني محفوظ ذو أضخم قبة خرسانية غير مسلحة في العالم.",
+              "en": "Best-preserved Roman monument featuring the world's largest unreinforced concrete dome.",
+              "tr": "Dünyanın en büyük donatısız beton kubbesine sahip en iyi korunmuş Roma anıtı."
+            }
+          }
+        ]
+      },
+      "milan": {
+        "names": {
+          "ar": "ميلانو",
+          "en": "Milan",
+          "tr": "Milano"
+        },
+        "description": {
+          "ar": "عاصمة الموضة والتصميم العالمية، تشتهر بـ كاتدرائية دوومو ميلانو القوطية، وغاليريا فيتوريو إيمانويل للتسوق.",
+          "en": "Global capital of fashion and design, renowned for Duomo di Milano, Galleria Vittorio Emanuele II, and Last Supper.",
+          "tr": "Dünya moda ve tasarım başkenti; Milano Katedrali (Duomo) ve Galleria ile ünlüdür."
+        },
+        "image": "res://images/milan.png",
+        "bg_image": "res://images/milan_bg.png",
+        "image_3d": "res://images/milan_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أرماني ميلانو (Armani Hotel Milano)",
+              "en": "Armani Hotel Milano",
+              "tr": "Armani Hotel Milano"
+            },
+            "image": "res://images/armani_milan.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق بولغاري ميلانو (Bulgari Hotel Milano)",
+              "en": "Bulgari Hotel Milano",
+              "tr": "Bulgari Hotel Milano"
+            },
+            "image": "res://images/bulgari_milan.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم إنريكو بارتوليني ميلانو (Enrico Bartolini)",
+              "en": "Enrico Bartolini mudec",
+              "tr": "Enrico Bartolini Restoran Milano"
+            },
+            "image": "res://images/enrico_bartolini.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أطباق إيطالية فاخرة 3 نجوم ميشلان",
+              "en": "Three-Michelin-starred Italian Innovation",
+              "tr": "Üç Michelin Yıldızlı İtalyan Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية دوومو ميلانو (Duomo di Milano)",
+              "en": "Duomo di Milano Cathedral",
+              "tr": "Milano Katedrali (Duomo di Milano)"
+            },
+            "image": "res://images/duomo_milan.png",
+            "description": {
+              "ar": "كاتدرائية قوطية رخامية بيضاء مذهلة بـ 135 أبراجاً مدببة ويمكن الصعود لسطحها.",
+              "en": "Stunning white marble Gothic cathedral taking nearly six centuries to complete.",
+              "tr": "İnşası altı asır süren muhteşem beyaz mermer Gotik katedral."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "غاليريا فيتوريو إيمانويل الثاني (Galleria Vittorio Emanuele II)",
+              "en": "Galleria Vittorio Emanuele II",
+              "tr": "Galleria Vittorio Emanuele II"
+            },
+            "image": "res://images/galleria_vittorio.png",
+            "description": {
+              "ar": "أقدم مجمع تسوق مغطى بالزجاج في العالم ويضم دور الأزياء الإيطالية الفاخرة.",
+              "en": "Italy's oldest active shopping gallery, housed in a four-story double arcade.",
+              "tr": "Dört katlı çift camlı pasajda yer alan İtalya'nın en eski aktif alışveriş galerisi."
+            }
+          }
+        ]
+      },
+      "venice": {
+        "names": {
+          "ar": "البندقية (فينيسيا)",
+          "en": "Venice",
+          "tr": "Venedik"
+        },
+        "description": {
+          "ar": "مدينة العشاق العائمة، تشتهر بـ القناة الكبرى، قوارب الجندول الرومانسية، ساحة القديس ماركو وقصر الدوجي.",
+          "en": "The floating city built on 118 islands, famous for the Grand Canal, gondolas, and St. Mark's Square.",
+          "tr": "118 ada üzerine kurulu yüzen şehir; Büyük Kanal, gondollar ve San Marco Meydanı ile ünlüdür."
+        },
+        "image": "res://images/venice.png",
+        "bg_image": "res://images/venice_bg.png",
+        "image_3d": "res://images/venice_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أمن فينيسيا (Aman Venice)",
+              "en": "Aman Venice",
+              "tr": "Aman Venice"
+            },
+            "image": "res://images/aman_venice.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا غريتي بالاس البندقية (The Gritti Palace)",
+              "en": "The Gritti Palace, a Luxury Collection Hotel",
+              "tr": "The Gritti Palace Venedik"
+            },
+            "image": "res://images/gritti_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوادري البندقية (Ristorante Quadri)",
+              "en": "Ristorante Quadri St. Mark's",
+              "tr": "Ristorante Quadri Venedik"
+            },
+            "image": "res://images/quadri_venice.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات بحرية فينيسية راقية بقلب ساحة ماركو",
+              "en": "Michelin-starred Venetian Seafood on St. Mark's Square",
+              "tr": "San Marco Meydanı'nda Michelin Yıldızlı Venedik Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "القناة الكبرى وقوارب الجندول (Grand Canal & Gondolas)",
+              "en": "Grand Canal & Gondola Ride",
+              "tr": "Büyük Kanal ve Gondol Turu"
+            },
+            "image": "res://images/grand_canal.png",
+            "description": {
+              "ar": "الشريان المائي الرئيسي للبلدة والمحاط بقصور العصر النهراوي التاريخية.",
+              "en": "Major water-traffic corridor in Venice lined with Renaissance palaces.",
+              "tr": "Rönesans saraylarıyla çevrili Venedik'in ana su trafiği koridoru."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ساحة وبازيليكا القديس ماركو (St. Mark's Square & Basilica)",
+              "en": "St. Mark's Square & Basilica",
+              "tr": "San Marco Meydanı ve Bazilikası"
+            },
+            "image": "res://images/st_marks_square.png",
+            "description": {
+              "ar": "الساحة الرئيسية التاريخية والبازيليكا البيزنطية المذهبة بالفسيفساء.",
+              "en": "The principal public square of Venice featuring the opulent Byzantine church.",
+              "tr": "Görkemli Bizans kilisesine ev sahipliği yapan Venedik'in ana meydanı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

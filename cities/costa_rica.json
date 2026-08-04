@@ -1,0 +1,189 @@
+{
+  "costa_rica": {
+    "needs_ad": false,
+    "cities": {
+      "san_jose": {
+        "names": {
+          "ar": "سان خوسيه",
+          "en": "San José",
+          "tr": "San José"
+        },
+        "description": {
+          "ar": "عاصمة كوستاريكا الواقعة في الوادي المركزي، وتعد نقطة البداية لاستكشاف البراكين والغابات المطيرة والمتاحف.",
+          "en": "Costa Rica's cultural capital in the Central Valley, surrounded by volcanoes and cloud forests.",
+          "tr": "Kosta Rika'nın Merkez Vadisi'ndeki kültür başkenti; volkanlar ve bulut ormanlarıyla çevrilidir."
+        },
+        "image": "res://images/san_jose_cr.png",
+        "bg_image": "res://images/san_jose_cr_bg.png",
+        "image_3d": "res://images/san_jose_cr_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق غران أوتيل كوستاريكا",
+              "en": "Gran Hotel Costa Rica, Curio Collection by Hilton",
+              "tr": "Gran Hotel Costa Rica"
+            },
+            "image": "res://images/gran_hotel_cr.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سيكوا سان خوسيه",
+              "en": "Sikwa Restaurant",
+              "tr": "Sikwa Restoran San José"
+            },
+            "image": "res://images/sikwa_cr.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق كوستاريكية وأصلية من محاصيل الغابات",
+              "en": "Indigenous Costa Rican Gastronomy",
+              "tr": "Yerli Kosta Rika Gastronomisi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسرح الوطني الكوستاريكي (National Theatre)",
+              "en": "National Theatre of Costa Rica",
+              "tr": "Kosta Rika Ulusal Tiyatrosu"
+            },
+            "image": "res://images/national_theatre_cr.png",
+            "description": {
+              "ar": "أفخم مبنى تاريخي بني عام 1897 بديكورات وذهب ومرمر إيطالي.",
+              "en": "Neoclassical 1897 architectural jewel with opulent statues and frescoed ceilings.",
+              "tr": "Görkemli heykelleri ve freskleriyle 1897 yapımı Neoklasik mimari mücevheri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف الذهب الكوستاريكي (Pre-Columbian Gold Museum)",
+              "en": "Pre-Columbian Gold Museum",
+              "tr": "Kolomb Öncesi Altın Müzesi"
+            },
+            "image": "res://images/gold_museum_cr.png",
+            "description": {
+              "ar": "متحف تحت الأرض يضم آلاف القطع الذهبية الأثرية من السكان الأصليين.",
+              "en": "Underground museum holding an extraordinary collection of indigenous gold relics.",
+              "tr": "Yerli altın eserlerinden oluşan olağanüstü bir koleksiyona sahip yeraltı müzesi."
+            }
+          }
+        ]
+      },
+      "la_fortuna": {
+        "names": {
+          "ar": "لا فورتونا (بركان أرينال)",
+          "en": "La Fortuna",
+          "tr": "La Fortuna"
+        },
+        "description": {
+          "ar": "عاصمة المغامرات والاسترخاء، تشتهر ببركان أرينال المخروطي الساحر والينابيع الحرارية الساخنة الشلالات.",
+          "en": "Adventure capital of Costa Rica, famous for iconic Arenal Volcano, hot springs, and hanging bridges.",
+          "tr": "Kosta Rika'nın macera başkenti; ikonik Arenal Volkanı, kaplıcaları ve asma köprüleriyle ünlüdür."
+        },
+        "image": "res://images/la_fortuna.png",
+        "bg_image": "res://images/la_fortuna_bg.png",
+        "image_3d": "res://images/la_fortuna_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع نايارا جراندا آند سبا",
+              "en": "Nayara Tented Camp",
+              "tr": "Nayara Tented Camp"
+            },
+            "image": "res://images/nayara_tented.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع تاباكون الطبيعي للينابيع الحرارية",
+              "en": "Tabacón Thermal Resort & Spa",
+              "tr": "Tabacón Thermal Resort & Spa"
+            },
+            "image": "res://images/tabacon.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دون مارغريتو لا فورتونا",
+              "en": "Don Rufino Restaurant",
+              "tr": "Don Rufino Restoran"
+            },
+            "image": "res://images/don_rufino.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مأكولات كوستاريكية ولحوم مشوية طازجة",
+              "en": "Contemporary Costa Rican & Grill",
+              "tr": "Modern Kosta Rika ve Izgara"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه بركان أرينال الوطني (Arenal Volcano)",
+              "en": "Arenal Volcano National Park",
+              "tr": "Arenal Volkanı Milli Parkı"
+            },
+            "image": "res://images/arenal_volcano.png",
+            "description": {
+              "ar": "بركان مخروطي كامل الجمال تحيط به الغابات المسارات البركانية والمياه الساخنة.",
+              "en": "Symmetrical volcano offering rainforest hikes, lava field trails, and thermal rivers.",
+              "tr": "Yağmur ormanı yürüyüşleri ve termal nehirler sunan simetrik volkan."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شلال لا فورتونا الساحر (La Fortuna Waterfall)",
+              "en": "La Fortuna Waterfall",
+              "tr": "La Fortuna Şelalesi"
+            },
+            "image": "res://images/la_fortuna_waterfall.png",
+            "description": {
+              "ar": "شلال بارتفاع 70 متراً ينهمر وسط الغابة الاستوائية في بركة فيروزية للسباحة.",
+              "en": "70-meter waterfall cascading into a green jungle pool suitable for swimming.",
+              "tr": "Yüzmeye uygun yeşil orman havuzuna dökülen 70 metrelik şelale."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

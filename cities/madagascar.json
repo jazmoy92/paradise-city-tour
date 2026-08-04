@@ -1,0 +1,179 @@
+{
+  "madagascar": {
+    "needs_ad": false,
+    "cities": {
+      "antananarivo": {
+        "names": {
+          "ar": "أنتاناناريفو",
+          "en": "Antananarivo",
+          "tr": "Antananarivo"
+        },
+        "description": {
+          "ar": "عاصمة مدغشقر الجبلية العريقة الملتفة فوق التلال، تشتهر بـ قصر الملوك (روفا)، المتاحف وشوارع التوابل.",
+          "en": "Madagascar's high-altitude capital, famous for Rova of Antananarivo palace and colorful hillside markets.",
+          "tr": "Rova Sarayı ve renkli tepe pazarlarıyla ünlü Madagaskar başkenti."
+        },
+        "image": "res://images/antananarivo.png",
+        "bg_image": "res://images/tana_bg.png",
+        "image_3d": "res://images/tana_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كنيسة كارلتون أنتاناناريفو (Carlton Madagascar)",
+              "en": "Carlton Hotel Madagascar",
+              "tr": "Carlton Hotel Madagascar"
+            },
+            "image": "res://images/carlton_tana.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الكود أنتاناناريفو (La Varangue)",
+              "en": "La Varangue Restaurant",
+              "tr": "La Varangue Restoran"
+            },
+            "image": "res://images/la_varangue.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق زيبو المكتنزة والڤانيلا الفاخرة والمأكولات الفرنسية",
+              "en": "Malagasy Zebu Steaks & French Gastronomy",
+              "tr": "Madagaskar Zebu Eti ve Fransız Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر ملكات مدغشقر (Rova of Antananarivo)",
+              "en": "Rova of Antananarivo",
+              "tr": "Antananarivo Rova Sarayı"
+            },
+            "image": "res://images/rova_tana.png",
+            "description": {
+              "ar": "مجمع القصر الملكي الحجري الشاهق الذي حكم منه ملوك مملكة ميرينا التراثية.",
+              "en": "Royal palace complex standing on the highest peak of Antananarivo.",
+              "tr": "Antananarivo'nun en yüksek tepesinde duran kraliyet saray kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع أشجار الباوباب الأسطوري (Avenue of the Baobabs Excursion)",
+              "en": "Avenue of the Baobabs",
+              "tr": "Baobab Bulvarı (Avenue of the Baobabs)"
+            },
+            "image": "res://images/avenue_of_baobabs.png",
+            "description": {
+              "ar": "ممر ترابي تحيط به أشجار الباوباب العملاقة المعمرة البالغ عمرها 800 عام.",
+              "en": "World-famous dirt road lined with striking 800-year-old giant Baobab trees.",
+              "tr": "800 yıllık devasa Baobab ağaçlarıyla kaplı dünyaca ünlü toprak yol."
+            }
+          }
+        ]
+      },
+      "nosy_be": {
+        "names": {
+          "ar": "نوسي بي (جزيرة العطور)",
+          "en": "Nosy Be",
+          "tr": "Nosy Be"
+        },
+        "description": {
+          "ar": "جزيرة مدغشقر الاستوائية الأولى للشواطئ والمنتجعات، تشتهر بزهور اليلانغ يلانغ، السلاحف والدلافين.",
+          "en": "Madagascar's premier tropical resort island, famous for ylang-ylang flowers, coral diving, and lemurs.",
+          "tr": "Ilang-ilang çiçekleri, mercan dalışları ve lemurlarıyla ünlü Madagaskar'ın bir numaralı resort adası."
+        },
+        "image": "res://images/nosy_be.png",
+        "bg_image": "res://images/nosy_be_bg.png",
+        "image_3d": "res://images/nosy_be_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا أندراني ديفيلوبمنت نوسي بي",
+              "en": "Ravintsara Wellness Hotel Nosy Be",
+              "tr": "Ravintsara Wellness Hotel Nosy Be"
+            },
+            "image": "res://images/ravintsara_nosybe.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي شيل نوسي بي",
+              "en": "Le Table d'Alexandre Nosy Be",
+              "tr": "Le Table d'Alexandre Nosy Be"
+            },
+            "image": "res://images/alexandre_nosybe.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "جمبري الكركند ببهارات الفانيليا والأسماك الاستوائية",
+              "en": "Vanilla Lobster & Ocean Seafood",
+              "tr": "Vanilyalı Istakoz ve Okyanus Balıkları"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محمية لوكوبي الطبيعية للقرود والليمور (Lokobe Reserve)",
+              "en": "Lokobe Strict Nature Reserve",
+              "tr": "Lokobe Doğa Koruma Alanı"
+            },
+            "image": "res://images/lokobe_reserve.png",
+            "description": {
+              "ar": "محمية غابات استوائية بكر يقطنها حيوان الليمور الأسود المهدد بالانقراض والنعام.",
+              "en": "Rainforest sanctuary home to black lemurs, chameleons, and endemic flora.",
+              "tr": "Siyah lemurlara ve bukalemunlara ev sahipliği yapan yağmur ormanı barınağı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ أنديلانا بيتش (Andilana Beach)",
+              "en": "Andilana Beach",
+              "tr": "Andilana Plajı"
+            },
+            "image": "res://images/andilana_beach.png",
+            "description": {
+              "ar": "أجمل شاطئ رمال ناصعة ومياه هادئة في شمال جزيرة نوسي بي.",
+              "en": "Pristine white-sand peninsula featuring crystal waters and coconut palms.",
+              "tr": "Berrak sulara ve hindistan cevizi palmiyelerine sahip el değmemiş beyaz kumsal."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

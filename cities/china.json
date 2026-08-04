@@ -1,0 +1,309 @@
+{
+  "china": {
+    "needs_ad": false,
+    "cities": {
+      "beijing": {
+        "names": {
+          "ar": "بكين",
+          "en": "Beijing",
+          "tr": "Pekin"
+        },
+        "description": {
+          "ar": "عاصمة الصين التاريخية والعصرية، تشتهر بسور الصين العظيم، المدينة المحرمة، القصر الصيفي، وسلسلة المتاحف الفخمة.",
+          "en": "China's imperial capital, home to the Great Wall, Forbidden City, Summer Palace, and Tiananmen Square.",
+          "tr": "Çin'in imparatorluk başkenti; Çin Seddi, Yasak Şehir ve Yazlık Saray'a ev sahipliği yapar."
+        },
+        "image": "res://images/beijing.png",
+        "bg_image": "res://images/beijing_bg.png",
+        "image_3d": "res://images/beijing_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق البنينسولا بكين",
+              "en": "The Peninsula Beijing",
+              "tr": "The Peninsula Pekin"
+            },
+            "image": "res://images/peninsula_beijing.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أمان سمر بالاس بكين",
+              "en": "Aman Summer Palace Beijing",
+              "tr": "Aman Summer Palace Pekin"
+            },
+            "image": "res://images/aman_beijing.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوانجودي لبط بكين (Quanjude)",
+              "en": "Quanjude Peking Duck Restaurant",
+              "tr": "Quanjude Pekin Ördeği Restoranı"
+            },
+            "image": "res://images/quanjude_beijing.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "بط بكين المشوي الأصلي منذ عام 1864",
+              "en": "Authentic Roast Peking Duck",
+              "tr": "Otantik Pekin Ördeği"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "سور الصين العظيم (Great Wall of China)",
+              "en": "Great Wall of China (Mutianyu)",
+              "tr": "Çin Seddi (Mutianyu)"
+            },
+            "image": "res://images/great_wall.png",
+            "description": {
+              "ar": "إحدى عجائب الدنيا السبع الشاهقة بين الجبال الخضراء لآلاف الكيلومترات.",
+              "en": "One of the New 7 Wonders of the World winding across mountain ridges.",
+              "tr": "Dağ sırtlarında uzanan Dünyanın Yeni 7 Harikası'ndan biri."
+            }
+          },
+          {
+            "name": {
+              "ar": "المدينة المحرمة (Forbidden City)",
+              "en": "Forbidden City (Palace Museum)",
+              "tr": "Yasak Şehir (Saray Müzesi)"
+            },
+            "image": "res://images/forbidden_city.png",
+            "description": {
+              "ar": "أكبر مجمع قصر إمبراطوري خشبي حفظه التاريخ لـ 24 إمبراطوراً صينياً.",
+              "en": "The vast imperial palace complex of the Ming and Qing dynasties with 9,999 rooms.",
+              "tr": "Ming ve Qing hanedanlarının 9.999 odalı devasa imparatorluk saray kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "القصر الصيفي (Summer Palace)",
+              "en": "Summer Palace (Yiheyuan)",
+              "tr": "Yazlık Saray (Yiheyuan)"
+            },
+            "image": "res://images/summer_palace.png",
+            "description": {
+              "ar": "منتزه إمبراطوري ببحيرة كونمينغ وحدائق صينية ملكية مذهلة.",
+              "en": "Masterpiece of Chinese landscape garden design centered around Kunming Lake.",
+              "tr": "Kunming Gölü etrafında şekillenen Çin bahçe tasarımının şaheseri."
+            }
+          }
+        ]
+      },
+      "shanghai": {
+        "names": {
+          "ar": "شنغهاي",
+          "en": "Shanghai",
+          "tr": "Şanghay"
+        },
+        "description": {
+          "ar": "العاصمة الاقتصادية والتجارية وأكبر مدن الصين، تشتهر بواجهة البوند الاستعمارية وأبراج بودونغ المستقبلية.",
+          "en": "China's economic powerhouse, famous for The Bund waterfront, Yu Garden, and Pudong skyscrapers.",
+          "tr": "Çin'in finans merkezi; The Bund sahil şeridi, Yu Bahçesi ve gökdelenleriyle ünlüdür."
+        },
+        "image": "res://images/shanghai.png",
+        "bg_image": "res://images/shanghai_bg.png",
+        "image_3d": "res://images/shanghai_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الفورسيزونز شنغهاي بودونغ",
+              "en": "The Ritz-Carlton Shanghai, Pudong",
+              "tr": "The Ritz-Carlton Şanghay, Pudong"
+            },
+            "image": "res://images/ritz_shanghai.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أولترافايوليت باي بول بايريت",
+              "en": "Ultraviolet by Paul Pairet",
+              "tr": "Ultraviolet by Paul Pairet"
+            },
+            "image": "res://images/ultraviolet_shanghai.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "تجربة حواس متعددة ومأكولات عالمية غامرة",
+              "en": "Experimental Multi-Sensory Fine Dining",
+              "tr": "Duyusal Çok Yönlü Lüks Yemek Deneyimi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج شنغهاي (Shanghai Tower)",
+              "en": "Shanghai Tower",
+              "tr": "Şanghay Kulesi"
+            },
+            "image": "res://images/shanghai_tower.png",
+            "description": {
+              "ar": "ثاني أطول مبنى في العالم بارتفاع 632 متراً مع أسرع مصعد هواء.",
+              "en": "World's second-tallest building at 632m featuring the world's fastest elevator.",
+              "tr": "Dünyanın en hızlı asansörüne sahip 632 metre yüksekliğindeki ikinci en yüksek bina."
+            }
+          },
+          {
+            "name": {
+              "ar": "واجهة البوند البحرية (The Bund)",
+              "en": "The Bund (Wai Tan)",
+              "tr": "The Bund Sahil Şeridi"
+            },
+            "image": "res://images/the_bund.png",
+            "description": {
+              "ar": "الواجهة التاريخية على نهر هوانغبو الممتلئة بالمباني المعمارية الكلاسيكية المضيئة.",
+              "en": "Waterfront promenade featuring European colonial architecture facing Pudong skyine.",
+              "tr": "Pudong siluetine bakan Avrupa sömürge mimarisine sahip sahil kordonu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حديقة يو يوان التاريخية (Yu Garden)",
+              "en": "Yu Garden (Yuyuan)",
+              "tr": "Yu Bahçesi (Yuyuan)"
+            },
+            "image": "res://images/yu_garden.png",
+            "description": {
+              "ar": "حديقة صينية كلاسيكية عريقة بنيت في عهد سلالة مينغ عام 1559.",
+              "en": "Extensive Ming Dynasty classical garden with rockeries, pavilions, and ponds.",
+              "tr": "Ming Hanedanı döneminden kalma köprüleri ve çardaklarıyla klasik Çin bahçesi."
+            }
+          }
+        ]
+      },
+      "guangzhou": {
+        "names": {
+          "ar": "غوانزو",
+          "en": "Guangzhou",
+          "tr": "Guangzhou"
+        },
+        "description": {
+          "ar": "عاصمة مقاطعة غوانغدونغ ومركز التجارة والاستيراد العالمي، تشتهر ببرج كانتون ومطاعم الديم سام الفاخرة.",
+          "en": "Southern China's trade capital on the Pearl River, world-famous for Canton Tower and Dim Sum cuisine.",
+          "tr": "Güney Çin'in ticaret başkenti; Canton Kulesi ve Dim Sum mutfağıyla dünyaca ünlüdür."
+        },
+        "image": "res://images/guangzhou.png",
+        "bg_image": "res://images/guangzhou_bg.png",
+        "image_3d": "res://images/guangzhou_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق روزوود غوانزو",
+              "en": "Rosewood Guangzhou",
+              "tr": "Rosewood Guangzhou"
+            },
+            "image": "res://images/rosewood_guangzhou.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بي يوين لتقديم الديم سام (Bing Sheng)",
+              "en": "BingSheng Taste Guangzhou",
+              "tr": "BingSheng Restoran Guangzhou"
+            },
+            "image": "res://images/bingsheng_guangzhou.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق الكانتون والديم سام الراقية",
+              "en": "Authentic Cantonese & Dim Sum",
+              "tr": "Otantik Kanton ve Dim Sum Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج كانتون (Canton Tower)",
+              "en": "Canton Tower",
+              "tr": "Canton Kulesi"
+            },
+            "image": "res://images/canton_tower.png",
+            "description": {
+              "ar": "برج ملتف بارتفاع 604 متراً يعتبر تحفة هندسية مضاءة بألوان قوس قزح.",
+              "en": "Twisted 604-meter landmark tower featuring a bubble tram on its roof.",
+              "tr": "Çatısında balon tramvayı bulunan 604 metrelik burulmuş yapı kulesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جزيرة شاميان الاستعمارية (Shamian Island)",
+              "en": "Shamian Island",
+              "tr": "Shamian Adası"
+            },
+            "image": "res://images/shamian_island.png",
+            "description": {
+              "ar": "جزيرة هادئة محاطة بالأشجار تضم مباني بريطانية وفرنسية استعمارية كلاسيكية.",
+              "en": "Peaceful island quarter featuring historic European colonial architecture.",
+              "tr": "Tarihi Avrupa sömürge mimarisine sahip huzurlu ada mahallesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

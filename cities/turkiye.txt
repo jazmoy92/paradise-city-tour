@@ -1,0 +1,1944 @@
+{
+  "turkiye": {
+	"image": "res://images/",
+	"needs_ad": true,
+	"cities": {
+	  "adana": {
+		"names": {
+		  "ar": "اضنا",
+		  "en": "Adana",
+		  "tr": "Adana"
+		},
+		"description": {
+		  "ar": "مدينة اضنا تقع جنوب تركيا عدد سكان حوالي 2 مليون وهي سادس اكبر مدن تركيا على ضفاف نهر سيحان وقريبة من البحر الابيض المتوسط ، وتشتهر بزراعة القطن ، ومطبخها يشتهر 'كباب اضنا' ، واهم معالمها هو الجسر الحجري الذي يعود للعهد الروماني Taşköprü وايضا تشتهر بجامع سابنجي ذو المآذن الست وباطلالة ساحرة مباشرة عالنهر",
+		  "en": "The city of Adana is located in southern Turkey. With a population of about 2 million, it is the sixth-largest city in Turkey. Situated on the banks of the Seyhan River and close to the Mediterranean Sea, it is famous for cotton cultivation and its cuisine, renowned for 'Adana Kebab'. Its most important landmark is the Stone Bridge (Taşköprü), which dates back to the Roman era. It is also famous for the Sabancı Mosque, featuring six minarets and a charming direct view of the river.",
+		  "tr": "Adana şehri, Türkiye'nin güneyinde yer almaktadır. Yaklaşık 2 milyon nüfusa sahiptir ve Türkiye'nin altıncı büyük şehridir. Seyhan Nehri'nin kıyısında ve Akdeniz'e yakın bir konumda bulunan şehir, pamuk tarımı ve 'Adana Kebap' ile meşhur mutfağıyla tanınır. En önemli simgesi, Roma dönemine kadar uzanan Taşköprü'dür. Ayrıca altı minaresi ve nehre doğrudan bakan büyüleyici manzarasıyla Sabancı Camii ile de ünlüdür."
+		},
+		"image": "res://images/",
+		"bg_image": "res://images/",
+		"image_3d": "res://images/33333333ddddddddddd.png",
+		"is_soon": false,
+		"available_services": [
+		  "taxi",
+		  "rent_car",
+          "driver"
+		],
+		"available_categories": [
+		  "hotels",
+		  "places",
+		  "cultural Places",
+		  "religious places",
+          "city transport"
+		],
+		"hotels": [
+		  {
+			"name": {
+			  "ar": "فندق ديفان",
+			  "en": "Divan Adana",
+			  "tr": "Divan Adana"
+			},
+			"image": "res://images/Divan Adana.png",
+			"rating": "5 Stars",
+			"website": "https://klook.tpx.li/KeKSgEJK"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق تركمان ريفرسايد",
+			  "en": "Turkmen Riverside Hotel",
+			  "tr": "Turkmen Riverside otel"
+			},
+			"image": "res://images/turkmen_riverside_adana.png",
+			"rating": "4 Stars",
+			"website": "https://klook.tpx.li/euNZSBvw"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق دبل تري باي هيلتون اضنا",
+			  "en": "DoubleTree by Hilton Adana",
+			  "tr": "DoubleTree by Hilton Adana"
+			},
+			"image": "res://images/DoubleTree_by_Hilton_Adana.png",
+			"rating": "5 Stars",
+			"website": "https://klook.tpx.li/NdiAvipt"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق سكاي جاردن سويت",
+			  "en": "Sky Garden Suites",
+			  "tr": "Sky Garden Suites"
+			},
+			"image": "res://images/sky garden suites.png",
+			"rating": "9/10",
+			"website": "https://klook.tpx.li/LgOQV3nD"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق تاش كوبرو",
+			  "en": "Taskopru Hotel",
+			  "tr": "Taşköprü otel"
+			},
+			"image": "res://images/taskopru otel.png",
+			"rating": "4 Stars",
+			"website": "https://klook.tpx.li/rp88Lh3i"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق هيلتون اضنا",
+			  "en": "Adana Hilton SA Hotel",
+			  "tr": "Adana Hilton SA otel"
+			},
+			"image": "res://images/adana hilton.png",
+			"rating": "5 Stars",
+			"website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=103913"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق اسوس بالميا",
+			  "en": "Asus palmiya Hotel",
+			  "tr": "Asus palmiya otel"
+			},
+			"image": "res://images/asus palmiye.png",
+			"rating": "6/10",
+			"website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=15349881"
+		  },
+		  {
+			"name": {
+			  "ar": "فندق ماسل",
+			  "en": "Masel Hotel",
+			  "tr": "Masel otel"
+			},
+			"image": "res://images/masel otel.png",
+			"rating": "4 Stars",
+			"website": "https://klook.tpx.li/ZVVlAN4R"
+		  }
+		],
+		"cultural Places": [
+		  {
+			"name": {
+			  "ar": "متحف أضنة الأثري",
+			  "en": "Adana Archeology Museum",
+			  "tr": "Adana Arkeoloji Müzesi"
+			},
+			"image": "res://images/adana_museum.jpg",
+			"website": "https://www.trip.com/t/kJYiU9lcZV2",
+			"needs_ad": true
+		  },
+		  {
+			"name": {
+			  "ar": "جسر تاش القديم ",
+			  "en": "Taşköprü Bridge",
+			  "tr": "taşköprü"
+			},
+			"image": "res://images/Taşköprü.jpg",
+			"website": "https://maps.app.goo.gl/H2sBXthXLrHzatbC6",
+			"needs_ad": true
+		  }
+		],
+		"places": [
+		  {
+			"name": {
+			  "ar": "بحيرة سد سيحان",
+			  "en": "Seyhan dam lake",
+			  "tr": "Seyhan Baraj Gölü"
+			},
+			"image": "res://images/Seyhan dam lake.png",
+			"website": "https://maps.app.goo.gl/ELAKCCPNf9ZaPQbm8",
+			"needs_ad": true
+		  },
+		  {
+			"name": {
+			  "ar": "جبل الثومي اضنا",
+			  "en": "Garlic Mount",
+			  "tr": "Sarımsak Dağı"
+			},
+			"image": "res://images/sarimsak dagi.png",
+			"website": "https://maps.app.goo.gl/WG67TUdp21aKRxHd6",
+			"needs_ad": true
+		  },
+		  {
+			"name": {
+			  "ar": "حديقة زبيدة هانم",
+			  "en": "Zübeyde Hanim garden",
+			  "tr": "Zübeyde Hanım Parkı"
+			},
+			"image": "res://images/Zübeyde_Hanım_Parkı_Adana.jpg",
+			"website": "https://maps.app.goo.gl/KzkqYA2oRJXGLSJH6",
+			"needs_ad": true
+		  },
+		  {
+			"name": {
+			  "ar": "شلالات اضنا",
+			  "en": "Kup Waterfalls Adana",
+			  "tr": "Küp Şelaleleri Adana"
+			},
+			"image": "res://images/kup-selaleleri.jpg",
+			"website": "https://maps.app.goo.gl/m2fdP6hAKzuNHFka6",
+			"needs_ad": true
+		  },
+		  {
+			"name": {
+			  "ar": "شلالات اضنا",
+			  "en": "Kup Waterfalls Adana",
+			  "tr": "Küp Şelaleleri Adana"
+			},
+			"image": "res://images/kup-selaleleri.jpg",
+			"website": "https://maps.app.goo.gl/m2fdP6hAKzuNHFka6",
+			"needs_ad": true
+		  },
+		],
+	
+	"luxury_lifestyle": [
+	  {
+		"name": {
+		  "ar": "تأجير يخت فاخر",
+		  "en": "Luxury Yacht Rental",
+		  "tr": "Lüks Yat Kiralama"
+		},
+		"desc": {
+		  "ar": "جولة بحرية خاصة في البوسفور مع عشاء فاخر وطاقم كامل.",
+		  "en": "Private cruise on the Bosphorus with fine dining."
+		},
+		"image": "res://images/yacht.png",
+		"url": "https://example.com/yacht",
+		"needs_ad": false
+	  },
+			
+		]  
+	  },
+	  "adiyaman": {
+		"names": { "ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman" },
+		"description": {
+		  "ar": "تشتهر بجبل نمرود الأثري ذو التماثيل الضخمة المدرجة ضمن التراث العالمي اليونسكو.",
+		  "en": "Famous for Mount Nemrut with ancient giant statues, a UNESCO World Heritage site.",
+		  "tr": "UNESCO Dünya Mirası Mount Nemrut ve dev heykelleri ile ünlüdür."
+		},
+		"image": "res://images/adiyaman.png",
+		"bg_image": "res://images/adiyaman_bg.png",
+		"image_3d": "res://images/adiyaman_3d.png",
+		"is_soon": true,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بارك أديامان", "en": "Park Hotel Adiyaman", "tr": "Park Hotel Adıyaman" }, "image": "res://images/adiyaman_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جبل نمرود", "en": "Mount Nemrut", "tr": "Nemrut Dağı" }, "image": "res://images/nemrut.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جسر سينتيمات", "en": "Cendere Bridge", "tr": "Cendere Köprüsü" }, "image": "res://images/cendere.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "afyonkarahisar": {
+		"names": { "ar": "أفيون قره حصار", "en": "Afyonkarahisar", "tr": "Afyonkarahisar" },
+		"description": {
+		  "ar": "عاصمة المظبي والينابيع الحرارية والقلعة التاريخية القائمة على قمة صخرية عالية.",
+		  "en": "Capital of thermal springs, Turkish delight, and historical castle on a high rock.",
+		  "tr": "Kaplıcaları, lokumu ve tarihi kalesi ile tanınan şehir."
+		},
+		"image": "res://images/afyonkarahisar.png",
+		"bg_image": "res://images/afyonkarahisar_bg.png",
+		"image_3d": "res://images/afyonkarahisar_3d.png",
+		"is_soon": true,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق إقبال حراري", "en": "Ikbal Thermal Hotel", "tr": "İkbal Thermal Hotel" }, "image": "res://images/ikbal_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة أفيون", "en": "Afyon Castle", "tr": "Afyon Kalesi" }, "image": "res://images/afyon_kale.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "الوادي الفريجي", "en": "Phrygian Valley", "tr": "Frig Vadisi" }, "image": "res://images/frig_vadisi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "agri": {
+		"names": { "ar": "أغري", "en": "Agri", "tr": "Ağrı" },
+		"description": {
+		  "ar": "تقع شرق تركيا وتضم جبل أرارات أعلى قمة في البلاد وقصر إسحاق باشا التاريخي.",
+		  "en": "Home to Mount Ararat, Turkey's highest peak, and the historic Ishak Pasha Palace.",
+		  "tr": "Türkiye'nin en yüksek dağı Ağrı Dağı ve İshak Paşa Sarayı'na ev sahipliği yapar."
+		},
+		"image": "res://images/agri.png",
+		"bg_image": "res://images/agri_bg.png",
+		"image_3d": "res://images/agri_3d.png",
+		"is_soon": true,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند أراس", "en": "Grand Aras Hotel", "tr": "Grand Aras Otel" }, "image": "res://images/agri_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قصر إسحاق باشا", "en": "Ishak Pasha Palace", "tr": "İshak Paşa Sarayı" }, "image": "res://images/ishak_pasa.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جبل أرارات", "en": "Mount Ararat", "tr": "Ağrı Dağı" }, "image": "res://images/agri_dagi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "amasya": {
+		"names": { "ar": "أماسيا", "en": "Amasya", "tr": "Amasya" },
+		"description": {
+		  "ar": "مدينة الأمراء العثمانيين، تشتهر ببيوتها التاريخية الخشبية ومقابر الملوك البنطسيين.",
+		  "en": "City of Ottoman princes, famous for traditional wooden houses and Pontic King tombs.",
+		  "tr": "Osmanlı şehzadeler şehri, ahşap evleri ve Kral Kaya Mezarları ile ünlü."
+		},
+		"image": "res://images/amasya.png",
+		"bg_image": "res://images/amasya_bg.png",
+		"image_3d": "res://images/amasya_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أماسيا أبل", "en": "Amasya Apple Hotel", "tr": "Amasya Apple Otel" }, "image": "res://images/amasya_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مقابر الملوك الصخرية", "en": "Rock-cut Tombs of Kings", "tr": "Kral Kaya Mezarları" }, "image": "res://images/kral_kaya.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "متحف أماسيا", "en": "Amasya Museum", "tr": "Amasya Müzesi" }, "image": "res://images/amasya_museum.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "ankara": {
+		"names": { "ar": "أنقرة", "en": "Ankara", "tr": "Ankara" },
+		"description": {
+		  "ar": "عاصمة الجمهورية التركية وثاني أكبر مدنها، تضم ضريح أتاتورك وقلعة أنقرة التاريخية.",
+		  "en": "Capital of Turkey, home to Anıtkabir, Ankara Castle, and rich historical museums.",
+		  "tr": "Türkiye'nin başkenti, Anıtkabir ve Ankara Kalesi'ne ev sahipliği yapmaktadır."
+		},
+		"image": "res://images/ankara.png",
+		"bg_image": "res://images/ankara_bg.png",
+		"image_3d": "res://images/ankara_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق شيراتون أنقرة", "en": "Sheraton Ankara", "tr": "Sheraton Ankara" }, "image": "res://images/sheraton_ankara.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "أنطكابير (ضريح أتاتورك)", "en": "Anitkabir", "tr": "Anıtkabir" }, "image": "res://images/anitkabir.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة أنقرة", "en": "Ankara Castle", "tr": "Ankara Kalesi" }, "image": "res://images/ankara_kale.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "antalya": {
+		"names": { "ar": "أنطاليا", "en": "Antalya", "tr": "Antalya" },
+		"description": {
+		  "ar": "عاصمة السياحة في تركيا، تمتاز بالشواطئ الساحرة وشلالات دودن والبلدة القديمة كاليشتي.",
+		  "en": "Capital of Turkish tourism, known for beaches, Duden waterfalls, and Kaleici old town.",
+		  "tr": "Türkiye'nin turizm başkenti, plajları, Düden Şelalesi ve Kaleiçi ile ünlü."
+		},
+		"image": "res://images/antalya.png",
+		"bg_image": "res://images/antalya_bg.png",
+		"image_3d": "res://images/antalya_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أكرا أنطاليا", "en": "Akra Hotel Antalya", "tr": "Akra Otel Antalya" }, "image": "res://images/akra_antalya.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "البلدة القديمة (كاليشتي)", "en": "Kaleici (Old Town)", "tr": "Kaleiçi" }, "image": "res://images/kaleici.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شلالات دودن", "en": "Duden Waterfalls", "tr": "Düden Şelalesi" }, "image": "res://images/duden.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "artvin": {
+		"names": { "ar": "أرتوين", "en": "Artvin", "tr": "Artvin" },
+		"description": {
+		  "ar": "عروس الشمال التركي بالطبيعة الخضراء والغابات الساحرة وبحيرة كاراجول الشهيرة.",
+		  "en": "Green paradise in Black Sea region famous for pristine forests and Karagol lake.",
+		  "tr": "Doğu Karadeniz'in doğa harikası, Karagöl ve yeşil yaylaları ile tanınır."
+		},
+		"image": "res://images/artvin.png",
+		"bg_image": "res://images/artvin_bg.png",
+		"image_3d": "res://images/artvin_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند أرتوين", "en": "Grand Artvin Hotel", "tr": "Grand Artvin Otel" }, "image": "res://images/artvin_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة أرتوين", "en": "Artvin Castle", "tr": "Artvin Kalesi" }, "image": "res://images/artvin_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة كاراجول بورككا", "en": "Borcka Karagol Lake", "tr": "Borçka Karagöl" }, "image": "res://images/karagol.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "aydin": {
+		"names": { "ar": "آيدين", "en": "Aydin", "tr": "Aydın" },
+		"description": {
+		  "ar": "تقع في غرب تركيا وتشتهر بمنتجع كوشاداسي ومدينة أفروديسياس الأثرية ونخيل الزيتون.",
+		  "en": "Famous for Kusadasi beach resort, ancient Aphrodisias city, and olive groves.",
+		  "tr": "Kuşadası tatil beldesi, Afrodisyas antik kenti ve zeytinlikleri ile ünlü."
+		},
+		"image": "res://images/aydin.png",
+		"bg_image": "res://images/aydin_bg.png",
+		"image_3d": "res://images/aydin_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق كوشاداسي بالاس", "en": "Kusadasi Palace Hotel", "tr": "Kuşadası Palace Otel" }, "image": "res://images/aydin_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة أفروديسياس الأثرية", "en": "Aphrodisias Ancient City", "tr": "Afrodisyas Antik Kenti" }, "image": "res://images/aphrodisias.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شاطئ كوشاداسي", "en": "Kusadasi Beach", "tr": "Kuşadası Sahili" }, "image": "res://images/kusadasi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "balikesir": {
+		"names": { "ar": "باليكسير", "en": "Balikesir", "tr": "Balıkesir" },
+		"description": {
+		  "ar": "تطل على بحري مرمرة وإيجة، وتتميز بآيوالق وجزر جندا والشواطئ الجميلة.",
+		  "en": "Bordering Aegean and Marmara seas, famous for Ayvalik, Cunda island, and beaches.",
+		  "tr": "Ege ve Marmara'ya kıyısı olan, Ayvalık ve Cunda Adası ile meşhur şehir."
+		},
+		"image": "res://images/balikesir.png",
+		"bg_image": "res://images/balikesir_bg.png",
+		"image_3d": "res://images/balikesir_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غرانادا آيوالق", "en": "Grand Ayvalik Hotel", "tr": "Grand Ayvalık Otel" }, "image": "res://images/balikesir_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جزيرة جيندا", "en": "Cunda Island", "tr": "Cunda Adası" }, "image": "res://images/cunda.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شياطين سوفراسي (مائدة الشيطان)", "en": "Satan's Feast (Seytan Sofrasi)", "tr": "Şeytan Sofrası" }, "image": "res://images/seytan_sofrasi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bilecik": {
+		"names": { "ar": "بيليجيك", "en": "Bilecik", "tr": "Bilecik" },
+		"description": {
+		  "ar": "مسقط رأس الدولة العثمانية وتضم ضريح الشيخ أديبالي ومقبرة أرطغرل بمدينة سوغوت.",
+		  "en": "Birthplace of Ottoman Empire, home to Sheikh Edebali Tomb and Ertugrul Gazi Shrine.",
+		  "tr": "Osmanlı'nın doğduğu yer, Şeyh Edebali ve Ertuğrul Gazi Türbesi'ne ev sahipliği yapar."
+		},
+		"image": "res://images/bilecik.png",
+		"bg_image": "res://images/bilecik_bg.png", "image_3d": "res://images/bilecik_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند بيليجيك", "en": "Grand Bilecik Hotel", "tr": "Grand Bilecik Otel" }, "image": "res://images/bilecik_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "ضريح أرطغرل غازي في سوغوت", "en": "Ertugrul Gazi Shrine", "tr": "Ertuğrul Gazi Türbesi" }, "image": "res://images/ertugrul.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "ضريح الشيخ أديبالي", "en": "Sheikh Edebali Tomb", "tr": "Şeyh Edebali Türbesi" }, "image": "res://images/edebali.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bingol": {
+		"names": { "ar": "بينغول", "en": "Bingol", "tr": "Bingöl" },
+		"description": {
+		  "ar": "تقع شرق تركيا وتشتهر بالبحيرات العائمة الفريدة ومراكز التزلج والمناظر الطبيعية.",
+		  "en": "Located in eastern Anatolia, famous for floating islands (Yüzen Adalar) and ski center.",
+		  "tr": "Yüzen Adaları ve doğa manzaraları ile tanınan Doğu Anadolu şehri."
+		},
+		"image": "res://images/bingol.png",
+		"bg_image": "res://images/bingol_bg.png", "image_3d": "res://images/bingol_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بينغول بيلتيك", "en": "Bingol Bintepe Hotel", "tr": "Bingöl Bintepe Otel" }, "image": "res://images/bingol_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "الجزر العائمة في بينغول", "en": "Floating Islands", "tr": "Yüzen Adalar" }, "image": "res://images/yuzen_adalar.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مركز حسام الدين للتزلج", "en": "Hesarek Ski Center", "tr": "Hesarek Kayak Merkezi" }, "image": "res://images/hesarek.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bitlis": {
+		"names": { "ar": "بتليس", "en": "Bitlis", "tr": "Bitlis" },
+		"description": {
+		  "ar": "تقع غرب بحيرة فان وتشتهر بمدينة أخلاط التاريخية وبركان نمرود العظيم ومناظرها الجميلة.",
+		  "en": "Home to Ahlat historic tombstones and Nemrut Crater Lake near Lake Van.",
+		  "tr": "Ahlat Selçuklu Mezarlığı ve Nemrut Krater Gölü ile ünlü Doğu ili."
+		},
+		"image": "res://images/bitlis.png",
+		"bg_image": "res://images/bitlis_bg.png", "image_3d": "res://images/bitlis_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بتليس أوزجان", "en": "Bitlis Ozcan Hotel", "tr": "Bitlis Özcan Otel" }, "image": "res://images/bitlis_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مقبرة أخلاط السلجوقية", "en": "Ahlat Seljuk Cemetery", "tr": "Ahlat Selçuklu Mezarlığı" }, "image": "res://images/ahlat.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة بركان نمرود", "en": "Nemrut Crater Lake", "tr": "Nemrut Krater Gölü" }, "image": "res://images/nemrut_krater.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bolu": {
+		"names": { "ar": "بولو", "en": "Bolu", "tr": "Bolu" },
+		"description": {
+		  "ar": "جنة الطبيعة والغابات وتشتهر ببحيرات أبانت ويديجولير (السبع) وبحيرة جولجوك.",
+		  "en": "Nature paradise known for Lake Abant, Yedigoller (Seven Lakes) National Park, and Golcuk.",
+		  "tr": "Abant Gölü, Yedigöller Milli Parkı ve Gölcük ile doğa tutkunlarının adresi."
+		},
+		"image": "res://images/bolu.png",
+		"bg_image": "res://images/bolu_bg.png", "image_3d": "res://images/bolu_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أبانت بالاس", "en": "Abant Palace Hotel", "tr": "Abant Palace Otel" }, "image": "res://images/bolu_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف بولو", "en": "Bolu Museum", "tr": "Bolu Müzesi" }, "image": "res://images/bolu_museum.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "محمية البحيرات السبع (يديجولير)", "en": "Yedigoller National Park", "tr": "Yedigöller Milli Parkı" }, "image": "res://images/yedigoller.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "burdur": {
+		"names": { "ar": "بوردور", "en": "Burdur", "tr": "Burdur" },
+		"description": {
+		  "ar": "تقع في منطقة البحيرات، وتشتهر ببحيرة سالدا الملقبة بمالديف تركيا ومدينة ساغالاسوس.",
+		  "en": "Famous for Salda Lake known as the Maldives of Turkey and Sagalassos ancient city.",
+		  "tr": "Türkiye'nin Maldivleri Salda Gölü ve Sagalassos Antik Kenti ile tanınır."
+		},
+		"image": "res://images/burdur.png",
+		"bg_image": "res://images/burdur_bg.png", "image_3d": "res://images/burdur_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند أوزر بوردور", "en": "Grand Ozer Burdur", "tr": "Grand Özer Burdur" }, "image": "res://images/burdur_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة ساغالاسوس الأثرية", "en": "Sagalassos Ancient City", "tr": "Sagalassos Antik Kenti" }, "image": "res://images/sagalassos.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة سالدا", "en": "Salda Lake", "tr": "Salda Gölü" }, "image": "res://images/salda.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bursa": {
+		"names": { "ar": "بورصة", "en": "Bursa", "tr": "Bursa" },
+		"description": {
+		  "ar": "العاصمة العثمانية الأولى، الملقبة بـ بورصة الخضراء، تضم جبل أولوداغ وسوق الحرير والجامع الكبير.",
+		  "en": "First Ottoman capital, known as Green Bursa, famous for Uludag ski resort and Silk Market.",
+		  "tr": "Yeşil Bursa olarak bilinir, Osmanlı'nın ilk başkenti, Uludağ ve Ulu Cami ile ünlü."
+		},
+		"image": "res://images/bursa.png",
+		"bg_image": "res://images/bursa_bg.png", "image_3d": "res://images/bursa_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق هيلتون بورصة", "en": "Hilton Bursa", "tr": "Hilton Bursa" }, "image": "res://images/hilton_bursa.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "الجامع الكبير (أولو جامع)", "en": "Grand Mosque (Ulu Cami)", "tr": "Bursa Ulu Cami" }, "image": "res://images/ulu_cami.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جبل أولوداغ والتلفريك", "en": "Uludag Mountain & Cable Car", "tr": "Uludağ ve Teleferik" }, "image": "res://images/uludag.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "canakkale": {
+		"names": { "ar": "جناق قلعة", "en": "Canakkale", "tr": "Çanakkale" },
+		"description": {
+		  "ar": "مدينة التاريخ والملحمة، تضم مضيق الدردنيل حصان طروادة الأسطوري ومقابر شهداء جاليبولي.",
+		  "en": "Historical city at Dardanelles Strait, home to Trojan Horse and Gallipoli battlefields.",
+		  "tr": "Çanakkale Boğazı, Truva Atı ve Gelibolu Şehitliği ile dünya tarihine yön vermiş şehir."
+		},
+		"image": "res://images/canakkale.png",
+		"bg_image": "res://images/canakkale_bg.png", "image_3d": "res://images/canakkale_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق كولين جناق قلعة", "en": "Kolin Hotel Canakkale", "tr": "Kolin Hotel Çanakkale" }, "image": "res://images/canakkale_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة طروادة الأثرية والحصان", "en": "Ancient City of Troy", "tr": "Truva Antik Kenti" }, "image": "res://images/troy.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "النصب التذكاري لشهداء جناق قلعة", "en": "Gallipoli Martyrs' Memorial", "tr": "Çanakkale Şehitleri Anıtı" }, "image": "res://images/sehitlik.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "cankiri": {
+		"names": { "ar": "جانقري", "en": "Cankiri", "tr": "Çankırı" },
+		"description": {
+		  "ar": "تشتهر بمنجم الملح الصخري التاريخي القديم ومناظر طبيعية وهادئة شمال أنقرة.",
+		  "en": "Famous for its ancient underground Salt Mine and natural historical sites.",
+		  "tr": "Tarihi Yeraltı Tuz Şehri ve doğal güzellikleri ile tanınır."
+		},
+		"image": "res://images/cankiri.png",
+		"bg_image": "res://images/cankiri_bg.png", "image_3d": "res://images/cankiri_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بويوك جانقري", "en": "Buyuk Cankiri Hotel", "tr": "Büyük Çankırı Otel" }, "image": "res://images/cankiri_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "منجم الملح الصخري تحت الأرض", "en": "Underground Salt Cave", "tr": "Tuz Mağarası" }, "image": "res://images/tuz_magarasi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة جانقري", "en": "Cankiri Castle", "tr": "Çankırı Kalesi" }, "image": "res://images/cankiri_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "corum": {
+		"names": { "ar": "جوروم", "en": "Corum", "tr": "Çorum" },
+		"description": {
+		  "ar": "عاصمة الحثيين القديمة وتضم مدينة حاتوشا الأثرية وتشتهر بزراعة وحمص جوروم المميز.",
+		  "en": "Capital of Hittite Empire home to Hattusa archaeological site and famous roasted chickpeas.",
+		  "tr": "Hattuşaş antik kenti ve lezzetli leblebisi ile ünlü Anadolu şehri."
+		},
+		"image": "res://images/corum.png",
+		"bg_image": "res://images/corum_bg.png", "image_3d": "res://images/corum_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أنشيتا جوروم", "en": "Anitta Hotel Corum", "tr": "Anitta Otel Çorum" }, "image": "res://images/corum_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة حاتوشا عاصمة الحثيين", "en": "Hattusa Hittite Capital", "tr": "Hattuşaş Antik Kenti" }, "image": "res://images/hattusa.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "متحف جوروم الأثري", "en": "Corum Museum", "tr": "Çorum Müzesi" }, "image": "res://images/corum_museum.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "denizli": {
+		"names": { "ar": "دينيزلي", "en": "Denizli", "tr": "Denizli" },
+		"description": {
+		  "ar": "موطن قلعة القطن باموكالي والينابيع الحرارية الكلسية البيضاء ومدينة هيرابوليس اليونانية.",
+		  "en": "Home to Pamukkale white travertines, hot thermal springs, and Hierapolis ancient city.",
+		  "tr": "Pamukkale travertenleri, kaplıcaları ve Hierapolis antik kenti ile tanınır."
+		},
+		"image": "res://images/denizli.png",
+		"bg_image": "res://images/denizli_bg.png", "image_3d": "res://images/denizli_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ريتشموند باموكالي", "en": "Richmond Pamukkale Thermal", "tr": "Richmond Pamukkale Thermal" }, "image": "res://images/denizli_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة هيرابوليس والمسبح الأثري", "en": "Hierapolis Ancient City", "tr": "Hierapolis Antik Kenti" }, "image": "res://images/hierapolis.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مدرجات باموكالي الكلسية البيضاء", "en": "Pamukkale Travertines", "tr": "Pamukkale Travertenleri" }, "image": "res://images/pamukkale.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "diyarbakir": {
+		"names": { "ar": "ديار بكر", "en": "Diyarbakir", "tr": "Diyarbakır" },
+		"description": {
+		  "ar": "مدينة ذات تاريخ عريق تضم أسوار ديار بكر التاريخية السوداء وحدايق هفسيل المدرجة باليونسكو.",
+		  "en": "Ancient city famous for massive basalt historic walls and UNESCO Hevsel Gardens.",
+		  "tr": "Tarihi surları, Ulu Cami ve Hevsel Bahçeleri ile ünlü kadim Doğu şehri."
+		},
+		"image": "res://images/diyarbakir.png",
+		"bg_image": "res://images/diyarbakir_bg.png", "image_3d": "res://images/diyarbakir_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق الموفنبيك ديار بكر", "en": "Movenpick Diyarbakir", "tr": "Mövenpick Diyarbakır" }, "image": "res://images/diyarbakir_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "أسوار ديار بكر وقلعتها", "en": "Diyarbakir City Walls", "tr": "Diyarbakır Surları" }, "image": "res://images/diyarbakir_walls.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جسر الأقواس العشرة (أونجوزلو)", "en": "Ten Arches Bridge", "tr": "Ongözlü Köprü" }, "image": "res://images/ongozlu.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "edirne": {
+		"names": { "ar": "أدرنة", "en": "Edirne", "tr": "Edirne" },
+		"description": {
+		  "ar": "العاصمة العثمانية الثانية في القارة الأوروبية، وتضم جامع السليمية تحفة المعمار سنان.",
+		  "en": "Second Ottoman capital in Europe, home to UNESCO Selimiye Mosque by Mimar Sinan.",
+		  "tr": "Mimar Sinan'ın şaheseri Selimiye Camii'ne ev sahipliği yapan eski Osmanlı başkenti."
+		},
+		"image": "res://images/edirne.png",
+		"bg_image": "res://images/edirne_bg.png", "image_3d": "res://images/edirne_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق مارجاي أدرنة", "en": "Margi Hotel Edirne", "tr": "Margi Hotel Edirne" }, "image": "res://images/edirne_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جامع السليمية الشهير", "en": "Selimiye Mosque", "tr": "Selimiye Camii" }, "image": "res://images/selimiye.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جسر ميريتش التاريخي", "en": "Meric Bridge", "tr": "Meriç Köprüsü" }, "image": "res://images/meric.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "elazig": {
+		"names": { "ar": "إلازيغ", "en": "Elazig", "tr": "Elazığ" },
+		"description": {
+		  "ar": "تقع في شرق الأناضول وتشتهر بقلعة هاربوت التاريخية وبحيرة هازار السياحية.",
+		  "en": "Famous for ancient Harput Castle, Lake Hazar, and rich eastern Anatolian culture.",
+		  "tr": "Tarihi Harput Kalesi ve Hazar Gölü ile ünlü Doğu Anadolu şehri."
+		},
+		"image": "res://images/elazig.png",
+		"bg_image": "res://images/elazig_bg.png", "image_3d": "res://images/elazig_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ويندهام إلازيغ", "en": "Ramada Elazig", "tr": "Ramada Elazığ" }, "image": "res://images/elazig_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة هاربوت القديمة", "en": "Harput Castle", "tr": "Harput Kalesi" }, "image": "res://images/harput.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة هازار", "en": "Hazar Lake", "tr": "Hazar Gölü" }, "image": "res://images/hazar_golu.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "erzincan": {
+		"names": { "ar": "أرزنجان", "en": "Erzincan", "tr": "Erzincan" },
+		"description": {
+		  "ar": "تشتهر بسلسلة شلالات جيرليفيك والرياضات المائية ورياضة التجديف بالنهر الجاري.",
+		  "en": "Famous for Girlevik Waterfall, rafting in Euphrates tributaries, and nature sports.",
+		  "tr": "Girlevik Şelalesi ve Fırat Nehri'nde rafting sporları ile tanınır."
+		},
+		"image": "res://images/erzincan.png",
+		"bg_image": "res://images/erzincan_bg.png", "image_3d": "res://images/erzincan_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أرزنجان هيلتون", "en": "Hilton Garden Inn Erzincan", "tr": "Hilton Garden Inn Erzincan" }, "image": "res://images/erzincan_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة ألتين تبه الحثية", "en": "Altintepe Fortress", "tr": "Altıntepe Ören Yeri" }, "image": "res://images/altintepe.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شلال جيرليفيك", "en": "Girlevik Waterfall", "tr": "Girlevik Şelalesi" }, "image": "res://images/girlevik.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "erzurum": {
+		"names": { "ar": "أرزروم", "en": "Erzurum", "tr": "Erzurum" },
+		"description": {
+		  "ar": "عاصمة التزلج في تركيا بفضل منتجع بالاندوكين، وتضم المدرس ذات المآذن المزدوجة.",
+		  "en": "Turkey's winter sports hub with Palandoken ski resort and Twin Minaret Madrasa.",
+		  "tr": "Palandöken kayak merkezi ve Çifte Minareli Medrese ile ünlü kış şehri."
+		},
+		"image": "res://images/erzurum.png",
+		"bg_image": "res://images/erzurum_bg.png", "image_3d": "res://images/erzurum_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق سوين أرزروم", "en": "Sway Hotels Erzurum", "tr": "Sway Hotels Erzurum" }, "image": "res://images/erzurum_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "المدرسة ذات المئذنتين", "en": "Twin Minaret Madrasa", "tr": "Çifte Minareli Medrese" }, "image": "res://images/cifte_minare.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مركز بالاندوكين للتزلج", "en": "Palandoken Ski Center", "tr": "Palandöken Kayak Merkezi" }, "image": "res://images/palandoken.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "eskisehir": {
+		"names": { "ar": "إسكيشهير", "en": "Eskisehir", "tr": "Eskişehir" },
+		"description": {
+		  "ar": "المدينة الطلابية الحديثة والعصرية، تتميز بنهر بورسوق وحديقة سازوفا الترفيهية.",
+		  "en": "Modern student city known for Porsuk River gondola rides and Sazova Fairy Tale Castle.",
+		  "tr": "Porsuk Çayı, Sazova Parkı ve Odunpazarı evleri ile tanınan modern öğrenci şehri."
+		},
+		"image": "res://images/eskisehir.png",
+		"bg_image": "res://images/eskisehir_bg.png", "image_3d": "res://images/eskisehir_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق تاسيجو إسكيشهير", "en": "Tasigo Hotels Eskisehir", "tr": "Tasigo Hotels Eskişehir" }, "image": "res://images/eskisehir_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "حي أودون بازاري التاريخي", "en": "Odunpazari Historical Houses", "tr": "Odunpazarı Evleri" }, "image": "res://images/odunpazari.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "حديقة سازوفا الترفيهية", "en": "Sazova Science & Culture Park", "tr": "Sazova Parkı" }, "image": "res://images/sazova.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "gaziantep": {
+		"names": { "ar": "غازي عنتاب", "en": "Gaziantep", "tr": "Gaziantep" },
+		"description": {
+		  "ar": "عاصمة الطهي والحلويات في تركيا وموطن البقلاوة الفستقية ومتحف زيوغما للفسيفساء.",
+		  "en": "Gastronomy capital of Turkey famous for pistachios, baklava, and Zeugma Mosaic Museum.",
+		  "tr": "Türkiye'nin gastronomi başkenti, fıstığı, baklavası ve Zeugma Müzesi ile dünyaca ünlü."
+		},
+		"image": "res://images/gaziantep.png",
+		"bg_image": "res://images/gaziantep_bg.png", "image_3d": "res://images/gaziantep_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق شيراتون غازي عنتاب", "en": "Grand Hotel Gaziantep", "tr": "Grand Hotel Gaziantep" }, "image": "res://images/gaziantep_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف زيوغما للفسيفساء", "en": "Zeugma Mosaic Museum", "tr": "Zeugma Mozaik Müzesi" }, "image": "res://images/zeugma.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة غازي عنتاب التاريخية", "en": "Gaziantep Castle", "tr": "Gaziantep Kalesi" }, "image": "res://images/gaziantep_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "giresun": {
+		"names": { "ar": "جيرسون", "en": "Giresun", "tr": "Giresun" },
+		"description": {
+		  "ar": "عاصمة البندق في العالم، وتضم جزيرة جيرسون الوحيدة المأهولة بالبحر الأسود وقلعتها.",
+		  "en": "World capital of hazelnuts, featuring Giresun Island and scenic Black Sea highlands.",
+		  "tr": "Fındığın başkenti, Karadeniz'deki Giresun Adası ve yaylaları ile tanınır."
+		},
+		"image": "res://images/giresun.png",
+		"bg_image": "res://images/giresun_bg.png", "image_3d": "res://images/giresun_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق لا كينتا باي ويندهام", "en": "La Quinta by Wyndham Giresun", "tr": "La Quinta by Wyndham Giresun" }, "image": "res://images/giresun_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة جيرسون", "en": "Giresun Castle", "tr": "Giresun Kalesi" }, "image": "res://images/giresun_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جزيرة جيرسون", "en": "Giresun Island", "tr": "Giresun Adası" }, "image": "res://images/giresun_adası.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "gumushane": {
+		"names": { "ar": "غوموشخانه", "en": "Gumushane", "tr": "Gümüşhane" },
+		"description": {
+		  "ar": "مدينة الفضة والمناظر الطبيعية، وتضم مغارة قرجة المميزة بالهوابط والصواعد.",
+		  "en": "Historic silver mining city, famous for Karaca Cave stalactites and scenic canyons.",
+		  "tr": "Karaca Mağarası ve doğal kanyonları ile ünlü Karadeniz ili."
+		},
+		"image": "res://images/gumushane.png",
+		"bg_image": "res://images/gumushane_bg.png", "image_3d": "res://images/gumushane_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق شيمشيك غوموشخانه", "en": "Simsek Hotel Gumushane", "tr": "Şimşek Otel Gümüşhane" }, "image": "res://images/gumushane_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة سليمانية القديمة", "en": "Old Suleymaniye District", "tr": "Eski Süleymaniye Mahallesi" }, "image": "res://images/suleymaniye_gumushane.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مغارة قرجة (كاراجا)", "en": "Karaca Cave", "tr": "Karaca Mağarası" }, "image": "res://images/karaca_magarasi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "hakkari": {
+		"names": { "ar": "حكاري", "en": "Hakkari", "tr": "Hakkari" },
+		"description": {
+		  "ar": "تقع أقصى جنوب شرق تركيا وتتميز بالسلاسل الجبلية الشاهقة والوديان ومراكز التزلج.",
+		  "en": "Mountainous province in far southeast Turkey known for Zap valley and Mergabutan ski resort.",
+		  "tr": "Zap Vadisi, Mergabütan Kayak Merkezi ve yüce dağları ile ünlü sınır şehri."
+		},
+		"image": "res://images/hakkari.png",
+		"bg_image": "res://images/hakkari_bg.png", "image_3d": "res://images/hakkari_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق شين حكاري", "en": "Sen Hotel Hakkari", "tr": "Şen Otel Hakkari" }, "image": "res://images/hakkari_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدرسة ميدان حكاري", "en": "Meydan Madrasa", "tr": "Meydan Medresesi" }, "image": "res://images/meydan_medrese.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مركز ميرجابوتان للتزلج", "en": "Mergabutan Ski Center", "tr": "Mergabütan Kayak Merkezi" }, "image": "res://images/mergabutan.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "hatay": {
+		"names": { "ar": "هاتاي", "en": "Hatay", "tr": "Hatay" },
+		"description": {
+		  "ar": "عاصمة التسامح والأديان وأنطاكية التاريخية، وتشتهر بالكنافة النابلسية ومتحف الآثار.",
+		  "en": "Historic Antakya, known for mosaic museum, Kunefe dessert, and rich multicultural history.",
+		  "tr": "Mozaik müzesi, Künefesi ve medeniyetler buluşması ile ünlü tarihi ilimiz."
+		},
+		"image": "res://images/hatay.png",
+		"bg_image": "res://images/hatay_bg.png", "image_3d": "res://images/hatay_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق الموزاييك هاتاي", "en": "The Museum Hotel Antakya", "tr": "The Museum Hotel Antakya" }, "image": "res://images/hatay_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "كنيسة القديس بطرس الصخرية", "en": "Church of St. Peter", "tr": "St. Pierre Kilisesi" }, "image": "res://images/st_pierre.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "متحف هاتاي للفسيفساء", "en": "Hatay Archaeology Museum", "tr": "Hatay Arkeoloji Müzesi" }, "image": "res://images/hatay_museum.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "isparta": {
+		"names": { "ar": "إسبارطة", "en": "Isparta", "tr": "Isparta" },
+		"description": {
+		  "ar": "مدينة الورود واللافندر، وتشتهر بحقول اللافندر الكثيفة وبحيرة إيجردير الرائعة.",
+		  "en": "City of Roses and Lavender, famous for Kuyucak lavender village and Egirdir Lake.",
+		  "tr": "Gül ve lavanta diyarı, Eğirdir Gölü ve Kuyucak Lavanta Köyü ile meşhurdur."
+		},
+		"image": "res://images/isparta.png",
+		"bg_image": "res://images/isparta_bg.png", "image_3d": "res://images/isparta_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بارادايس إسبارطة", "en": "Barida Hotels Isparta", "tr": "Barida Hotels Isparta" }, "image": "res://images/isparta_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قرية كويوجاك لللافندر", "en": "Kuyucak Lavender Village", "tr": "Kuyucak Lavanta Köyü" }, "image": "res://images/lavanta.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة إيجردير", "en": "Egirdir Lake", "tr": "Eğirdir Gölü" }, "image": "res://images/egirdir.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "mersin": {
+		"names": { "ar": "مرسين", "en": "Mersin", "tr": "Mersin" },
+		"description": {
+		  "ar": "عروس المتوسط، تتميز بقلعة الفتاة (كيزكاليسي) والكورنيش الطويل وأكل طنطوني مرسين.",
+		  "en": "Mediterranean coastal city known for Maiden's Castle (Kizkalesi) and Tantuni dish.",
+		  "tr": "Kızkalesi, uzun palmiyeli sahili ve meşhur Tantunisi ile bilinen Akdeniz liman kenti."
+		},
+		"image": "res://images/mersin.png",
+		"bg_image": "res://images/mersin_bg.png", "image_3d": "res://images/mersin_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق الميريديان مرسين", "en": "Mersin Divan Hotel", "tr": "Divan Mersin" }, "image": "res://images/mersin_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة الفتاة (كيزكاليسي)", "en": "Maiden's Castle", "tr": "Kızkalesi" }, "image": "res://images/kizkalesi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مغارة الجنة والنار", "en": "Heaven and Hell Caves", "tr": "Cennet Cehennem Obrukları" }, "image": "res://images/cennet_cehennem.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "istanbul": {
+		"names": { "ar": "إسطنبول", "en": "Istanbul", "tr": "İstanbul" },
+		"description": {
+		  "ar": "عاصمة العالم والمدينة التي تربط قارتي آسيا وأوروبا عبر مضيق البوسفور وتاريخها العريق.",
+		  "en": "Crossroads of continents connecting Asia and Europe via Bosphorus, packed with history.",
+		  "tr": "Asya ve Avrupa'yı Boğaz ile birleştiren, tarihi ve kültürüyle dünyanın en büyük metropollerinden biri."
+		},
+		"image": "res://images/istanbul.png",
+		"bg_image": "res://images/istanbul_bg.png", "image_3d": "res://images/istanbul_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق تشيران بالاس كمبينسكي", "en": "Ciragan Palace Kempinski", "tr": "Çırağan Palace Kempinski" }, "image": "res://images/ciragan.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "آيا صوفيا", "en": "Hagia Sophia", "tr": "Ayasofya-i Kebir Cami-i Şerifi" }, "image": "res://images/hagia_sophia.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" }, "image": "res://images/bosphorus.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "izmir": {
+		"names": { "ar": "إزمير", "en": "Izmir", "tr": "İzmir" },
+		"description": {
+		  "ar": "لؤلؤة إيجة وثالث أكبر مدن تركيا، تشتهر ببرج الساعة وأفسس الأثرية ومنطقة ألاجاتي.",
+		  "en": "Pearl of the Aegean, known for Ephesus ancient ruins, Clock Tower, and Alacati.",
+		  "tr": "Ege'nin incisi, Saat Kulesi, Efes Antik Kenti ve Alaçatı ile tanınan 3. büyük şehir."
+		},
+		"image": "res://images/izmir.png",
+		"bg_image": "res://images/izmir_bg.png", "image_3d": "res://images/izmir_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق السويس أوتيل إزمير", "en": "Swissotel Buyuk Efes Izmir", "tr": "Swissotel Büyük Efes İzmir" }, "image": "res://images/izmir_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة أفسس الأثرية", "en": "Ephesus Ancient City", "tr": "Efes Antik Kenti" }, "image": "res://images/ephesus.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "برج الساعة في كوناق", "en": "Izmir Clock Tower", "tr": "İzmir Saat Kulesi" }, "image": "res://images/clock_tower.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kars": {
+		"names": { "ar": "قارص", "en": "Kars", "tr": "Kars" },
+		"description": {
+		  "ar": "مدينة الثلج والقطار السريع (الشرقي)، وتضم مدينة آني الأثرية المدرجة باليونسكو وشيشرون قارص.",
+		  "en": "Destination of Eastern Express train, home to UNESCO Ani ruins and Kars Castle.",
+		  "tr": "Doğu Ekspresi'nin son durağı, Ani Ören Yeri ve Kars Kalesi ile ünlü kış şehri."
+		},
+		"image": "res://images/kars.png",
+		"bg_image": "res://images/kars_bg.png", "image_3d": "res://images/kars_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق قارص بوشكين", "en": "Cheltikov Hotel Kars", "tr": "Kars Cheltikov Otel" }, "image": "res://images/kars_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة آني الأثرية", "en": "Ani Archaeological Site", "tr": "Ani Ören Yeri" }, "image": "res://images/ani.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة قارص", "en": "Kars Castle", "tr": "Kars Kalesi" }, "image": "res://images/kars_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kastamonu": {
+		"names": { "ar": "كاستامونو", "en": "Kastamonu", "tr": "Kastamonu" },
+		"description": {
+		  "ar": "تتميز بالطبيعة الخضراء وجبال إيلغاز ومنازلها العثمانية التراثية والشواطئ.",
+		  "en": "Known for Ilgaz mountain national park, Ottoman architecture, and Black Sea coast.",
+		  "tr": "Ilgaz Dağı, Osmanlı konakları ve ahşap mimarisi ile ünlü Karadeniz kenti."
+		},
+		"image": "res://images/kastamonu.png",
+		"bg_image": "res://images/kastamonu_bg.png", "image_3d": "res://images/kastamonu_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بارك ديديمان كاستامونو", "en": "Park Dedeman Kastamonu", "tr": "Park Dedeman Kastamonu" }, "image": "res://images/kastamonu_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة كاستامونو", "en": "Kastamonu Castle", "tr": "Kastamonu Kalesi" }, "image": "res://images/kastamonu_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "وادي فالا العميق", "en": "Valla Canyon", "tr": "Valla Kanyonu" }, "image": "res://images/valla.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kayseri": {
+		"names": { "ar": "قيصري", "en": "Kayseri", "tr": "Kayseri" },
+		"description": {
+		  "ar": "تقع تحت أقدام جبل أرجييس وتشتهر بـ الباسترما (البسطرمة) والمانتي ومراكز التزلج العالمية.",
+		  "en": "Located near Mount Erciyes ski resort, famous for Pastirma and Kayseri Mantisi.",
+		  "tr": "Erciyes Kayak Merkezi, pastırması ve mantısı ile ünlü sanayi ve kültür kenti."
+		},
+		"image": "res://images/kayseri.png",
+		"bg_image": "res://images/kayseri_bg.png", "image_3d": "res://images/kayseri_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق راديسون بلو قيصري", "en": "Radisson Blu Kayseri", "tr": "Radisson Blu Kayseri" }, "image": "res://images/kayseri_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة قيصري والسوق المغطى", "en": "Kayseri Castle", "tr": "Kayseri Kalesi" }, "image": "res://images/kayseri_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مركز جبل أرجييس للتزلج", "en": "Mount Erciyes Ski Center", "tr": "Erciyes Kayak Merkezi" }, "image": "res://images/erciyes.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kirklareli": {
+		"names": { "ar": "كيركلاريلي", "en": "Kirklareli", "tr": "Kırklareli" },
+		"description": {
+		  "ar": "تقع في منطقة تراقيا شمال غرب البلاد وتتميز بغابات إينادا المائية الساحرة ومغارة دوبنيسا.",
+		  "en": "Located in Thrace, home to Igneada Floodplain Forests National Park and Dupnisa Cave.",
+		  "tr": "İğneada Longoz Ormanları ve Dupnisa Mağarası ile tanınan Trakya ili."
+		},
+		"image": "res://images/kirklareli.png",
+		"bg_image": "res://images/kirklareli_bg.png", "image_3d": "res://images/kirklareli_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق لوزينغ كيركلاريلي", "en": "Royal Bilgi Hotel Kirklareli", "tr": "Royal Bilgi Hotel Kırklareli" }, "image": "res://images/kirklareli_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مغارة دوبنيسا التاريخية", "en": "Dupnisa Cave", "tr": "Dupnisa Mağarası" }, "image": "res://images/dupnisa.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "غابات إينادا الفيضية المائية", "en": "Igneada Longoz Forests", "tr": "İğneada Longoz Ormanları" }, "image": "res://images/igneada.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kirsehir": {
+		"names": { "ar": "كيرشهير", "en": "Kirsehir", "tr": "Kırşehir" },
+		"description": {
+		  "ar": "مهد ثقافة أخي إيفرين والينابيع الحرارية الدافئة وتراث الموسيقى الشعبية.",
+		  "en": "Cradle of Ahi Evran culture, thermal springs, and traditional Anatolian music.",
+		  "tr": "Ahi Evran kültürü, kaplıcaları ve müzik geleneği ile ünlü İç Anadolu kenti."
+		},
+		"image": "res://images/kirsehir.png",
+		"bg_image": "res://images/kirsehir_bg.png", "image_3d": "res://images/kirsehir_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق مقصود كيرشهير", "en": "Makissos Thermal Hotel", "tr": "Makissos Thermal Hotel" }, "image": "res://images/kirsehir_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جامع وضريح أخي إيفرين", "en": "Ahi Evran Mosque & Tomb", "tr": "Ahi Evran Camii ve Türbesi" }, "image": "res://images/ahi_evran.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "متحف كاكاباي الفلكي", "en": "Cacabey Madrasa", "tr": "Cacabey Medresesi" }, "image": "res://images/cacabey.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kocaeli": {
+		"names": { "ar": "كوجالي", "en": "Kocaeli", "tr": "Kocaeli" },
+		"description": {
+		  "ar": "تضم مدينة إزميد ومنتجع معشوقية وقرية أورمانيا وجبل كارتيبي للتزلج القريبة من إسطنبول.",
+		  "en": "Industrial & nature hub near Istanbul featuring Masukiye, Ormanya, and Kartepe ski resort.",
+		  "tr": "Maşukiye, Ormanya, Kartepe Kayak Merkezi ve Sanayisi ile bilinen komşu şehir."
+		},
+		"image": "res://images/kocaeli.png",
+		"bg_image": "res://images/kocaeli_bg.png", "image_3d": "res://images/kocaeli_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ويندهام كوجالي", "en": "Ramada Plaza Kocaeli", "tr": "Ramada Plaza Kocaeli" }, "image": "res://images/kocaeli_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف برج الساعة كوجالي", "en": "Izmit Clock Tower", "tr": "İzmit Saat Kulesi" }, "image": "res://images/izmit_clock.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "منتزه أورمانيا ومعشوقية", "en": "Ormanya Park & Masukiye", "tr": "Ormanya Doğan Yaşam Parkı" }, "image": "res://images/ormanya.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "konya": {
+		"names": { "ar": "قونية", "en": "Konya", "tr": "Konya" },
+		"description": {
+		  "ar": "عاصمة السلاجقة وموطن مولانا جلال الدين الرومي، وتشتهر برقصة الدراويش وطبق اللحم بعجين.",
+		  "en": "Seljuk capital home to Mevlana Rumi Museum, Whirling Dervishes, and Etli Ekmek dish.",
+		  "tr": "Selçuklu başkenti, Mevlana Müzesi, Semazen gösterileri ve Etli Ekmek ile meşhur."
+		},
+		"image": "res://images/konya.png",
+		"bg_image": "res://images/konya_bg.png", "image_3d": "res://images/konya_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق هيلتون قونية", "en": "Hilton Garden Inn Konya", "tr": "Hilton Garden Inn Konya" }, "image": "res://images/konya_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف جلال الدين الرومي", "en": "Mevlana Museum", "tr": "Mevlana Müzesi" }, "image": "res://images/mevlana.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "حديقة الفراشات الاستوائية", "en": "Konya Tropical Butterfly Garden", "tr": "Konya Tropikal Kelebek Bahçesi" }, "image": "res://images/kelebek_bahcesi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kutahya": {
+		"names": { "ar": "كوتاهيا", "en": "Kutahya", "tr": "Kütahya" },
+		"description": {
+		  "ar": "عاصمة الخزف والسيراميك التركي الأصيل وتضم معبد أيزانوي الروماني الشهير.",
+		  "en": "Capital of Ottoman tiles and ceramics, featuring Aizanoi ancient Roman temple.",
+		  "tr": "Çini ve seramik sanatı, Aizanoi Antik Kenti ile ünlü Ege kenti."
+		},
+		"image": "res://images/kutahya.png",
+		"bg_image": "res://images/kutahya_bg.png", "image_3d": "res://images/kutahya_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق هيلتون كوتاهيا", "en": "Hilton Garden Inn Kutahya", "tr": "Hilton Garden Inn Kütahya" }, "image": "res://images/kutahya_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة أيزانوي الأثرية", "en": "Aizanoi Ancient City", "tr": "Aizanoi Antik Kenti" }, "image": "res://images/aizanoi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة كوتاهيا", "en": "Kutahya Castle", "tr": "Kütahya Kalesi" }, "image": "res://images/kutahya_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "malatya": {
+		"names": { "ar": "ملاطية", "en": "Malatya", "tr": "Malatya" },
+		"description": {
+		  "ar": "عاصمة المشمش الأولى في العالم، وتضم موقع أرسلان تبه الأثري المدرج بقائمة اليونسكو.",
+		  "en": "World apricot capital, home to UNESCO Arslantepe Mound archaeological site.",
+		  "tr": "Dünyanın kayısı başkenti, UNESCO miraslı Arslantepe Höyüğü ile ünlü."
+		},
+		"image": "res://images/malatya.png",
+		"bg_image": "res://images/malatya_bg.png", "image_3d": "res://images/malatya_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق موفنبيك ملاطية", "en": "Movenpick Hotel Malatya", "tr": "Mövenpick Hotel Malatya" }, "image": "res://images/malatya_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "تل أرسلان تبه الأثري", "en": "Arslantepe Mound", "tr": "Arslantepe Höyüğü" }, "image": "res://images/arslantepe.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شلالات جيرمانا (باتالميزي)", "en": "Gunpinar Waterfall", "tr": "Günpınar Şelalesi" }, "image": "res://images/gunpinar.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "manisa": {
+		"names": { "ar": "مانيسا", "en": "Manisa", "tr": "Manisa" },
+		"description": {
+		  "ar": "مدينة الأمراء العثمانيين، تشتهر بمهرجان معجون الميسير ومدينة ساردس الأثرية وعرائس الزبيب.",
+		  "en": "City of Ottoman Princes, famous for Mesir Paste festival and Sardis Lydian capital.",
+		  "tr": "Şehzadeler şehri, Mesir Macunu festivali ve Lidya başkenti Sardes ile tanınır."
+		},
+		"image": "res://images/manisa.png",
+		"bg_image": "res://images/manisa_bg.png", "image_3d": "res://images/manisa_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق دبل تري هيلتون مانيسا", "en": "DoubleTree by Hilton Manisa", "tr": "DoubleTree by Hilton Manisa" }, "image": "res://images/manisa_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة ساردس الأثرية الليدية", "en": "Sardis Ancient City", "tr": "Sardes Antik Kenti" }, "image": "res://images/sardis.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "حديقة جبل سيبيل الوطنية", "en": "Spil Mountain National Park", "tr": "Spil Dağı Milli Parkı" }, "image": "res://images/spil.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kahramanmaras": {
+		"names": { "ar": "قهرمان مرعش", "en": "Kahramanmaras", "tr": "Kahramanmaraş" },
+		"description": {
+		  "ar": "موطن الآيس كريم المرعشي الشهير عالمياً بطعمه المتماسك والقلعة التاريخية.",
+		  "en": "World birthplace of stretchy Maraş Ice Cream (Dondurma) and historical castle.",
+		  "tr": "Dünyaca ünlü Maraş Dondurması ve tarihi kalesi ile bilinen kahraman şehir."
+		},
+		"image": "res://images/kahramanmaras.png",
+		"bg_image": "res://images/kahramanmaras_bg.png", "image_3d": "res://images/kahramanmaras_3d.png",
+		"is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أربيل مرعش", "en": "Ramada Plaza Kahramanmaras", "tr": "Ramada Plaza Kahramanmaraş" }, "image": "res://images/maras_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة قهرمان مرعش", "en": "Kahramanmaras Castle", "tr": "Kahramanmaraş Kalesi" }, "image": "res://images/maras_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "سوق الآيس كريم والشرق التراثي", "en": "Traditional Covered Bazaar", "tr": "Tarihi Kapalı Çarşı" }, "image": "res://images/maras_bazaar.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "mardin": {
+		"names": { "ar": "ماردين", "en": "Mardin", "tr": "Mardin" },
+		"description": {
+		  "ar": "متحف المفتوح المبني من الحجر الأصفر ذو الطراز المعماري الفريد المطل على سهول ميزوبوتاميا.",
+		  "en": "Open-air stone architecture city overlooking Mesopotamian plains with rich multicultural heritage.",
+		  "tr": "Mezopotamya ovasına bakan taş evleri ve zengin kültürel dokusuyla açık hava müzesi."
+		},
+		"image": "res://images/mardin.png",
+		"bg_image": "res://images/mardin_bg.png", "image_3d": "res://images/mardin_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق هيلتون ماردين", "en": "Hilton Garden Inn Mardin", "tr": "Hilton Garden Inn Mardin" }, "image": "res://images/mardin_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدرسة الزعفران ودير مار حنانيا", "en": "Deyrulzafaran Monastery", "tr": "Deyrulzafaran Manastırı" }, "image": "res://images/deyrulzafaran.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مدرسة القاسمية التاريخية", "en": "Kasimiye Madrasa", "tr": "Kasımiye Medresesi" }, "image": "res://images/kasimiye.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "mugla": {
+		"names": { "ar": "موغلا", "en": "Mugla", "tr": "Muğla" },
+		"description": {
+		  "ar": "عاصمة السياحة البحرية وتضم أشهر المنتجعات مثل بودروم وفتحية ومارماريس وأولودينيز.",
+		  "en": "Home to Turkey's top holiday destinations: Bodrum, Fethiye, Marmaris, and Oludeniz.",
+		  "tr": "Bodrum, Fethiye, Marmaris ve Ölüdeniz gibi dünyaca ünlü tatil beldelerinin adresi."
+		},
+		"image": "res://images/mugla.png",
+		"bg_image": "res://images/mugla_bg.png", "image_3d": "res://images/mugla_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق الماندرين أورينتال بودروم", "en": "Mandarin Oriental Bodrum", "tr": "Mandarin Oriental Bodrum" }, "image": "res://images/bodrum_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة بودروم ومتحف الآثار البحرية", "en": "Bodrum Castle", "tr": "Bodrum Kalesi" }, "image": "res://images/bodrum_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شاطئ أولودينيز (البحر الميت) بفتحية", "en": "Oludeniz Blue Lagoon", "tr": "Ölüdeniz" }, "image": "res://images/oludeniz.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "mus": {
+		"names": { "ar": "موش", "en": "Mus", "tr": "Muş" },
+		"description": {
+		  "ar": "تشتهر بسهول موش الواسعة وبحقول خزامى موش ذات اللون البنفسجي والجسر التاريخي.",
+		  "en": "Famous for vast plains, purple Mus tulips (Lale), and historic Murat Bridge.",
+		  "tr": "Muş Ovası, lale tarlaları ve tarihi Murat Köprüsü ile bilinen doğu ili."
+		},
+		"image": "res://images/mus.png",
+		"bg_image": "res://images/mus_bg.png", "image_3d": "res://images/mus_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند موش", "en": "Grand Mus Hotel", "tr": "Grand Muş Otel" }, "image": "res://images/mus_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جسر مراد التاريخي", "en": "Murat Bridge", "tr": "Tarihi Murat Köprüsü" }, "image": "res://images/murat_koprusu.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "سهول وحقول خزامى موش", "en": "Mus Tulip Fields", "tr": "Muş Lale Tarlaları" }, "image": "res://images/mus_lale.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "nevsehir": {
+		"names": { "ar": "نوشهر", "en": "Nevsehir", "tr": "Nevşehir" },
+		"description": {
+		  "ar": "قلب منطقة كابادوكيا الساحرة بالمنطاد الهوائي ومداخن الجنيات والمدن تحت الأرض.",
+		  "en": "Heart of Cappadocia famous for hot air balloons, fairy chimneys, and underground cities.",
+		  "tr": "Kapadokya'nın kalbi, sıcak hava balonları, peribacaları ve yeraltı şehirleri ile ünlü."
+		},
+		"image": "res://images/nevsehir.png",
+		"bg_image": "res://images/nevsehir_bg.png", "image_3d": "res://images/nevsehir_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق متحف كابادوكيا", "en": "Museum Hotel Cappadocia", "tr": "Museum Hotel Kapadokya" }, "image": "res://images/cappadocia_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف غوريمي المفتوح", "en": "Goreme Open Air Museum", "tr": "Göreme Açık Hava Müzesi" }, "image": "res://images/goreme.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "وادي مداخن الجنيات والمنطاد", "en": "Fairy Chimneys Valley", "tr": "Paşabağları Peribacaları" }, "image": "res://images/peribacalari.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "nigde": {
+		"names": { "ar": "نيدة", "en": "Nigde", "tr": "Niğde" },
+		"description": {
+		  "ar": "تتميز بدير جوموشلر الصخري التاريخي وجبال ألارادالار للحيوانات البرية والتسلق.",
+		  "en": "Known for Gumusler Monastery, Aladaglar National Park, and historic Seljuk monuments.",
+		  "tr": "Gümüşler Manastırı, Aladağlar Milli Parkı ve Selçuklu eserleri ile tanınır."
+		},
+		"image": "res://images/nigde.png",
+		"bg_image": "res://images/nigde_bg.png", "image_3d": "res://images/nigde_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند نيدة", "en": "Grand Hotel Nigde", "tr": "Grand Hotel Niğde" }, "image": "res://images/nigde_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "دير جوموشلر الصخري", "en": "Gumusler Monastery", "tr": "Gümüşler Manastırı" }, "image": "res://images/gumusler.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "حديقة جبال ألارادالار الوطنية", "en": "Aladaglar National Park", "tr": "Aladağlar Milli Parkı" }, "image": "res://images/aladaglar.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "ordu": {
+		"names": { "ar": "أوردو", "en": "Ordu", "tr": "Ordu" },
+		"description": {
+		  "ar": "عروس البحر الأسود، تشتهر بالتلفريك المطل على المدينة من تلة بوزتيبي وهضبة أيباستي.",
+		  "en": "Black Sea beauty famous for Boztepe cable car panorama and Aybasti meanders.",
+		  "tr": "Boztepe teleferiği, fındığı ve Aybastı Perşembe Yaylası ile ünlü Karadeniz ili."
+		},
+		"image": "res://images/ordu.png",
+		"bg_image": "res://images/ordu_bg.png", "image_3d": "res://images/ordu_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق راديسون بلو أوردو", "en": "Radisson Blu Hotel Ordu", "tr": "Radisson Blu Hotel Ordu" }, "image": "res://images/ordu_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة كورول الأثرية", "en": "Kurul Castle", "tr": "Kurul Kalesi" }, "image": "res://images/kurul.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "تلة بوزتيبي والتلفريك", "en": "Boztepe Hill & Cable Car", "tr": "Boztepe ve Teleferik" }, "image": "res://images/boztepe.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "rize": {
+		"names": { "ar": "ريزا", "en": "Rize", "tr": "Rize" },
+		"description": {
+		  "ar": "عاصمة الشاي الأخضر والهضاب الخضراء الساحرة مثل آيدر ووديان وجسور زيلكالي.",
+		  "en": "Capital of Turkish tea, famous for Ayder Plateau, storm valley, and Zilcastle.",
+		  "tr": "Çayın başkenti, Ayder Yaylası, Fırtına Deresi ve Zilkale ile ünlü doğa cenneti."
+		},
+		"image": "res://images/rize.png",
+		"bg_image": "res://images/rize_bg.png", "image_3d": "res://images/rize_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ريكسوس آيدر", "en": "Ricosta Hotel Rize", "tr": "Ricosta Hotel Rize" }, "image": "res://images/rize_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة زيلكالي في الوادي", "en": "Zil Castle (Zilkale)", "tr": "Zilkale" }, "image": "res://images/zilkale.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مرتفعات وهضبة آيدر", "en": "Ayder Plateau", "tr": "Ayder Yaylası" }, "image": "res://images/ayder.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "sakarya": {
+		"names": { "ar": "صقاريا", "en": "Sakarya", "tr": "Sakarya" },
+		"description": {
+		  "ar": "تضم مدينة أدابازاري وبحيرة سبانجا الشهيرة بسياحتها وشلالات وطبيعة وادي نارلي.",
+		  "en": "Famous for Sapanca Lake, Adapazari, scenic nature resorts, and freshwater lakes.",
+		  "tr": "Sapanca Gölü, Adapazarı ve yeşil doğa turizmi ile tanınan Marmara kenti."
+		},
+		"image": "res://images/sakarya.png",
+		"bg_image": "res://images/sakarya_bg.png", "image_3d": "res://images/sakarya_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق إنغور سبانجا", "en": "NG Sapanca Wellness & Convention", "tr": "NG Sapanca" }, "image": "res://images/sapanca_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جسر بستلي البيزنطي (جسر جستنيان)", "en": "Justinian Bridge", "tr": "Justinianos Köprüsü" }, "image": "res://images/justinian.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة سبانجا", "en": "Sapanca Lake", "tr": "Sapanca Gölü" }, "image": "res://images/sapanca_lake.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "samsun": {
+		"names": { "ar": "سامسون", "en": "Samsun", "tr": "Samsun" },
+		"description": {
+		  "ar": "أكبر مدن البحر الأسود وموقع انطلاق حرب الاستقلال التركية وتضم سفينة باندرما التاريخية.",
+		  "en": "Largest city on Black Sea coast, historic starting point of Turkish War of Independence.",
+		  "tr": "Karadeniz'in en büyük kenti, Bandırma Vapuru ve Kurtuluş Savaşı simgesi."
+		},
+		"image": "res://images/samsun.png",
+		"bg_image": "res://images/samsun_bg.png", "image_3d": "res://images/samsun_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق شيراتون سامسون", "en": "Sheraton Grand Samsun", "tr": "Sheraton Grand Samsun" }, "image": "res://images/samsun_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف متحف سفينة باندرما", "en": "Bandirma Ship Museum", "tr": "Bandırma Vapuru Müzesi" }, "image": "res://images/bandirma.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "وادي شاهين كايا العميق", "en": "Sahinkaya Canyon", "tr": "Şahinkaya Kanyonu" }, "image": "res://images/sahinkaya.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "siirt": {
+		"names": { "ar": "سعرد", "en": "Siirt", "tr": "Siirt" },
+		"description": {
+		  "ar": "تشتهر بوادي بوطان وجسر ديراس ووادي راسو المقابل للصخور والمعالم التاريخية والدينية.",
+		  "en": "Famous for Botan Canyon, Rasıl Hacar glass terrace, and traditional Siirt blankets.",
+		  "tr": "Botan Kanyonu, Rasıl Hacar (Delikli Taş) ve Veysel Karani Türbesi ile tanınır."
+		},
+		"image": "res://images/siirt.png",
+		"bg_image": "res://images/siirt_bg.png", "image_3d": "res://images/siirt_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بوردام سعرد", "en": "Barden Hotel Siirt", "tr": "Barden Hotel Siirt" }, "image": "res://images/siirt_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "ضريح أويس القرني (فيسيل قراني)", "en": "Veysel Karani Shrine", "tr": "Veysel Karani Türbesi" }, "image": "res://images/karani.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "وادي بوطان والتراس الزجاجي", "en": "Botan Canyon", "tr": "Botan Kanyonu" }, "image": "res://images/botan.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "sinop": {
+		"names": { "ar": "سينوب", "en": "Sinop", "tr": "Sinop" },
+		"description": {
+		  "ar": "أقصى نقطة شمال تركيا على البحر الأسود وتضم سجن سينوب التاريخي وشبه جزيرة إنجه بورون.",
+		  "en": "Northernmost point of Turkey, famous for historic Sinop Fortress Prison and Inceburun.",
+		  "tr": "Türkiye'nin en kuzey noktası, Tarihi Sinop Cezaevi ve İnceburun Feneri ile ünlü."
+		},
+		"image": "res://images/sinop.png",
+		"bg_image": "res://images/sinop_bg.png", "image_3d": "res://images/sinop_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق زيرو سينوب", "en": "Vira Hotel Sinop", "tr": "Vira Otel Sinop" }, "image": "res://images/sinop_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "سجن سينوب التاريخي", "en": "Historical Sinop Prison", "tr": "Tarihi Sinop Cezaevi" }, "image": "res://images/sinop_prison.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شلالات إرفيلك التابعة لسينوب", "en": "Erfelek Waterfalls", "tr": "Erfelek Şelaleleri" }, "image": "res://images/erfelek.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "sivas": {
+		"names": { "ar": "سيواس", "en": "Sivas", "tr": "Sivas" },
+		"description": {
+		  "ar": "مدينة التاريخ السلجوقي وتضم جامع ومشفى ديفريغي المدرج باليونسكو والمدرسة البروجردية.",
+		  "en": "Historic Seljuk city home to UNESCO Divrigi Great Mosque and Hospital, Buruciye Madrasa.",
+		  "tr": "UNESCO mirası Divriği Ulu Cami, Çifte Minare ve Buruciye Medresesi ile ünlü tarihi il."
+		},
+		"image": "res://images/sivas.png",
+		"bg_image": "res://images/sivas_bg.png", "image_3d": "res://images/sivas_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ويندهام سيواس", "en": "Ramada by Wyndham Sivas", "tr": "Ramada by Wyndham Sivas" }, "image": "res://images/sivas_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جامع ومشفى ديفريغي الكبير", "en": "Divrigi Great Mosque & Hospital", "tr": "Divriği Ulu Cami ve Darüşşifası" }, "image": "res://images/divrigi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "المدرسة البروجردية التاريخية", "en": "Buruciye Madrasa", "tr": "Buruciye Medresesi" }, "image": "res://images/buruciye.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "tekirdag": {
+		"names": { "ar": "تكيرداغ", "en": "Tekirdag", "tr": "Tekirdağ" },
+		"description": {
+		  "ar": "تقع على ساحل بحر مرمرة في تراقيا، وتشتهر بـ 'كفتة تكيرداغ' والكروم الطبيعية الجميلة.",
+		  "en": "Coastal city on Sea of Marmara famous for Tekirdag Meatballs (Kofte) and vineyards.",
+		  "tr": "Marmara kıyısında meşhur Tekirdağ Köftesi ve bağları ile tanınan Trakya kenti."
+		},
+		"image": "res://images/tekirdag.png",
+		"bg_image": "res://images/tekirdag_bg.png", "image_3d": "res://images/tekirdag_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ريمينغتون تكيرداغ", "en": "Ramada Hotel Tekirdag", "tr": "Ramada Hotel Tekirdağ" }, "image": "res://images/tekirdag_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف راكوتزي التاريخي", "en": "Rakoczi Museum", "tr": "Rakoczi Müzesi" }, "image": "res://images/rakoczi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شاطئ ومرفأ تكيرداغ", "en": "Tekirdag Beach Promenade", "tr": "Tekirdağ Sahili" }, "image": "res://images/tekirdag_beach.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "tokat": {
+		"names": { "ar": "توكات", "en": "Tokat", "tr": "Tokat" },
+		"description": {
+		  "ar": "مدينة القلاع والبيوت العثمانية وتشتهر بمغارة بالليجا وقصر لاتيفوغلو وقبابها التاريخية.",
+		  "en": "Known for Ballica Cave stalactites, historic Ottoman mansions, and Tokat Kebab.",
+		  "tr": "Ballıca Mağarası, tarihi konakları ve Tokat Kebabı ile ünlü Anadolu şehri."
+		},
+		"image": "res://images/tokat.png",
+		"bg_image": "res://images/tokat_bg.png", "image_3d": "res://images/tokat_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ديديمان توكات", "en": "Dedeman Tokat", "tr": "Dedeman Tokat" }, "image": "res://images/tokat_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة توكات البرجية", "en": "Tokat Castle", "tr": "Tokat Kalesi" }, "image": "res://images/tokat_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مغارة بالليجا العجيبة", "en": "Ballica Cave", "tr": "Ballıca Mağarası" }, "image": "res://images/ballica.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "trabzon": {
+		"names": { "ar": "طرابزون", "en": "Trabzon", "tr": "Trabzon" },
+		"description": {
+		  "ar": "عروس الشمال التركي الساحرة ببحيرة أوزنجول ودير سوميلا المعلق في الجبل وهضاب حيدر نبي.",
+		  "en": "Pearl of Black Sea featuring Uzungol Lake, cliffside Sumela Monastery, and green plateaus.",
+		  "tr": "Uzungöl, Sümela Manastırı ve Hıdırnebe Yaylası ile ünlü Doğu Karadeniz'in gözdesi."
+		},
+		"image": "res://images/trabzon.png",
+		"bg_image": "res://images/trabzon_bg.png", "image_3d": "res://images/trabzon_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق راديسون بلو طرابزون", "en": "Radisson Blu Hotel Trabzon", "tr": "Radisson Blu Hotel Trabzon" }, "image": "res://images/trabzon_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "دير سوميلا التاريخي", "en": "Sumela Monastery", "tr": "Sümela Manastırı" }, "image": "res://images/sumela.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة أوزنجول", "en": "Uzungol Lake", "tr": "Uzungöl" }, "image": "res://images/uzungol.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "tunceli": {
+		"names": { "ar": "تونجلي", "en": "Tunceli", "tr": "Tunceli" },
+		"description": {
+		  "ar": "تتميز بالطبيعة العذراء والوديان الساحرة مثل وادي مونزور ونهر مونزور الصافي.",
+		  "en": "Famous for pristine wild nature, Munzur Valley National Park, and Munzur River.",
+		  "tr": "Munzur Vadisi Milli Parkı, Munzur Gözeleri ve el değmemiş doğası ile tanınır."
+		},
+		"image": "res://images/tunceli.png",
+		"bg_image": "res://images/tunceli_bg.png", "image_3d": "res://images/tunceli_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق غراند تونجلي", "en": "Grand Hotel Tunceli", "tr": "Grand Otel Tunceli" }, "image": "res://images/tunceli_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة وبقايا بيري", "en": "Pertek Castle", "tr": "Pertek Kalesi" }, "image": "res://images/pertek.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "الحديقة الوطنية بوادي مونزور", "en": "Munzur Valley National Park", "tr": "Munzur Vadisi Milli Parkı" }, "image": "res://images/munzur.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "sanliurfa": {
+		"names": { "ar": "شانلي أورفا", "en": "Sanliurfa", "tr": "Şanlıurfa" },
+		"description": {
+		  "ar": "مدينة الأنبياء وتضم بحيرة الأسماك المقدس وموقع جوبكلي تبه أقدم معبد في التاريخ.",
+		  "en": "City of Prophets home to Sacred Fish Lake (Balikligol) and Gobeklitepe, world's oldest temple.",
+		  "tr": "Peygamberler şehri, Balıklıgöl ve dünyanın en eski tapınağı Göbeklitepe ile meşhur."
+		},
+		"image": "res://images/sanliurfa.png",
+		"bg_image": "res://images/sanliurfa_bg.png", "image_3d": "res://images/sanliurfa_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق هيلتون أورفا", "en": "Hilton Garden Inn Sanliurfa", "tr": "Hilton Garden Inn Şanlıurfa" }, "image": "res://images/urfa_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "موقع جوبكلي تبه الأثري", "en": "Gobeklitepe Archaeological Site", "tr": "Göbeklitepe" }, "image": "res://images/gobeklitepe.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة الأسماك (باليكليجول)", "en": "Sacred Fish Lake (Balikligol)", "tr": "Balıklıgöl" }, "image": "res://images/balikligol.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "usak": {
+		"names": { "ar": "أوشاك", "en": "Usak", "tr": "Uşak" },
+		"description": {
+		  "ar": "تضم ثاني أكبر وادي عميق بالعالم (وادي أولوبينار) ومتحف الكنوز الكارونية الأثرية.",
+		  "en": "Home to Ulubey Canyon, world's second longest canyon, and Karun Treasure museum.",
+		  "tr": "Dünyanın en uzun 2. kanyonu Ulubey Kanyonu ve Karun Hazineleri ile ünlü."
+		},
+		"image": "res://images/usak.png",
+		"bg_image": "res://images/usak_bg.png", "image_3d": "res://images/usak_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أوشاك دالميز", "en": "Ramada by Wyndham Usak", "tr": "Ramada by Wyndham Uşak" }, "image": "res://images/usak_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف آثار أوشاك وكنز قارون", "en": "Usak Archaeology Museum", "tr": "Uşak Arkeoloji Müzesi" }, "image": "res://images/usak_museum.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "وادي أولوبينار (أولوباي)", "en": "Ulubey Canyon", "tr": "Ulubey Kanyonu" }, "image": "res://images/ulubey.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "van": {
+		"names": { "ar": "فان", "en": "Van", "tr": "Van" },
+		"description": {
+		  "ar": "تشتهر ببحيرة فان الأكبر في تركيا وجزيرة أكدامار وكنيستها وفطور فان الشهير وقطط فان المميزة.",
+		  "en": "Famous for Lake Van, Akdamar Island Armenian Church, Van Cat breed, and rich breakfast.",
+		  "tr": "Van Gölü, Akdamar Adası, Meşhur Van Kahvaltısı ve Van Kedisi ile tanınan doğu ili."
+		},
+		"image": "res://images/van.png",
+		"bg_image": "res://images/van_bg.png", "image_3d": "res://images/van_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق راديسون بلو فان", "en": "Elite World Van Hotel", "tr": "Elite World Van Otel" }, "image": "res://images/van_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جزيرة وكنيسة أكدامار", "en": "Akdamar Island Church", "tr": "Akdamar Kilisesi" }, "image": "res://images/akdamar.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة فان التاريخية", "en": "Van Castle", "tr": "Van Kalesi" }, "image": "res://images/van_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "yozgat": {
+		"names": { "ar": "يوزغات", "en": "Yozgat", "tr": "Yozgat" },
+		"description": {
+		  "ar": "تضم أول حديقة وطنية أعلنت في تركيا (حديقة يوزغات جامليغي) والحمامات الرومانية التاريخية.",
+		  "en": "Home to Turkey's first national park (Yozgat Pine Grove) and Basilica Therma Roman Bath.",
+		  "tr": "Türkiye'nin ilk milli parkı Yozgat Çamlığı ve Kral Kızı Roma Hamamı ile ünlü."
+		},
+		"image": "res://images/yozgat.png",
+		"bg_image": "res://images/yozgat_bg.png", "image_3d": "res://images/yozgat_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق يوزغات غراند", "en": "Grand Yozgat Hotel", "tr": "Grand Yozgat Otel" }, "image": "res://images/yozgat_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "الحمام الروماني التاريخي (باسليكا ثيرما)", "en": "Basilica Therma Roman Bath", "tr": "Roma Hamamı (Basilica Therma)" }, "image": "res://images/basilica_therma.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "حديقة يوزغات الصنوبرية الوطنية", "en": "Yozgat Pine Grove National Park", "tr": "Yozgat Çamlığı Milli Parkı" }, "image": "res://images/yozgat_camligi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "zonguldak": {
+		"names": { "ar": "زونغولداك", "en": "Zonguldak", "tr": "Zonguldak" },
+		"description": {
+		  "ar": "عاصمة المناجم والفحم في تركيا على ساحل البحر الأسود وتضم مغارة جوكجول العجيبة.",
+		  "en": "Mining capital on Black Sea coast famous for Gokgol Cave and coastal landscapes.",
+		  "tr": "Maden şehri, Gökgöl Mağarası ve Karadeniz sahil şeridi ile ünlü port kenti."
+		},
+		"image": "res://images/zonguldak.png",
+		"bg_image": "res://images/zonguldak_bg.png", "image_3d": "res://images/zonguldak_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ديديمان زونغولداك", "en": "Dedeman Zonguldak", "tr": "Dedeman Zonguldak" }, "image": "res://images/zonguldak_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف زونغولداك للتعدين", "en": "Zonguldak Mining Museum", "tr": "Zonguldak Maden Müzesi" }, "image": "res://images/zonguldak_museum.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "مغارة جوكجول الملونة", "en": "Gokgol Cave", "tr": "Gökgöl Mağarası" }, "image": "res://images/gokgol.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "aksaray": {
+		"names": { "ar": "أقسراي", "en": "Aksaray", "tr": "Aksaray" },
+		"description": {
+		  "ar": "بوابة كابادوكيا وتضم وادي إهلارا الصخري الشاهق والخان السلجوقي سلطان خان.",
+		  "en": "Gateway to Cappadocia, home to Ihlara Valley canyon and Sultanhanı Caravanserai.",
+		  "tr": "Ihlara Vadisi kanyonu ve tarihi Sultanhanı Kervansarayı ile bilinen şehir."
+		},
+		"image": "res://images/aksaray.png",
+		"bg_image": "res://images/aksaray_bg.png", "image_3d": "res://images/aksaray_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أقسراي غراند", "en": "Grand Altuntaş Hotel Aksaray", "tr": "Grand Altuntaş Hotel Aksaray" }, "image": "res://images/aksaray_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "خان السلطان السلجوقي (سلطان خان)", "en": "Sultanikhan Caravanserai", "tr": "Sultanhanı Kervansarayı" }, "image": "res://images/sultanhan.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "وادي إهلارا الصخري", "en": "Ihlara Valley", "tr": "Ihlara Vadisi" }, "image": "res://images/ihlara.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bayburt": {
+		"names": { "ar": "بايبورت", "en": "Bayburt", "tr": "Bayburt" },
+		"description": {
+		  "ar": "تقع على نهر تشوروه وتشتهر بقلعة بايبورت التاريخية العظيمة ومتحف باكسي الحديث.",
+		  "en": "Located on Coruh River, famous for massive Bayburt Castle and Baksi Art Museum.",
+		  "tr": "Çoruh Nehri kenarında, tarihi Bayburt Kalesi ve Baksı Müzesi ile ünlü."
+		},
+		"image": "res://images/bayburt.png",
+		"bg_image": "res://images/bayburt_bg.png", "image_3d": "res://images/bayburt_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بايبورت ديديمان", "en": "Bayburt Konak Hotel", "tr": "Bayburt Konak Otel" }, "image": "res://images/bayburt_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف باكسي للفنون المعاصرة", "en": "Baksi Museum", "tr": "Baksı Müzesi" }, "image": "res://images/baksi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة بايبورت الضخمة", "en": "Bayburt Castle", "tr": "Bayburt Kalesi" }, "image": "res://images/bayburt_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "karaman": {
+		"names": { "ar": "قارامان", "en": "Karaman", "tr": "Karaman" },
+		"description": {
+		  "ar": "عاصمة إمارة قرمان القديمة، وتضم قلعة قارامان وموقع بينبير كيليسة الأثري.",
+		  "en": "Capital of historic Karamanids, known for Karaman Castle and Binbirkilise.",
+		  "tr": "Karamanoğulları Beyliği'nin başkenti, Karaman Kalesi ve Binbirkilise ile meşhur."
+		},
+		"image": "res://images/karaman.png",
+		"bg_image": "res://images/karaman_bg.png", "image_3d": "res://images/karaman_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق قارامان غراند", "en": "Grand Karaman Hotel", "tr": "Grand Karaman Otel" }, "image": "res://images/karaman_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "جامع وقبة يونس إمري", "en": "Yunus Emre Mosque", "tr": "Yunus Emre Camii" }, "image": "res://images/yunus_emre.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "قلعة قارامان التاريخية", "en": "Karaman Castle", "tr": "Karaman Kalesi" }, "image": "res://images/karaman_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kirikkale": {
+		"names": { "ar": "كيريكالي", "en": "Kirikkale", "tr": "Kırıkkale" },
+		"description": {
+		  "ar": "تتميز بقربها من العاصمة أنقرة وتضم جسر تشاشنيغير التاريخي على النهر الأحمر.",
+		  "en": "Located near Ankara, famous for historic Cesnigir Bridge over Kizilirmak River.",
+		  "tr": "Ankara'ya yakın, Kızılırmak üzerindeki tarihi Çeşnigir Köprüsü ile tanınır."
+		},
+		"image": "res://images/kirikkale.png",
+		"bg_image": "res://images/kirikkale_bg.png", "image_3d": "res://images/kirikkale_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق كيريكالي كارميل", "en": "Carmine Hotel Kirikkale", "tr": "Carmine Hotel Kırıkkale" }, "image": "res://images/kirikkale_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "متحف الأسلحة والحديد", "en": "Kirikkale Weapons Museum", "tr": "Silah Sanayii Müzesi" }, "image": "res://images/silah_muzesi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جسر تشاشنيغير وواديه", "en": "Cesnigir Bridge & Canyon", "tr": "Çeşnigir Köprüsü ve Kanyonu" }, "image": "res://images/cesnigir.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "batman": {
+		"names": { "ar": "باتمان", "en": "Batman", "tr": "Batman" },
+		"description": {
+		  "ar": "تشتهر ببلدة حصن كيفا (حسنكيف) التاريخية وجسر مالابادي الأثري العظيم.",
+		  "en": "Famous for ancient Hasankeyf settlement on Tigris River and Malabadi Bridge.",
+		  "tr": "Tarihi Hasankeyf antik kenti ve Malabadi Köprüsü ile tanınan şehir."
+		},
+		"image": "res://images/batman.png",
+		"bg_image": "res://images/batman_bg.png", "image_3d": "res://images/batman_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ريل بلازا باتمان", "en": "Real Konak Hotel Batman", "tr": "Real Konak Hotel Batman" }, "image": "res://images/batman_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "موقع حصن كيفا (حسنكيف)", "en": "Hasankeyf Ancient Site", "tr": "Hasankeyf Ören Yeri" }, "image": "res://images/hasankeyf.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جسر مالابادي التاريخي", "en": "Malabadi Bridge", "tr": "Malabadi Köprüsü" }, "image": "res://images/malabadi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "sirnak": {
+		"names": { "ar": "شرناق", "en": "Sirnak", "tr": "Şırnak" },
+		"description": {
+		  "ar": "تقع في جنوب شرق الأناضول وتضم جبل جودي والمشاهد الجبلية الشاهقة.",
+		  "en": "Located in southeast Anatolia, home to Mount Cudi and scenic mountain landscapes.",
+		  "tr": "Cudi Dağı ve zengin tarihi kültürü ile tanınan güneydoğu şehri."
+		},
+		"image": "res://images/sirnak.png",
+		"bg_image": "res://images/sirnak_bg.png", "image_3d": "res://images/sirnak_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق شرناق شينير", "en": "Sahnr Otel Sirnak", "tr": "Şehri Nuh Otel Şırnak" }, "image": "res://images/sirnak_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "المدرسة الحمراء في جزيرة ابن عمر", "en": "Red Madrasa (Kirmizi Medrese)", "tr": "Kırmızı Medrese" }, "image": "res://images/kirmizi_medrese.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "جبل جودي التاريخي", "en": "Mount Cudi", "tr": "Cudi Dağı" }, "image": "res://images/cudi.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "bartin": {
+		"names": { "ar": "بارتين", "en": "Bartin", "tr": "Bartın" },
+		"description": {
+		  "ar": "تضم مدينة أماسرا الساحلية التاريخية الساحرة المطلة على البحر الأسود.",
+		  "en": "Home to Amasra, a picturesque historic coastal town on the Black Sea.",
+		  "tr": "Amasra beldesi, kalesi ve Karadeniz sahilleri ile büyüleyen şehir."
+		},
+		"image": "res://images/bartin.png",
+		"bg_image": "res://images/bartin_bg.png", "image_3d": "res://images/bartin_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بارتين أماسرا", "en": "Amasra Northdoor Hotel", "tr": "Amasra Northdoor Hotel" }, "image": "res://images/bartin_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة أماسرا التاريخية", "en": "Amasra Castle", "tr": "Amasra Kalesi" }, "image": "res://images/amasra_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شاطئ ومرفأ أماسرا", "en": "Amasra Beach", "tr": "Amasra Plajı" }, "image": "res://images/amasra_beach.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "ardahan": {
+		"names": { "ar": "أرداهان", "en": "Ardahan", "tr": "Ardahan" },
+		"description": {
+		  "ar": "تقع شمال شرق تركيا وتشتهر ببحيرة شيلدير المتجمدة شتاءً والتزلج بالزلاجات.",
+		  "en": "Known for frozen Lake Cildir in winter with horse-drawn sleigh rides and Ardahan Castle.",
+		  "tr": "Kışın buz tutan Çıldır Gölü ve atlı kızak turları ile meşhur sınır ili."
+		},
+		"image": "res://images/ardahan.png",
+		"bg_image": "res://images/ardahan_bg.png", "image_3d": "res://images/ardahan_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق أرداهان كافكاس", "en": "Kafkasya Hotel Ardahan", "tr": "Kafkasya Otel Ardahan" }, "image": "res://images/ardahan_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة أرداهان التاريخية", "en": "Ardahan Castle", "tr": "Ardahan Kalesi" }, "image": "res://images/ardahan_castle.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "بحيرة شيلدير المتجمدة", "en": "Lake Cildir", "tr": "Çıldır Gölü" }, "image": "res://images/cildir.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "igdir": {
+		"names": { "ar": "إغدير", "en": "Igdir", "tr": "Iğdır" },
+		"description": {
+		  "ar": "المدينة الوحيدة في تركيا التي تجاور ثلاث دول (أرمينيا، أذربيجان، إيران) وتزرع الفواكه.",
+		  "en": "Bordering three countries (Armenia, Azerbaijan, Iran), known for unique microclimate and cotton/apricots.",
+		  "tr": "Üç ülkeye komşu, mikrolima iklimi ve kayısı bahçeleri ile ünlü ilimiz."
+		},
+		"image": "res://images/igdir.png",
+		"bg_image": "res://images/igdir_bg.png", "image_3d": "res://images/igdir_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق إغدير أراس", "en": "Grand Iğdır Hotel", "tr": "Grand Iğdır Otel" }, "image": "res://images/igdir_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "خان دروب التاريخي (سلجوق كارفانساراي)", "en": "Ejder Caravanserai", "tr": "Ejder Kervansarayı" }, "image": "res://images/ejder.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "نصب ومتحف الإبادة الجمعية", "en": "Igdir Genocide Memorial Museum", "tr": "Iğdır Soykırım Anıtı" }, "image": "res://images/igdir_anit.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "yalova": {
+		"names": { "ar": "يالوفا", "en": "Yalova", "tr": "Yalova" },
+		"description": {
+		  "ar": "مدينة الينابيع الحارة والمنتجعات العلاجية وشلالات سودوشو القريبة من إسطنبول عبر البحر.",
+		  "en": "Famous for thermal hot springs (Termal), Sudusen Waterfall, and close proximity to Istanbul.",
+		  "tr": "Termal kaplıcaları, Sudüşen Şelalesi ve doğası ile bilinen tatil kenti."
+		},
+		"image": "res://images/yalova.png",
+		"bg_image": "res://images/yalova_bg.png", "image_3d": "res://images/yalova_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق ريتز يالوفا حراري", "en": "Thermalium Wellness Park Yalova", "tr": "Thermalium Wellness Park" }, "image": "res://images/yalova_hotel.png", "rating": "5 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "القصر المتحرك (يورويين كوشك)", "en": "Yoruyen Kosk (Walking Mansion)", "tr": "Yürüyen Köşk" }, "image": "res://images/yuruyen_kosk.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "حمامات يالوفا المعدنية (تيرمال)", "en": "Yalova Thermal Springs", "tr": "Yalova Termal Kaplıcaları" }, "image": "res://images/yalova_termal.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "karabuk": {
+		"names": { "ar": "كارابوك", "en": "Karabuk", "tr": "Karabük" },
+		"description": {
+		  "ar": "تضم بلدة سافرانبولو التراثية العالمية المسجلة باليونسكو ببيوتها العثمانية الفريدة.",
+		  "en": "Home to UNESCO World Heritage site Safranbolu with famous preserved Ottoman houses.",
+		  "tr": "UNESCO Dünya Mirası Safranbolu evleri ve tarihi mimarisi ile ünlü şehir."
+		},
+		"image": "res://images/karabuk.png",
+		"bg_image": "res://images/karabuk_bg.png", "image_3d": "res://images/karabuk_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق سافران بولو كوناق", "en": "Safranbolu Hilton Garden Inn", "tr": "Hilton Garden Inn Safranbolu" }, "image": "res://images/karabuk_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "البلدة القديمة في سافرانبولو", "en": "Safranbolu Old Town", "tr": "Safranbolu Tarihi Evleri" }, "image": "res://images/safranbolu.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "التراس الزجاجي لوادي الكريستال", "en": "Kristal Terrace Canyon", "tr": "Kristal Teras" }, "image": "res://images/kristal_teras.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "kilis": {
+		"names": { "ar": "كيليس", "en": "Kilis", "tr": "Kilis" },
+		"description": {
+		  "ar": "تقع على الحدود الجنوبية وتشتهر بـ 'كباب كيليس' وزيت الزيتون المميز والأسواق التراثية.",
+		  "en": "Southern border city famous for Kilis Tava kebab, olive oil, and historic bazaars.",
+		  "tr": "Kilis Tava, zeytinyağı ve tarihi kapalı çarşıları ile ünlü güney kenti."
+		},
+		"image": "res://images/kilis.png",
+		"bg_image": "res://images/kilis_bg.png", "image_3d": "res://images/kilis_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق كيليس أوزر", "en": "Ozer Hotel Kilis", "tr": "Özer Otel Kilis" }, "image": "res://images/kilis_hotel.png", "rating": "3 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "قلعة رافاندا التاريخية", "en": "Ravanda Castle", "tr": "Ravanda Kalesi" }, "image": "res://images/ravanda.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "سوق كيليس التاريخي المغطى", "en": "Kilis Covered Bazaar", "tr": "Kilis Tarihi Çarşısı" }, "image": "res://images/kilis_bazaar.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "osmaniye": {
+		"names": { "ar": "العثمانية", "en": "Osmaniye", "tr": "Osmaniye" },
+		"description": {
+		  "ar": "عاصمة الفول السوداني في تركيا وتضم مدينة كاستابالا الأثرية وقلعة هابور التاريخية.",
+		  "en": "Peanut capital of Turkey, home to Kastabala ancient city and Karatepe National Park.",
+		  "tr": "Fıstık başkenti, Kastabala Antik Kenti ve Karatepe-Aslantaş Milli Parkı ile tanınır."
+		},
+		"image": "res://images/osmaniye.png",
+		"bg_image": "res://images/osmaniye_bg.png", "image_3d": "res://images/osmaniye_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق بويوك عثمانية", "en": "Grand Osmaniye Hotel", "tr": "Büyük Osmaniye Otel" }, "image": "res://images/osmaniye_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة كاستابالا الأثرية", "en": "Kastabala Ancient City", "tr": "Kastabala Antik Kenti" }, "image": "res://images/kastabala.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "متحف كارتبه أصلان طاش المفتوح", "en": "Karatepe Aslantas Open Air Museum", "tr": "Karatepe-Aslantaş Açık Hava Müzesi" }, "image": "res://images/karatepe.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  },
+	  "duzce": {
+		"names": { "ar": "دوزجه", "en": "Duzce", "tr": "Düzce" },
+		"description": {
+		  "ar": "تقع بين إسطنبول وأنقرة وتتميز بشلالات أكتشاكوجا وبحيرة إفتيني ومغامرات التجديف.",
+		  "en": "Located between Istanbul & Ankara, famous for Akcakoca coast, Samandere & Efteni Lake.",
+		  "tr": "Akçakoca sahili, Samandere Şelalesi ve Efteni Gölü ile bilinen doğa harikası."
+		},
+		"image": "res://images/duzce.png",
+		"bg_image": "res://images/duzce_bg.png", "image_3d": "res://images/duzce_3d.png", "is_soon": false,
+		"available_services": ["taxi", "rent_car", "driver"],
+		"available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+		"hotels": [
+		  { "name": { "ar": "فندق دوزجه باسكور", "en": "Düzce Surur Hotel", "tr": "Düzce Surur Otel" }, "image": "res://images/duzce_hotel.png", "rating": "4 Stars", "website": "https://example.com" }
+		],
+		"cultural Places": [
+		  { "name": { "ar": "مدينة بروسياس التاريخية (كونورالپ)", "en": "Prusias ad Hypium Ancient City", "tr": "Prusias ad Hypium (Konuralp)" }, "image": "res://images/konuralp.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		],
+		"places": [
+		  { "name": { "ar": "شلال سامان ديري وبحيرة إفتيني", "en": "Samandere Waterfall", "tr": "Samandere Şelalesi" }, "image": "res://images/samandere.jpg", "website": "https://maps.app.goo.gl", "needs_ad": true }
+		]
+	  }
+	}
+  }
+}

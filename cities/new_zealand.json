@@ -1,0 +1,193 @@
+{
+  "new_zealand": {
+    "needs_ad": false,
+    "cities": {
+      "auckland": {
+        "names": {
+          "ar": "أوكلاند",
+          "en": "Auckland",
+          "tr": "Auckland"
+        },
+        "description": {
+          "ar": "مدينة الشراعية الكبرى في نيوزيلندا، تشتهر ببرج سكاي تاور الشاهق، المرفأ اليخوتي، والبراكين الخامدة.",
+          "en": "City of Sails, famous for the Sky Tower, Waitematā Harbour, and volcanic cones.",
+          "tr": "Sky Tower, Waitematā Limanı ve volkanik tepeleriyle ünlü Yelkenler Şehri."
+        },
+        "image": "res://images/auckland.png",
+        "bg_image": "res://images/auckland_bg.png",
+        "image_3d": "res://images/auckland_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل بارك حياة أوكلاند",
+              "en": "Park Hyatt Auckland",
+              "tr": "Park Hyatt Auckland"
+            },
+            "image": "res://images/park_hyatt_auckland.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا بوردوان أوكلاند (The Hotel Britomart)",
+              "en": "The Hotel Britomart",
+              "tr": "The Hotel Britomart Auckland"
+            },
+            "image": "res://images/hotel_britomart.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كازاه أورا أوكلاند (Ahi Restaurant)",
+              "en": "Ahi Restaurant Commercial Bay",
+              "tr": "Ahi Restoran Auckland"
+            },
+            "image": "res://images/ahi_auckland.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق نيوزيلندية وأصيلة من أطعمة الماوري المحلية",
+              "en": "Modern New Zealand & Indigenous Māori Fusion",
+              "tr": "Modern Yeni Zelanda ve Yerli Maori Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج سكاي تاور أوكلاند (Sky Tower Auckland)",
+              "en": "Sky Tower Auckland",
+              "tr": "Sky Tower Auckland Kulesi"
+            },
+            "image": "res://images/sky_tower_auckland.png",
+            "description": {
+              "ar": "أطول برج بمنى قائم في نصف الكرة الجنوبي بارتفاع 328 متراً يوفر القفز بالسحّاب.",
+              "en": "328-meter telecommunications tower featuring 360-degree glass observatories and SkyJump.",
+              "tr": "360 derecelik cam gözlem teraslarına sahip 328 metrelik güney yarımkürenin en yüksek kulesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قرية هوبيتون السينمائية القريبة (Hobbiton Movie Set Excursion)",
+              "en": "Hobbiton Movie Set Tour",
+              "tr": "Hobbiton Film Seti Turu"
+            },
+            "image": "res://images/hobbiton.png",
+            "description": {
+              "ar": "قرية منازل الهوبيت الخضراء الأسطورية الأصلية التي صُوّرت بها سلسلة أفلام سيدة الخواتم.",
+              "en": "The actual filming location for the Shire in The Lord of the Rings and The Hobbit films.",
+              "tr": "Yüzüklerin Efendisi ve Hobbit filmlerindeki Shire'ın gerçek çekim yeri."
+            }
+          }
+        ]
+      },
+      "queenstown": {
+        "names": {
+          "ar": "كوينزتاون (عاصمة المغامرات)",
+          "en": "Queenstown",
+          "tr": "Queenstown"
+        },
+        "description": {
+          "ar": "عاصمة المغامرات العالمية على بحيرة واكاتيبو، تشتهر بقفز البانجي، تلفريك سكاي لاين، والتزلج الجبلي.",
+          "en": "World capital of adventure sports, set against Lake Wakatipu and Remarkables mountains.",
+          "tr": "Wakatipu Gölü ve Remarkables Dağları fonunda dünyanın macera sporu başkenti."
+        },
+        "image": "res://images/queenstown.png",
+        "bg_image": "res://images/queenstown_bg.png",
+        "image_3d": "res://images/queenstown_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع إيكلس ماتاكاوري لودج كوينزتاون",
+              "en": "Matakauri Lodge Queenstown",
+              "tr": "Matakauri Lodge Queenstown"
+            },
+            "image": "res://images/matakauri_lodge.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم فيرغبرغر كوينزتاون الشهير (Fergburger)",
+              "en": "Fergburger Queenstown",
+              "tr": "Fergburger Queenstown"
+            },
+            "image": "res://images/fergburger.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أشهر برغر لحم وبقر وغزال في نيوزيلندا والعالم",
+              "en": "World-famous Gourmet New Zealand Beef Burgers",
+              "tr": "Dünyaca Ünlü Gurme Yeni Zelanda Burgerleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تلفريك ومطل سكاي لاين (Skyline Gondola & Luge)",
+              "en": "Skyline Gondola & Luge Queenstown",
+              "tr": "Skyline Teleferiği ve Luge"
+            },
+            "image": "res://images/skyline_queenstown.png",
+            "description": {
+              "ar": "أشد تلفريك انحداراً ينقلك لقمة بوبس بيك لتجربة السيارات المنزلقة الإيقاعية (Luge).",
+              "en": "Steepest cable car lift in the Southern Hemisphere with hilltop restaurant and gravity karting.",
+              "tr": "Güney Yarımküre'nin en dik teleferiği; tepe restoranı ve karting pistine sahiptir."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مضيق ميلفورد ساوند البحري القريب (Milford Sound - UNESCO)",
+              "en": "Milford Sound Excursion",
+              "tr": "Milford Sound Fiyordu Gezisi"
+            },
+            "image": "res://images/milford_sound.png",
+            "description": {
+              "ar": "أعظم مضيق بحري أسطوري بشلالاته وانهمار المياه بين الجبال الخضراء العمودية.",
+              "en": "World-famous fjord known for towering Mitre Peak, rainforests, and cascading waterfalls.",
+              "tr": "Mitre Tepesi, yağmur ormanları ve şelaleleriyle ünlü dünyaca ünlü fiyort."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

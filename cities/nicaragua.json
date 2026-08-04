@@ -1,0 +1,94 @@
+{
+  "nicaragua": {
+    "needs_ad": false,
+    "cities": {
+      "granada": {
+        "names": {
+          "ar": "غرناطة",
+          "en": "Granada",
+          "tr": "Granada"
+        },
+        "description": {
+          "ar": "أقدم مدينة استعمارية محفوظة في نيكاراجوا، تشتهر ببيوتها الأندلسية الملونة، كاتدرائية غرناطة الصفراء، وجزر إسيليتاس.",
+          "en": "Nicaragua's oldest colonial city, famous for bright yellow Cathedral, Lake Nicaragua, and Isletas islands.",
+          "tr": "Sarı Katedrali, Nikaragua Gölü ve Isletas adalarıyla ünlü en eski sömürge şehri."
+        },
+        "image": "res://images/granada_nicaragua.png",
+        "bg_image": "res://images/granada_nic_bg.png",
+        "image_3d": "res://images/granada_nic_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل كاسا ديل فيلاس غرناطة (Hotel Tribal)",
+              "en": "Hotel Tribal Granada",
+              "tr": "Hotel Tribal Granada"
+            },
+            "image": "res://images/hotel_tribal.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم إيل زاجوان غرناطة (El Zaguán)",
+              "en": "El Zaguán Restaurant Granada",
+              "tr": "El Zaguán Restoran Granada"
+            },
+            "image": "res://images/el_zaguan.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مشويات نيكاراجوية أصيلة ولحوم على الفحم",
+              "en": "Authentic Nicaraguan Steakhouse & Charcoal Grill",
+              "tr": "Otantik Nikaragua Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية غرناطة الصفراء (Granada Cathedral)",
+              "en": "Cathedral of Granada (Our Lady of the Assumption)",
+              "tr": "Granada Katedrali"
+            },
+            "image": "res://images/granada_cathedral_nic.png",
+            "description": {
+              "ar": "كاتدرائية نيوكلاسيكية صفراء وحمراء أيقونية بنيت عام 1583 وتطل على الساحة الرئيسية.",
+              "en": "Iconic yellow and red Neoclassical cathedral dominating Plaza Independencia.",
+              "tr": "Plaza Independencia'ya hakim ikonik sarı ve kırmızı Neoklasik katedral."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "فوهة بركان ماسايا المشتعلة (Masaya Volcano Active Crater)",
+              "en": "Masaya Volcano Night Tour",
+              "tr": "Masaya Volkanı Gece Turu"
+            },
+            "image": "res://images/masaya_volcano.png",
+            "description": {
+              "ar": "بركان نشط نادر يتيح لك رؤية بحيرة الحمم البركانية الحمراء السائلة المتوهجة ليلاً.",
+              "en": "Active volcano where visitors can look directly into a glowing red lava lake at night.",
+              "tr": "Ziyaretçilerin geceleri kırmız lav gölüne doğrudan bakabildiği aktif volkan."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

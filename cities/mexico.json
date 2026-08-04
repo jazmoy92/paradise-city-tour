@@ -1,0 +1,206 @@
+{
+  "mexico": {
+    "needs_ad": false,
+    "cities": {
+      "mexico_city": {
+        "names": {
+          "ar": "مكسيكو سيتي",
+          "en": "Mexico City",
+          "tr": "Meksika Şehri"
+        },
+        "description": {
+          "ar": "عاصمة المكسيك العظمى المليئة بالثقافة، تشتهر بـ أهرامات تيوتهواكان، قصر الفنون الجميلة، ومتحف فريدا كاهلو.",
+          "en": "Capital built on Aztec ruins, famous for Teotihuacan Pyramids, Palacio de Bellas Artes, and Frida Kahlo Museum.",
+          "tr": "Teotihuacan Piramitleri, Palacio de Bellas Artes ve Frida Kahlo Müzesi ile ünlü Aztek şehri."
+        },
+        "image": "res://images/mexico_city.png",
+        "bg_image": "res://images/mexico_city_bg.png",
+        "image_3d": "res://images/mexico_city_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فورسيزونز مكسيكو سيتي",
+              "en": "Four Seasons Hotel Mexico City",
+              "tr": "Four Seasons Hotel Mexico City"
+            },
+            "image": "res://images/four_seasons_mexico.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا سانت ريجيس مكسيكو سيتي",
+              "en": "The St. Regis Mexico City",
+              "tr": "The St. Regis Mexico City"
+            },
+            "image": "res://images/st_regis_mexico.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بوجول مكسيكو سيتي (Pujol)",
+              "en": "Pujol Restaurant Mexico City",
+              "tr": "Pujol Restoran Mexico City"
+            },
+            "image": "res://images/pujol_mexico.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أشهر أطباق المولي والتَاكو المكسيكية الراعية عالمياً",
+              "en": "World's top Modern Mexican Gastronomy & Mole",
+              "tr": "Dünyaca Ünlü Modern Meksika Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أهرامات تيوتهواكان والشمس والقمر (Teotihuacan Pyramids)",
+              "en": "Teotihuacan Pyramids (Sun & Moon)",
+              "tr": "Teotihuacan Piramitleri (Güneş ve Ay)"
+            },
+            "image": "res://images/teotihuacan.png",
+            "description": {
+              "ar": "مدينة أثرية أسطورية تضم هرم الشمس العظيم وهرم القمر وشارع الموتى.",
+              "en": "Enormous archaeological complex featuring the massive Pyramid of the Sun and Moon.",
+              "tr": "Devasa Güneş ve Ay Piramitlerine ev sahipliği yapan devasa arkeolojik alan."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر الفنون الجميلة (Palacio de Bellas Artes)",
+              "en": "Palacio de Bellas Artes",
+              "tr": "Palacio de Bellas Artes (Güzel Sanatlar Sarayı)"
+            },
+            "image": "res://images/bellas_artes.png",
+            "description": {
+              "ar": "قصر رخامي أبيض مع قبة برتقالية ملونة يعتبر المركز الثقافي والفني الأول.",
+              "en": "White marble Art Nouveau cultural center with murals by Diego Rivera.",
+              "tr": "Diego Rivera'nın duvar resimlerine sahip beyaz mermer Art Nouveau kültür merkezi."
+            }
+          }
+        ]
+      },
+      "cancun": {
+        "names": {
+          "ar": "كانكون (شبه جزيرة يوكاتان)",
+          "en": "Cancún",
+          "tr": "Cancún"
+        },
+        "description": {
+          "ar": "عاصمة المنتجعات والشواطئ الفيروزية عالمياً، تشتهر بشواطئ بحر الكاريبي، هرم تشيتشن إيتزا، والكهوف المائية (Cenotes).",
+          "en": "World-famous Caribbean beach resort, gateway to Chichén Itzá, Hotel Zone, and natural Cenotes.",
+          "tr": "Chichén Itzá, Oteller Bölgesi ve doğal Cenote mağaralarına açılan kapı olan dünyaca ünlü resort."
+        },
+        "image": "res://images/cancun.png",
+        "bg_image": "res://images/cancun_bg.png",
+        "image_3d": "res://images/cancun_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع نيزوك وسبا كانكون (Nizuc Resort & Spa)",
+              "en": "Nizuc Resort & Spa Cancún",
+              "tr": "Nizuc Resort & Spa Cancún"
+            },
+            "image": "res://images/nizuc_cancun.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا ريتز كارلتون كانكون (Kempiniski Cancún)",
+              "en": "Kempinski Hotel Cancún",
+              "tr": "Kempinski Hotel Cancún"
+            },
+            "image": "res://images/kempinski_cancun.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم هاريز ستيك هاوس كانكون (Harry's)",
+              "en": "Harry's Prime Steakhouse Cancún",
+              "tr": "Harry's Prime Steakhouse Cancún"
+            },
+            "image": "res://images/harrys_cancun.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "لحوم ستيك فاخرة ومأكولات بحرية على بحيرة نيكوبتي",
+              "en": "Luxury Prime Steakhouse & Lagoon Dining",
+              "tr": "Lagün Manzaralı Lüks Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "هرم تشيتشن إيتزا الماياني (Chichén Itzá - UNESCO)",
+              "en": "Chichén Itzá Maya Ruins",
+              "tr": "Chichén Itzá Maya Kalıntıları"
+            },
+            "image": "res://images/chichen_itza.png",
+            "description": {
+              "ar": "إحدى عجائب الدنيا السبع الجديدة، هرم المايا المدرج الأسطوري (El Castillo).",
+              "en": "Iconic step-pyramid El Castillo, capital of the ancient Maya civilization (New 7 Wonders).",
+              "tr": "Antik Maya uygarlığının başkenti ikonik El Castillo piramidi (Yeni 7 Harika)."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المغارات المائية الطبيعية (Ik Kil Cenote)",
+              "en": "Ik Kil Cenote",
+              "tr": "Ik Kil Cenote (Doğal Su Mağarası)"
+            },
+            "image": "res://images/ik_kil_cenote.png",
+            "description": {
+              "ar": "حفرة مائية طبيعية مقدسة عميقة محاطة بالأشجار المعلقة والنباتات للسباحة.",
+              "en": "Open-sky natural sinkhole with hanging vines and clear freshwater for swimming.",
+              "tr": "Sarmaşıklar ve berrak tatlı su ile çevrili açık hava doğal su çukuru."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "malta": {
+    "needs_ad": false,
+    "cities": {
+      "valletta": {
+        "names": {
+          "ar": "فاليتا",
+          "en": "Valletta",
+          "tr": "Valletta"
+        },
+        "description": {
+          "ar": "عاصمة مالطة المصنفة يونسكو بالكامل، تشتهر بـ كاتدرائية القديس يوحنا المذهبة، حدائق الباراكا العليا، والأسوار البحرية.",
+          "en": "UNESCO fortress capital, world-famous for St. John's Co-Cathedral, Upper Barrakka Gardens, and Grand Harbour.",
+          "tr": "Aziz Yuhanna Katedrali, Yukarı Barrakka Bahçeleri ve Büyük Liman ile ünlü UNESCO başkenti."
+        },
+        "image": "res://images/valletta.png",
+        "bg_image": "res://images/valletta_bg.png",
+        "image_3d": "res://images/valletta_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل ذا فونيسيا مالطة (The Phoenicia Malta)",
+              "en": "The Phoenicia Malta",
+              "tr": "The Phoenicia Malta"
+            },
+            "image": "res://images/phoenicia_malta.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق إنتركونتيننتال فاليتا إنيام",
+              "en": "Iniala Harbour House Valletta",
+              "tr": "Iniala Harbour House Valletta"
+            },
+            "image": "res://images/iniala_valletta.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أون بيسترو فاليتا (ION Harbour)",
+              "en": "ION Harbour by Simon Rogan",
+              "tr": "ION Harbour Restoran Valletta"
+            },
+            "image": "res://images/ion_harbour.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات مالطية وبحرية فاخرة 2 نجوم ميشلان على المرفأ",
+              "en": "Two-Michelin-starred Fine Dining with Grand Harbour views",
+              "tr": "İki Michelin Yıldızlı Lüks Liman Manzaralı Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية القديس يوحنا المذهبة (St. John's Co-Cathedral)",
+              "en": "St. John's Co-Cathedral",
+              "tr": "Aziz Yuhanna Katedrali"
+            },
+            "image": "res://images/st_johns_malta.png",
+            "description": {
+              "ar": "تحفة باروكية مغطاة بالذهب الخالص والرخام وتضم لوحة الفنان كارافاجيو الأصيلة.",
+              "en": "Gilded Baroque masterpiece housing Caravaggio's famous painting 'The Beheading of Saint John'.",
+              "tr": "Caravaggio'nun ünlü tablosuna ev sahipliği yapan altın kaplama Barok şaheseri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حدائق الباراكا العليا والميناء العظيم (Upper Barrakka Gardens)",
+              "en": "Upper Barrakka Gardens & Grand Harbour",
+              "tr": "Yukarı Barrakka Bahçeleri"
+            },
+            "image": "res://images/upper_barrakka.png",
+            "description": {
+              "ar": "حديقة مرتفعة توفر أروع إطلالة بانورامية على الميناء العظيم والمدن الثلاث القادمة.",
+              "en": "Public garden offering sweeping views of the Grand Harbour and Saluting Battery.",
+              "tr": "Büyük Liman'ın panoramik manzarasını sunan halk bahçesi."
+            }
+          }
+        ]
+      },
+      "mdina": {
+        "names": {
+          "ar": "أمدينا (المدينة الصامتة)",
+          "en": "Mdina",
+          "tr": "Mdina (Sessiz Şehir)"
+        },
+        "description": {
+          "ar": "عاصمة مالطة القديمة المحاطة بأسوار القرون الوسطى، وتعرف بالمدينة الصامتة لجمال هدوئها وأزقتها.",
+          "en": "Malta's ancient walled medieval capital, known as the 'Silent City' for its peaceful car-free streets.",
+          "tr": "Sessiz Şehir olarak bilinen, surlarla çevrili araba girmeyen ortaçağ başkenti."
+        },
+        "image": "res://images/mdina.png",
+        "bg_image": "res://images/mdina_bg.png",
+        "image_3d": "res://images/mdina_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا زارا بالاس أمدينا (The Xara Palace Relais & Châteaux)",
+              "en": "The Xara Palace Relais & Châteaux",
+              "tr": "The Xara Palace Mdina"
+            },
+            "image": "res://images/xara_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دي موندينو أمدينا (De Mondion)",
+              "en": "De Mondion Restaurant Mdina",
+              "tr": "De Mondion Restoran Mdina"
+            },
+            "image": "res://images/de_mondion.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات مالطية وأوروبية راقية حائزة ميشلان فوق أسوار المدينة",
+              "en": "Michelin-starred Fine Dining atop medieval bastion walls",
+              "tr": "Ortaçağ surları üzerinde Michelin Yıldızlı Lüks Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "بوابة أمدينا التاريخية (Mdina Main Gate)",
+              "en": "Mdina Main Gate",
+              "tr": "Mdina Ana Kapısı"
+            },
+            "image": "res://images/mdina_gate.png",
+            "description": {
+              "ar": "البوابة الباروكية العريقة للمدينة والشهيرة في تصوير مسلسلات التاريخ مثل Game of Thrones.",
+              "en": "18th-century Baroque gate built across a moat, iconic entry to the Silent City.",
+              "tr": "Sessiz Şehir'in simgesel girişi olan 18. yüzyıl Barok kapısı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كاتدرائية القديس بولس أمدينا (St. Paul's Cathedral Mdina)",
+              "en": "St. Paul's Cathedral Mdina",
+              "tr": "Aziz Paul Katedrali Mdina"
+            },
+            "image": "res://images/st_pauls_mdina.png",
+            "description": {
+              "ar": "كاتدرائية باروكية بنيت عام 1702 وتتميز بأرضيتها الرخامية المرصعة بشواهد الفرسان.",
+              "en": "17th-century Roman Catholic cathedral featuring rich marble inlaid tomb slabs.",
+              "tr": "Zengin mermer mezar taşlarıyla kaplı 17. yüzyıl Roma Katolik katedrali."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

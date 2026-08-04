@@ -1,0 +1,191 @@
+{
+  "north_macedonia": {
+    "needs_ad": false,
+    "cities": {
+      "skopje": {
+        "names": {
+          "ar": "سكوبيه",
+          "en": "Skopje",
+          "tr": "Üsküp"
+        },
+        "description": {
+          "ar": "عاصمة مقدونيا الشمالية التراثية والحديثة، تشتهر بـ الجسر الحجري العثماني، سوق تشارشيا القديم، والتماثيل الكلاسيكية.",
+          "en": "Macedonia's capital, famous for the Stone Bridge, Old Bazaar (Old Bazaar), and neoclassical statues.",
+          "tr": "Taş Köprü, Eski Çarşı ve Neoklasik heykelleriyle ünlü Kuzey Makedonya başkenti."
+        },
+        "image": "res://images/skopje.png",
+        "bg_image": "res://images/skopje_bg.png",
+        "image_3d": "res://images/skopje_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ماريوت سكوبيه (Skopje Marriott Hotel)",
+              "en": "Skopje Marriott Hotel",
+              "tr": "Skopje Marriott Hotel Üsküp"
+            },
+            "image": "res://images/marriott_skopje.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل أرباني سكوبيه (Limak Skopje Luxury Hotel)",
+              "en": "Limak Skopje Luxury Hotel",
+              "tr": "Limak Skopje Luxury Hotel"
+            },
+            "image": "res://images/limak_skopje.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيلفوا سكوبيه (Destan Old Bazaar)",
+              "en": "Destan Restaurant Old Bazaar",
+              "tr": "Destan Restoran Eski Çarşı Üsküp"
+            },
+            "image": "res://images/destan_skopje.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "كباب المكدوني العثماني والشوربة والتشارشيا",
+              "en": "Authentic Macedonian Kebabs & Ottoman Dishes",
+              "tr": "Otantik Makedon Köftesi ve Osmanlı Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "الجسر الحجري العثماني (Stone Bridge)",
+              "en": "Stone Bridge (Kameni Most)",
+              "tr": "Taş Köprü (Kameni Most)"
+            },
+            "image": "res://images/stone_bridge_skopje.png",
+            "description": {
+              "ar": "جسر عثماني تاريخي يعود للقرن الخامس عشر يعبر نهر فاردار ويربط الوسط بالتشارشيا.",
+              "en": "15th-century Ottoman stone arch bridge spanning the Vardar River.",
+              "tr": "Vardar Nehri üzerinde yer alan 15. yüzyıl Osmanlı taş kemer köprüsü."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "السوق العثماني القديم (Old Bazaar / Stara Čaršija)",
+              "en": "Old Bazaar (Stara Čaršija)",
+              "tr": "Eski Çarşı (Stara Čaršija)"
+            },
+            "image": "res://images/skopje_old_bazaar.png",
+            "description": {
+              "ar": "أكبر سوق عثماني تراثي متبقٍ في البلقان خارج إسطنبول بالمساجد والخانات.",
+              "en": "The largest preserved Ottoman bazaar in the Balkans outside Istanbul.",
+              "tr": "İstanbul dışındaki Balkanlar'ın korunan en büyük Osmanlı çarşısı."
+            }
+          }
+        ]
+      },
+      "ohrid": {
+        "names": {
+          "ar": "أوهرييد (لؤلؤة البلقان)",
+          "en": "Ohrid",
+          "tr": "Ohrid"
+        },
+        "description": {
+          "ar": "لؤلؤة مقدونيا المصنفة يونسكو، تشتهر بـ بحيرة أوهرييد القديمة، كنيسة القديس يوحنا كاديو المطلة، والقلعة.",
+          "en": "UNESCO lake city, famous for crystal-clear Lake Ohrid, Church of St. John at Kaneo, and Samuil's Fortress.",
+          "tr": "Ohrid Gölü, Kaneo'daki Aziz Yuhanna Kilisesi ve Samuil Kalesi ile ünlü UNESCO göl şehri."
+        },
+        "image": "res://images/ohrid.png",
+        "bg_image": "res://images/ohrid_bg.png",
+        "image_3d": "res://images/ohrid_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل إنيكس أوهرييد (Inex Olgica Hotel & SPA)",
+              "en": "Inex Olgica Hotel & SPA Ohrid",
+              "tr": "Inex Olgica Hotel & SPA Ohrid"
+            },
+            "image": "res://images/inex_ohrid.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كانيو أوهرييد المطل (Kaneo Restaurant)",
+              "en": "Restaurant Kaneo Ohrid",
+              "tr": "Kaneo Restoran Ohrid"
+            },
+            "image": "res://images/kaneo_restaurant.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أسماك بحيرة أوهرييد التراوت والمأكولات المقدونية",
+              "en": "Fresh Lake Ohrid Trout & Lakeside Dining",
+              "tr": "Taze Ohrid Gölü Alabalığı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كنيسة القديس يوحنا في كانيو (Church of St. John at Kaneo)",
+              "en": "Church of St. John at Kaneo",
+              "tr": "Kaneo Aziz Yuhanna Kilisesi"
+            },
+            "image": "res://images/st_john_kaneo.png",
+            "description": {
+              "ar": "أشهر كنيسة أرثوذكسية تتربع فوق جرف صخري يطل على أفق بحيرة أوهرييد الفيروزية.",
+              "en": "Macedonia's most photographed landmark standing on a cliff above Lake Ohrid.",
+              "tr": "Ohrid Gölü üzerindeki falezde yer alan Makedonya'nın en çok fotoğraflanan simgesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة أوهرييد الأثرية (Lake Ohrid - UNESCO)",
+              "en": "Lake Ohrid Waterway",
+              "tr": "Ohrid Gölü"
+            },
+            "image": "res://images/lake_ohrid.png",
+            "description": {
+              "ar": "واحدة من أقدم وأعمق البحيرات في أوروبا تمتاز بمياهها الزجاجية الشفافة واللؤلؤ الطبيعي.",
+              "en": "One of Europe's deepest and oldest lakes with unique aquatic ecosystem and pearls.",
+              "tr": "Benzersiz su ekosistemine sahip Avrupa'nın en derin ve eski göllerinden biri."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

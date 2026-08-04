@@ -1,0 +1,179 @@
+{
+  "niger": {
+    "needs_ad": false,
+    "cities": {
+      "niamey": {
+        "names": {
+          "ar": "نيامي",
+          "en": "Niamey",
+          "tr": "Niamey"
+        },
+        "description": {
+          "ar": "عاصمة النيجر المطلة على نهر النيجر العظيم، تشتهر بمتحف بوبو حما الوطني، المسجد الكبير، وسوق الحرف التراثية.",
+          "en": "Niger's capital on the Niger River, known for the Grand Mosque, National Museum, and craft markets.",
+          "tr": "Nijer Nehri kıyısındaki başkent; Büyük Cami ve Ulusal Müze ile tanınır."
+        },
+        "image": "res://images/niamey.png",
+        "bg_image": "res://images/niamey_bg.png",
+        "image_3d": "res://images/niamey_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل راديسون بلو نيامي (Radisson Blu Hotel Niamey)",
+              "en": "Radisson Blu Hotel & Conference Center, Niamey",
+              "tr": "Radisson Blu Hotel Niamey"
+            },
+            "image": "res://images/radisson_niamey.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي بيل أوريزون نيامي (Le Bell'Horizon)",
+              "en": "Le Bell'Horizon Restaurant Niamey",
+              "tr": "Le Bell'Horizon Restoran Niamey"
+            },
+            "image": "res://images/bell_horizon.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "مشويات النيجر وأسماك النهر والطهي الفرنسي",
+              "en": "Fresh Niger River Fish & French Fusion",
+              "tr": "Taze Nijer Nehri Balığı ve Fransız Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المتحف الوطني بوبو حما (Musée National Boubou Hama)",
+              "en": "National Museum of Niger (Boubou Hama)",
+              "tr": "Nijer Ulusal Müzesi (Boubou Hama)"
+            },
+            "image": "res://images/niger_national_museum.png",
+            "description": {
+              "ar": "متحف مفتوح يضم هياكل الديناصورات العظمية المكتشفة في الصحراء والبيوت التراثية للقبائل.",
+              "en": "Open-air museum showcasing dinosaur fossils, traditional tribal architecture, and zoo.",
+              "tr": "Dinozor fosillerini ve kabile mimarisini sergileyen açık hava müzesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جامع نيامي الكبير (Grand Mosque of Niamey)",
+              "en": "Grand Mosque of Niamey",
+              "tr": "Niamey Büyük Camii"
+            },
+            "image": "res://images/niamey_grand_mosque.png",
+            "description": {
+              "ar": "أضخم مسجد إسلامي في نيامي بمئذنته البارزة وقبته المذهبة.",
+              "en": "Dominant Islamic landmark funded in part by Libya, featuring a tall green minaret.",
+              "tr": "Yeşil minaresiyle Niamey'in ana İslam simgesi."
+            }
+          }
+        ]
+      },
+      "agadez": {
+        "names": {
+          "ar": "أغاديز (بوابة الصحراء الكبرى)",
+          "en": "Agadez",
+          "tr": "Agadez"
+        },
+        "description": {
+          "ar": "العاصمة الصحراوية التاريخية للوارق والمصنفة باليونيسكو، تشتهر بـ مئذنة مسجد أغاديز الطينية الشاهقة.",
+          "en": "UNESCO Tuareg desert trading city, world-famous for the 27-meter mud-brick Agadez Mosque minaret.",
+          "tr": "27 metrelik çamur minareli Agadez Camii ile ünlü UNESCO Tuareg çöl şehri."
+        },
+        "image": "res://images/agadez.png",
+        "bg_image": "res://images/agadez_bg.png",
+        "image_3d": "res://images/agadez_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل دي لاتراس أغاديز (Hôtel de l'Aïr)",
+              "en": "Hôtel de l'Aïr Agadez",
+              "tr": "Hôtel de l'Aïr Agadez"
+            },
+            "image": "res://images/hotel_air_agadez.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم قصر السلطان أغاديز",
+              "en": "Le Caravanserail Agadez",
+              "tr": "Le Caravanserail Agadez"
+            },
+            "image": "res://images/caravanserail_agadez.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "مشويات اللحوم التوارقية وأرز الصحراء",
+              "en": "Traditional Tuareg Roast Meat & Rice",
+              "tr": "Geleneksel Tuareg Izgara Eti"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مسجد ومئذنة أغاديز الطينية (Agadez Mosque - UNESCO)",
+              "en": "Grand Mosque of Agadez",
+              "tr": "Agadez Büyük Camii"
+            },
+            "image": "res://images/agadez_mosque.png",
+            "description": {
+              "ar": "أطول مئذنة مصنوعة بالكامل من الطين والأعمدة الخشبية في العالم يبلغ ارتفاعها 27 متراً.",
+              "en": "The highest mud-brick structure in the world, built in 1515 with protruding timber scaffolding.",
+              "tr": "1515 yılında yapılan, ahşap iskeleli dünyanın en yüksek çamur tuğla yapısı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر سلطان آير التاريخي (Palace of the Sultan of Aïr)",
+              "en": "Palace of the Sultan of Agadez",
+              "tr": "Agadez Sultanı Sarayı"
+            },
+            "image": "res://images/sultan_palace_agadez.png",
+            "description": {
+              "ar": "مقر الحاكم التاريخي لقبائل الطوارق المصنوع من الطين ذو النمط السوداني الساحلي.",
+              "en": "Historical mud-brick seat of power for the traditional Tuareg Sultanate of Aïr.",
+              "tr": "Geleneksel Tuareg Aïr Sultanlığı'nın tarihi çamur tuğlalı sarayı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

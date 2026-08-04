@@ -1,0 +1,94 @@
+{
+  "palau": {
+    "needs_ad": false,
+    "cities": {
+      "koror": {
+        "names": {
+          "ar": "كورور",
+          "en": "Koror",
+          "tr": "Koror"
+        },
+        "description": {
+          "ar": "العاصمة التجارية والسياحية لبالاو، البوابة الرئيسية لـ جزر الصخور البركانية المرجانية (Rock Islands) وبحيرة قناديل البحر.",
+          "en": "Palau's main island hub, gateway to UNESCO Rock Islands, Jellyfish Lake, and world-class diving.",
+          "tr": "UNESCO Rock Islands ve Denizanası Gölü'ne açılan kapı olan Palau'nun ana ada merkezi."
+        },
+        "image": "res://images/koror.png",
+        "bg_image": "res://images/koror_bg.png",
+        "image_3d": "res://images/koror_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا بالاو باسيفيك (Palau Pacific Resort)",
+              "en": "Palau Pacific Resort",
+              "tr": "Palau Pacific Resort"
+            },
+            "image": "res://images/palau_pacific_resort.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم إيل أوف بالاو (Elilai Restaurant)",
+              "en": "Elilai Seaside Dining Koror",
+              "tr": "Elilai Restoran Koror"
+            },
+            "image": "res://images/elilai_palau.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أسماك المحيط الهادي والمأكولات البحرية الفاخرة",
+              "en": "Pacific Seafood & Asian Fusion Fine Dining",
+              "tr": "Pasifik Deniz Ürünleri ve Asya Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أرخبيل جزر الصخور الخضراء (Rock Islands Southern Lagoon - UNESCO)",
+              "en": "Rock Islands Southern Lagoon",
+              "tr": "Rock Islands Güney Lagünü"
+            },
+            "image": "res://images/rock_islands.png",
+            "description": {
+              "ar": "مئات الجزر الكلسية المرجانية الخضراء الشبيهة بالفطر وسط بحيرة فيروزية صافية.",
+              "en": "UNESCO archipelago of over 400 mushroom-shaped green limestone islands in a blue lagoon.",
+              "tr": "Mavi lagün içinde 400'den fazla kireçtaşı adasından oluşan UNESCO alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة قناديل البحر الذهبية (Jellyfish Lake)",
+              "en": "Jellyfish Lake (Ongeim'l Tketau)",
+              "tr": "Denizanası Gölü (Jellyfish Lake)"
+            },
+            "image": "res://images/jellyfish_lake.png",
+            "description": {
+              "ar": "بحيرة معزولة نادرة تكتظ بملايين قناديل البحر الذهبية غير السامة القابلة للسباحة معها.",
+              "en": "Isolated marine lake populated by millions of harmless stingless golden jellyfish.",
+              "tr": "Zararsız milyonlarca altın denizanasının yaşadığı izole deniz gölü."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

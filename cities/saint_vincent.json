@@ -1,0 +1,94 @@
+{
+  "saint_vincent": {
+    "needs_ad": false,
+    "cities": {
+      "kingstown": {
+        "names": {
+          "ar": "كينغستاون",
+          "en": "Kingstown",
+          "tr": "Kingstown"
+        },
+        "description": {
+          "ar": "عاصمة سانت فينسنت والغرينادين، الملقبة بـ مدينة الأقواس، تشتهر بـ الحدائق النباتية الأقدم في الكاريبي وحصن شارلوت.",
+          "en": "Capital city known as the City of Arches, home to the Western Hemisphere's oldest Botanic Gardens.",
+          "tr": "Kemerler Şehri olarak bilinen başkent; Batı Yarımküre'nin en eski Botanik Bahçeleri'ne ev sahipliği yapar."
+        },
+        "image": "res://images/kingstown.png",
+        "bg_image": "res://images/kingstown_bg.png",
+        "image_3d": "res://images/kingstown_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل سان دالس سانت فينسنت (Sandals Saint Vincent)",
+              "en": "Sandals Saint Vincent",
+              "tr": "Sandals Saint Vincent"
+            },
+            "image": "res://images/sandals_stvincent.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيتش كومبر كينغستاون",
+              "en": "The French Verandah Restaurant",
+              "tr": "The French Verandah Restoran"
+            },
+            "image": "res://images/french_verandah.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك الماهي ماهي والكركند الكاريبي والفرنسي",
+              "en": "Fresh Mahi-Mahi & French Caribbean Seafood",
+              "tr": "Taze Mahi-Mahi ve Fransız Karayip Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "حدائق كينغستاون النباتية (St. Vincent Botanic Gardens)",
+              "en": "St. Vincent Botanic Gardens",
+              "tr": "St. Vincent Botanik Bahçeleri"
+            },
+            "image": "res://images/botanic_gardens_stvincent.png",
+            "description": {
+              "ar": "أقدم حديقة نباتية في الأمريكتين تأسست عام 1765 وتضم شجرة الخبز التي جلبها الكابتن بلاي.",
+              "en": "Established in 1765, the oldest botanical gardens in the Americas.",
+              "tr": "1765 yılında kurulan Amerika kıtasının en eski botanik bahçesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قلعة حصن شارلوت (Fort Charlotte)",
+              "en": "Fort Charlotte Kingstown",
+              "tr": "Fort Charlotte Kalesi"
+            },
+            "image": "res://images/fort_charlotte_stvincent.png",
+            "description": {
+              "ar": "حصن عسكري يعود للقرن الثامن عشر يرتفع 180 متراً يوفر طلة شاسعة على الأرخبيل.",
+              "en": "18th-century fortress on a ridge 180 meters above the bay with panoramic island views.",
+              "tr": "Körfezin 180 metre üzerinde panoramik ada manzaralı 18. yüzyıl kalesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

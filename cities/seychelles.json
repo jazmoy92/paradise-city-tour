@@ -1,0 +1,192 @@
+{
+  "seychelles": {
+    "needs_ad": false,
+    "cities": {
+      "victoria": {
+        "names": {
+          "ar": "فيكتوريا (جزيرة ماهي)",
+          "en": "Victoria",
+          "tr": "Victoria"
+        },
+        "description": {
+          "ar": "أصغر عاصمة في العالم تقع في جزيرة ماهي، تشتهر بـ برج الساعة الفيكتوري، حديقة سيشل النباتية، وشاطئ بو فالون.",
+          "en": "The world's smallest capital city on Mahé Island, famous for Victoria Clock Tower and Beau Vallon Beach.",
+          "tr": "Victoria Saat Kulesi ve Beau Vallon Plajı ile ünlü Mahé Adası'ndaki dünyanın en küçük başkenti."
+        },
+        "image": "res://images/victoria_seychelles.png",
+        "bg_image": "res://images/victoria_sey_bg.png",
+        "image_3d": "res://images/victoria_sey_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع فورسيزونز سيشل ماهي",
+              "en": "Four Seasons Resort Seychelles Mahé",
+              "tr": "Four Seasons Resort Seychelles Mahé"
+            },
+            "image": "res://images/four_seasons_seychelles.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع أنانتارا مايا سيشل (Anantara Maia)",
+              "en": "Anantara Maia Seychelles Villas",
+              "tr": "Anantara Maia Seychelles Villas"
+            },
+            "image": "res://images/maia_seychelles.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ماري أنطوانيت فيكتوريا (Marie Antoinette)",
+              "en": "Marie Antoinette Restaurant Victoria",
+              "tr": "Marie Antoinette Restoran Victoria"
+            },
+            "image": "res://images/marie_antoinette_sey.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق السيشيلية الكريولية التقليدية والسمك المشوي بجوز الهند",
+              "en": "Traditional Seychellois Creole Feast & Fish Curry",
+              "tr": "Geleneksel Seyşeller Kreol Ziyafeti ve Balık Körisi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ أنس إنتيندانس الأسطوري (Anse Intendance)",
+              "en": "Anse Intendance Beach",
+              "tr": "Anse Intendance Plajı"
+            },
+            "image": "res://images/anse_intendance.png",
+            "description": {
+              "ar": "أشهر شاطئ بري تحيط به الصخور الجرانيتية العملاقة وأشجار النخيل المتدلية.",
+              "en": "Famous wild beach backed by dense tropical palm groves and giant granite boulders.",
+              "tr": "Devasa granit kayaları ve palmiye korularıyla ünlü dünyaca ünlü plaj."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "برج ساعة فيكتوريا الفيكتوري (Clock Tower Little Ben)",
+              "en": "Victoria Clock Tower (Little Ben)",
+              "tr": "Victoria Saat Kulesi (Little Ben)"
+            },
+            "image": "res://images/victoria_clock_tower.png",
+            "description": {
+              "ar": "نسخة مصغرة فضية من برج ساعة بيغ بن بنيت عام 1903 بقلب العاصمة.",
+              "en": "Silver-painted replica of Vauxhall Clock Tower in London erected in 1903.",
+              "tr": "1903 yılında dikilen Londra'daki saat kulesinin gümüş boyalı kopyası."
+            }
+          }
+        ]
+      },
+      "la_digue": {
+        "names": {
+          "ar": "لا ديغ (شاطئ أنس أورسور دأرجنت)",
+          "en": "La Digue",
+          "tr": "La Digue"
+        },
+        "description": {
+          "ar": "الجزيرة الأكثر تصويراً ورومانسية في العالم، تشتهر بـ شاطئ أنس أورسور دأرجنت بصخوره الجرانيتية الوردية.",
+          "en": "World's most photographed island, famed for Anse Source d'Argent granite boulders and ox-carts.",
+          "tr": "Anse Source d'Argent granit kayalıklarıyla dünyada en çok fotoğraflanan ada."
+        },
+        "image": "res://images/la_digue.png",
+        "bg_image": "res://images/la_digue_bg.png",
+        "image_3d": "res://images/la_digue_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع أوتيل لو دومين دي أورانجيه (Le Domaine de L'Orangeraie)",
+              "en": "Le Domaine de L'Orangeraie Resort & Spa",
+              "tr": "Le Domaine de L'Orangeraie Resort & Spa"
+            },
+            "image": "res://images/orangeraie_ladigue.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كيرامبا الشاطئي لا ديغ (Fish Trap)",
+              "en": "Fish Trap Restaurant La Digue",
+              "tr": "Fish Trap Restoran La Digue"
+            },
+            "image": "res://images/fish_trap_ladigue.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مأكولات كريولية وبحرية طازجة على رمال الشاطئ",
+              "en": "Barefoot Beachfront Creole & Fresh Fish",
+              "tr": "Taze Deniz Ürünleri ve Kreol Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ أنس سورس دأرجنت (Anse Source d'Argent)",
+              "en": "Anse Source d'Argent Beach",
+              "tr": "Anse Source d'Argent Plajı"
+            },
+            "image": "res://images/anse_source_dargent.png",
+            "description": {
+              "ar": "أشهر شاطئ مصوّر عالمياً بفضل صخوره الجرانيتية المنحوتة ومياهه الفيروزية الضحلة.",
+              "en": "Reputedly the most photographed beach in the world with iconic pink-tinged granite rocks.",
+              "tr": "İkonik pembemsi granit kayalarıyla dünyanın en çok fotoğraflanan plajı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه ومزرعة لويوني يون إستيت (L'Union Estate)",
+              "en": "L'Union Estate Park & Giant Tortoises",
+              "tr": "L'Union Estate Parkı ve Dev Kaplumbağalar"
+            },
+            "image": "res://images/lunion_estate.png",
+            "description": {
+              "ar": "مزرعة جبال الفانيليا التراثية وموطن سلاحف ألدابرا العملاقة.",
+              "en": "Historic plantation park holding traditional vanilla mills and giant Aldabra tortoises.",
+              "tr": "Geleneksel vanilya değirmenleri ve dev Aldabra kaplumbağalarını barındıran park."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

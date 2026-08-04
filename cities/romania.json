@@ -1,0 +1,106 @@
+{
+  "romania": {
+    "needs_ad": false,
+    "cities": {
+      "bucharest": {
+        "names": {
+          "ar": "بوخارست",
+          "en": "Bucharest",
+          "tr": "Bükreş"
+        },
+        "description": {
+          "ar": "عاصمة رومانيا وتسمى 'باريس الشرق الصغير'، تشتهر بـ قصر البرلمان الضخم الثاني عالمياً، والبلدة القديمة.",
+          "en": "Little Paris of the East, famous for Palace of the Parliament (2nd largest building), and Old Town.",
+          "tr": "Dünyanın en büyük 2. binası olan Parlamento Sarayı ve Eski Kenti ile ünlü Bükreş."
+        },
+        "image": "res://images/bucharest.png",
+        "bg_image": "res://images/bucharest_bg.png",
+        "image_3d": "res://images/bucharest_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا إنتلركونتيننتال أثيني بالاس بوخارست",
+              "en": "InterContinental Athénée Palace Bucharest",
+              "tr": "InterContinental Athénée Palace Bükreş"
+            },
+            "image": "res://images/athenee_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل إلمونت بوخارست (JW Marriott Bucharest)",
+              "en": "JW Marriott Bucharest Grand Hotel",
+              "tr": "JW Marriott Bucharest Grand Hotel"
+            },
+            "image": "res://images/jw_marriott_bucharest.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كارو كوير بوخارست (Caru' cu Bere)",
+              "en": "Caru' cu Bere Restaurant Bucharest",
+              "tr": "Caru' cu Bere Restoran Bükreş"
+            },
+            "image": "res://images/caru_cu_bere.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مشويات رومانية وسارمالي (محشي الملفوف) بداخل قصر قوطي لعام 1879",
+              "en": "Traditional Romanian Sarmale & Grill in 1879 Neo-Gothic Palace",
+              "tr": "Neo-Gotik Binada Geleneksel Rumen Sarmale ve Izgara"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر البرلمان الروماني العظيم (Palace of the Parliament)",
+              "en": "Palace of the Parliament (Palatul Parlamentului)",
+              "tr": "Parlamento Sarayı (Palatul Parlamentului)"
+            },
+            "image": "res://images/palace_of_parliament.png",
+            "description": {
+              "ar": "أضخم مبنى إداري مدني في العالم بعد البنتاغون بني بـ 1,100 غرفة رخامية.",
+              "en": "The heaviest building in the world and 2nd-largest administrative building globally.",
+              "tr": "Dünyanın en ağır binası ve 2. en büyük idari yapısı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قلعة بران الأسطورية دراكولا القريبة (Bran Castle Excursion)",
+              "en": "Bran Castle (Dracula's Castle)",
+              "tr": "Bran Kalesi (Drakula Kalesi)"
+            },
+            "image": "res://images/bran_castle.png",
+            "description": {
+              "ar": "قلعة جبلية حجرية تعود للقرن الرابع عشر ارتبطت بأسطورة دراكولا في ترانسيلفانيا.",
+              "en": "14th-century Transylvanian fortress world-famous for its association with Dracula legend.",
+              "tr": "Drakula efsanesiyle bağlantısıyla dünyaca ünlü 14. yüzyıl Erdel kalesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

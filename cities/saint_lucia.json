@@ -1,0 +1,105 @@
+{
+  "saint_lucia": {
+    "needs_ad": false,
+    "cities": {
+      "soufriere": {
+        "names": {
+          "ar": "سوفرير (جبال البيتون)",
+          "en": "Soufrière",
+          "tr": "Soufrière"
+        },
+        "description": {
+          "ar": "جوهرة سانت لوسيا وموطن قمتي البيتون البركانيتين (UNESCO)، البركان النشط ذو القيادة بالسيارة والينابيع الطينية.",
+          "en": "Home to the UNESCO Pitons, drive-in volcano Sulphur Springs, and iconic luxury treehouse resorts.",
+          "tr": "UNESCO Piton Dağları, araçla girilebilen kükürt kaynakları ve lüks resortlarıyla ünlü."
+        },
+        "image": "res://images/soufriere.png",
+        "bg_image": "res://images/soufriere_bg.png",
+        "image_3d": "res://images/soufriere_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع جاد الجبل في سانت لوسيا (Jade Mountain Resort)",
+              "en": "Jade Mountain Resort",
+              "tr": "Jade Mountain Resort"
+            },
+            "image": "res://images/jade_mountain.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع شوغر بيتش فايسروي سانت لوسيا (Sugar Beach)",
+              "en": "Sugar Beach, A Viceroy Resort",
+              "tr": "Sugar Beach, A Viceroy Resort"
+            },
+            "image": "res://images/sugar_beach_stlucia.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم داسين سانت لوسيا (Dasheene at Ladera)",
+              "en": "Dasheene at Ladera Resort",
+              "tr": "Dasheene Restoran St. Lucia"
+            },
+            "image": "res://images/dasheene_stlucia.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات استوائية فاخرة بين قمتي البيتون الخلابتين",
+              "en": "Award-winning Farm-to-Table Caribbean Fine Dining with Piton Views",
+              "tr": "Piton Dağları Manzaralı Ödüllü Karayip Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قمتا جبال البيتون التوأم (The Pitons - UNESCO)",
+              "en": "Gros Piton & Petit Piton",
+              "tr": "Gros Piton ve Petit Piton Dağları"
+            },
+            "image": "res://images/the_pitons.png",
+            "description": {
+              "ar": "قميركانيتان خضراوان بركانيتان تعلوان 770 متراً فوق البحر وتعدان الرمز الوطني الأول لسانت لوسيا.",
+              "en": "Two mountainous volcanic spires soaring out of the ocean, a UNESCO World Heritage site.",
+              "tr": "Okyanustan yükselen iki volkanik dağ zirvesi, UNESCO Dünya Mirası alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بركان وسبرينغز الطين الساخن (Sulphur Springs)",
+              "en": "Sulphur Springs (Drive-In Volcano)",
+              "tr": "Kükürt Kaynakları (Drive-In Volkanı)"
+            },
+            "image": "res://images/sulphur_springs.png",
+            "description": {
+              "ar": "البركان الوحيد في العالم الذي يمكن القيادة المباشرة لداخله والسباحة في حمامات الطين الكبريتي.",
+              "en": "World's only drive-in volcano featuring therapeutic mud baths and steaming vents.",
+              "tr": "Terapötik çamur banyolarına sahip dünyanın tek araçla girilebilen volkanı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

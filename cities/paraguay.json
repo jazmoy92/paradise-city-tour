@@ -1,0 +1,93 @@
+{
+  "paraguay": {
+    "needs_ad": false,
+    "cities": {
+      "asuncion": {
+        "names": {
+          "ar": "أسونسيون",
+          "en": "Asunción",
+          "tr": "Asunción"
+        },
+        "description": {
+          "ar": "عاصمة باراغواي الخضراء التراثية الواقعة على نهر باراغواي، تشتهر بـ قصر لوس لوبيز التاريخي والمباني الاستعمارية.",
+          "en": "Paraguay's capital on the Paraguay River, known for Palacio de los López and orange tree plazas.",
+          "tr": "Palacio de los López ve portakal ağaçlı meydanlarıyla ünlü Paraguay başkenti."
+        },
+        "image": "res://images/asuncion.png",
+        "bg_image": "res://images/asuncion_bg.png",
+        "image_3d": "res://images/asuncion_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل شيراتون أسونسيون (Sheraton Asuncion)",
+              "en": "Sheraton Asuncion Hotel",
+              "tr": "Sheraton Asuncion Otel"
+            },
+            "image": "res://images/sheraton_asuncion.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم تييرا كولورادا أسونسيون (Tierra Colorada)",
+              "en": "Tierra Colorada Gastronómo",
+              "tr": "Tierra Colorada Restoran Asunción"
+            },
+            "image": "res://images/tierra_colorada.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "لحوم شوراسكو باراغوانية وأطباق السوبا المعاصرة",
+              "en": "Modern Paraguayan Steakhouse & Soba",
+              "tr": "Modern Paraguay Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر لوس لوبيز الرئاسي (Palacio de los López)",
+              "en": "Palacio de los López",
+              "tr": "Palacio de los López Sarayı"
+            },
+            "image": "res://images/palacio_de_los_lopez.png",
+            "description": {
+              "ar": "مقر الرئاسة النيو-كلاسيكي الأبيض المضيء ليلاً والمطل على نهر باراغواي.",
+              "en": "Grand white Neoclassical presidential palace illuminated beautifully along the river.",
+              "tr": "Nehir boyunca güzelce aydınlatılan Neoklasik beyaz başkanlık sarayı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مجمع البانثيون القومي للأبطال (National Pantheon of the Heroes)",
+              "en": "National Pantheon of the Heroes",
+              "tr": "Ulusal Kahramanlar Panteonu"
+            },
+            "image": "res://images/pantheon_asuncion.png",
+            "description": {
+              "ar": "صرح رخامي يخلد ذكريات قادة وأبطال تاريخ باراغواي بقلب العاصمة.",
+              "en": "National monument inspired by Les Invalides in Paris, holding tombs of national figures.",
+              "tr": "Paris'teki Les Invalides'den esinlenilmiş, ulusal figürlerin mezarlarını barındıran anıt."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

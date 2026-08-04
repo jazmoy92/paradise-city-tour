@@ -1,0 +1,94 @@
+{
+  "somalia": {
+    "needs_ad": false,
+    "cities": {
+      "mogadishu": {
+        "names": {
+          "ar": "مقديشو (لؤلؤة المحيط الهندي)",
+          "en": "Mogadishu",
+          "tr": "Mogadişu"
+        },
+        "description": {
+          "ar": "عاصمة الصومال البحرية التاريخية الملقبة بلؤلؤة المحيط الهندي، تشتهر بـ شاطئ الجزيرة، والمسجد التاريخي التراثي.",
+          "en": "Somalia's White Pearl of the Indian Ocean, famous for Jazira Beach and historic Arba'a Rukun Mosque.",
+          "tr": "Jazira Plajı ve tarihi Arba'a Rukun Camii ile ünlü Hind Okyanusu'nun Beyaz İncisi."
+        },
+        "image": "res://images/mogadishu.png",
+        "bg_image": "res://images/mogadishu_bg.png",
+        "image_3d": "res://images/mogadishu_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل دكامبر مقديشو (Decale Hotel Mogadishu)",
+              "en": "Decale Hotel Mogadishu",
+              "tr": "Decale Hotel Mogadişu"
+            },
+            "image": "res://images/decale_mogadishu.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم القرش مقديشو (The Village Mogadishu)",
+              "en": "The Village Restaurant Mogadishu",
+              "tr": "The Village Restoran Mogadişu"
+            },
+            "image": "res://images/village_mogadishu.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أسماك المحيط المشوية ولحم الإبل والأرز الصومالي",
+              "en": "Fresh Indian Ocean Fish & Somali Camel Meat",
+              "tr": "Taze Hint Okyanusu Balıkları ve Deve Eti"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ الجزيرة الساحر (Jazira Beach)",
+              "en": "Jazira Beach",
+              "tr": "Jazira Plajı"
+            },
+            "image": "res://images/jazira_beach.png",
+            "description": {
+              "ar": "أشهر شاطئ رملي دافئ يطل على مياه المحيط الهندي يكتظ بقوارب الصيادين.",
+              "en": "Scenic sandy oceanfront beach famous for boat rides and fresh seafood markets.",
+              "tr": "Tekne turları ve taze deniz ürünleri pazarlarıyla ünlü sahil plajı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مسجد أربع ركن التاريخي (Arba'a Rukun Mosque)",
+              "en": "Arba'a Rukun Mosque",
+              "tr": "Arba'a Rukun Camii"
+            },
+            "image": "res://images/arbaa_rukun.png",
+            "description": {
+              "ar": "أحد أقدم المساجد في إفريقيا بني عام 1268 م بوسط مقديشو.",
+              "en": "Centuries-old Islamic landmark constructed in 667 AH (1268 AD).",
+              "tr": "Hicri 667 (MS 1268) yılında inşa edilmiş asırlık cami."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

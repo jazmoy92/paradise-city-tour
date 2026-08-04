@@ -1,0 +1,92 @@
+{
+  "suriname": {
+    "needs_ad": false,
+    "cities": {
+      "paramaribo": {
+        "names": {
+          "ar": "باراماريبو",
+          "en": "Paramaribo",
+          "tr": "Paramaribo"
+        },
+        "description": {
+          "ar": "عاصمة سورينام الهولندية التراثية المصنفة باليونيسكو، تشتهر ببيوتها الخشبية البيضاء الاستعمارية وحصن زيالانديا.",
+          "en": "UNESCO Dutch colonial wooden capital, famous for Fort Zeelandia and Saint Peter and Paul Cathedral.",
+          "tr": "Fort Zeelandia ve ahşap binalarıyla ünlü UNESCO Hollanda sömürge başkenti."
+        },
+        "image": "res://images/paramaribo.png",
+        "bg_image": "res://images/paramaribo_bg.png",
+        "image_3d": "res://images/paramaribo_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل كاسا الملوك سورينام (Royal Torarica)",
+              "en": "Royal Torarica Hotel Paramaribo",
+              "tr": "Royal Torarica Hotel Paramaribo"
+            },
+            "image": "res://images/torarica_suriname.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غاردين كافيه باراماريبو (De Garden)",
+              "en": "De Zeven Zeeën Restaurant",
+              "tr": "De Zeven Zeeën Restoran Paramaribo"
+            },
+            "image": "res://images/zeven_zeeen.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أطباق سورينامية هولندية وجاوية هندية محليّة",
+              "en": "Surinamese Roti, Javanese & Fresh Seafood",
+              "tr": "Surinam Roti ve Cava Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "حصن زيلانديا التاريخي (Fort Zeelandia)",
+              "en": "Fort Zeelandia",
+              "tr": "Fort Zeelandia Kalesi"
+            },
+            "image": "res://images/fort_zeelandia.png",
+            "description": {
+              "ar": "حصن هولندي وبرتقالي يعود للقرن السابع عشر يطل مباشرة على نهر سورينام.",
+              "en": "17th-century star-shaped fortress facing the Suriname River housing the National Museum.",
+              "tr": "Surinam Nehri'ne bakan 17. yüzyıldan kalma yıldız şeklinde kale."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كاتدرائية القديس بيتر وبول الخشبية (St. Peter and Paul Cathedral)",
+              "en": "Saint Peter and Paul Cathedral",
+              "tr": "Aziz Peter ve Paul Ahşap Katedrali"
+            },
+            "image": "res://images/st_peter_paul_suriname.png",
+            "description": {
+              "ar": "أكبر مبنى هيكلي مصنوع بالكامل من الخشب الخالص في نصف الكرة الغربي.",
+              "en": "The largest wooden structure in the Western Hemisphere, made entirely of unpainted cedar.",
+              "tr": "Batı Yarımküre'nin tamamen boyasız sedir ağacından yapılmış en büyük ahşap yapısı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

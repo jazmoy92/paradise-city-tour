@@ -1,0 +1,93 @@
+{
+  "san_marino": {
+    "needs_ad": false,
+    "cities": {
+      "san_marino_city": {
+        "names": {
+          "ar": "مدينة سان مارينو",
+          "en": "San Marino City",
+          "tr": "San Marino Şehri"
+        },
+        "description": {
+          "ar": "عاصمة أقدم جمهورية مستقلة مستمرة في العالم، تشتهر بـ أبراج مونتي تيتانو الثلاثة المطلة على الأبنين.",
+          "en": "The historic capital of the world's oldest republic (UNESCO), famous for the Three Towers of Guaita, Cesta, and Montale.",
+          "tr": "Dünyanın en eski cumhuriyetinin (UNESCO) tarihi başkenti; üç Guaita, Cesta ve Montale kuleleriyle ünlüdür."
+        },
+        "image": "res://images/san_marino.png",
+        "bg_image": "res://images/san_marino_bg.png",
+        "image_3d": "res://images/san_marino_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل غراند سان مارينو (Grand Hotel San Marino)",
+              "en": "Grand Hotel San Marino",
+              "tr": "Grand Hotel San Marino"
+            },
+            "image": "res://images/grand_hotel_sanmarino.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ريستورانتي ريغي سان مارينو (Righi)",
+              "en": "Righi Restaurant San Marino",
+              "tr": "Righi Restoran San Marino"
+            },
+            "image": "res://images/righi_sanmarino.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق السامارينيز والإيطالية الفاخرة المطلة على الساحة",
+              "en": "Michelin-starred Sammarinese & Italian Fine Dining",
+              "tr": "Michelin Yıldızlı San Marino ve İtalyan Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج غوايطا الأول (Guaita Tower - First Tower)",
+              "en": "Guaita Tower (First Tower)",
+              "tr": "Guaita Kulesi (Birinci Kule)"
+            },
+            "image": "res://images/guaita_tower.png",
+            "description": {
+              "ar": "أقدم أبراج سان مارينو بني في القرن الحادي عشر على قمة جبل تيتانو الصخري.",
+              "en": "The oldest and most famous of the three towers, constructed in the 11th century directly on rock.",
+              "tr": "11. yüzyılda doğrudan kayalık üzerine inşa edilmiş üç kulenin en eskisi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر بالاتسو بوبليكو وساحة الحرية (Palazzo Pubblico)",
+              "en": "Palazzo Pubblico & Piazza della Libertà",
+              "tr": "Palazzo Pubblico ve Özgürlük Meydanı"
+            },
+            "image": "res://images/palazzo_pubblico_sm.png",
+            "description": {
+              "ar": "مقر الحكومة والقصر القومي القوطي المزين بحراس السلاح ومطل الجبال.",
+              "en": "Town hall and official government building where formal state ceremonies take place.",
+              "tr": "Resmi devlet törenlerinin yapıldığı belediye ve hükümet binası."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

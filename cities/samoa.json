@@ -1,0 +1,93 @@
+{
+  "samoa": {
+    "needs_ad": false,
+    "cities": {
+      "apia": {
+        "names": {
+          "ar": "أبيا",
+          "en": "Apia",
+          "tr": "Apia"
+        },
+        "description": {
+          "ar": "عاصمة دولة ساموا الواقعة في جزيرة أوبولو، تشتهر بـ المسبح الطبيعي الساحر (To Sua Ocean Trench) ومتحف الكاتب روبرت لويس ستيفنسون.",
+          "en": "Samoa's tropical capital, famous for To Sua Ocean Trench, Papaseea Sliding Rocks, and Robert Louis Stevenson Museum.",
+          "tr": "To Sua Ocean Trench ve Robert Louis Stevenson Müzesi ile ünlü Samoa başkenti."
+        },
+        "image": "res://images/apia.png",
+        "bg_image": "res://images/apia_bg.png",
+        "image_3d": "res://images/apia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شيراتون ساموا بيتش ريزورت",
+              "en": "Sheraton Samoa Beach Resort",
+              "tr": "Sheraton Samoa Beach Resort"
+            },
+            "image": "res://images/sheraton_samoa.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيسترو أبيا (Paddles Restaurant)",
+              "en": "Paddles Restaurant Apia",
+              "tr": "Paddles Restoran Apia"
+            },
+            "image": "res://images/paddles_samoa.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أسماك المحيط الهادي الإيطالية والساموية",
+              "en": "Italian & Polynesian Seafood Fusion",
+              "tr": "İtalyan ve Polinezya Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسبح الطبيعي المائي توسوا (To Sua Ocean Trench)",
+              "en": "To Sua Ocean Trench",
+              "tr": "To Sua Ocean Trench (Doğal Havuz)"
+            },
+            "image": "res://images/to_sua_trench.png",
+            "description": {
+              "ar": "حفرة طبيعية خضراء بعمق 30 متراً تغذيها مياه المحيط الشفافة عبر سلم خشبي أسطوري.",
+              "en": "Famous 30-meter-deep natural green hole filled with seawater connected via a wooden ladder.",
+              "tr": "Ahşap bir merdivenle inilen, deniz suyuyla dolu 30 metre derinliğinde ünlü doğal çukur."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف ومقر الكاتب روبرت لويس ستيفنسون (Villa Vailima)",
+              "en": "Robert Louis Stevenson Museum",
+              "tr": "Robert Louis Stevenson Müzesi"
+            },
+            "image": "res://images/stevenson_museum.png",
+            "description": {
+              "ar": "البيت التاريخي الرائع لمؤلف رواية 'جزيرة الكنز' بقلب غابات ساموا الخضراء.",
+              "en": "Beautifully restored mansion where the 'Treasure Island' author spent his last years.",
+              "tr": "'Define Adası' yazarının son yıllarını geçirdiği güzelce restore edilmiş konak."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

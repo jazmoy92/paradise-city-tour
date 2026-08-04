@@ -1,0 +1,206 @@
+{
+  "south_korea": {
+    "needs_ad": false,
+    "cities": {
+      "seoul": {
+        "names": {
+          "ar": "سول",
+          "en": "Seoul",
+          "tr": "Seul"
+        },
+        "description": {
+          "ar": "عاصمة التكنولوجيا والكيبوب في العالم، تشتهر بـ قصر غيونغبوكغونغ الملكي، برج إن سول، وحي ميونغ دونغ للتسوق.",
+          "en": "Dynamic Asian capital, famous for Gyeongbokgung Palace, N Seoul Tower, Myeongdong, and K-Pop culture.",
+          "tr": "Gyeongbokgung Sarayı, N Seul Kulesi ve Myeongdong ile ünlü dinamik Kore başkenti."
+        },
+        "image": "res://images/seoul.png",
+        "bg_image": "res://images/seoul_bg.png",
+        "image_3d": "res://images/seoul_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل سيلا سول (The Shilla Seoul)",
+              "en": "The Shilla Seoul",
+              "tr": "The Shilla Seul"
+            },
+            "image": "res://images/shilla_seoul.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فورسيزونز سول",
+              "en": "Four Seasons Hotel Seoul",
+              "tr": "Four Seasons Hotel Seul"
+            },
+            "image": "res://images/four_seasons_seoul.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لا بيون سول (La Yeon - The Shilla)",
+              "en": "La Yeon at The Shilla Seoul",
+              "tr": "La Yeon Restoran Seul"
+            },
+            "image": "res://images/layeon_seoul.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أطباق ملكية كورية تقليدية 3 نجوم ميشلان",
+              "en": "Three-Michelin-starred Royal Korean Gastronomy",
+              "tr": "Üç Michelin Yıldızlı Kraliyet Kore Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر غيونغبوكغونغ الملكي (Gyeongbokgung Palace)",
+              "en": "Gyeongbokgung Palace",
+              "tr": "Gyeongbokgung Sarayı"
+            },
+            "image": "res://images/gyeongbokgung.png",
+            "description": {
+              "ar": "أضخم وأجمل قصر ملكي لسلالة جوسون بني عام 1395 م مع مراسم تغيير الحراس التراثية.",
+              "en": "Main royal palace of the Joseon dynasty built in 1395 with royal guard ceremonies.",
+              "tr": "1395'te inşa edilen Joseon hanedanının ana kraliyet sarayı."
+            }
+          },
+          {
+            "name": {
+              "ar": "برج إن سول على جبل نامسان (N Seoul Tower)",
+              "en": "N Seoul Tower (Namsan Tower)",
+              "tr": "N Seul Kulesi (Namsan Kulesi)"
+            },
+            "image": "res://images/nseoul_tower.png",
+            "description": {
+              "ar": "برج تليفزيوني ومطل رومانسي بارتفاع 236 متراً يضم أقفال الحب المطلة على سول.",
+              "en": "Communication tower on Namsan Mountain offering panoramic city vistas and love locks.",
+              "tr": "Namsan Dağı üzerinde panoramik şehir manzaraları sunan iletişim kulesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قرية بوكتشون هانوك التراثية (Bukchon Hanok Village)",
+              "en": "Bukchon Hanok Village",
+              "tr": "Bukchon Hanok Köyü"
+            },
+            "image": "res://images/bukchon_hanok.png",
+            "description": {
+              "ar": "حي تاريخي يضم مئات البيوت الكورية التقليدية (الهانوك) التي تعود لـ 600 عام.",
+              "en": "Traditional village composed of hundreds of preserved wooden Joseon hanoks.",
+              "tr": "Yüzlerce korunmuş ahşap Joseon hanok evinden oluşan geleneksel köy."
+            }
+          }
+        ]
+      },
+      "jeju_island": {
+        "names": {
+          "ar": "جزيرة جيجو (هاواي الكورية)",
+          "en": "Jeju Island",
+          "tr": "Jeju Adası"
+        },
+        "description": {
+          "ar": "جزيرة العجائب الطبيعية السبع، تشتهر بـ قمة سونغسان إيلتشولبونغ البركانية وشلالات تشيونجيون.",
+          "en": "South Korea's volcanic island wonder (UNESCO), famous for Seongsan Ilchulbong sunrise peak.",
+          "tr": "Seongsan Ilchulbong volkanik zirvesiyle ünlü UNESCO doğa harikası Kore adası."
+        },
+        "image": "res://images/jeju.png",
+        "bg_image": "res://images/jeju_bg.png",
+        "image_3d": "res://images/jeju_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع ذا الملاذ جاند هايات جيجو (Grand Hyatt Jeju)",
+              "en": "Grand Hyatt Jeju",
+              "tr": "Grand Hyatt Jeju"
+            },
+            "image": "res://images/grand_hyatt_jeju.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سامداودو جيجو (Samdae Guksu)",
+              "en": "Donsadon Jeju Black Pork",
+              "tr": "Donsadon Jeju Siyah Domuz Restoranı"
+            },
+            "image": "res://images/donsadon_jeju.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "لحم الخنزير الأسود المشوي الأصيل بجزيرة جيجو",
+              "en": "Famous Jeju Grilled Black Pork BBQ",
+              "tr": "Ünlü Jeju Izgara Siyah Domuz Barbeküsü"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "فوهة شروق الشمس البركانية (Seongsan Ilchulbong - UNESCO)",
+              "en": "Seongsan Ilchulbong (Sunrise Peak)",
+              "tr": "Seongsan Ilchulbong (Gün Doğumu Tepesi)"
+            },
+            "image": "res://images/seongsan_ilchulbong.png",
+            "description": {
+              "ar": "مخروط بركاني أثري انبثق من البحر منذ 100 ألف عام على شكل تاج هائل.",
+              "en": "UNESCO tuff cone crater formed by hydrovolcanic eruptions 5,000 years ago.",
+              "tr": "5.000 yıl önce oluşan UNESCO tüf konisi krateri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شلالات تشيونجيون الشاطئية (Cheonjiyeon Waterfall)",
+              "en": "Cheonjiyeon Waterfall",
+              "tr": "Cheonjiyeon Şelalesi"
+            },
+            "image": "res://images/cheonjiyeon.png",
+            "description": {
+              "ar": "شلال استوائي يرتفع 22 متراً ينهمر وسط غابة نباتية نادرة برائحة الياسمين.",
+              "en": "22-meter high cascading waterfall flowing into a turquoise volcanic pond.",
+              "tr": "Turkuaz volkanik bir havuza dökülen 22 metre yüksekliğinde şelale."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

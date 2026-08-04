@@ -1,0 +1,181 @@
+{
+  "slovenia": {
+    "needs_ad": false,
+    "cities": {
+      "bled": {
+        "names": {
+          "ar": "بليد (بحيرة وجزيرة بليد)",
+          "en": "Bled",
+          "tr": "Bled"
+        },
+        "description": {
+          "ar": "أجمل وجهة رومانسية في أوروپا، تشتهر بـ بحيرة بليد الفيروزية، الكنيسة التي تتوسط الجزيرة، وقلعة بليد الجرفية.",
+          "en": "Fairytale alpine town, world-famous for emerald-green Lake Bled, island church, and cliffside castle.",
+          "tr": "Zümrüt yeşili Bled Gölü, ada kilisesi ve falez kalesiyle ünlü masalsı alp kasabası."
+        },
+        "image": "res://images/bled.png",
+        "bg_image": "res://images/bled_bg.png",
+        "image_3d": "res://images/bled_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل غراند أوتيل توبليتسه بليد (Grand Hotel Toplice)",
+              "en": "Grand Hotel Toplice Bled",
+              "tr": "Grand Hotel Toplice Bled"
+            },
+            "image": "res://images/grand_hotel_toplice.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم قلعة بليد الملكي (Bled Castle Restaurant)",
+              "en": "Bled Castle Restaurant",
+              "tr": "Bled Kalesi Restoranı"
+            },
+            "image": "res://images/bled_castle_restaurant.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "كيكة الكريمشنا السلوفينية وأطباق جبال الألب الفاخرة",
+              "en": "Traditional Bled Cream Cake & Alpine Gourmet",
+              "tr": "Geleneksel Bled Kremalı Pastası ve Alp Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "جزيرة بليد وقوارب بليتنا الخشبية (Bled Island & Pletna Boats)",
+              "en": "Bled Island & Church of the Assumption",
+              "tr": "Bled Adası ve Pletna Teknesi"
+            },
+            "image": "res://images/bled_island.png",
+            "description": {
+              "ar": "جزيرة الوحيدة في سلوفينيا تتوسط البحيرة وتضم كنيسة حجرية بـ 99 درجة للوصول لجرس التمني.",
+              "en": "Tiny tear-shaped island housing a 17th-century church reached by traditional wooden Pletna boats.",
+              "tr": "Geleneksel ahşap Pletna tekneleriyle ulaşılan 17. yüzyıl kiliseli küçük ada."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قلعة بليد المطلة من الجرف (Bled Castle / Blejski grad)",
+              "en": "Bled Castle (Blejski grad)",
+              "tr": "Bled Kalesi (Blejski grad)"
+            },
+            "image": "res://images/bled_castle.png",
+            "description": {
+              "ar": "أقدم قلعة في سلوفينيا تعود لعام 1011 م تتربع فوق جرف عمودي يرتفع 130 متراً فوق البحيرة.",
+              "en": "Slovenia's oldest castle perched 130 meters above Lake Bled on a precipitous cliff.",
+              "tr": "Bled Gölü'nün 130 metre üzerinde dik bir falezde yer alan Slovenya'nın en eski kalesi."
+            }
+          }
+        ]
+      },
+      "ljubljana": {
+        "names": {
+          "ar": "ليوبليانا",
+          "en": "Ljubljana",
+          "tr": "Ljubljana"
+        },
+        "description": {
+          "ar": "عاصمة سلوفينيا البيئية المورقة، تشتهر بـ جسر التنانين، قلعة ليوبليانا المرتفعة، والممر النهري الخلاب.",
+          "en": "Green European capital, famous for Triple Bridge, Dragon Bridge, and hilltop Ljubljana Castle.",
+          "tr": "Üçlü Köprü, Ejderha Köprüsü ve tepe kalesiyle ünlü yeşil Avrupa başkenti."
+        },
+        "image": "res://images/ljubljana.png",
+        "bg_image": "res://images/ljubljana_bg.png",
+        "image_3d": "res://images/ljubljana_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل أرباني ليوبليانا (InterContinental Ljubljana)",
+              "en": "InterContinental Ljubljana",
+              "tr": "InterContinental Ljubljana"
+            },
+            "image": "res://images/intercontinental_ljubljana.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ستريليتس ليوبليانا (Strelec Castle)",
+              "en": "Strelec Restaurant Ljubljana Castle",
+              "tr": "Strelec Restoran Ljubljana Kalesi"
+            },
+            "image": "res://images/strelec_ljubljana.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق سلوفينية راقية حائزة ميشلان داخل برج القلعة التاريخي",
+              "en": "Michelin-starred Gourmet Dining inside Archer's Tower",
+              "tr": "Okçu Kulesi İçinde Michelin Yıldızlı Gurme Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة ليوبليانا والتلفريك (Ljubljana Castle)",
+              "en": "Ljubljana Castle",
+              "tr": "Ljubljana Kalesi"
+            },
+            "image": "res://images/ljubljana_castle.png",
+            "description": {
+              "ar": "حصن قروسطي يتربع على التلة وسط العاصمة وتوفر منصته إطلالات على جبال الألب.",
+              "en": "Medieval fortress towering over the Old Town, accessible by a glass funicular railway.",
+              "tr": "Eski Kent'in üzerinde yükselen, cam finikülerle ulaşılan ortaçağ kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جسر التنانين الأيقوني (Dragon Bridge / Zmajski most)",
+              "en": "Dragon Bridge (Zmajski most)",
+              "tr": "Ejderha Köprüsü (Zmajski most)"
+            },
+            "image": "res://images/dragon_bridge.png",
+            "description": {
+              "ar": "جسر آرت نوفو بني عام 1901 تعلوه 4 تماثيل تنانين نحاسية تمثل رمز المدينة الأصيل.",
+              "en": "Art Nouveau bridge guarded by four famous sheet-copper dragon statues.",
+              "tr": "Dört ünlü bakır ejderha heykeliyle korunan Art Nouveau köprü."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

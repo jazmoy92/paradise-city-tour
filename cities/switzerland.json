@@ -1,0 +1,192 @@
+{
+  "switzerland": {
+    "needs_ad": false,
+    "cities": {
+      "zurich": {
+        "names": {
+          "ar": "زوريخ",
+          "en": "Zurich",
+          "tr": "Zürih"
+        },
+        "description": {
+          "ar": "العاصمة المالية الأنيقة على بحيرة زوريخ، تشتهر بـ شارع باهنهوفشتراسه للتسوق، المدينة القديمة، وإطلالة جبال الألب.",
+          "en": "Global financial center on Lake Zurich, famous for Bahnhofstrasse, Altstadt, and Lindt Home of Chocolate.",
+          "tr": "Bahnhofstrasse, Altstadt ve Lindt Çikolata Evi ile ünlü Lake Zürih kıyısındaki finans merkezi."
+        },
+        "image": "res://images/zurich.png",
+        "bg_image": "res://images/zurich_bg.png",
+        "image_3d": "res://images/zurich_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا دولدر غراند زوريخ (The Dolder Grand)",
+              "en": "The Dolder Grand Zurich",
+              "tr": "The Dolder Grand Zürih"
+            },
+            "image": "res://images/dolder_grand.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل باو أو لاك زوريخ (Baur au Lac)",
+              "en": "Baur au Lac Zurich",
+              "tr": "Baur au Lac Zürih"
+            },
+            "image": "res://images/baur_au_lac.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أوتيل دولدر غراند زوريخ (The Restaurant)",
+              "en": "The Restaurant by Heiko Nieder",
+              "tr": "The Restaurant Zürih"
+            },
+            "image": "res://images/the_restaurant_zurich.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات سويسرية وأوروبية راقية 2 نجوم ميشلان",
+              "en": "Two-Michelin-starred Alpine Fine Dining",
+              "tr": "İki Michelin Yıldızlı Lüks Alp Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شارع باهنهوفشتراسه الفاخر (Bahnhofstrasse)",
+              "en": "Bahnhofstrasse Shopping Avenue",
+              "tr": "Bahnhofstrasse Alışveriş Bulvarı"
+            },
+            "image": "res://images/bahnhofstrasse.png",
+            "description": {
+              "ar": "أفخم وأغلى شارع تسوق عالمي يضم الساعات السويسرية الفاخرة والبنوك العالمية.",
+              "en": "World's most exclusive downtown shopping boulevard lined with haute horlogerie boutiques.",
+              "tr": "Lüks saat butikleriyle dolu dünyanın en seçkin alışveriş caddesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف ومتحف ليندت للشوكولاتة (Lindt Home of Chocolate)",
+              "en": "Lindt Home of Chocolate",
+              "tr": "Lindt Çikolata Müzesi"
+            },
+            "image": "res://images/lindt_zurich.png",
+            "description": {
+              "ar": "متحف تفاعلي فريد يضم أطول نافورة شوكولاتة سائلة في العالم بارتفاع 9 أمتار.",
+              "en": "Interactive chocolate museum featuring a 9-meter tall free-standing chocolate fountain.",
+              "tr": "9 metre yüksekliğinde çikolata fıskiyesine sahip etkileşimli çikolata müzesi."
+            }
+          }
+        ]
+      },
+      "interlaken": {
+        "names": {
+          "ar": "إنترلاكن (قلب جبال الألب)",
+          "en": "Interlaken",
+          "tr": "Interlaken"
+        },
+        "description": {
+          "ar": "عاصمة الطبيعة والمغامرات السويسرية الواقعة بين بحيرتي ثون وبرينز، بوابة قمة يونغفراوجوخ الشاهقة.",
+          "en": "Swiss alpine resort town flanked by Lake Thun and Lake Brienz, gateway to Jungfraujoch Top of Europe.",
+          "tr": "Thun ve Brienz gölleri arasında, Jungfraujoch'a açılan kapı olan İsviçre alp şehri."
+        },
+        "image": "res://images/interlaken.png",
+        "bg_image": "res://images/interlaken_bg.png",
+        "image_3d": "res://images/interlaken_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل فيكتوريا يونغفراو إنترلاكن (Victoria-Jungfrau)",
+              "en": "Victoria-Jungfrau Grand Hotel & Spa",
+              "tr": "Victoria-Jungfrau Grand Hotel & Spa"
+            },
+            "image": "res://images/victoria_jungfrau.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيسترو ههويمايت إنترلاكن (La Terrasse)",
+              "en": "La Terrasse Brasserie Interlaken",
+              "tr": "La Terrasse Restoran Interlaken"
+            },
+            "image": "res://images/la_terrasse_interlaken.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "فوندو الجبن السويسري وشنيتزل وجبات جبال الألب",
+              "en": "Traditional Swiss Cheese Fondue & Alpine Fine Dining",
+              "tr": "Geleneksel İsviçre Peynir Fondu ve Alp Yemeği"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قمة يونغفراوجوخ (Jungfraujoch - Top of Europe)",
+              "en": "Jungfraujoch Top of Europe",
+              "tr": "Jungfraujoch (Avrupa'nın Zirvesi)"
+            },
+            "image": "res://images/jungfraujoch.png",
+            "description": {
+              "ar": "أعلى محطة قطار في أوروبا بارتفاع 3,454 متراً يضم قصر الجليد ومطل نهر أليتش الجليدي.",
+              "en": "Highest railway station in Europe at 3,454 meters overlooking the Great Aletsch Glacier.",
+              "tr": "Büyük Aletsch Buzulu'na bakan 3.454 metre ile Avrupa'nın en yüksek tren istasyonu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قرية وشلالات غريندلفالد ولاوتربرونين (Grindelwald & Lauterbrunnen)",
+              "en": "Lauterbrunnen Valley & Staubbach Falls",
+              "tr": "Lauterbrunnen Vadisi ve Şelaleleri"
+            },
+            "image": "res://images/lauterbrunnen.png",
+            "description": {
+              "ar": "وادي الـ 72 شلالاً الخرافي المحاط بالأكواخ الخشبية والقمم الثلجية.",
+              "en": "Fairy-tale valley featuring 72 cascading waterfalls and sheer vertical cliffs.",
+              "tr": "72 şelalesi ve dik kayalıklarıyla ünlü masalsı İsviçre vadisi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

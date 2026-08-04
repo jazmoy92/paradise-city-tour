@@ -28,8 +28,6 @@
     "sub_regions": [
       { "id": "european", "title": { "ar": "الجانب الأوروبي 🏰", "en": "European Side 🏰", "tr": "Avrupa Yakası 🏰" } },
       { "id": "asian", "title": { "ar": "الجانب الآسيوي 🌊", "en": "Asian Side 🌊", "tr": "Anadolu Yakası 🌊" } },
-      { "id": "taksim", "title": { "ar": "تقسيم 🛍️", "en": "Taksim 🛍️", "tr": "Taksim 🛍️" } },
-      { "id": "sultanahmet", "title": { "ar": "سلطان أحمد 🕌", "en": "Sultanahmet 🕌", "tr": "Sultanahmet 🕌" } }
     ],
     "hotels": [
       {

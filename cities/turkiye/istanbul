@@ -1,0 +1,479 @@
+{
+  "names": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+  },
+  "description": {
+    "ar": "تتربع إسطنبول على عرش المدن التي تربط قارات العالم، مشكّلةً جسراً حضارياً فريداً بين آسيا وأوروبا. تحتضن المدينة طبيعة مائية ساحرة؛ حيث يحدّها البحر الأسود من الشمال، وينساب عبر قلبها مضيق البوسفور ليلتقي بعمق بحر مرمرة في الجنوب. تتميز هذه الحاضرة بإرث تاريخي عريق يمتد بجذوره إلى العهدين البيزنطي والعثماني، مما جعلها منارة ثقافية ومركزاً تجارياً رائداً. واليوم، تحتفي إسطنبول بتنوعها الإنساني الفريد بتعداد سكان يتجاوز حاجز الـ 16 مليون نسمة، ويزيدها سحراً جزر الأميرات الخمسة المفتوحة والآمنة للزيارة السياحية والتي تتلألأ في قلب بحر مرمرة، لترسم معاً لوحة طبيعية وتاريخية لا مثيل لها.",
+    "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south. This metropolis boasts an ancient historical heritage deeply rooted in both the Byzantine and Ottoman eras, making it a cultural beacon and a leading commercial hub. Today, Istanbul celebrates its unique human diversity with a population exceeding 16 million, while its charm is further heightened by the five Princes' Islands open and safe for tourist visits, shimmering in the heart of the Sea of Marmara, together painting an unparalleled natural and historical masterpiece.",
+    "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur. Bizans ve Osmanlı dönemlerine kadar uzanan köklü bir tarihi mirasa sahip olan bu metropol, bir kültür feneri ve öncü bir ticaret merkezi haline gelmiştir. Bugün İstanbul, 16 milyonu aşan nüfusuyla benzersiz insani çeşitliliğini kutlarken, Marmara Denizi'nin kalbinde parıldayan ve turistik ziyarete açık, güvenli beş Prens Adası da bu büyüleyici güzelliğe apayrı bir ihtişam katarak bir arada eşsiz bir doğa ve tarih tablosu çizmektedir."
+  },
+  "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/istanbul.png",
+  "bg_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/istanbul_bg.png",
+  "image_3d": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/istanbul_3d.png",
+  "is_soon": false,
+  "available_services": ["taxi", "rent_car", "driver"],
+  "available_categories": [
+    "hotels",
+    "tours",
+    "places",
+    "cultural_places",
+    "beaches",
+    "restaurants",
+    "city_transport"
+  ],
+  "hotels": [
+    {
+      "name": {
+        "ar": "فندق تشيران بالاس كمبينسكي",
+        "en": "Ciragan Palace Kempinski",
+        "tr": "Çırağan Palace Kempinski"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/cigaran%20palace.png",
+      "rating": "5 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
+      "has_read_more": true,
+      "desc": {
+        "ar": "قصر ملكي عثماني يعود للقرن الـ 19. الفندق الإمبراطوري الوحيد على مضيق البوسفور، ويحتوي على 317 غرفة وجناحاً. يتميز بإطلالات بانورامية ساحرة على البوسفور أو حدائق يلدز التاريخية. يحتوي على 3 مطاعم ومسبح يطل على البوسفور وسبا صحي.",
+        "en": "A 19th-century Ottoman royal palace. The only imperial hotel on the Bosphorus, featuring 317 rooms and suites. Offers breathtaking views of the Bosphorus or historic Yıldız Gardens.",
+        "tr": "19. yüzyıldan kalma bir Osmanlı kraliyet sarayı. Boğaz üzerindeki tek imparatorluk oteli olup, 317 oda ve süite sahiptir. Eşsiz Boğaz manzarası sunar."
+      }
+    },
+    {
+      "name": {
+        "ar": "اليسيوم تقسيم",
+        "en": "The Elysium Taksim",
+        "tr": "Elysium Taksim"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/elisyumtaksim.png",
+      "rating": "5 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
+      "has_read_more": true,
+      "desc": {
+        "ar": "فندق فاخر 5 نجوم يقع في قلب إسطنبول بالقرب من ساحة تقسيم. يتميز بغرف وأجنحة دوبلكس بتصميم عصري ونوافذ بانورامية ممتدة من الأرض إلى السقف مع إطلالات على البوسفور والمدينة.",
+        "en": "A luxury 5-star hotel located in the heart of Istanbul, minutes away from Taksim Square. Features modern duplex rooms with floor-to-ceiling windows.",
+        "tr": "İstanbul'un kalbinde, Taksim Meydanı'na yürüme mesafesinde 5 yıldızlı lüks bir otel. Dubleks oda ve süitleri ile öne çıkar."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق مطار اسطنبول هافن بريميوم",
+        "en": "Heaven Premium Airport Hotel",
+        "tr": "Heaven Premium Airport Hotel"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/heavenistanbulhavaliman.png",
+      "rating": "3 Stars",
+      "website": "https://expedia.com/affiliate/2nSHUuT",
+      "has_read_more": true,
+      "desc": {
+        "ar": "خيار عصري ومريح للمسافرين عبر مطار إسطنبول الدولي (IST) بلمحة عائلية، يبعد 10 إلى 15 دقيقة بالسيارة عن المطار في منطقة أرناؤوط كوي الهادئة.",
+        "en": "One of the best modern choices near Istanbul Airport (IST), located 10-15 minutes away in Arnavutköy.",
+        "tr": "İstanbul Havalimanı'na (IST) 10-15 dakika mesafede modern ve konforlu bir konaklama seçeneği."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق زازوني مطار اسطنبول",
+        "en": "Zazzoni-İstanbul Airport",
+        "tr": "Zazzoni-İstanbul Havalimanı"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/zazzoniairportist.png",
+      "rating": "3 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=35991201",
+      "has_read_more": true,
+      "desc": {
+        "ar": "يقع في منطقة أرناؤوط كوي ويبعد 10-15 دقيقة عن مطار إسطنبول مع إطلالة مباشرة على الجامع الأخضر وسهولة وصول للمترو.",
+        "en": "Located in Arnavutköy, 10-15 minutes from IST airport with direct views of the Green Mosque.",
+        "tr": "Arnavutköy'de yer alan otel, havalimanına 10-15 dakika mesafededir."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق كونتينتال مطار اسطنبول",
+        "en": "Continental IST Airport Hotel",
+        "tr": "Continental İstanbul Havalimanı"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/continentelistairport.png",
+      "rating": "3 Stars",
+      "website": "https://expedia.com/affiliate/5ybxIai",
+      "has_read_more": true,
+      "desc": {
+        "ar": "فندق اقتصادي وعصري مصنف 3 نجوم بالقرب من المطار مع خيارات إفطار حلال وخدمات نقل المطار.",
+        "en": "Budget 3-star hotel located near Istanbul Airport, offering halal breakfast and airport shuttle.",
+        "tr": "Havalimanı yakınında ekonomik ve modern 3 yıldızlı bir otel."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق اركاديا بلو",
+        "en": "Hotel Arcadia Blue",
+        "tr": "Arcadia Blue Oteli"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/arcadiahotelsultanahmet.png",
+      "rating": "4 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=91063",
+      "has_read_more": true,
+      "desc": {
+        "ar": "فندق فاخر في منطقة سلطان أحمد التاريخية مع إطلالة بانورامية مباشرة ومباشرة على جامع السلطان أحمد وآيا صوفيا.",
+        "en": "4-star hotel in Sultanahmet with stunning views of Hagia Sophia and Blue Mosque.",
+        "tr": "Sultanahmet'te Ayasofya ve Sultanahmet Camii manzaralı lüks otel."
+      }
+    },
+    {
+      "name": {
+        "ar": "شقق فندقية ماريوت تيما وورلد",
+        "en": "Marriott Apartments Tema World",
+        "tr": "Marriott Apartments Tema World"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/marriotapartment.png",
+      "rating": "5 Stars",
+      "website": "https://expedia.com/affiliate/HG7P9Rr",
+      "has_read_more": true,
+      "desc": {
+        "ar": "شقق فندقية حديثة تقع داخل مجمع Tema World الترفيهي للإقامات الطويلة والعائلات.",
+        "en": "Modern residential apartments located inside Tema World entertainment complex.",
+        "tr": "Tema World eğlence kompleksi içinde yer alan modern daireler."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق كرنتون ديزاين",
+        "en": "Cronton Design Hotel",
+        "tr": "Cronton Design Oteli"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/crontondesignotel.png",
+      "rating": "5 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=33687622",
+      "has_read_more": true,
+      "desc": {
+        "ar": "فندق بوتيك فاخر في منطقة سيركجي يمزج بين التراث المعماري الأثري والرفاهية الحديثة.",
+        "en": "Boutique luxury hotel in historic Sirkeci blending heritage with modern luxury.",
+        "tr": "Sirkeci'de tarihi dokuyu lüks ile harmanlayan butik otel."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق هيلورا جزيرة الأميرات",
+        "en": "Hillora Hotel Buyukada",
+        "tr": "Hillora Büyükada Oteli"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/hilloraotelbuyukada.png",
+      "rating": "4 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=86592702",
+      "has_read_more": true,
+      "desc": {
+        "ar": "فندق بوتيك عصري يقع في جزيرة بيوك أدا مع إطلالة بحرية ومسبح وخدمات متميزة.",
+        "en": "Modern boutique hotel in Büyükada with sea views, pool, and fine dining.",
+        "tr": "Büyükada'da deniz manzaralı ve havuzlu modern butik otel."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق عالية اسطنبول",
+        "en": "Aliée Istanbul",
+        "tr": "Aliée Istanbul"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/alieeistanbul.png",
+      "rating": "5 Stars",
+      "website": "https://www.hotels.com/affiliate/UhhafJk",
+      "has_read_more": true,
+      "desc": {
+        "ar": "منتجع فاخر على القرن الذهبي في رصيف الترسانة تم اختياره ضمن قائمة مجلة TIME لعام 2026.",
+        "en": "Ultra-luxury resort located at Golden Horn Tersane, featured in TIME's 2026 World's Greatest Places.",
+        "tr": "Haliç kıyısındaki tarihi Tersane'de yer alan ultra lüks otel."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق ريتز كارلتون",
+        "en": "Ritz Carlton Hotel",
+        "tr": "Ritz Carlton Oteli"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/ritzcarlton.png",
+      "rating": "5 Stars",
+      "website": "https://www.hotels.com/affiliate/TQYQ7zD",
+      "has_read_more": true,
+      "desc": {
+        "ar": "أيقونة الفخامة في منطقة شيشلي بالقرب من تقسيم مع إطلالة بانورامية ساحرة على البوسفور.",
+        "en": "Iconic luxury hotel in Şişli with sweeping views of the Bosphorus.",
+        "tr": "Şişli'de Boğaz manzaralı lüks ikonik otel."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق ريكسوس ترسانه اسطنبول",
+        "en": "Rixos Tersane Istanbul",
+        "tr": "Rixos Tersane Istanbul"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/rixostersane.png",
+      "rating": "5 Stars",
+      "website": "https://expedia.com/affiliate/lbdMVeH",
+      "has_read_more": true,
+      "desc": {
+        "ar": "منتجع فخم يحتوي على 432 غرفة وجناحاً ومجموعة واسعة من المطاعم والمسابح والخدمات الفاخرة على القرن الذهبي.",
+        "en": "5-star luxury resort with 432 rooms, 11 restaurants, and premium wellness facilities at Tersane.",
+        "tr": "Tersane Haliç'te 432 odalı ultra lüks tesis."
+      }
+    },
+    {
+      "name": {
+        "ar": "فندق كونلون كينسينغتون",
+        "en": "Kunlun Kensington Hotel",
+        "tr": "Kunlun Kensington Oteli"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/kensingtonfatih.png",
+      "rating": "4 Stars",
+      "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=32008113",
+      "has_read_more": true,
+      "desc": {
+        "ar": "موقع متميز في الفاتح بالقرب من المواصلات مع مطعم يقدم مأكولات آسيوية وشرقية وتركية متنوعة.",
+        "en": "Great location in Fatih near metro/tram with unique Asian and Eastern cuisine.",
+        "tr": "Fatih'te metroya yakın konumda Asya ve Doğu lezzetleri sunan otel."
+      }
+    }
+  ],
+  "cultural_places": [
+    {
+      "name": {
+        "ar": "جامع آيا صوفيا",
+        "en": "Hagia Sophia Grand Mosque",
+        "tr": "Ayasofya Camii"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/ayasofya.png",
+      "website": "https://gyg.me/cnFWeJBH",
+      "has_read_more": true,
+      "desc": {
+        "ar": "أحد أعظم المعالم التاريخية والدينية في العالم، يقع في منطقة سلطان أحمد.",
+        "en": "One of the greatest historical and religious monuments in the world.",
+        "tr": "Dünyanın en büyük tarihi ve dini yapılarından biri."
+      }
+    },
+    {
+      "name": {
+        "ar": "متحف صهريج البازيليك",
+        "en": "Basilica Cistern",
+        "tr": "Yerebatan Sarnıcı"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/yerebatan.png",
+      "website": "https://gyg.me/M23UuHU4",
+      "has_read_more": true,
+      "desc": {
+        "ar": "صهريج ماء بيزنطي تاريخي تحت الأرض يعود للقرن السادس الميلادي.",
+        "en": "Historic underground Byzantine water cistern dating back to the 6th century.",
+        "tr": "6. yüzyıldan kalma tarihi yeraltı su sarnıcı."
+      }
+    },
+    {
+      "name": {
+        "ar": "برج غلاطة",
+        "en": "Galata Tower",
+        "tr": "Galata Kulesi"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/galatakulesi.png",
+      "website": "https://gyg.me/FojiBE2k",
+      "has_read_more": true,
+      "desc": {
+        "ar": "برج تاريخي شهير يمنحك إطلالة بانورامية 360 درجة على إسطنبول والبوسفور.",
+        "en": "Iconic medieval stone tower offering 360-degree views of Istanbul.",
+        "tr": "İstanbul ve Boğaz'ın 360 derece manzarasını sunan tarihi kule."
+      }
+    },
+    {
+      "name": {
+        "ar": "قصر دولما بهجة",
+        "en": "Dolmabahce Palace",
+        "tr": "Dolmabahçe Sarayı"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/dolmabahce.png",
+      "website": "https://gyg.me/uLMlQ80Q",
+      "has_read_more": true,
+      "desc": {
+        "ar": "أفخم القصور العثمانية المطلة مباشرة على البوسفور بالتصاميم الأوروبية والذهب.",
+        "en": "Grand Ottoman palace located directly on the Bosphorus waterfront.",
+        "tr": "Boğaz kıyısında yer alan görkemli Osmanlı sarayı."
+      }
+    },
+    {
+      "name": {
+        "ar": "برج الفتاة",
+        "en": "Maiden's Tower",
+        "tr": "Kız Kulesi"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/kizkulesi.png",
+      "website": "https://gyg.me/jtFWQeJh",
+      "has_read_more": true,
+      "desc": {
+        "ar": "برج أثري وسياحي أسطوري يتوسط مياه مضيق البوسفور بجهة أوسكودار.",
+        "en": "Legendary historic tower located on a small islet in the Bosphorus Strait.",
+        "tr": "Üsküdar açıklarında Boğaz'ın ortasında yer alan tarihi kule."
+      }
+    }
+  ],
+  "tours": [
+    {
+      "name": {
+        "ar": "جولة عشاء البسفور و ليلة عرض تركية",
+        "en": "Bosphorus Dinner Cruise & Turkish Night Show",
+        "tr": "Boğaz Akşam Yemeği Turu & Türk Gece Şovu"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/BosphorusDinnerCruise.png",
+      "website": "https://gyg.me/0mMug4p7",
+      "has_read_more": true,
+      "desc": {
+        "ar": "عشاء فاخر على متن السفينة مع عروض فلكلورية شعبية وإضاءات البوسفور الليلية الساحرة.",
+        "en": "Evening cruise with fine dining, folk dances, and illuminated Bosphorus views.",
+        "tr": "Boğaz'da yemekli, şovlu ve eğlenceli gece tekne turu."
+      }
+    },
+    {
+      "name": {
+        "ar": "رحلة ووجبة بالباخرة مميزة Le Vapeur Magique",
+        "en": "Le Vapeur Magique Tour Special",
+        "tr": "Le Vapeur Magique Tur Spesiyal"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/levapeurmargique.png",
+      "website": "https://www.levapeurmagique.com/",
+      "has_read_more": true,
+      "desc": {
+        "ar": "تجربة إفطار أو عشاء فاخرة على سفينة تاريخية بتصميم كلاسيكي وموسيقى حية.",
+        "en": "Unique retro-style cruise offering gourmet meals with live music on the Bosphorus.",
+        "tr": "Nostaljik vapurda canlı müzik eşliğinde özel yemekli Boğaz turu."
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": {
+        "ar": "فيالاند المدينة الترفيهية",
+        "en": "VIALAND Theme Park",
+        "tr": "VIALAND Tema Parkı"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/vialand.jpg",
+      "website": "https://klook.tpx.li/qty7qN7v",
+      "has_read_more": true,
+      "desc": {
+        "ar": "أكبر مدينة ألعاب ترفيهية ومول تسوق مفتوح في إسطنبول تناسب العائلات والأطفال.",
+        "en": "Istanbul's premier theme park and shopping mall with rides for all ages.",
+        "tr": "İstanbul'un en büyük tema parkı ve alışveriş merkezi."
+      }
+    },
+    {
+      "name": {
+        "ar": "مول أوف إسطنبول",
+        "en": "Mall Of Istanbul",
+        "tr": "Mall Of İstanbul"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/vialand.jpg",
+      "website": "https://klook.tpx.li/qty7qN7v",
+      "has_read_more": true,
+      "desc": {
+        "ar": "أكبر مركز تسوق في إسطنبول يضم أشهر الماركات العالمية ومدينة ألعاب مغلقة (MOi Park).",
+        "en": "The largest shopping mall in Istanbul featuring top brands and indoor amusement park.",
+        "tr": "İstanbul'un en büyük AVM'si, kapalı tema parkı Moi Park ile birlikte."
+      }
+    }
+  ],
+  "restaurants": [
+    {
+      "name": {
+        "ar": "مطاعم وكافيهات غلاطة بورت",
+        "en": "Galataport Restaurants & Cafes",
+        "tr": "Galataport Restoran ve Kafeleri"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/bosphorus.jpg",
+      "website": "https://maps.app.goo.gl",
+      "has_read_more": true,
+      "desc": {
+        "ar": "واجهة إسطنبول البحرية الحديثة المليئة بأفخم المطاعم والمقاهي المطلة مباشرة على البوسفور.",
+        "en": "Modern waterfront destination with high-end dining overlooking the Bosphorus.",
+        "tr": "Boğaz manzaralı lüks restoran ve kafelerin bulunduğu modern sahil kordonu."
+      }
+    }
+  ],
+  "beaches": [
+    {
+      "name": {
+        "ar": "ساحل ترماتا سارير",
+        "en": "Tirmata Beach Sariyer",
+        "tr": "Tırmata Sahil Sarıyer"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/bosphorus.jpg",
+      "website": "https://maps.app.goo.gl",
+      "has_read_more": true,
+      "desc": {
+        "ar": "شاطئ رملي ممتاز ومجهز بجميع الخدمات العائلية على البحر الأسود في منطقة سارير.",
+        "en": "Popular sandy beach resort on the Black Sea coast in Sarıyer.",
+        "tr": "Sarıyer'de Karadeniz kıyısında popüler plaj tesisi."
+      }
+    }
+  ],
+  "city_transport": [
+    {
+      "name": {
+        "ar": "تطبيق BiTaksi (تاكسي إسطنبول)",
+        "en": "BiTaksi App",
+        "tr": "BiTaksi Uygulaması"
+      },
+      "icon": "🚕",
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/bitaksi.png",
+      "fare": "حسب العداد / Taximeter",
+      "has_read_more": true,
+      "desc": {
+        "ar": "التطبيق الأكثر استخداماً لطلب التاكسي الأصفر والأزرق في إسطنبول مع خيارات الدفع الإلكتروني.",
+        "en": "The most popular taxi booking app in Istanbul with live tracking and card payments.",
+        "tr": "İstanbul'da taksi çağırmanın en kolay yolu."
+      },
+      "app_url": "https://www.bitaksi.com"
+    },
+    {
+      "name": {
+        "ar": "مترو إسطنبول (Metro M2)",
+        "en": "Istanbul Metro M2",
+        "tr": "İstanbul Metro M2"
+      },
+      "icon": "🚇",
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/metro.png",
+      "fare": "15 TL - كارت إسطنبول",
+      "has_read_more": true,
+      "desc": {
+        "ar": "خط المترو الشرياني الذي يربط بين تقسيم، ششلي، ليفنت، والمولات الكبرى.",
+        "en": "Main metro line connecting Taksim, Şişli, Levent, and major shopping malls.",
+        "tr": "Taksim, Şişli ve Levent'i birbirine bağlayan ana metro hattı."
+      },
+      "app_url": "https://www.metro.istanbul"
+    }
+  ],
+  "luxury_lifestyle": [
+    {
+      "name": {
+        "ar": "تأجير يخت فاخر في البوسفور",
+        "en": "Luxury Yacht Rental Bosphorus",
+        "tr": "Lüks Yat Kiralama Boğaz"
+      },
+      "desc": {
+        "ar": "جولة بحرية خاصة في مضيق البوسفور مع عشاء فاخر وطاقم ضيافة متكامل.",
+        "en": "Private luxury cruise on the Bosphorus with fine dining and full crew.",
+        "tr": "Özel Boğaz turu, lüks akşam yemeği ve mürettebat eşliğinde."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/yacht.png",
+      "url": "https://example.com/yacht",
+      "has_read_more": true
+    },
+    {
+      "name": {
+        "ar": "تأجير سيارات فارهة VIP",
+        "en": "VIP Luxury Car Rental",
+        "tr": "VIP Lüks Araç Kiralama"
+      },
+      "desc": {
+        "ar": "سيارات مرسيدس فيتو ومايباخ مع سائق خاص يتحدث العربية والإنجليزية.",
+        "en": "Chauffeur-driven Mercedes Maybach & Vito for private transportation.",
+        "tr": "Özel şoförlü lüks Mercedes araç kiralama."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/yacht.png",
+      "url": "https://example.com/car",
+      "has_read_more": true
+    }
+  ]
+}

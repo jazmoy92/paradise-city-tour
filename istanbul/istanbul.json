@@ -1,0 +1,140 @@
+{
+  "city_id": "istanbul",
+  "names": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+  },
+  "description": {
+    "ar": "تتربع إسطنبول على عرش المدن التي تربط قارات العالم، مشكّلةً جسراً حضارياً فريداً بين آسيا وأوروبا. تحتضن المدينة طبيعة مائية ساحرة؛ حيث يحدّها البحر الأسود من الشمال، وينساب عبر قلبها مضيق البوسفور ليلتقي بعمق بحر مرمرة في الجنوب.",
+    "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe.",
+    "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır."
+  },
+  "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/images/istanbul.png",
+  "image_3d": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/images/istanbul_3d.png",
+  "available_services": ["taxi", "rent_car", "driver", "apartment", "luxury_lifestyle"],
+  "available_categories": ["hotels", "tours", "places", "cultural Places", "beaches", "restaurants", "city transport"],
+  "regions": {
+    "european_side": {
+      "title": {
+        "ar": "الجانب الأوروبي 🏰",
+        "en": "European Side 🏰",
+        "tr": "Avrupa Yakası 🏰"
+      },
+      "hotels": [
+        {
+          "name": { "ar": "فندق تشيران بالاس كمبينسكي", "en": "Ciragan Palace Kempinski", "tr": "Çırağan Palace Kempinski" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/cigaran_palace.png",
+          "rating": "5 Stars",
+          "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
+          "desc": {
+            "ar": "قصر ملكي عثماني يعود للقرن الـ 19، وهو الفندق الإمبراطوري الوحيد على مضيق البوسفور مع خدمة خادم شخصي على مدار الساعة.",
+            "en": "A 19th-century Ottoman royal palace, the only imperial hotel on the Bosphorus with 24-hour butler service.",
+            "tr": "19. yüzyıldan kalma bir Osmanlı kraliyet sarayı. Boğaz üzerindeki tek imparatorluk oteli."
+          }
+        },
+        {
+          "name": { "ar": "اليسيوم تقسيم", "en": "The Elysium Taksim", "tr": "Elysium Taksim" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/elisyumtaksim.png",
+          "rating": "5 Stars",
+          "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
+          "desc": {
+            "ar": "فندق فاخر يقع في قلب إسطنبول على بعد دقائق مشياً من ساحة تقسيم، يتميز بأجنحة دوبلكس وعصرية.",
+            "en": "Luxury 5-star hotel located in the heart of Istanbul near Taksim Square with modern duplex suites.",
+            "tr": "İstanbul'un kalbinde Taksim Meydanı'na yürüme mesafesinde 5 yıldızlı lüks otel."
+          }
+        },
+        {
+          "name": { "ar": "فندق اركاديا بلو", "en": "Hotel Arcadia Blue", "tr": "Arcadia Blue Oteli" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/arcadiahotelsultanahmet.png",
+          "rating": "4 Stars",
+          "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=91063",
+          "desc": {
+            "ar": "فندق مميز مصنف 4 نجوم في قلب المنطقة التاريخية سلطان أحمد، يشتهر بإطلالته المباشرة على جامع آيا صوفيا.",
+            "en": "Charming 4-star hotel in Sultanahmet offering direct panoramic views of Hagia Sophia.",
+            "tr": "Sultanahmet'in kalbinde Ayasofya manzaralı 4 yıldızlı otel."
+          }
+        }
+      ],
+      "places": [
+        {
+          "name": { "ar": "جامع آيا صوفيا", "en": "Hagia Sophia Grand Mosque", "tr": "Ayasofya Camii" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/ayasofya.png",
+          "website": "https://gyg.me/cnFWeJBH",
+          "desc": {
+            "ar": "أحد أعظم المعالم المعمارية والتاريخية في العالم، يقع في منطقة سلطان أحمد بقلب إسطنبول.",
+            "en": "One of the greatest architectural and historical landmarks in the world.",
+            "tr": "Dünyanın en büyük mimari ve tarihi yapılarından biri."
+          }
+        },
+        {
+          "name": { "ar": "برج غلاطة", "en": "Galata Tower", "tr": "Galata Kulesi" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/galatakulesi.png",
+          "website": "https://gyg.me/FojiBE2k",
+          "desc": {
+            "ar": "برج تاريخي شهير يطل على مضيق البوسفور والقرن الذهبي ويوفر إطلالة بانورامية ساحرة.",
+            "en": "Historic tower offering panoramic views of the Bosphorus and Golden Horn.",
+            "tr": "İstanbul Boğazı ve Haliç manzarasına sahip tarihi kule."
+          }
+        }
+      ]
+    },
+    "asian_side": {
+      "title": {
+        "ar": "الجانب الآسيوي 🌊",
+        "en": "Asian Side 🌊",
+        "tr": "Anadolu Yakası 🌊"
+      },
+      "hotels": [
+        {
+          "name": { "ar": "ادرس اعمار سكوير اسكودار", "en": "Address Emaar Square Uskudar", "tr": "Address Emaar Square Üsküdar" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/adressemaar.png",
+          "rating": "5 Stars",
+          "website": "https://www.hotels.com/affiliate/KQHZd76",
+          "desc": {
+            "ar": "فندق فاخر للغاية يقع فوق مجمع اعمار سكوير مول في منطقة أوسكودار بالجانب الآسيوي.",
+            "en": "Ultra-luxury hotel situated above Emaar Square Mall in Uskudar on the Asian side.",
+            "tr": "Anadolu Yakası Üsküdar'da Emaar Square AVM üzerinde yer alan ultra lüks otel."
+          }
+        },
+        {
+          "name": { "ar": "فندق دوجي كادي كوي", "en": "Dugi Hotel Kadikoy", "tr": "Dugi Otel Kadıköy" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/dugikadikoy.png",
+          "rating": "5 Stars",
+          "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=59741261",
+          "desc": {
+            "ar": "فندق راقٍ يقع في منطقة كاديكوي الحيوية بالقرب من الأسواق والمطاعم البحرية الساحلية.",
+            "en": "Upscale hotel located in the vibrant Kadikoy area near seaside markets and restaurants.",
+            "tr": "Kadıköy'ün merkezinde yer alan kaliteli otel."
+          }
+        }
+      ],
+      "places": [
+        {
+          "name": { "ar": "برج الفتاة", "en": "Maiden's Tower", "tr": "Kız Kulesi" },
+          "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/turkiye/kizkulesi.png",
+          "website": "https://gyg.me/jtFWQeJh",
+          "desc": {
+            "ar": "أيقونة إسطنبول التاريخية الواقعة على صخرة صغيرة في قلب مضيق البوسفور مقابل ساحل أوسكودار.",
+            "en": "Historic Istanbul icon located on a small islet in the Bosphorus off Uskudar coast.",
+            "tr": "Üsküdar sahili açıklarında Boğaz'ın ortasında yer alan tarihi Kız Kulesi."
+          }
+        }
+      ]
+    }
+  },
+  "luxury_lifestyle": [
+    {
+      "name": { "ar": "تأجير يخت فاخر", "en": "Luxury Yacht Rental", "tr": "Lüks Yat Kiralama" },
+      "desc": { "ar": "جولة بحرية خاصة في البوسفور مع عشاء فاخر وطاقم كامل.", "en": "Private cruise on the Bosphorus with fine dining.", "tr": "Boğaz'da özel yat turu." },
+      "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/images/yacht.png",
+      "url": "https://example.com/yacht"
+    },
+    {
+      "name": { "ar": "شراء أو تأجير فيلا فاخرة", "en": "Luxury Villa Rental & Sale", "tr": "Lüks Villa Kiralama" },
+      "desc": { "ar": "فلل فاخرة مطلة على البوسفور مباشرة مع مسابح خاصة وخدمات VIP.", "en": "Luxury Bosphorus villas with private pools.", "tr": "Boğaz manzaralı lüks villalar." },
+      "image": "https://raw.githubusercontent.com/yourusername/travel-app-data/main/images/villa.png",
+      "url": "https://example.com/villa"
+    }
+  ]
+}

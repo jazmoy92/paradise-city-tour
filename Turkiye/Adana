@@ -1,0 +1,65 @@
+{
+  "city_id": "adana",
+  "names": {
+    "ar": "أضنة",
+    "en": "Adana",
+    "tr": "Adana"
+  },
+  "description": {
+    "ar": "مدينة أضنة تقع جنوب تركيا وهي سادس أكبر مدن البلاد على ضفاف نهر سيحان، وتشتهر بكباب أضنة والجسر الحجري وجامع سابنجي.",
+    "en": "Adana is located in southern Turkey on the Seyhan River, famous for Adana Kebab, Stone Bridge (Taşköprü), and Sabancı Mosque.",
+    "tr": "Adana, Türkiye'nin güneyinde yer alan, Adana Kebabı, Taşköprü ve Sabancı Camii ile ünlü büyük bir şehirdir."
+  },
+  "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/adana.png",
+  "image_3d": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/adana_3d.png",
+  "available_services": ["taxi", "rent_car", "driver"],
+  "available_categories": ["hotels", "places", "cultural Places", "religious places", "city transport"],
+  "hotels": [
+    {
+      "name": { "ar": "فندق ديفان أضنة", "en": "Divan Adana", "tr": "Divan Adana" },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/divan_adana.png",
+      "rating": "5 Stars",
+      "website": "https://klook.tpx.li/KeKSgEJK",
+      "desc": {
+        "ar": "فندق فاخر مصنف 5 نجوم يقدم خدمات فندقية راقية ومسبح داخلي ومواقف سيارات في قلب أضنة.",
+        "en": "Luxury 5-star hotel offering premium services, indoor pool, and central location in Adana.",
+        "tr": "Adana'nın merkezinde 5 yıldızlı lüks konaklama ve kapalı havuz imkanı."
+      }
+    },
+    {
+      "name": { "ar": "فندق تركمان ريفرسايد", "en": "Turkmen Riverside Hotel", "tr": "Turkmen Riverside Otel" },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/turkmen_riverside.png",
+      "rating": "4 Stars",
+      "website": "https://klook.tpx.li/euNZSBvw",
+      "desc": {
+        "ar": "فندق مميز بإطلالة مباشرة على نهر سيحان يوفر غرفاً مريحة ومأكولات محلية شهية.",
+        "en": "Charming 4-star hotel directly overlooking Seyhan River with comfortable rooms.",
+        "tr": "Seyhan Nehri kıyısında harika manzaralı 4 yıldızlı otel."
+      }
+    }
+  ],
+  "places": [
+    {
+      "name": { "ar": "بحيرة سد سيحان", "en": "Seyhan Dam Lake", "tr": "Seyhan Baraj Gölü" },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/seyhan_lake.png",
+      "website": "https://maps.app.goo.gl/ELAKCCPNf9ZaPQbm8",
+      "desc": {
+        "ar": "بحيرة اصطناعية ساحرة تحيط بها الحدائق والمطاعم، وتعد من أجمل الأماكن للاسترخاء في أضنة.",
+        "en": "Beautiful lake surrounded by parks and cafes, ideal for relaxation in Adana.",
+        "tr": "Adana'da dinlenmek ve manzaranın tadını çıkarmak için en popüler göl."
+      }
+    }
+  ],
+  "luxury_lifestyle": [
+    {
+      "name": { "ar": "تأجير يخت فاخر", "en": "Luxury Yacht Rental", "tr": "Lüks Yat Kiralama" },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/yacht.png",
+      "website": "https://example.com/yacht",
+      "desc": {
+        "ar": "رحلة بحرية خاصة VIP مع خدمات ضيافة متكاملة.",
+        "en": "Private VIP cruise with full luxury services.",
+        "tr": "Özel VIP yat turu."
+      }
+    }
+  ]
+}

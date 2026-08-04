@@ -1,0 +1,120 @@
+{
+  "united_kingdom": {
+    "needs_ad": false,
+    "cities": {
+      "london": {
+        "names": {
+          "ar": "لندن",
+          "en": "London",
+          "tr": "Londra"
+        },
+        "description": {
+          "ar": "عاصمة المملكة المتحدة والتاج الملكي، تشتهر بـ برج بيغ بن، قصر باكنغهام، عين لندن (London Eye)، والمتحف البريطاني.",
+          "en": "Global capital, famous for Big Ben, Buckingham Palace, London Eye, Tower Bridge, and British Museum.",
+          "tr": "Big Ben, Buckingham Sarayı, London Eye, Tower Bridge ve British Museum ile ünlü küresel başkent."
+        },
+        "image": "res://images/london.png",
+        "bg_image": "res://images/london_bg.png",
+        "image_3d": "res://images/london_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا ريتز لندن (The Ritz London)",
+              "en": "The Ritz London",
+              "tr": "The Ritz Londra"
+            },
+            "image": "res://images/ritz_london.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا كونوت لندن (The Connaught)",
+              "en": "The Connaught London",
+              "tr": "The Connaught Londra"
+            },
+            "image": "res://images/connaught_london.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غوردون رمزي لندن (Restaurant Gordon Ramsay)",
+              "en": "Restaurant Gordon Ramsay Royal Hospital Road",
+              "tr": "Restaurant Gordon Ramsay Londra"
+            },
+            "image": "res://images/gordon_ramsay_london.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أشهر مطعم بريطاني فرنسي فاخر بـ 3 نجوم ميشلان للشيف العالمي غوردون رمزي",
+              "en": "Three-Michelin-starred British & French Fine Dining",
+              "tr": "Üç Michelin Yıldızlı Lüks İngiliz ve Fransız Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج ساعة بيغ بن ومبنى البرلمان (Big Ben & Palace of Westminster)",
+              "en": "Big Ben & Elizabeth Tower",
+              "tr": "Big Ben ve Elizabeth Kulesi"
+            },
+            "image": "res://images/big_ben.png",
+            "description": {
+              "ar": "أشهر برج ساعة في العالم بني عام 1859 يعلو مبنى البرلمان البريطاني.",
+              "en": "The iconic clock tower at the north end of the Houses of Parliament.",
+              "tr": "İngiltere Parlamento Binası'nın kuzey ucundaki ikonik saat kulesi."
+            }
+          },
+          {
+            "name": {
+              "ar": "عجلة عين لندن (The London Eye)",
+              "en": "The Lastminute.com London Eye",
+              "tr": "London Eye (Londra'nın Gözü)"
+            },
+            "image": "res://images/london_eye.png",
+            "description": {
+              "ar": "أضخم عجلة مراقبة دوارة في أوروبا بارتفاع 135 متراً تطل على نهر التايمز.",
+              "en": "Europe's tallest cantilevered observation wheel situated on the South Bank of the River Thames.",
+              "tr": "Thames Nehri'nin Güney Yakasında yer alan Avrupa'nın en yüksek gözlem çarkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر باكنغهام الملكي (Buckingham Palace)",
+              "en": "Buckingham Palace",
+              "tr": "Buckingham Sarayı"
+            },
+            "image": "res://images/buckingham_palace.png",
+            "description": {
+              "ar": "المقر الرسمي والاستشاري للملك البريطاني بوسط لندن مع حراس التاج وشرفة التحية.",
+              "en": "London residence and administrative headquarters of the UK monarch.",
+              "tr": "Birleşik Krallık hükümdarının Londra'daki resmi ikametgahı ve idari merkezi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

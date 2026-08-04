@@ -1,0 +1,95 @@
+{
+  "zambia": {
+    "needs_ad": false,
+    "cities": {
+      "livingstone": {
+        "names": {
+          "ar": "ليفينغستون (شلالات فيكتوريا)",
+          "en": "Livingstone",
+          "tr": "Livingstone"
+        },
+        "description": {
+          "ar": "عاصمة المغامرات الإفريقية بجوار شلالات فيكتوريا العظيمة (UNESCO)، تشتهر بـ مسبح الشيطان، ونهر زامبيزي.",
+          "en": "Adventure capital of Zambia, gateway to Victoria Falls, Devil's Pool, and Zambezi River cruises.",
+          "tr": "Victoria Şelaleleri, Şeytan Havuzu ve Zambezi Nehri turlarına açılan kapı."
+        },
+        "image": "res://images/livingstone.png",
+        "bg_image": "res://images/livingstone_bg.png",
+        "image_3d": "res://images/livingstone_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع أنانتارا ذا رويال ليفينغستون (The Royal Livingstone Anantara)",
+              "en": "The Royal Livingstone Victoria Falls Zambia Hotel by Anantara",
+              "tr": "The Royal Livingstone Anantara Zambia"
+            },
+            "image": "res://images/royal_livingstone.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم قطار الخاطر الشلالات (The Royal Livingstone Express Train)",
+              "en": "The Royal Livingstone Express Dinner Train",
+              "tr": "The Royal Livingstone Express Yemek Treni"
+            },
+            "image": "res://images/livingstone_express.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "وجبات فاخرة داخل قطار تاريخي بخاري يعبر فوق جسر الشلالات",
+              "en": "Steam Train Fine Dining crossing the Victoria Falls Bridge",
+              "tr": "Victoria Şelaleleri Köprüsü'nü Geçen Tarihi Tren Yemeği"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شلالات فيكتوريا العظمى (Victoria Falls / Mosi-oa-Tunya - UNESCO)",
+              "en": "Victoria Falls (Mosi-oa-Tunya)",
+              "tr": "Victoria Şelaleleri (Mosi-oa-Tunya)"
+            },
+            "image": "res://images/victoria_falls_zambia.png",
+            "description": {
+              "ar": "أكبر مساحة شلالات مائية تساقطاً في العالم برذاذ يرتفع مئات الأمتار.",
+              "en": "One of the Seven Natural Wonders of the World, forming the largest curtain of falling water.",
+              "tr": "Dünyanın En Büyük Düşen Su Perdesi, Dünyanın Yedi Doğa Harikasından Biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مسبح الشيطان الطبيعي على حافة الشلال (Devil's Pool)",
+              "en": "Devil's Pool Victoria Falls",
+              "tr": "Şeytan Havuzu (Devil's Pool)"
+            },
+            "image": "res://images/devils_pool.png",
+            "description": {
+              "ar": "مسبح صخري طبيعي يتيح للزوار السباحة مباشرة عند حافة حافة الشلال الشاهق.",
+              "en": "Natural rock pool on the lip of Victoria Falls where tourists swim in dry season.",
+              "tr": "Ziyaretçilerin şelalenin tam kenarında yüzdüğü doğal kaya havuzu."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

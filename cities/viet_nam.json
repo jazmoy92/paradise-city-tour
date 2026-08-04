@@ -1,0 +1,193 @@
+{
+  "viet_nam": {
+    "needs_ad": false,
+    "cities": {
+      "hanoi": {
+        "names": {
+          "ar": "هانوي",
+          "en": "Hanoi",
+          "tr": "Hanoi"
+        },
+        "description": {
+          "ar": "عاصمة فيتنام العريقة، تشتهر بـ بحيرة هوان كيم، أزقة الحي القديم، العمارة الفرنسية، وقربها من خليج ها لونغ.",
+          "en": "Vietnam's historic capital, famous for Hoan Kiem Lake, Old Quarter, French Quarter, and Ha Long Bay access.",
+          "tr": "Hoan Kiem Gölü, Eski Mahalle ve Ha Long Bay erişimiyle ünlü Vietnam başkenti."
+        },
+        "image": "res://images/hanoi.png",
+        "bg_image": "res://images/hanoi_bg.png",
+        "image_3d": "res://images/hanoi_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل صوفيتيل لي جران متروبول هانوي (Sofitel Legend Metropole)",
+              "en": "Sofitel Legend Metropole Hanoi",
+              "tr": "Sofitel Legend Metropole Hanoi"
+            },
+            "image": "res://images/sofitel_hanoi.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل كابيلا هانوي (Capella Hanoi)",
+              "en": "Capella Hanoi",
+              "tr": "Capella Hanoi"
+            },
+            "image": "res://images/capella_hanoi.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غيا هانوي (Gia Restaurant)",
+              "en": "Gia Restaurant Hanoi",
+              "tr": "Gia Restoran Hanoi"
+            },
+            "image": "res://images/gia_hanoi.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق حساء الفو والمأكولات الفيتنامية المعاصرة حائزة ميشلان",
+              "en": "Michelin-starred Contemporary Vietnamese Fine Dining",
+              "tr": "Michelin Yıldızlı Modern Vietnam Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "خليج ها لونغ الصخري الأسطوري (Ha Long Bay - UNESCO Excursion)",
+              "en": "Ha Long Bay Cruise",
+              "tr": "Ha Long Bay Tekne Turu"
+            },
+            "image": "res://images/halong_bay.png",
+            "description": {
+              "ar": "إحدى عجائب الطبيعة السبع الجديدة، خليج يضم 1,600 جزيرة جيرية صخرية خضراء تصعد من البحر.",
+              "en": "UNESCO World Heritage bay featuring thousands of towering limestone karsts and emerald waters.",
+              "tr": "Binlerce yüksek kireçtaşı kayalığı ve zümrüt sularıyla UNESCO Dünya Mirası körfezi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة هوان كيم المائية والحي القديم (Hoan Kiem Lake)",
+              "en": "Hoan Kiem Lake & Ngoc Son Temple",
+              "tr": "Hoan Kiem Gölü ve Ngoc Son Tapınağı"
+            },
+            "image": "res://images/hoan_kiem_lake.png",
+            "description": {
+              "ar": "بحيرة هادئة بوسط هانوي يقطعها جسر الخشب الأحمر المؤدي لمعبد السلحفاة الفيتنامي.",
+              "en": "Scenic freshwater lake with a red wooden bridge leading to Ngoc Son Temple.",
+              "tr": "Ngoc Son Tapınağı'na çıkan kırmızı ahşap köprüye sahip tatlı su gölü."
+            }
+          }
+        ]
+      },
+      "ho_chi_minh_city": {
+        "names": {
+          "ar": "هو تشي منه (سايغون)",
+          "en": "Ho Chi Minh City",
+          "tr": "Ho Chi Minh Kenti (Saigon)"
+        },
+        "description": {
+          "ar": "العاصمة الاقتصادية لجنوب فيتنام، تشتهر بـ كاتدرائية نوتردام، مبنى البريد المركزي، وأنفاق كوتشي الحربية.",
+          "en": "Vietnam's financial hub, famous for Saigon Notre-Dame, Central Post Office, and Cu Chi Tunnels.",
+          "tr": "Saigon Notre-Dame, Merkez Postanesi ve Cu Chi Tünelleri ile ünlü ekonomi merkezi."
+        },
+        "image": "res://images/ho_chi_minh.png",
+        "bg_image": "res://images/hcmc_bg.png",
+        "image_3d": "res://images/hcmc_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل ذا ريفيري سايغون (The Reverie Saigon)",
+              "en": "The Reverie Saigon",
+              "tr": "The Reverie Saigon"
+            },
+            "image": "res://images/reverie_saigon.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أنان سايغون (Anan Saigon)",
+              "en": "Anan Saigon Restaurant",
+              "tr": "Anan Saigon Restoran"
+            },
+            "image": "res://images/anan_saigon.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق الشوارع الفيتنامية المحولة لوجبات فاخرة حائزة نجمة ميشلان",
+              "en": "Michelin-starred Elevate Vietnamese Street Food Fine Dining",
+              "tr": "Michelin Yıldızlı Lüks Vietnam Sokak Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أنفاق كوتشي الحربية التاريخية (Cu Chi Tunnels)",
+              "en": "Cu Chi Tunnels Complex",
+              "tr": "Cu Chi Tünelleri Kompleksi"
+            },
+            "image": "res://images/cu_chi_tunnels.png",
+            "description": {
+              "ar": "شبكة أنفاق أرضية معقدة يبلغ طولها 250 كم استخدمت كمخابئ في حرب فيتنام.",
+              "en": "Immense 250km underground network of interconnecting tunnels used during the Vietnam War.",
+              "tr": "Vietnam Savaşı sırasında kullanılan 250 km'lik devasa yeraltı tünel ağı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مبنى البريد المركزي التاريخي (Saigon Central Post Office)",
+              "en": "Saigon Central Post Office",
+              "tr": "Saigon Merkez Postanesi"
+            },
+            "image": "res://images/saigon_post_office.png",
+            "description": {
+              "ar": "تحفة المعمار الفرنسي بنيت عام 1891 بتصميم الهيكل الحديدي لغوستاف إيفل.",
+              "en": "Iconic French colonial building designed with cast-iron arches by Gustave Eiffel.",
+              "tr": "Gustave Eiffel tarafından tasarlanan dökme demir kemerli Fransız sömürge binası."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

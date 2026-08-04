@@ -1,0 +1,218 @@
+{
+  "thailand": {
+    "needs_ad": false,
+    "cities": {
+      "bangkok": {
+        "names": {
+          "ar": "بانكوك",
+          "en": "Bangkok",
+          "tr": "Bangkok"
+        },
+        "description": {
+          "ar": "عاصمة تايلاند الأسطورية، تشتهر بـ القصر الكبير، معبد أورون المذهب على النهر، وأسواق الشوارع النابضة.",
+          "en": "Thailand's energetic capital, famous for the Grand Palace, Wat Arun, floating markets, and street food.",
+          "tr": "Büyük Saray, Wat Arun, yüzen pazarlar ve sokak yemekleriyle ünlü Tayland başkenti."
+        },
+        "image": "res://images/bangkok.png",
+        "bg_image": "res://images/bangkok_bg.png",
+        "image_3d": "res://images/bangkok_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الماندارين أورينتال بانكوك",
+              "en": "Mandarin Oriental, Bangkok",
+              "tr": "Mandarin Oriental, Bangkok"
+            },
+            "image": "res://images/mandarin_bangkok.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل كابيلا بانكوك (Capella Bangkok)",
+              "en": "Capella Bangkok",
+              "tr": "Capella Bangkok"
+            },
+            "image": "res://images/capella_bangkok.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غاغان أناند بانكوك (Gaggan Anand)",
+              "en": "Gaggan Anand Bangkok",
+              "tr": "Gaggan Anand Restoran Bangkok"
+            },
+            "image": "res://images/gaggan_bangkok.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أشهر مطعم هندي وآسيوي مبتكر صنف الأفضل في آسيا مراراً",
+              "en": "Progressive Asian Fine Dining repeatedly named Asia's #1 Restaurant",
+              "tr": "Asya'nın 1 Numaralı Restoranı Seçilen Lüks Yenilikçi Asya Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "القصر الكبير والمعبد الملكي (Grand Palace & Wat Phra Kaew)",
+              "en": "The Grand Palace & Temple of Emerald Buddha",
+              "tr": "Büyük Saray ve Zümrüt Buda Tapınağı"
+            },
+            "image": "res://images/grand_palace_bangkok.png",
+            "description": {
+              "ar": "مجمع القصر الإمبراطوري بأسقفه الذهبية الملتفة ومعبد الزمرد الملكي الأقدس.",
+              "en": "Dazzling complex of gold-spired royal halls and sacred 14th-century Emerald Buddha.",
+              "tr": "Altın kuleli kraliyet salonları ve 14. yüzyıldan kalma Zümrüt Buda tapınağı."
+            }
+          },
+          {
+            "name": {
+              "ar": "معبد الفجر على النهر (Wat Arun / Temple of Dawn)",
+              "en": "Wat Arun (Temple of Dawn)",
+              "tr": "Wat Arun (Şafak Tapınağı)"
+            },
+            "image": "res://images/wat_arun.png",
+            "description": {
+              "ar": "معبد خزفي شاهق بارتفاع 70 متراً يلمع مع شروق وغروب الشمس على نهر تشاو برايا.",
+              "en": "Porcelain-encrusted Buddhist pagoda soaring on the banks of the Chao Phraya River.",
+              "tr": "Chao Phraya Nehri kıyısında yükselen porselen kaplı Budist pagoda."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "السوق العائم التايلاندي (Damnoen Saduak Floating Market)",
+              "en": "Damnoen Saduak Floating Market",
+              "tr": "Damnoen Saduak Yüzen Pazarı"
+            },
+            "image": "res://images/floating_market.png",
+            "description": {
+              "ar": "سوق القوارب الخشبية التاريخي لبيع الفواكه والمأكولات التايلاندية بين القنوات.",
+              "en": "Famous canal market where vendors sell tropical fruits and noodles directly from boats.",
+              "tr": "Satıcıların doğrudan teknelerden tropikal meyve ve erişte sattığı kanal pazarı."
+            }
+          }
+        ]
+      },
+      "phuket": {
+        "names": {
+          "ar": "بوكيت (لؤلؤة بحر أندامان)",
+          "en": "Phuket",
+          "tr": "Phuket"
+        },
+        "description": {
+          "ar": "أكبر جزر تايلاند الاستوائية، تشتهر بـ خليج فانغ نغا، تمثال بودا العظيم الجبلي، وشواطئ باتونغ ولانغ بين القمم الصخرية.",
+          "en": "Thailand's largest tropical island, famous for Phang Nga Bay, Big Buddha, and Patong Beach.",
+          "tr": "Phang Nga Körfezi, Büyük Buda heykeli ve Patong Plajı ile ünlü Tayland'ın en büyük adası."
+        },
+        "image": "res://images/phuket.png",
+        "bg_image": "res://images/phuket_bg.png",
+        "image_3d": "res://images/phuket_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع أمانبوري بوكيت (Amanpuri Phuket)",
+              "en": "Amanpuri Resort Phuket",
+              "tr": "Amanpuri Resort Phuket"
+            },
+            "image": "res://images/amanpuri_phuket.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع وسبا كييمالا بوكيت الأكواخ (Keemala Resort)",
+              "en": "Keemala Resort Phuket",
+              "tr": "Keemala Resort Phuket"
+            },
+            "image": "res://images/keemala_phuket.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم برون باني بوكيت (PRU Restaurant)",
+              "en": "PRU Restaurant Phuket",
+              "tr": "PRU Restoran Phuket"
+            },
+            "image": "res://images/pru_phuket.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أول مطعم حائز نجمة ميشلان في بوكيت للمأكولات البحرية العضوية",
+              "en": "Phuket's first Michelin-starred Organic Ocean Fine Dining",
+              "tr": "Phuket'in İlk Michelin Yıldızlı Organik Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "رحلة خليج جيمس بوند وفانغ نغا (Phang Nga Bay / James Bond Island)",
+              "en": "Phang Nga Bay & James Bond Island",
+              "tr": "Phang Nga Körfezi ve James Bond Adası"
+            },
+            "image": "res://images/james_bond_island.png",
+            "description": {
+              "ar": "خليج هائل يضم صخوراً جيرية عمودية تعلو البحر صُور فيها فيلم جيمس بوند.",
+              "en": "Emerald-green waters with towering limestone karsts, famous for Khao Phing Kan.",
+              "tr": "Khao Phing Kan ile ünlü, dik kireçtaşı kayalıklarıyla dolu zümrüt yeşili sular."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "تمثال بودا العملاق فوق القمة (Big Buddha Phuket)",
+              "en": "Big Buddha Phuket",
+              "tr": "Phuket Büyük Buda Heykeli"
+            },
+            "image": "res://images/big_buddha_phuket.png",
+            "description": {
+              "ar": "تمثال رخامي أبيض مغطى بالكامل بارتفاع 45 متراً فوق جبل ناكيرد يوفر طلة 360 درجة على بوكيت.",
+              "en": "45-meter tall white Burmese marble statue seated atop Nakkerd Hill.",
+              "tr": "Nakkerd Tepesi'nde oturan 45 metre yüksekliğinde beyaz mermer heykel."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

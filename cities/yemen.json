@@ -1,0 +1,191 @@
+{
+  "yemen": {
+    "needs_ad": false,
+    "cities": {
+      "sanaa": {
+        "names": {
+          "ar": "صنعاء القديمة",
+          "en": "Sana'a",
+          "tr": "Sana"
+        },
+        "description": {
+          "ar": "عاصمة التاريخ المعماري المصنفة باليونيسكو، تشتهر ببيوتها الطينية ذات العقود البيضاء الحجرية ومناظر قصر الحجر.",
+          "en": "UNESCO ancient capital famous for unique multi-story gingerbread-like decorated mud-brick houses.",
+          "tr": "Eşsiz çok katlı çamur tuğla süslü evleriyle ünlü UNESCO antik başkenti."
+        },
+        "image": "res://images/sanaa.png",
+        "bg_image": "res://images/sanaa_bg.png",
+        "image_3d": "res://images/sanaa_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل برج السلام صنعاء",
+              "en": "Burj Al Salam Hotel Sana'a",
+              "tr": "Burj Al Salam Otel Sana"
+            },
+            "image": "res://images/burj_al_salam.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الشيباني صنعاء الأصيل",
+              "en": "Al-Shaibani Traditional Restaurant",
+              "tr": "Al-Shaibani Restoran Sana"
+            },
+            "image": "res://images/alshaibani_sanaa.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "السلتة والفحسة اليمنية واللحم الحنيذ برغيف الملوح",
+              "en": "Authentic Yemeni Salta, Fahsa & Haneeth Meat",
+              "tr": "Otantik Yemen Salta, Fahsa ve Haneeth Eti"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المدينة القديمة في صنعاء (Old City of Sana'a - UNESCO)",
+              "en": "Old City of Sana'a",
+              "tr": "Eski Sana Şehri"
+            },
+            "image": "res://images/sanaa_old_city.png",
+            "description": {
+              "ar": "مدينة تاريخية قائمة منذ 2500 عام تضم بيوت الآجر المزخرفة بقمريات الزجاج الملون.",
+              "en": "2,500-year-old UNESCO habitat of multi-story burnt-brick houses with stained-glass Qamariya windows.",
+              "tr": "Vitray Qamariya pencereli multi-katlı pişmiş tuğla evlerin 2.500 yıllık UNESCO alanı."
+            }
+          },
+          {
+            "name": {
+              "ar": "قصر دار الحجر الأسطوري (Dar al-Hajar)",
+              "en": "Dar al-Hajar (Rock Palace)",
+              "tr": "Dar al-Hajar (Kaya Sarayı)"
+            },
+            "image": "res://images/dar_al_hajar.png",
+            "description": {
+              "ar": "قصر يمني أثري بني فوق قمة صخرة جرانيتية بركانية شاهقة بـ وادي ظهر.",
+              "en": "Iconic royal palace built on top of a solitary high natural rock spire in Wadi Dhar.",
+              "tr": "Wadi Dhar'daki yüksek bir doğal kaya üzerine inşa edilmiş ikonik saray."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جامع الصالح العظيم (Al-Saleh Mosque)",
+              "en": "Al-Saleh Mosque",
+              "tr": "Al-Saleh Camii"
+            },
+            "image": "res://images/al_saleh_mosque.png",
+            "description": {
+              "ar": "أكبر جامع في اليمن بتصميم يمني نيو-كلاسيكي بـ 6 مآذن شاهقة وقباب يمنية.",
+              "en": "Modern Islamic architectural landmark featuring Yemeni stone carving and six minarets.",
+              "tr": "Yemen taş işçiliği ve altı minareye sahip modern İslam mimarisi simgesi."
+            }
+          }
+        ]
+      },
+      "socotra": {
+        "names": {
+          "ar": "جزيرة سقطرى (أرض شجرة دم الأخوين)",
+          "en": "Socotra Island",
+          "tr": "Sokotra Adası"
+        },
+        "description": {
+          "ar": "أندر جزيرة طبيعية على الأرض (UNESCO)، تشتهر بـ أشجار دم الأخوين (Dragon's Blood) والشواطئ العذراء.",
+          "en": "World's most alien-looking island (UNESCO), famous for Dragon's Blood trees and white lagoons.",
+          "tr": "Dragon's Blood (Ejder Kanı) ağaçları ve beyaz lagünleriyle dünyanın en uzaylı görünümlü adası."
+        },
+        "image": "res://images/socotra.png",
+        "bg_image": "res://images/socotra_bg.png",
+        "image_3d": "res://images/socotra_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل سقطرى التراثي (Summerland Hotel Socotra)",
+              "en": "Summerland Hotel Socotra",
+              "tr": "Summerland Hotel Sokotra"
+            },
+            "image": "res://images/summerland_socotra.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كيرامبا سقطرى البحرية",
+              "en": "Socotra Fresh Fish Beach Dining",
+              "tr": "Sokotra Taze Balık Restoranı"
+            },
+            "image": "res://images/socotra_seafood.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أسماك المحيط والكركند الطازج على شواطئ سقطرى",
+              "en": "Fresh Indian Ocean Lobster & Fish",
+              "tr": "Taze Hint Okyanusu Istakozu ve Balığı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أشجار دم الأخوين التنينية (Dragon's Blood Trees - UNESCO)",
+              "en": "Dragon's Blood Trees (Dracaena cinnabari)",
+              "tr": "Ejderha Kanı Ağaçları (Dracaena cinnabari)"
+            },
+            "image": "res://images/dragons_blood_tree.png",
+            "description": {
+              "ar": "أشجار أسطورية نادرة على شكل مظلة تشتهر بصمغها الأحمر الشافي الموجود فقط بسقطرى.",
+              "en": "Iconic umbrella-shaped trees that produce red resin, unique to Socotra archipelago.",
+              "tr": "Sadece Sokotra'da bulunan, kırmızı reçine üreten ikonik şemsiye şeklindeki ağaçlar."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة وشاطئ قلنسية وديطوح (Qalansiyah Beach & Detwah Lagoon)",
+              "en": "Detwah Lagoon & Qalansiyah Beach",
+              "tr": "Detwah Lagünü ve Qalansiyah Plajı"
+            },
+            "image": "res://images/detwah_lagoon.png",
+            "description": {
+              "ar": "بحيرة مائية ذات رمال بيضاء ناصعة ومياه شفافة تجمع السلاحف وطيور النورس.",
+              "en": "Pristine white-sand lagoon famous for stingrays, sea turtles, and turquoise shallow water.",
+              "tr": "Vatozlar, deniz kaplumbağaları ve turkuaz sularıyla ünlü beyaz kumlu lagün."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

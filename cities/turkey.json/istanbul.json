@@ -14,6 +14,84 @@
     "bg_image": "res://images/istanbul_bg.png",
     "image_3d": "res://images/istanbul_3d.png",
     "is_soon": false,
+    "featured_apps": [
+      {
+        "name": {
+          "ar": "يمك سيبتي (طعام)",
+          "en": "Yemeksepeti",
+          "tr": "Yemeksepeti"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/yemeksepeti.png",
+        "desc": {
+          "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
+          "en": "The most popular app for food delivery and daily groceries in Istanbul.",
+          "tr": "İstanbul'da yemek ve market siparişi için en popüler uygulama."
+        },
+        "url": "https://www.yemeksepeti.com"
+      },
+      {
+        "name": {
+          "ar": "بي تاكسي (مواصلات)",
+          "en": "BiTaksi",
+          "tr": "BiTaksi"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/bitaksi.png",
+        "desc": {
+          "ar": "التطبيق المعتمد والأكثر أماناً لحجز التاكسي الأصفر والأسود وحساب التكلفة والدفع الإلكتروني.",
+          "en": "Safe and certified app to book yellow and black taxis in Istanbul with fare estimates.",
+          "tr": "İstanbul'da sarı ve siyah taksi çağırmak için en güvenli uygulama."
+        },
+        "url": "https://www.bitaksi.com"
+      },
+      {
+        "name": {
+          "ar": "موفيت (مواعيد مترو)",
+          "en": "Moovit",
+          "tr": "Moovit"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/moovit.png",
+        "desc": {
+          "ar": "الدليل المباشر لخطوط المترو، الترام، الحافلات، والعبارات البحرية ومواعيدها بالدقيقة.",
+          "en": "Real-time guide for metro, tram, bus, and ferry lines in Istanbul.",
+          "tr": "Metro, tramvay, otobüs ve vapur hatları için canlı ulaşım rehberi."
+        },
+        "url": "https://moovitapp.com"
+      },
+      {
+        "name": { "ar": "ترينديول (تسوق)", "en": "Trendyol", "tr": "Trendyol" },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/trendyol.png",
+        "desc": {
+          "ar": "منصة التسوق الأولى في تركيا لشراء الملابس والمنتجات والماركات العالمية والتركية.",
+          "en": "Turkey's leading online shopping platform for fashion and lifestyle goods.",
+          "tr": "Türkiye'nin en büyük online alışveriş ve moda platformu."
+        },
+        "url": "https://www.trendyol.com"
+      },
+      {
+        "name": { "ar": "جيتير (توصيل سريع)", "en": "Getir", "tr": "Getir" },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/getir.png",
+        "desc": {
+          "ar": "تطبيق التوصيل السريع للغاية للمأكولات الخفيفة والمشروبات والسوبرماركت خلال دقائق معدودة.",
+          "en": "Ultra-fast delivery app for groceries, snacks, and essentials within minutes.",
+          "tr": "Dakikalar içinde market ve ihtiyaç teslimat uygulaması."
+        },
+        "url": "https://getir.com"
+      },
+      {
+        "name": {
+          "ar": "إسطنبول كارت",
+          "en": "Istanbulkart",
+          "tr": "İstanbulkart"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/istanbulkart.png",
+        "desc": {
+          "ar": "التطبيق الرسمي لتعبئة رصيد بطاقة المواصلات العامة واستخدام كود QR في محطات المترو والعبارات.",
+          "en": "Official app to top-up public transit cards and scan QR codes at stations.",
+          "tr": "Toplu taşıma kartı bakiye yükleme ve QR geçiş uygulaması."
+        },
+        "url": "https://istanbulkart.istanbul"
+      }
+    ],
     "available_services": ["taxi", "rent_car", "driver"],
     "available_categories": [
       "hotels",
@@ -27,7 +105,11 @@
     ],
     "hotels": [
       {
-        "name": { "ar": "فندق تشيران بالاس كمبينسكي", "en": "Ciragan Palace Kempinski", "tr": "Çırağan Palace Kempinski" },
+        "name": {
+          "ar": "فندق تشيران بالاس كمبينسكي",
+          "en": "Ciragan Palace Kempinski",
+          "tr": "Çırağan Palace Kempinski"
+        },
         "image": "res://turkiye/cigaran palace.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
@@ -38,7 +120,11 @@
         }
       },
       {
-        "name": { "ar": "اليسيوم تقسيم", "en": "The Elysium Taksim", "tr": "Elysium Taksim" },
+        "name": {
+          "ar": "اليسيوم تقسيم",
+          "en": "The Elysium Taksim",
+          "tr": "Elysium Taksim"
+        },
         "image": "res://turkiye/elisyumtaksim.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
@@ -49,7 +135,11 @@
         }
       },
       {
-        "name": { "ar": "فندق مطار اسطنبول هافن بريميوم", "en": "Heaven Premium Airport Hotel", "tr": "Heaven Premium Airport Hotel" },
+        "name": {
+          "ar": "فندق مطار اسطنبول هافن بريميوم",
+          "en": "Heaven Premium Airport Hotel",
+          "tr": "Heaven Premium Airport Hotel"
+        },
         "image": "res://turkiye/heavenistanbulhavaliman.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/2nSHUuT",
@@ -60,7 +150,11 @@
         }
       },
       {
-        "name": { "ar": "فندق زازوني مطار اسطنبول", "en": "Zazzoni-İstanbul Airport", "tr": "Zazzoni-İstanbul Havalimanı" },
+        "name": {
+          "ar": "فندق زازوني مطار اسطنبول",
+          "en": "Zazzoni-İstanbul Airport",
+          "tr": "Zazzoni-İstanbul Havalimanı"
+        },
         "image": "res://turkiye/zazzoniairportist.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=35991201",
@@ -71,7 +165,11 @@
         }
       },
       {
-        "name": { "ar": "فندق كونتينتال مطار اسطنبول", "en": "Continental IST Airport Hotel", "tr": "Continental istanbul havalimanı" },
+        "name": {
+          "ar": "فندق كونتينتال مطار اسطنبول",
+          "en": "Continental IST Airport Hotel",
+          "tr": "Continental istanbul havalimanı"
+        },
         "image": "res://turkiye/continentelistairport.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/5ybxIai",
@@ -82,7 +180,11 @@
         }
       },
       {
-        "name": { "ar": "فندق اركاديا بلو", "en": "Hotel Arcadia Blue", "tr": "Arcadia Blue Oteli" },
+        "name": {
+          "ar": "فندق اركاديا بلو",
+          "en": "Hotel Arcadia Blue",
+          "tr": "Arcadia Blue Oteli"
+        },
         "image": "res://turkiye/arcadiahotelsultanahmet.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=91063",
@@ -93,7 +195,11 @@
         }
       },
       {
-        "name": { "ar": "شقق فندقية ماريوت تيما وورلد", "en": "Marriott Apartments Tema World", "tr": "Marriott Apartments Tema World" },
+        "name": {
+          "ar": "شقق فندقية ماريوت تيما وورلد",
+          "en": "Marriott Apartments Tema World",
+          "tr": "Marriott Apartments Tema World"
+        },
         "image": "res://turkiye/marriotapartment.png",
         "rating": "10/10",
         "website": "https://expedia.com/affiliate/HG7P9Rr",
@@ -104,7 +210,11 @@
         }
       },
       {
-        "name": { "ar": "فندق كرنتون ديزاين", "en": "Cronton Design Hotel", "tr": "Cronton Design Oteli" },
+        "name": {
+          "ar": "فندق كرنتون ديزاين",
+          "en": "Cronton Design Hotel",
+          "tr": "Cronton Design Oteli"
+        },
         "image": "res://turkiye/crontondesignotel.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=33687622",
@@ -115,18 +225,26 @@
         }
       },
       {
-        "name": { "ar": "فندق هيلورا جزرة الاميرات", "en": "Hillora Hotel Buyukada", "tr": "Hillora Büyükada Oteli" },
+        "name": {
+          "ar": "فندق هيلورا جزرة الاميرات",
+          "en": "Hillora Hotel Buyukada",
+          "tr": "Hillora Büyükada Oteli"
+        },
         "image": "res://turkiye/hilloraotelbuyukada.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=86592702",
         "description": {
           "ar": "و فندق بوتيك عصري وفاخر، يقع في أكبر جزر إسطنبول جزيرة الاميرات.\nتعانقه الطبيعة الساحرة، ويقدم وجبة الإفطار على إطلالة بحرية رائعة.\nيضم أيضاً مسبحاً رائعاً ومركزاً صحياً متكاملاً.\nيحتوي على مطعم مميز يقدم المأكولات المحلية والعالمية.\nيتميز بقربه الشديد من الساحل على بُعد أمتار قليلة.\nيمكن الوصول إليه بسهولة عبر العبّارات البحرية المنطلقة من منطقة إيمينونو.",
           "en": "It is a modern and luxurious boutique hotel located on the largest of Istanbul's Princess' Island.\nIt is embraced by enchanting nature, offering breakfast with a scenic view of the Bosphorus.\nIt also features a wonderful swimming pool and a wellness center.\nIt includes a restaurant that serves local and international cuisine.\nIt is very close to the coast, just a few meters away.\nIt can be reached via sea ferries departing from Eminönü",
-          "tr": "İstanbul'un en büyük adası olan Büyükadasında yer alan, modern ve lüks bir butik oteldir.\nBüyüleyici bir doğa ile sarmalanmış olup, Boğaz manzarası eşliğinde kahvaltı imkanı sunmaktadır.\nAyrıca harika bir yüzme havuzuna ve sağlık merkezine sahiptir.\nYerel ve dünya mutfağından lezzetler sunan bir restoranı da bünyesinde barındırmaktadır.\nSahile sadece birkaç metre mesafede, çok yakın bir konumdadır.\nEminönü'nden kalkan deniz vapurları/feribotları ile ulaşım sağlanabilir."
+          "tr": "İstanbul'un en büyük adası olan Büyükadasında yer alan, modern ve lüks bir butik oteldir.\nBüyüleyici bir doğa ile sarmalanmış olup, Boğaz manzarası eşliğinde kahvaltısı imkanı sunmaktadır.\nAyrıca harika bir yüzme havuzuna ve sağlık merkezine sahiptir.\nYerel ve dünya mutfağından lezzetler sunan bir restoranı da bünyesinde barındırmaktadır.\nSahile sadece birkaç metre mesafede, çok yakın bir konumdadır.\nEminönü'nden kalkan deniz vapurları/feribotları ile ulaşım sağlanabilir."
         }
       },
       {
-        "name": { "ar": "فندق عالية اسطنبول", "en": "Aliée Istanbul", "tr": "Aliée Istanbul" },
+        "name": {
+          "ar": "فندق عالية اسطنبول",
+          "en": "Aliée Istanbul",
+          "tr": "Aliée Istanbul"
+        },
         "image": "res://turkiye/alieeistanbul.png",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/UhhafJk",
@@ -137,7 +255,11 @@
         }
       },
       {
-        "name": { "ar": "فندق ريتز كارلتون", "en": "Ritz Carlton Hotel", "tr": "Ritz Carlton Oteli" },
+        "name": {
+          "ar": "فندق ريتز كارلتون",
+          "en": "Ritz Carlton Hotel",
+          "tr": "Ritz Carlton Oteli"
+        },
         "image": "res://turkiye/ritzcarlton.png",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/TQYQ7zD",
@@ -148,7 +270,11 @@
         }
       },
       {
-        "name": { "ar": "فندق ريكسوس ترسانه اسطنبول", "en": "Rixos Tersane Istanbul", "tr": "Rixos Tersane Istanbul" },
+        "name": {
+          "ar": "فندق ريكسوس ترسانه اسطنبول",
+          "en": "Rixos Tersane Istanbul",
+          "tr": "Rixos Tersane Istanbul"
+        },
         "image": "res://turkiye/rixostersane.png",
         "rating": "5 Stars",
         "website": "https://expedia.com/affiliate/lbdMVeH",
@@ -159,7 +285,11 @@
         }
       },
       {
-        "name": { "ar": "فندق كونلون كينسينغتون", "en": "Kunlun Kensington Hotel", "tr": "Kunlun Kensington Oteli" },
+        "name": {
+          "ar": "فندق كونلون كينسينغتون",
+          "en": "Kunlun Kensington Hotel",
+          "tr": "Kunlun Kensington Oteli"
+        },
         "image": "res://turkiye/kensingtonfatih.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=32008113",
@@ -170,199 +300,331 @@
         }
       },
       {
-        "name": { "ar": "فندق هيلتون سويت التوني زاده", "en": "Hilton Altunizade Suites Istanbul", "tr": "Hilton Altunizade Süitler İstanbul" },
+        "name": {
+          "ar": "فندق هيلتون سويت التوني زاده",
+          "en": "Hilton Altunizade Suites Istanbul",
+          "tr": "Hilton Altunizade Süitler İstanbul"
+        },
         "image": "res://turkiye/altunizadeuskudar.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=78363188"
       },
       {
-        "name": { "ar": "فندق تيمبو منطفة 4 ليفنت", "en": "Tempo Hotel 4 Levent", "tr": "Tempo Otel 4 Levent" },
+        "name": {
+          "ar": "فندق تيمبو منطفة 4 ليفنت",
+          "en": "Tempo Hotel 4 Levent",
+          "tr": "Tempo Otel 4 Levent"
+        },
         "image": "res://turkiye/tempo4levent.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=392765"
       },
       {
-        "name": { "ar": "فندق فيشينزا لالي", "en": "Vicenza Hotel Laleli", "tr": "Vicenza Otel Laleli" },
+        "name": {
+          "ar": "فندق فيشينزا لالي",
+          "en": "Vicenza Hotel Laleli",
+          "tr": "Vicenza Otel Laleli"
+        },
         "image": "res://turkiye/vincenzalaleli.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=151596"
       },
       {
-        "name": { "ar": "فندق ارمادا سلطان احمد", "en": "Armada Hotel Sultanahmet", "tr": "Armada Otel Sultanahmet" },
+        "name": {
+          "ar": "فندق ارمادا سلطان احمد",
+          "en": "Armada Hotel Sultanahmet",
+          "tr": "Armada Otel Sultanahmet"
+        },
         "image": "res://turkiye/armadasultanahmet.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=71470"
       },
       {
-        "name": { "ar": "فندق كاستليون غلاطة", "en": "Castellion Hotels Galata", "tr": "Castellion Oteller Galata" },
+        "name": {
+          "ar": "فندق كاستليون غلاطة",
+          "en": "Castellion Hotels Galata",
+          "tr": "Castellion Oteller Galata"
+        },
         "image": "res://turkiye/Castelliongalata.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=83503476"
       },
       {
-        "name": { "ar": "فندق هوليدي ان لالي", "en": "Holiday Inn Laleli", "tr": "Holiday Inn Laleli" },
+        "name": {
+          "ar": "فندق هوليدي ان لالي",
+          "en": "Holiday Inn Laleli",
+          "tr": "Holiday Inn Laleli"
+        },
         "image": "res://turkiye/holidayinnoldcity.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=5252199"
       },
       {
-        "name": { "ar": "فندق مومنتو خليج القرن الذهبي", "en": "Momento Golden Horn", "tr": "Momento Golden Horn" },
+        "name": {
+          "ar": "فندق مومنتو خليج القرن الذهبي",
+          "en": "Momento Golden Horn",
+          "tr": "Momento Golden Horn"
+        },
         "image": "res://turkiye/MomentoGoldenHorn.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=3544914"
       },
       {
-        "name": { "ar": "فندق مارلون تقسيم", "en": "Marlon Hotel Taksim", "tr": "Marlon Oteli Taksim" },
+        "name": {
+          "ar": "فندق مارلون تقسيم",
+          "en": "Marlon Hotel Taksim",
+          "tr": "Marlon Oteli Taksim"
+        },
         "image": "res://turkiye/MarlonHotel.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=54285159"
       },
       {
-        "name": { "ar": "فندق ماندرين البسفور", "en": "Mandarin Oriental Bosphorus", "tr": "Mandarin Oriental İstanbul Boğazı" },
+        "name": {
+          "ar": "فندق ماندرين البسفور",
+          "en": "Mandarin Oriental Bosphorus",
+          "tr": "Mandarin Oriental İstanbul Boğazı"
+        },
         "image": "res://turkiye/mandarinistanbul.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=22589441"
       },
       {
-        "name": { "ar": "فندق بارك ان رديسون ايوب سلطان", "en": "Park Inn by Radisson Eyupsultan", "tr": "Park Inn by Radisson Eyüpsultan" },
+        "name": {
+          "ar": "فندق بارك ان رديسون ايوب سلطان",
+          "en": "Park Inn by Radisson Eyupsultan",
+          "tr": "Park Inn by Radisson Eyüpsultan"
+        },
         "image": "res://turkiye/parkinnraddisoneyupsultan.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=8779199"
       },
       {
-        "name": { "ar": "فندق مينا سطان احمد", "en": "Mina Hotel Sultanahmet", "tr": "Mina Oteli Sultanahmet" },
+        "name": {
+          "ar": "فندق مينا سطان احمد",
+          "en": "Mina Hotel Sultanahmet",
+          "tr": "Mina Oteli Sultanahmet"
+        },
         "image": "res://turkiye/minahotel.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=91313393"
       },
       {
-        "name": { "ar": "فندق روفيغو الفاتح", "en": "Rovigo Hotel Fatih", "tr": "Rovigo Oteli Fatih" },
+        "name": {
+          "ar": "فندق روفيغو الفاتح",
+          "en": "Rovigo Hotel Fatih",
+          "tr": "Rovigo Oteli Fatih"
+        },
         "image": "res://turkiye/RovigoHotelFatih.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=88632155"
       },
       {
-        "name": { "ar": "فندق باتريون بالات البيت الملونة", "en": "Colorful Houses Balat Petrion", "tr": "Renkli EvlerBalat Petrion" },
+        "name": {
+          "ar": "فندق باتريون بالات البيت الملونة",
+          "en": "Colorful Houses Balat Petrion",
+          "tr": "Renkli EvlerBalat Petrion"
+        },
         "image": "res://turkiye/Balatpetrion.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=67269312"
       },
       {
-        "name": { "ar": "فندق دوجي كادي كوي", "en": "Dugi Hotel Kadikoy", "tr": "Dugi Otel Kadıköy" },
+        "name": {
+          "ar": "فندق دوجي كادي كوي",
+          "en": "Dugi Hotel Kadikoy",
+          "tr": "Dugi Otel Kadıköy"
+        },
         "image": "res://turkiye/dugikadikoy.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=59741261"
       },
       {
-        "name": { "ar": "ادرس اعمار سكوير اسكودار", "en": "Address Emaar Square Uskudar", "tr": "Address Emaar Square Üsküdar" },
+        "name": {
+          "ar": "ادرس اعمار سكوير اسكودار",
+          "en": "Address Emaar Square Uskudar",
+          "tr": "Address Emaar Square Üsküdar"
+        },
         "image": "res://turkiye/adressemaarpng",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/KQHZd76"
       },
       {
-        "name": { "ar": "فندق a11 اسكودار ", "en": "A11 Hotel Bosphorus Uskudar", "tr": "A11 Otel Üsküdar İstanbul Boğazı" },
+        "name": {
+          "ar": "فندق a11 اسكودار ",
+          "en": "A11 Hotel Bosphorus Uskudar",
+          "tr": "A11 Otel Üsküdar İstanbul Boğazı"
+        },
         "image": "res://turkiye/a11uskudar.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=35854159"
       },
       {
-        "name": { "ar": "فندق اليت وورلد كوجوكيالي", "en": "Elite World Kucukyali", "tr": "Elite World Kücükyalı" },
+        "name": {
+          "ar": "فندق اليت وورلد كوجوكيالي",
+          "en": "Elite World Kucukyali",
+          "tr": "Elite World Kücükyalı"
+        },
         "image": "res://turkiye/EliteWorldkucukyali.png",
         "rating": "5 Stars",
         "website": "https://expedia.com/affiliate/DFVli8K"
       },
       {
-        "name": { "ar": "فندق سلكتوم اتاشهير", "en": "Selectum Atasehir", "tr": "Selectum Ataşehir" },
+        "name": {
+          "ar": "فندق سلكتوم اتاشهير",
+          "en": "Selectum Atasehir",
+          "tr": "Selectum Ataşehir"
+        },
         "image": "res://turkiye/selectumatasehir.png",
         "rating": "5 Stars",
         "website": "https://expedia.com/affiliate/MMHMgKG"
       },
       {
-        "name": { "ar": "فندق بالم البسفور", "en": "The Palm Bosphorus", "tr": "The Palm İstanbul Boğazı" },
+        "name": {
+          "ar": "فندق بالم البسفور",
+          "en": "The Palm Bosphorus",
+          "tr": "The Palm İstanbul Boğazı"
+        },
         "image": "res://turkiye/ThePalmBosphorus.png",
         "rating": "3 Stars",
         "website": "https://www.hotels.com/affiliate/jARpIOu"
       },
       {
-        "name": { "ar": "فندق ريفا مودا اوسكودار", "en": "Riva's Moda Uskudar", "tr": "Riva's Moda Üsküdar" },
+        "name": {
+          "ar": "فندق ريفا مودا اوسكودار",
+          "en": "Riva's Moda Uskudar",
+          "tr": "Riva's Moda Üsküdar"
+        },
         "image": "res://turkiye/rivasmoda.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/OOu7DvL"
       },
       {
-        "name": { "ar": "فندق سوعادية", "en": "Suadiye Hotel Istanbul", "tr": "Suadiye Oteli İstanbul" },
+        "name": {
+          "ar": "فندق سوعادية",
+          "en": "Suadiye Hotel Istanbul",
+          "tr": "Suadiye Oteli İstanbul"
+        },
         "image": "res://turkiye/suadiyehotel.png",
         "rating": "4 Stars",
         "website": "https://expedia.com/affiliate/hc2aBK0"
       },
       {
-        "name": { "ar": "فندق سيتي لوفت 147", "en": "Cityloft 147 Maltepe", "tr": "Cityloft 147 Maltepe İstanbul" },
+        "name": {
+          "ar": "فندق سيتي لوفت 147",
+          "en": "Cityloft 147 Maltepe",
+          "tr": "Cityloft 147 Maltepe İstanbul"
+        },
         "image": "res://turkiye/cityloftmaltepe.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=65426470"
       },
       {
-        "name": { "ar": "فندق هيلتون جاردن ان بانديك", "en": "Hilton Garden Inn Pendik", "tr": "Hilton Garden Inn Pendik" },
+        "name": {
+          "ar": "فندق هيلتون جاردن ان بانديك",
+          "en": "Hilton Garden Inn Pendik",
+          "tr": "Hilton Garden Inn Pendik"
+        },
         "image": "res://turkiye/hiltongardenpendik.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=87471631"
       },
       {
-        "name": { "ar": "فندق ايبيس توزلا", "en": "Ibis Tuzla Hotel", "tr": "Ibis Tuzla Otel" },
+        "name": {
+          "ar": "فندق ايبيس توزلا",
+          "en": "Ibis Tuzla Hotel",
+          "tr": "Ibis Tuzla Otel"
+        },
         "image": "res://turkiye/ibistuzla.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=28272855"
       },
       {
-        "name": { "ar": "فندق قرب مطار صبيحة", "en": "Nearport Sabiha Airport", "tr": "Nearport Sabiha Havalimanı" },
+        "name": {
+          "ar": "فندق قرب مطار صبيحة",
+          "en": "Nearport Sabiha Airport",
+          "tr": "Nearport Sabiha Havalimanı"
+        },
         "image": "res://turkiye/nearportsabiha.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=1177057"
       },
       {
-        "name": { "ar": "فندق ذا رووف جزيرة الاميرات", "en": "The Roof Princess Island", "tr": "The Roof Büyükada" },
+        "name": {
+          "ar": "فندق ذا رووف جزيرة الاميرات",
+          "en": "The Roof Princess Island",
+          "tr": "The Roof Büyükada"
+        },
         "image": "res://turkiye/theroofbuyukada.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=40028584"
       },
       {
-        "name": { "ar": "فندق بوف عمرانية", "en": "Bof Hotels Umraniye", "tr": "Bof Otelleri Ümraniye" },
+        "name": {
+          "ar": "فندق بوف عمرانية",
+          "en": "Bof Hotels Umraniye",
+          "tr": "Bof Otelleri Ümraniye"
+        },
         "image": "res://turkiye/BofHotelsumraniye.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=37015581"
       },
       {
-        "name": { "ar": "فندق بيرون جزيرة الحرية والديموقراطية", "en": "Birun Ada Hotel Democracy and Freedom Island", "tr": "Birun Ada Otel Demokrasi ve Özgürlükler Adası" },
+        "name": {
+          "ar": "فندق بيرون جزيرة الحرية والديموقراطية",
+          "en": "Birun Ada Hotel Democracy and Freedom Island",
+          "tr": "Birun Ada Otel Demokrasi ve Özgürlükler Adası"
+        },
         "image": "res://turkiye/birunadademokrasi.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=28272855"
       },
       {
-        "name": { "ar": "فندق قصر الاميرة في جزيرة الاميرات", "en": "Princes' Palace Resort Princess Island", "tr": "Princes' Palace Resort Büyükada" },
+        "name": {
+          "ar": "فندق قصر الاميرة في جزيرة الاميرات",
+          "en": "Princes' Palace Resort Princess Island",
+          "tr": "Princes' Palace Resort Büyükada"
+        },
         "image": "res://turkiye/PrincessPalaceResort.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=56136665"
       },
       {
-        "name": { "ar": "فندق كومبابا التاريخي شيلا", "en": "Tarihi Kumbaba Sile", "tr": "Tarihi Kumbaba Şile" },
+        "name": {
+          "ar": "فندق كومبابا التاريخي شيلا",
+          "en": "Tarihi Kumbaba Sile",
+          "tr": "Tarihi Kumbaba Şile"
+        },
         "image": "res://turkiye/tarihikumbabasile.png",
         "rating": "4 Stars",
         "website": "https://www.hotels.com/affiliate/Q00j48e"
       },
       {
-        "name": { "ar": "فندق جونان شيلا", "en": "Sile Gonen", "tr": "Şile Gönen" },
+        "name": {
+          "ar": "فندق جونان شيلا",
+          "en": "Sile Gonen",
+          "tr": "Şile Gönen"
+        },
         "image": "res://turkiye/tSileGonen.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=61907134"
       },
       {
-        "name": { "ar": "فندق واين بورت اغوا", "en": "Wineport Lodge Agva", "tr": "Wineport Ağva Şile" },
+        "name": {
+          "ar": "فندق واين بورت اغوا",
+          "en": "Wineport Lodge Agva",
+          "tr": "Wineport Ağva Şile"
+        },
         "image": "res://turkiye/WineportAgva.png",
         "rating": "4 Stars",
         "website": "https://www.hotels.com/affiliate/B6NrfmE"
       },
       {
-        "name": { "ar": "فندق بيت النهر العتيق اغوا", "en": "Antik River House Agva", "tr": "Antik River House Ağva" },
+        "name": {
+          "ar": "فندق بيت النهر العتيق اغوا",
+          "en": "Antik River House Agva",
+          "tr": "Antik River House Ağva"
+        },
         "image": "res://turkiye/riverantikhouseagva.png",
         "rating": "4 Stars",
         "website": "https://www.hotels.com/affiliate/2dO030J"
@@ -370,37 +632,61 @@
     ],
     "cultural Places": [
       {
-        "name": { "ar": "جامع آيا صوفيا", "en": "Hagia Sophia Grand Mosque", "tr": "Ayasofya Camii" },
+        "name": {
+          "ar": "جامع آيا صوفيا",
+          "en": "Hagia Sophia Grand Mosque",
+          "tr": "Ayasofya Camii"
+        },
         "image": "res://turkiye/ayasofya.png",
         "website": "https://gyg.me/cnFWeJBH",
         "needs_ad": false
       },
       {
-        "name": { "ar": "متحف صهريج البازيليك", "en": "Basilica Cistern", "tr": "Yerebatan Sarnıcı" },
+        "name": {
+          "ar": "متحف صهريج البازيليك",
+          "en": "Basilica Cistern",
+          "tr": "Yerebatan Sarnıcı"
+        },
         "image": "res://turkiye/yerebatan.png",
         "website": "https://gyg.me/M23UuHU4",
         "needs_ad": false
       },
       {
-        "name": { "ar": "عروض الدراويش", "en": "Hodjapasha Dervish Ceremony", "tr": "Hocapaşa Semazen" },
+        "name": {
+          "ar": "عروض الدراويش",
+          "en": "Hodjapasha Dervish Ceremony",
+          "tr": "Hocapaşa Semazen"
+        },
         "image": "res://turkiye/semazen.png",
         "website": "https://gyg.me/MLh9qlfU",
         "needs_ad": false
       },
       {
-        "name": { "ar": "برج غلاطة", "en": "Galata Tower", "tr": "Galata Kulesi" },
+        "name": {
+          "ar": "برج غلاطة",
+          "en": "Galata Tower",
+          "tr": "Galata Kulesi"
+        },
         "image": "res://turkiye/galatakulesi.png",
         "website": "https://gyg.me/FojiBE2k",
         "needs_ad": true
       },
       {
-        "name": { "ar": "قصر دولما بهجة ", "en": "Dolmabahce Palace", "tr": "Dolmabahçe Sarayı" },
+        "name": {
+          "ar": "قصر دولما بهجة ",
+          "en": "Dolmabahce Palace",
+          "tr": "Dolmabahçe Sarayı"
+        },
         "image": "res://turkiye/dolmabahce.png",
         "website": "https://gyg.me/uLMlQ80Q",
         "needs_ad": true
       },
       {
-        "name": { "ar": "برج الفتاة", "en": "Maiden's Tower", "tr": "Kız Kulesi" },
+        "name": {
+          "ar": "برج الفتاة",
+          "en": "Maiden's Tower",
+          "tr": "Kız Kulesi"
+        },
         "image": "res://turkiye/kizkulesi.png",
         "website": "https://gyg.me/jtFWQeJh",
         "needs_ad": true
@@ -408,37 +694,61 @@
     ],
     "tours": [
       {
-        "name": { "ar": "بالات , مرتفع بيير لوتي , باخرة , تلفريك", "en": "Istanbul Balat, Pierre Loti Hill, Bosphorus cruise Cable Car", "tr": "Balat, Pierre Loti Tepesi, Gemi Turu, Telefrik \n" },
+        "name": {
+          "ar": "بالات , مرتفع بيير لوتي , باخرة , تلفريك",
+          "en": "Istanbul Balat, Pierre Loti Hill, Bosphorus cruise Cable Car",
+          "tr": "Balat, Pierre Loti Tepesi, Gemi Turu, Telefrik \n"
+        },
         "image": "res://turkiye/eyubsultantour.png",
         "website": "https://gyg.me/0gMnQQoy",
         "needs_ad": false
       },
       {
-        "name": { "ar": "جولة عشاء البسفور و ليلة عرض تركية", "en": "Bosphorus Dinner Cruise & Turkish Night Show", "tr": "Boğaz Akşam Yemeği Turu & Türk Gece Şovu \n" },
+        "name": {
+          "ar": "جولة عشاء البسفور و ليلة عرض تركية",
+          "en": "Bosphorus Dinner Cruise & Turkish Night Show",
+          "tr": "Boğaz Akşam Yemeği Turu & Türk Gece Şovu \n"
+        },
         "image": "res://turkiye/BosphorusDinnerCruise .png",
         "website": "https://gyg.me/0mMug4p7",
         "needs_ad": true
       },
       {
-        "name": { "ar": "رحلة ووجبة بالباخرة مميزة", "en": "Le Vapeur Magique Tour Special", "tr": "Le Vapeur Magique Tur Spesiyal\n" },
+        "name": {
+          "ar": "رحلة ووجبة بالباخرة مميزة",
+          "en": "Le Vapeur Magique Tour Special",
+          "tr": "Le Vapeur Magique Tur Spesiyal\n"
+        },
         "image": "res://turkiye/levapeurmargique.png",
         "website": "https://www.levapeurmagique.com/",
         "needs_ad": true
       },
       {
-        "name": { "ar": "رحلتين مع غداء وجولة ساعتين", "en": "2-Sides City Tour with Lunch & Boat Tour", "tr": "Asya Ve Avrupa Tur & Vapur Turu \n" },
+        "name": {
+          "ar": "رحلتين مع غداء وجولة ساعتين",
+          "en": "2-Sides City Tour with Lunch & Boat Tour",
+          "tr": "Asya Ve Avrupa Tur & Vapur Turu \n"
+        },
         "image": "res://turkiye/2sidestourandlunch.png",
         "website": "https://gyg.me/lhZCo9mR",
         "needs_ad": true
       },
       {
-        "name": { "ar": "رحلتين مع غداء وجولة ساعتين", "en": "2-Sides City Tour with Lunch & Boat Tour", "tr": "Asya Ve Avrupa Tur & Vapur Turu \n" },
+        "name": {
+          "ar": "رحلتين مع غداء وجولة ساعتين",
+          "en": "2-Sides City Tour with Lunch & Boat Tour",
+          "tr": "Asya Ve Avrupa Tur & Vapur Turu \n"
+        },
         "image": "res://turkiye/2sidestourandlunch.png",
         "website": "https://gyg.me/lhZCo9mR",
         "needs_ad": true
       },
       {
-        "name": { "ar": "رحلتين مع غداء وجولة ساعتين", "en": "2-Sides City Tour with Lunch & Boat Tour", "tr": "Asya Ve Avrupa Tur & Vapur Turu \n" },
+        "name": {
+          "ar": "رحلتين مع غداء وجولة ساعتين",
+          "en": "2-Sides City Tour with Lunch & Boat Tour",
+          "tr": "Asya Ve Avrupa Tur & Vapur Tour \n"
+        },
         "image": "res://turkiye/2sidestourandlunch.png",
         "website": "https://gyg.me/lhZCo9mR",
         "needs_ad": true
@@ -446,37 +756,61 @@
     ],
     "places": [
       {
-        "name": { "ar": "فيالاند المدينة الترفيهية", "en": "VIALAND Theme Park", "tr": "VIALAND Tema Parkı" },
+        "name": {
+          "ar": "فيالاند المدينة الترفيهية",
+          "en": "VIALAND Theme Park",
+          "tr": "VIALAND Tema Parkı"
+        },
         "image": "res://turkiye/vialand.jpg",
         "website": "https://klook.tpx.li/qty7qN7v",
         "needs_ad": false
       },
       {
-        "name": { "ar": "متحف الاوهام", "en": "Museum of Illusions", "tr": "İllüzyon Müzesi" },
+        "name": {
+          "ar": "متحف الاوهام",
+          "en": "Museum of Illusions",
+          "tr": "İllüzyon Müzesi"
+        },
         "image": "res://turkiye/illusionistanbul.jpg",
         "website": "https://gyg.me/nv22d6Uv",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مول فورم اسطنبول", "en": "Forum Istanbul Mall", "tr": "Forum İstanbul Avm" },
+        "name": {
+          "ar": "مول فورم اسطنبول",
+          "en": "Forum Istanbul Mall",
+          "tr": "Forum İstanbul Avm"
+        },
         "image": "res://turkiye/vialand.jpg",
         "website": "https://klook.tpx.li/qty7qN7v",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مول اوف اسطنبول", "en": "Mall Of Istanbul", "tr": "Mall Of İstanbul" },
+        "name": {
+          "ar": "مول اوف اسطنبول",
+          "en": "Mall Of Istanbul",
+          "tr": "Mall Of İstanbul"
+        },
         "image": "res://turkiye/vialand.jpg",
         "website": "https://klook.tpx.li/qty7qN7v",
         "needs_ad": true
       },
       {
-        "name": { "ar": "تيما وورلد مول", "en": "Tema World Mall", "tr": "Tema World Avm" },
+        "name": {
+          "ar": "تيما وورلد مول",
+          "en": "Tema World Mall",
+          "tr": "Tema World Avm"
+        },
         "image": "res://turkiye/vialand.jpg",
         "website": "https://klook.tpx.li/qty7qN7v",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مول اعمار سكوير", "en": "Emaar Square Mall", "tr": "Emaar Square Avm" },
+        "name": {
+          "ar": "مول اعمار سكوير",
+          "en": "Emaar Square Mall",
+          "tr": "Emaar Square Avm"
+        },
         "image": "res://turkiye/vialand.jpg",
         "website": "https://klook.tpx.li/qty7qN7v",
         "needs_ad": true
@@ -484,55 +818,91 @@
     ],
     "restaurants": [
       {
-        "name": { "ar": "مطعم السمك الشهير في كاراكوي", "en": "Kilciksiz Fish Karakoy", "tr": "Kılçıksız Balık Karaköy" },
+        "name": {
+          "ar": "مطعم السمك الشهير في كاراكوي",
+          "en": "Kilciksiz Fish Karakoy",
+          "tr": "Kılçıksız Balık Karaköy"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "الا لوتا كافيه فرنسي كاراكوي", "en": "A La Lune Patisserie Karaköy", "tr": "A La Lune Patisserie Karaköy" },
+        "name": {
+          "ar": "الا لوتا كافيه فرنسي كاراكوي",
+          "en": "A La Lune Patisserie Karaköy",
+          "tr": "A La Lune Patisserie Karaköy"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "باستافاريان اوسكودار", "en": "Patafarian Uskudar", "tr": "Patafarian Üsküdar" },
+        "name": {
+          "ar": "باستافاريان اوسكودار",
+          "en": "Patafarian Uskudar",
+          "tr": "Patafarian Üsküdar"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مطعم Kuleli Yakamoz اوسكودار", "en": "Kuleli Yakamoz Uskudar", "tr": "Kuleli Yakamoz Üsküdar" },
+        "name": {
+          "ar": "مطعم Kuleli Yakamoz اوسكودار",
+          "en": "Kuleli Yakamoz Uskudar",
+          "tr": "Kuleli Yakamoz Üsküdar"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مطعم كارلوس سلطان احمد", "en": "Carlos Terrace Sultanahmet", "tr": "Carlos Terrace Sultanahmet" },
+        "name": {
+          "ar": "مطعم كارلوس سلطان احمد",
+          "en": "Carlos Terrace Sultanahmet",
+          "tr": "Carlos Terrace Sultanahmet"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مطعم غلاطة منظر الغروب القرن الذهبي", "en": "Galata Sunset Golden Horn", "tr": "Galata Gün Batımı Haliç" },
+        "name": {
+          "ar": "مطعم غلاطة منظر الغروب القرن الذهبي",
+          "en": "Galata Sunset Golden Horn",
+          "tr": "Galata Gün Batımı Haliç"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مطعم بوف بوف كاراكوي", "en": "PUFPUF Karakoy", "tr": "PUFPUF Karaköy" },
+        "name": {
+          "ar": "مطعم بوف بوف كاراكوي",
+          "en": "PUFPUF Karakoy",
+          "tr": "PUFPUF Karaköy"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "كافيه بليت اكوا فلوريا", "en": "Pelit Pastry Aqua Floya", "tr": "Pelit Pastanesi Aqua Florya" },
+        "name": {
+          "ar": "كافيه بليت اكوا فلوريا",
+          "en": "Pelit Pastry Aqua Floya",
+          "tr": "Pelit Pastanesi Aqua Florya"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مطعم كوك شوب غلاطة بورت", "en": "Cook Shop Galata Port", "tr": "Cook Shop Galata Port" },
+        "name": {
+          "ar": "مطعم كوك شوب غلاطة بورت",
+          "en": "Cook Shop Galata Port",
+          "tr": "Cook Shop Galata Port"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
@@ -540,37 +910,61 @@
     ],
     "beaches": [
       {
-        "name": { "ar": "ساحل ترماتا سارير", "en": "Tirmata Beach Sariyer", "tr": "Tırmata Sahil Sarıyer" },
+        "name": {
+          "ar": "ساحل ترماتا سارير",
+          "en": "Tirmata Beach Sariyer",
+          "tr": "Tırmata Sahil Sarıyer"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "ساحل سولار سارير", "en": "Solar Beach Sariyer", "tr": "Solar Sahil Sarıyer" },
+        "name": {
+          "ar": "ساحل سولار سارير",
+          "en": "Solar Beach Sariyer",
+          "tr": "Solar Sahil Sarıyer"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "ساحل ريقا بيكوز", "en": "Riva Beach Beykoz", "tr": "Riva Sahil Beykoz" },
+        "name": {
+          "ar": "ساحل ريقا بيكوز",
+          "en": "Riva Beach Beykoz",
+          "tr": "Riva Sahil Beykoz"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Ayazma Beach Sile", "tr": "Ayazma Sahil Şile" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Ayazma Beach Sile",
+          "tr": "Ayazma Sahil Şile"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Cilingoz Beach Catalca", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Cilingoz Beach Catalca",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
@@ -579,43 +973,71 @@
     "religious places": [],
     "city transport": [
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true
       },
       {
-        "name": { "ar": "مضيق البوسفور برج الفتاة", "en": "Bosphorus & Maiden's Tower", "tr": "Boğaz ve Kız Kulesi" },
+        "name": {
+          "ar": "مضيق البوسفور برج الفتاة",
+          "en": "Bosphorus & Maiden's Tower",
+          "tr": "Boğaz ve Kız Kulesi"
+        },
         "image": "res://images/bosphorus.jpg",
         "website": "https://maps.app.goo.gl",
         "needs_ad": true

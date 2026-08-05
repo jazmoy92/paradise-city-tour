@@ -18,7 +18,7 @@
           "en": "Yemeksepeti",
           "tr": "Yemeksepeti"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/yemeksepeti.png",
+        "icon": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/yemeksepeti.png",
         "desc": {
           "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
           "en": "The most popular app for food delivery and daily groceries in Istanbul.",

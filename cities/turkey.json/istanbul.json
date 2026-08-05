@@ -1,10 +1,68 @@
 {
-  "istanbul": {
-    "names": {
-      "ar": "إسطنبول",
-      "en": "Istanbul",
-      "tr": "İstanbul"
+  "names": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+  },
+  "featured_apps": [
+    {
+      "name": {
+        "ar": "Moovit",
+        "en": "Moovit",
+        "tr": "Moovit"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/moovit.png",
+      "desc": {
+        "ar": "تطبيق المواصلات العامة الأول في إسطنبول لمتابعة مواعيد الحافلات والمترو والعبارات البحرية بشكل دقيق ومباشر.",
+        "en": "The #1 public transit app in Istanbul for tracking buses, metro & ferries in real-time.",
+        "tr": "İstanbul'da otobüs, metro ve vapur takibi için lider toplu taşıma uygulaması."
+      },
+      "url": "https://moovitapp.com"
     },
+    {
+      "name": {
+        "ar": "BiTaksi",
+        "en": "BiTaksi",
+        "tr": "BiTaksi"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/bitaksi.png",
+      "desc": {
+        "ar": "تطبيق طلب التاكسي الأصفر والأسود الرسمي والأكثر أماناً في إسطنبول للرحلات السريعة والمضمونة.",
+        "en": "Official and safe taxi booking app in Istanbul with transparent fares.",
+        "tr": "İstanbul'da güvenli taksi çağırma ve ödeme uygulaması."
+      },
+      "url": "https://www.bitaksi.com"
+    },
+    {
+      "name": {
+        "ar": "Yemeksepeti",
+        "en": "Yemeksepeti",
+        "tr": "Yemeksepeti"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/yemeksepeti.png",
+      "desc": {
+        "ar": "تطبيق طلب وجبات الطعام والمقاضي اليومية الأكثر انتشاراً وتغطية في كافة أحياء إسطنبول.",
+        "en": "Turkey's top app for ordering food and daily groceries straight to your stay.",
+        "tr": "Türkiye'nin lider yemek ve market sipariş uygulaması."
+      },
+      "url": "https://www.yemeksepeti.com"
+    },
+    {
+      "name": {
+        "ar": "Metro İstanbul",
+        "en": "Metro Istanbul",
+        "tr": "Metro İstanbul"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/metro.png",
+      "desc": {
+        "ar": "خريطة شبكة شبكات خطوط المترو والترامواي والمواعيد الرسمية الخاصة بمدينة إسطنبول.",
+        "en": "Official map and schedules for Istanbul Metro and Tram lines.",
+        "tr": "İstanbul Metro ve Tramvay hatları resmi uygulaması."
+      },
+      "url": "https://www.metro.istanbul"
+    }
+  ]
+},
     "description": {
       "ar": "تتربع إسطنبول على عرش المدن التي تربط قارات العالم، مشكّلةً جسراً حضارياً فريداً بين آسيا وأوروبا. تحتضن المدينة طبيعة مائية ساحرة؛ حيث يحدّها البحر الأسود من الشمال، وينساب عبر قلبها مضيق البوسفور ليلتقي بعمق بحر مرمرة في الجنوب. تتميز هذه الحاضرة بإرث تاريخي عريق يمتد بجذوره إلى العهدين البيزنطي والعثماني، مما جعلها منارة ثقافية ومركزاً تجارياً رائداً. واليوم، تحتفي إسطنبول بتنوعها الإنساني الفريد بتعداد سكان يتجاوز حاجز الـ 16 مليون نسمة، ويزيدها سحراً جزر الأميرات الخمسة المفتوحة والآمنة للزيارة السياحية والتي تتلألأ في قلب بحر مرمرة، لترسم معاً لوحة طبيعية وتاريخية لا مثيل لها.",
       "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south. This metropolis boasts an ancient historical heritage deeply rooted in both the Byzantine and Ottoman eras, making it a cultural beacon and a leading commercial hub. Today, Istanbul celebrates its unique human diversity with a population exceeding 16 million, while its charm is further heightened by the five Princes' Islands open and safe for tourist visits, shimmering in the heart of the Sea of Marmara, together painting an unparalleled natural and historical masterpiece.",

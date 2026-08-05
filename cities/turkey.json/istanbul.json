@@ -21,7 +21,7 @@
           "en": "Yemeksepeti",
           "tr": "Yemeksepeti"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/yemeksepeti.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/yemeksepeti.png",
         "desc": {
           "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
           "en": "The most popular app for food delivery and daily groceries in Istanbul.",
@@ -35,7 +35,7 @@
           "en": "BiTaksi",
           "tr": "BiTaksi"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/bitaksi.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/bitaksi.png",
         "desc": {
           "ar": "التطبيق المعتمد والأكثر أماناً لحجز التاكسي الأصفر والأسود وحساب التكلفة والدفع الإلكتروني.",
           "en": "Safe and certified app to book yellow and black taxis in Istanbul with fare estimates.",
@@ -49,7 +49,7 @@
           "en": "Moovit",
           "tr": "Moovit"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/moovit.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/moovit.png",
         "desc": {
           "ar": "الدليل المباشر لخطوط المترو، الترام، الحافلات، والعبارات البحرية ومواعيدها بالدقيقة.",
           "en": "Real-time guide for metro, tram, bus, and ferry lines in Istanbul.",
@@ -59,7 +59,7 @@
       },
       {
         "name": { "ar": "ترينديول (تسوق)", "en": "Trendyol", "tr": "Trendyol" },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/trendyol.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/trendyol.png",
         "desc": {
           "ar": "منصة التسوق الأولى في تركيا لشراء الملابس والمنتجات والماركات العالمية والتركية.",
           "en": "Turkey's leading online shopping platform for fashion and lifestyle goods.",
@@ -69,7 +69,7 @@
       },
       {
         "name": { "ar": "جيتير (توصيل سريع)", "en": "Getir", "tr": "Getir" },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/getir.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/getir.png",
         "desc": {
           "ar": "تطبيق التوصيل السريع للغاية للمأكولات الخفيفة والمشروبات والسوبرماركت خلال دقائق معدودة.",
           "en": "Ultra-fast delivery app for groceries, snacks, and essentials within minutes.",
@@ -83,7 +83,7 @@
           "en": "Istanbulkart",
           "tr": "İstanbulkart"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/images/apps/istanbulkart.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/istanbulkart.png",
         "desc": {
           "ar": "التطبيق الرسمي لتعبئة رصيد بطاقة المواصلات العامة واستخدام كود QR في محطات المترو والعبارات.",
           "en": "Official app to top-up public transit cards and scan QR codes at stations.",
@@ -110,7 +110,7 @@
           "en": "Ciragan Palace Kempinski",
           "tr": "Çırağan Palace Kempinski"
         },
-        "image": "res://turkiye/cigaran palace.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cigaran palace.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
         "description": {
@@ -125,7 +125,7 @@
           "en": "The Elysium Taksim",
           "tr": "Elysium Taksim"
         },
-        "image": "res://turkiye/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/elisyumtaksim.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
         "description": {
@@ -140,7 +140,7 @@
           "en": "Heaven Premium Airport Hotel",
           "tr": "Heaven Premium Airport Hotel"
         },
-        "image": "res://turkiye/heavenistanbulhavaliman.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/heavenistanbulhavaliman.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/2nSHUuT",
         "description": {
@@ -155,7 +155,7 @@
           "en": "Zazzoni-İstanbul Airport",
           "tr": "Zazzoni-İstanbul Havalimanı"
         },
-        "image": "res://turkiye/zazzoniairportist.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/zazzoniairportist.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=35991201",
         "description": {
@@ -170,7 +170,7 @@
           "en": "Continental IST Airport Hotel",
           "tr": "Continental istanbul havalimanı"
         },
-        "image": "res://turkiye/continentelistairport.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/continentelistairport.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/5ybxIai",
         "description": {
@@ -185,7 +185,7 @@
           "en": "Hotel Arcadia Blue",
           "tr": "Arcadia Blue Oteli"
         },
-        "image": "res://turkiye/arcadiahotelsultanahmet.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/arcadiahotelsultanahmet.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=91063",
         "description": {
@@ -200,7 +200,7 @@
           "en": "Marriott Apartments Tema World",
           "tr": "Marriott Apartments Tema World"
         },
-        "image": "res://turkiye/marriotapartment.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/marriotapartment.png",
         "rating": "10/10",
         "website": "https://expedia.com/affiliate/HG7P9Rr",
         "description": {
@@ -215,7 +215,7 @@
           "en": "Cronton Design Hotel",
           "tr": "Cronton Design Oteli"
         },
-        "image": "res://turkiye/crontondesignotel.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/crontondesignotel.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=33687622",
         "description": {
@@ -230,7 +230,7 @@
           "en": "Hillora Hotel Buyukada",
           "tr": "Hillora Büyükada Oteli"
         },
-        "image": "res://turkiye/hilloraotelbuyukada.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/hilloraotelbuyukada.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=86592702",
         "description": {
@@ -245,7 +245,7 @@
           "en": "Aliée Istanbul",
           "tr": "Aliée Istanbul"
         },
-        "image": "res://turkiye/alieeistanbul.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/alieeistanbul.png",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/UhhafJk",
         "description": {
@@ -260,7 +260,7 @@
           "en": "Ritz Carlton Hotel",
           "tr": "Ritz Carlton Oteli"
         },
-        "image": "res://turkiye/ritzcarlton.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/ritzcarlton.png",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/TQYQ7zD",
         "description": {
@@ -275,7 +275,7 @@
           "en": "Rixos Tersane Istanbul",
           "tr": "Rixos Tersane Istanbul"
         },
-        "image": "res://turkiye/rixostersane.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/rixostersane.png",
         "rating": "5 Stars",
         "website": "https://expedia.com/affiliate/lbdMVeH",
         "description": {
@@ -290,7 +290,7 @@
           "en": "Kunlun Kensington Hotel",
           "tr": "Kunlun Kensington Oteli"
         },
-        "image": "res://turkiye/kensingtonfatih.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/kensingtonfatih.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=32008113",
         "description": {
@@ -305,7 +305,7 @@
           "en": "Hilton Altunizade Suites Istanbul",
           "tr": "Hilton Altunizade Süitler İstanbul"
         },
-        "image": "res://turkiye/altunizadeuskudar.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/altunizadeuskudar.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=78363188"
       },
@@ -315,7 +315,7 @@
           "en": "Tempo Hotel 4 Levent",
           "tr": "Tempo Otel 4 Levent"
         },
-        "image": "res://turkiye/tempo4levent.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/tempo4levent.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=392765"
       },
@@ -325,7 +325,7 @@
           "en": "Vicenza Hotel Laleli",
           "tr": "Vicenza Otel Laleli"
         },
-        "image": "res://turkiye/vincenzalaleli.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/vincenzalaleli.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=151596"
       },
@@ -335,7 +335,7 @@
           "en": "Armada Hotel Sultanahmet",
           "tr": "Armada Otel Sultanahmet"
         },
-        "image": "res://turkiye/armadasultanahmet.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/armadasultanahmet.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=71470"
       },
@@ -345,7 +345,7 @@
           "en": "Castellion Hotels Galata",
           "tr": "Castellion Oteller Galata"
         },
-        "image": "res://turkiye/Castelliongalata.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Castelliongalata.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=83503476"
       },
@@ -355,7 +355,7 @@
           "en": "Holiday Inn Laleli",
           "tr": "Holiday Inn Laleli"
         },
-        "image": "res://turkiye/holidayinnoldcity.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/holidayinnoldcity.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=5252199"
       },
@@ -365,7 +365,7 @@
           "en": "Momento Golden Horn",
           "tr": "Momento Golden Horn"
         },
-        "image": "res://turkiye/MomentoGoldenHorn.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/MomentoGoldenHorn.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=3544914"
       },
@@ -375,7 +375,7 @@
           "en": "Marlon Hotel Taksim",
           "tr": "Marlon Oteli Taksim"
         },
-        "image": "res://turkiye/MarlonHotel.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/MarlonHotel.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=54285159"
       },
@@ -385,7 +385,7 @@
           "en": "Mandarin Oriental Bosphorus",
           "tr": "Mandarin Oriental İstanbul Boğazı"
         },
-        "image": "res://turkiye/mandarinistanbul.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/mandarinistanbul.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=22589441"
       },
@@ -395,7 +395,7 @@
           "en": "Park Inn by Radisson Eyupsultan",
           "tr": "Park Inn by Radisson Eyüpsultan"
         },
-        "image": "res://turkiye/parkinnraddisoneyupsultan.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/parkinnraddisoneyupsultan.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=8779199"
       },

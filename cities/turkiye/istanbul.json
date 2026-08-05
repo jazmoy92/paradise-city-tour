@@ -32,7 +32,7 @@
     "hotels": [
       {
         "name": { "ar": "فندق تشيران بالاس كمبينسكي", "en": "Ciragan Palace Kempinski", "tr": "Çırağan Palace Kempinski" },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/cigaran palace.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkiye/cigaranpalace.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
         "has_read_more": true,

@@ -107,7 +107,7 @@
           "en": "Ciragan Palace Kempinski",
           "tr": "Çırağan Palace Kempinski"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cigaranpalace.png",
+        "image": "res://turkey.json/cigaranpalace.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
         "description": {
@@ -122,7 +122,7 @@
           "en": "The Elysium Taksim",
           "tr": "Elysium Taksim"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/elisyumtaksim.png",
+        "image": "res://turkey/elisyumtaksim.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
         "description": {

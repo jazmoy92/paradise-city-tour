@@ -66,7 +66,7 @@
       },
       {
         "name": { "ar": "جيتير (توصيل سريع)", "en": "Getir", "tr": "Getir" },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/getir.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/getir.png",
         "desc": {
           "ar": "تطبيق التوصيل السريع للغاية للمأكولات الخفيفة والمشروبات والسوبرماركت خلال دقائق معدودة.",
           "en": "Ultra-fast delivery app for groceries, snacks, and essentials within minutes.",
@@ -80,7 +80,7 @@
           "en": "Istanbulkart",
           "tr": "İstanbulkart"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/istanbulkart.png",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbulkart.png",
         "desc": {
           "ar": "التطبيق الرسمي لتعبئة رصيد بطاقة المواصلات العامة واستخدام كود QR في محطات المترو والعبارات.",
           "en": "Official app to top-up public transit cards and scan QR codes at stations.",
@@ -257,7 +257,7 @@
           "en": "Ritz Carlton Hotel",
           "tr": "Ritz Carlton Oteli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/ritzcarlton.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ritzcarlton.png",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/TQYQ7zD",
         "description": {
@@ -272,7 +272,7 @@
           "en": "Rixos Tersane Istanbul",
           "tr": "Rixos Tersane Istanbul"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/rixostersane.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixostersane.png",
         "rating": "5 Stars",
         "website": "https://expedia.com/affiliate/lbdMVeH",
         "description": {
@@ -287,7 +287,7 @@
           "en": "Kunlun Kensington Hotel",
           "tr": "Kunlun Kensington Oteli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/kensingtonfatih.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kensingtonfatih.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=32008113",
         "description": {
@@ -302,7 +302,7 @@
           "en": "Hilton Altunizade Suites Istanbul",
           "tr": "Hilton Altunizade Süitler İstanbul"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/altunizadeuskudar.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/altunizadeuskudar.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=78363188"
       },
@@ -312,7 +312,7 @@
           "en": "Tempo Hotel 4 Levent",
           "tr": "Tempo Otel 4 Levent"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/tempo4levent.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tempo4levent.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=392765"
       },
@@ -322,7 +322,7 @@
           "en": "Vicenza Hotel Laleli",
           "tr": "Vicenza Otel Laleli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/vincenzalaleli.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/vincenzalaleli.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=151596"
       },
@@ -332,7 +332,7 @@
           "en": "Armada Hotel Sultanahmet",
           "tr": "Armada Otel Sultanahmet"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/armadasultanahmet.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/armadasultanahmet.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=71470"
       },
@@ -342,7 +342,7 @@
           "en": "Castellion Hotels Galata",
           "tr": "Castellion Oteller Galata"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Castelliongalata.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/Castelliongalata.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=83503476"
       },
@@ -352,7 +352,7 @@
           "en": "Holiday Inn Laleli",
           "tr": "Holiday Inn Laleli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/holidayinnoldcity.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/holidayinnoldcity.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=5252199"
       },
@@ -362,7 +362,7 @@
           "en": "Momento Golden Horn",
           "tr": "Momento Golden Horn"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/MomentoGoldenHorn.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/MomentoGoldenHorn.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=3544914"
       },
@@ -372,7 +372,7 @@
           "en": "Marlon Hotel Taksim",
           "tr": "Marlon Oteli Taksim"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/MarlonHotel.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/MarlonHotel.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=54285159"
       }
@@ -384,7 +384,7 @@
           "en": "Hagia Sophia Grand Mosque",
           "tr": "Ayasofya Camii"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/ayasofya.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ayasofya.png",
         "website": "https://gyg.me/cnFWeJBH",
         "needs_ad": false
       },
@@ -394,7 +394,7 @@
           "en": "Basilica Cistern",
           "tr": "Yerebatan Sarnıcı"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/yerebatan.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerebatan.png",
         "website": "https://gyg.me/M23UuHU4",
         "needs_ad": false
       },
@@ -404,7 +404,7 @@
           "en": "Hodjapasha Dervish Ceremony",
           "tr": "Hocapaşa Semazen"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/semazen.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/semazen.png",
         "website": "https://gyg.me/MLh9qlfU",
         "needs_ad": false
       },
@@ -414,7 +414,7 @@
           "en": "Galata Tower",
           "tr": "Galata Kulesi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/galatakulesi.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/galatakulesi.png",
         "website": "https://gyg.me/FojiBE2k",
         "needs_ad": true
       },
@@ -424,7 +424,7 @@
           "en": "Dolmabahce Palace",
           "tr": "Dolmabahçe Sarayı"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/dolmabahce.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolmabahce.png",
         "website": "https://gyg.me/uLMlQ80Q",
         "needs_ad": true
       },
@@ -434,7 +434,7 @@
           "en": "Maiden's Tower",
           "tr": "Kız Kulesi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/kizkulesi.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkulesi.png",
         "website": "https://gyg.me/jtFWQeJh",
         "needs_ad": true
       }
@@ -446,7 +446,7 @@
           "en": "Istanbul Balat, Pierre Loti Hill, Bosphorus cruise Cable Car",
           "tr": "Balat, Pierre Loti Tepesi, Gemi Turu, Telefrik \n"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/eyubsultantour.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/eyubsultantour.png",
         "website": "https://gyg.me/0gMnQQoy",
         "needs_ad": false
       },
@@ -456,7 +456,7 @@
           "en": "Bosphorus Dinner Cruise & Turkish Night Show",
           "tr": "Boğaz Akşam Yemeği Turu & Türk Gece Şovu \n"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/BosphorusDinnerCruise%20.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/BosphorusDinnerCruise%20.png",
         "website": "https://gyg.me/0mMug4p7",
         "needs_ad": true
       },
@@ -466,7 +466,7 @@
           "en": "Le Vapeur Magique Tour Special",
           "tr": "Le Vapeur Magique Tur Spesiyal\n"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/levapeurmargique.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/levapeurmargique.png",
         "website": "https://www.levapeurmagique.com/",
         "needs_ad": true
       },
@@ -476,7 +476,7 @@
           "en": "2-Sides City Tour with Lunch & Boat Tour",
           "tr": "Asya Ve Avrupa Tur & Vapur Turu \n"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/2sidestourandlunch.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/2sidestourandlunch.png",
         "website": "https://gyg.me/lhZCo9mR",
         "needs_ad": true
       }
@@ -488,7 +488,7 @@
           "en": "VIALAND Theme Park",
           "tr": "VIALAND Tema Parkı"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/vialand.jpg",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/vialand.jpg",
         "website": "https://klook.tpx.li/qty7qN7v",
         "needs_ad": false
       },
@@ -498,7 +498,7 @@
           "en": "Museum of Illusions",
           "tr": "İllüzyon Müzesi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/illusionistanbul.jpg",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/illusionistanbul.jpg",
         "website": "https://gyg.me/nv22d6Uv",
         "needs_ad": true
       }

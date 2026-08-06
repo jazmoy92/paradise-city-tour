@@ -122,7 +122,7 @@
           "en": "The Elysium Taksim",
           "tr": "Elysium Taksim"
         },
-        "image": "res://turkey/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
         "description": {
@@ -137,7 +137,7 @@
           "en": "Heaven Premium Airport Hotel",
           "tr": "Heaven Premium Airport Hotel"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/heavenistanbulhavaliman.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/heavenistanbulhavaliman.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/2nSHUuT",
         "description": {
@@ -152,7 +152,7 @@
           "en": "Zazzoni-İstanbul Airport",
           "tr": "Zazzoni-İstanbul Havalimanı"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/zazzoniairportist.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zazzoniairportist.png",
         "rating": "3 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=35991201",
         "description": {
@@ -167,7 +167,7 @@
           "en": "Continental IST Airport Hotel",
           "tr": "Continental istanbul havalimanı"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/continentelistairport.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/continentelistairport.png",
         "rating": "3 Stars",
         "website": "https://expedia.com/affiliate/5ybxIai",
         "description": {
@@ -182,7 +182,7 @@
           "en": "Hotel Arcadia Blue",
           "tr": "Arcadia Blue Oteli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/arcadiahotelsultanahmet.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/arcadiahotelsultanahmet.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=91063",
         "description": {
@@ -197,7 +197,7 @@
           "en": "Marriott Apartments Tema World",
           "tr": "Marriott Apartments Tema World"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/marriotapartment.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marriotapartment.png",
         "rating": "10/10",
         "website": "https://expedia.com/affiliate/HG7P9Rr",
         "description": {
@@ -212,7 +212,7 @@
           "en": "Cronton Design Hotel",
           "tr": "Cronton Design Oteli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/crontondesignotel.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/crontondesignotel.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=33687622",
         "description": {
@@ -227,7 +227,7 @@
           "en": "Hillora Hotel Buyukada",
           "tr": "Hillora Büyükada Oteli"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/hilloraotelbuyukada.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/hilloraotelbuyukada.png",
         "rating": "4 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=86592702",
         "description": {
@@ -242,7 +242,7 @@
           "en": "Aliée Istanbul",
           "tr": "Aliée Istanbul"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/alieeistanbul.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/alieeistanbul.png",
         "rating": "5 Stars",
         "website": "https://www.hotels.com/affiliate/UhhafJk",
         "description": {

@@ -107,8 +107,8 @@
           "en": "Ciragan Palace Kempinski",
           "tr": "Çırağan Palace Kempinski"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
-        "images": [
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace2.png",

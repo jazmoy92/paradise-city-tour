@@ -18,7 +18,7 @@
           "en": "Yemeksepeti",
           "tr": "Yemeksepeti"
         },
-        "image": "res://yemeksepeti.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
         "desc": {
           "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
           "en": "The most popular app for food delivery and daily groceries in Istanbul.",
@@ -32,7 +32,7 @@
           "en": "BiTaksi",
           "tr": "BiTaksi"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/bitaksi.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bitaksi.png",
         "desc": {
           "ar": "التطبيق المعتمد والأكثر أماناً لحجز التاكسي الأصفر والأسود وحساب التكلفة والدفع الإلكتروني.",
           "en": "Safe and certified app to book yellow and black taxis in Istanbul with fare estimates.",
@@ -46,7 +46,7 @@
           "en": "Moovit",
           "tr": "Moovit"
         },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/moovit.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/moovit.png",
         "desc": {
           "ar": "الدليل المباشر لخطوط المترو، الترام، الحافلات، والعبارات البحرية ومواعيدها بالدقيقة.",
           "en": "Real-time guide for metro, tram, bus, and ferry lines in Istanbul.",
@@ -56,7 +56,7 @@
       },
       {
         "name": { "ar": "ترينديول (تسوق)", "en": "Trendyol", "tr": "Trendyol" },
-        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/trendyol.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/trendyol.png",
         "desc": {
           "ar": "منصة التسوق الأولى في تركيا لشراء الملابس والمنتجات والماركات العالمية والتركية.",
           "en": "Turkey's leading online shopping platform for fashion and lifestyle goods.",
@@ -107,7 +107,7 @@
           "en": "Ciragan Palace Kempinski",
           "tr": "Çırağan Palace Kempinski"
         },
-        "image": "main://turkey.json/cigaranpalace.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
         "description": {

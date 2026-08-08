@@ -6,15 +6,16 @@
         "en": "Cappadocia Balloon Tour",
         "tr": "Kapadokya Balon Turu"
       },
-      "needs_ad": true
+      "needs_ad": true,
       "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.jpg",
       "desc": {
         "ar": "تجربة طيران ساحرة بالمنطاد الهوائي فوق وادي كابادوكيا وتكويناتها الصخرية الفريدة عند الشروق.",
         "en": "A breathtaking hot air balloon ride over Cappadocia's valleys at sunrise.",
         "tr": "Gündoğumunda Kapadokya vadileri üzerinde muhteşem balon turu."
       },
-      "url": "https://www.getyourguide.com",
-      
+      "url": "https://www.getyourguide.com"
+    }
+  ]  
     },
     {
       "name": {

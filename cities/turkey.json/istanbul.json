@@ -13,20 +13,20 @@
     "is_soon": false,
     "featured_apps": [
       {
-  "name": {
-    "ar": "يمك سيبتي (طعام)",
-    "en": "Yemeksepeti",
-    "tr": "Yemeksepeti"
-  },
-  "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
-  "desc": {
-    "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
-    "en": "The most popular app for food delivery and daily groceries in Istanbul.",
-    "tr": "İstanbul'da yemek ve market siparişi için en popüler uygulama."
-  },
-  "url": "https://www.yemeksepeti.com",
-  "needs_ad": true
-}
+        "name": {
+          "ar": "يمك سيبتي (طعام)",
+          "en": "Yemeksepeti",
+          "tr": "Yemeksepeti"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
+        "desc": {
+          "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
+          "en": "The most popular app for food delivery and daily groceries in Istanbul.",
+          "tr": "İstanbul'da yemek ve market siparişi için en popüler uygulama."
+        },
+        "url": "https://www.yemeksepeti.com",
+        "needs_ad": true
+      },
       {
         "name": {
           "ar": "بي تاكسي (مواصلات)",
@@ -56,7 +56,11 @@
         "url": "https://moovitapp.com"
       },
       {
-        "name": { "ar": "ترينديول (تسوق)", "en": "Trendyol", "tr": "Trendyol" },
+        "name": {
+          "ar": "ترينديول (تسوق)",
+          "en": "Trendyol",
+          "tr": "Trendyol"
+        },
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/trendyol.png",
         "desc": {
           "ar": "منصة التسوق الأولى في تركيا لشراء الملابس والمنتجات والماركات العالمية والتركية.",
@@ -66,7 +70,11 @@
         "url": "https://www.trendyol.com"
       },
       {
-        "name": { "ar": "جيتير (توصيل سريع)", "en": "Getir", "tr": "Getir" },
+        "name": {
+          "ar": "جيتير (توصيل سريع)",
+          "en": "Getir",
+          "tr": "Getir"
+        },
         "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/getir.png",
         "desc": {
           "ar": "تطبيق التوصيل السريع للغاية للمأكولات الخفيفة والمشروبات والسوبرماركت خلال دقائق معدودة.",
@@ -90,7 +98,11 @@
         "url": "https://istanbulkart.istanbul"
       }
     ],
-    "available_services": ["taxi", "rent_car", "driver"],
+    "available_services": [
+      "taxi",
+      "rent_car",
+      "driver"
+    ],
     "available_categories": [
       "hotels",
       "tours",

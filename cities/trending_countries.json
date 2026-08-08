@@ -1,0 +1,81 @@
+{
+  "trending_countries": [
+    {
+      "country_ar": "الإمارات العربية المتحدة",
+      "country_en": "United Arab Emirates",
+      "code": "UAE",
+      "cities": [
+        { "name_ar": "دبي", "name_en": "Dubai" },
+        { "name_ar": "أبوظبي", "name_en": "Abu Dhabi" },
+        { "name_ar": "الشارقة", "name_en": "Sharjah" },
+        { "name_ar": "رأس الخيمة", "name_en": "Ras Al Khaimah" }
+      ]
+    },
+    {
+      "country_ar": "تركيا",
+      "country_en": "Turkey",
+      "code": "TUR",
+      "cities": [
+        { "name_ar": "إسطنبول", "name_en": "Istanbul" },
+        { "name_ar": "أنطاليا", "name_en": "Antalya" },
+        { "name_ar": "طرابزون", "name_en": "Trabzon" },
+        { "name_ar": "بودروم", "name_en": "Bodrum" }
+      ]
+    },
+    {
+      "country_ar": "قطر",
+      "country_en": "Qatar",
+      "code": "QAT",
+      "cities": [
+        { "name_ar": "الدوحة", "name_en": "Doha" },
+        { "name_ar": "لوسيل", "name_en": "Lusail" },
+        { "name_ar": "الوكرة", "name_en": "Al Wakrah" },
+        { "name_ar": "الخور", "name_en": "Al Khor" }
+      ]
+    },
+    {
+      "country_ar": "إندونيسيا",
+      "country_en": "Indonesia",
+      "code": "IDN",
+      "cities": [
+        { "name_ar": "بالي (دنباسار)", "name_en": "Bali (Denpasar)" },
+        { "name_ar": "جاكرتا", "name_en": "Jakarta" },
+        { "name_ar": "باندونغ", "name_en": "Bandung" },
+        { "name_ar": "يوغياكارتا", "name_en": "Yogyakarta" }
+      ]
+    },
+    {
+      "country_ar": "المالديف",
+      "country_en": "Maldives",
+      "code": "MDV",
+      "cities": [
+        { "name_ar": "ماليه", "name_en": "Malé" },
+        { "name_ar": "هولهومالي", "name_en": "Hulhumalé" },
+        { "name_ar": "مافوشي", "name_en": "Maafushi" },
+        { "name_ar": "فوفامولاه", "name_en": "Fuvahmulah" }
+      ]
+    },
+    {
+      "country_ar": "مصر",
+      "country_en": "Egypt",
+      "code": "EGY",
+      "cities": [
+        { "name_ar": "القاهرة", "name_en": "Cairo" },
+        { "name_ar": "شرم الشيخ", "name_en": "Sharm El Sheikh" },
+        { "name_ar": "الغردقة", "name_en": "Hurghada" },
+        { "name_ar": "الإسكندرية", "name_en": "Alexandria" }
+      ]
+    },
+    {
+      "country_ar": "فيتنام",
+      "country_en": "Vietnam",
+      "code": "VNM",
+      "cities": [
+        { "name_ar": "هانوي", "name_en": "Hanoi" },
+        { "name_ar": "مدينة هو تشي منه", "name_en": "Ho Chi Minh City" },
+        { "name_ar": "دا نانغ", "name_en": "Da Nang" },
+        { "name_ar": "هوي آن", "name_en": "Hoi An" }
+      ]
+    }
+  ]
+}

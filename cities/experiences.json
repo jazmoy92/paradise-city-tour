@@ -1,0 +1,55 @@
+{
+  "adventures": [
+    {
+      "name": {
+        "ar": "رحلة منطاد كابادوكيا",
+        "en": "Cappadocia Balloon Tour",
+        "tr": "Kapadokya Balon Turu"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.jpg",
+      "desc": {
+        "ar": "تجربة طيران ساحرة بالمنطاد الهوائي فوق وادي كابادوكيا وتكويناتها الصخرية الفريدة عند الشروق.",
+        "en": "A breathtaking hot air balloon ride over Cappadocia's valleys at sunrise.",
+        "tr": "Gündoğumunda Kapadokya vadileri üzerinde muhteşem balon turu."
+      },
+      "url": "https://www.getyourguide.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "تسلق جبال القوقاز",
+        "en": "Caucasus Mountain Trekking",
+        "tr": "Kafkas Dağları Tırmanışı"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dubai.jpg",
+      "desc": {
+        "ar": "مغامرة تشمل التخييم والتسلق مع مرشدين محترفين ومعدات أمان كاملة.",
+        "en": "Trekking adventure with professional guides and safety equipment.",
+        "tr": "Profesyonel rehberler eşliğinde dağ tırmanışı."
+      },
+      "url": "https://www.google.com",
+      "needs_ad": false
+    }
+  ],
+  "honeymoon": [
+    {
+      "name": {
+        "ar": "منتجع المالديف العائم",
+        "en": "Maldives Overwater Resort",
+        "tr": "Maldivler Su Üstü Resort"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dubai.jpg",
+      "desc": {
+        "ar": "جناح ملكي خاص فوق المياه الكريستالية مع مسبح خاص وخادم شخصي.",
+        "en": "Overwater villa with private pool and 24h butler.",
+        "tr": "Özel havuzlu ve uşak hizmetli su üstü villa."
+      },
+      "url": "https://www.agoda.com",
+      "needs_ad": true
+    }
+  ],
+  "family": [],
+  "shopping": [],
+  "relax": [],
+  "hidden": []
+}

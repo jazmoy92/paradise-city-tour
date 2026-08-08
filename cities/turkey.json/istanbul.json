@@ -13,19 +13,20 @@
     "is_soon": false,
     "featured_apps": [
       {
-        "name": {
-          "ar": "يمك سيبتي (طعام)",
-          "en": "Yemeksepeti",
-          "tr": "Yemeksepeti"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
-        "desc": {
-          "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
-          "en": "The most popular app for food delivery and daily groceries in Istanbul.",
-          "tr": "İstanbul'da yemek ve market siparişi için en popüler uygulama."
-        },
-        "url": "https://www.yemeksepeti.com"
-      },
+  "name": {
+    "ar": "يمك سيبتي (طعام)",
+    "en": "Yemeksepeti",
+    "tr": "Yemeksepeti"
+  },
+  "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
+  "desc": {
+    "ar": "التطبيق الأكثر شهرة واستخداماً لطلب الوجبات والمأكولات والمقاضي اليومية في إسطنبول مع التوصيل للمكان.",
+    "en": "The most popular app for food delivery and daily groceries in Istanbul.",
+    "tr": "İstanbul'da yemek ve market siparişi için en popüler uygulama."
+  },
+  "url": "https://www.yemeksepeti.com",
+  "needs_ad": true
+}
       {
         "name": {
           "ar": "بي تاكسي (مواصلات)",

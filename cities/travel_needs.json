@@ -1,0 +1,53 @@
+{
+  "travel_visa": [
+    {
+      "name": {
+        "ar": "تأشيرة شنغن السياحية الأوروبية",
+        "en": "Schengen Tourist Visa",
+        "tr": "Schengen Turist Vizesi"
+      },
+      "image": "res://images/visa.png",
+      "desc": {
+        "ar": "خدمة استخراج ومعالجة كافة أوراق وحجوزات الشنغن للجهات الأوروبية مع التأمين الصحي.",
+        "en": "Full preparation and submission for Schengen European visas.",
+        "tr": "Schengen vizesi başvuru ve belge hazırlama hizmeti."
+      },
+      "url": "https://www.vfsglobal.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "فيزا تركيا الإلكترونية (e-Visa)",
+        "en": "Turkey e-Visa Online",
+        "tr": "Türkiye e-Vize"
+      },
+      "image": "res://images/visa.png",
+      "desc": {
+        "ar": "التأشيرة الإلكترونية الفورية بدقائق معدودة عبر البوابة الرسمية.",
+        "en": "Instant official electronic visa for Turkey.",
+        "tr": "Dakikalar içinde resmi e-vize alımı."
+      },
+      "url": "https://www.evisa.gov.tr",
+      "needs_ad": false
+    }
+  ],
+  "travel_tickets": [
+    {
+      "name": {
+        "ar": "حجز الخطوط الجوية التركية",
+        "en": "Turkish Airlines Direct Flights",
+        "tr": "Türk Hava Yolları Uçuşları"
+      },
+      "image": "res://images/ticket.png",
+      "desc": {
+        "ar": "أفضل الأسعار والعروض اليومية المباشرة لرحلات طيران الخطوط التركية.",
+        "en": "Best deals and direct flight bookings via Turkish Airlines.",
+        "tr": "Türk Hava Yolları için en uygun uçak bileti seçenekleri."
+      },
+      "url": "https://www.turkishairlines.com",
+      "needs_ad": true
+    }
+  ],
+  "travel_ins_travel": [],
+  "travel_ins_schengen": []
+}

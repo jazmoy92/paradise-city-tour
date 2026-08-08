@@ -11,6 +11,7 @@
       "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur. Bizans ve Osmanlı dönemlerine kadar uzanan köklü bir tarihi mirasa sahip olan bu metropol, bir kültür feneri ve öncü bir ticaret merkezi haline gelmiştir. Bugün İstanbul, 16 milyonu aşan nüfusuyla benzersiz insani çeşitliliğini kutlarken, Marmara Denizi'nin kalbinde parıldayan ve turistik ziyarete açık, güvenli beş Prens Adası da bu büyüleyici güzelliğe apayrı bir ihtişam katarak bir arada eşsiz bir doğa ve tarih tablosu çizmektedir."
     },
     "is_soon": false,
+    "needs_ad": true,
     "featured_apps": [
       {
         "name": {
@@ -25,7 +26,7 @@
           "tr": "İstanbul'da yemek ve market siparişi için en popüler uygulama."
         },
         "url": "https://www.yemeksepeti.com",
-        "needs_ad": true
+        
       },
       {
         "name": {

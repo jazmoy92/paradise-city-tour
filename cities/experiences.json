@@ -6,6 +6,7 @@
         "en": "Cappadocia Balloon Tour",
         "tr": "Kapadokya Balon Turu"
       },
+      "needs_ad": true
       "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.jpg",
       "desc": {
         "ar": "تجربة طيران ساحرة بالمنطاد الهوائي فوق وادي كابادوكيا وتكويناتها الصخرية الفريدة عند الشروق.",
@@ -13,7 +14,7 @@
         "tr": "Gündoğumunda Kapadokya vadileri üzerinde muhteşem balon turu."
       },
       "url": "https://www.getyourguide.com",
-      "needs_ad": true
+      
     },
     {
       "name": {

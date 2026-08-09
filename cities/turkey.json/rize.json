@@ -1,1 +1,230 @@
-
+{
+  "rize": {
+    "names": {
+      "ar": "ريزة",
+      "en": "Rize",
+      "tr": "Rize"
+    },
+    "description": {
+      "ar": "تقع مدينة ريزة في شمال شرق تركيا على ساحل البحر الأسود، وتُعد عاصمة الشاي الخضراء في البلاد. تتميز بطبيعتها الساحرة التي تجمع بين الجبال المغطاة بالضباب، مرتفعات أيدر وبوكوت الخلابة، وادي فرتنا المتدفق، والقلاع التاريخية مثل قلعة زيل. تُعتبر خياراً مثالياً لعشاق الطبيعة والمغامرات والاسترخاء بين المرتفعات الخضراء فوق السحاب.",
+      "en": "Rize is located in northeastern Turkey on the Black Sea coast and is considered the tea capital of the country. It is famous for its stunning natural beauty, combining mist-covered mountains, lush Ayder and Pokut plateaus, rushing rivers, and historic castles like Zilkale. It is an ideal destination for nature lovers and adventure seekers.",
+      "tr": "Rize, Türkiye'nin kuzeydoğusunda Karadeniz kıyısında yer almakta olup ülkenin çay başkenti olarak kabul edilir. Sisli dağları, yemyeşil Ayder ve Pokut yaylaları, çoşkun akan dereleri ve Zilkale gibi tarihi kaleleriyle muhteşem bir doğal güzelliğe sahiptir. Doğa severler ve macera arayanlar için mükemmel bir destinasyondur."
+    },
+    "is_soon": false,
+    "featured_apps": [
+      {
+        "name": {
+          "ar": "هواش (حافلات المطار)",
+          "en": "HAVAŞ Airport Bus",
+          "tr": "HAVAŞ Otobüs"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/havas.png",
+        "desc": {
+          "ar": "الحافلات الرسمية المباشرة للنقل من وإلى مطار ريزة-أرتوين الدولي ووسط المدينة والمدن المجاورة.",
+          "en": "Official shuttle service connecting Rize-Artvin Airport to the city center and surrounding areas.",
+          "tr": "Rize-Artvin Havalimanı ile şehir merkezi arasında doğrudan ulaşım sağlayan resmi otobüs servisi."
+        },
+        "url": "https://havas.net",
+        "needs_ad": false
+      },
+      {
+        "name": {
+          "ar": "يمك سيبتي (طلب طعام)",
+          "en": "Yemeksepeti",
+          "tr": "Yemeksepeti"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
+        "desc": {
+          "ar": "تطبيق طلب وجبات الطعام والمأكولات من المطاعم الشهيرة في ريزة مع خدمة التوصيل المباشر.",
+          "en": "Popular food delivery app from top local restaurants in Rize.",
+          "tr": "Rize'deki restoranlardan yemek siparişi vermek için en popüler uygulama."
+        },
+        "url": "https://www.yemeksepeti.com",
+        "needs_ad": true
+      }
+    ],
+    "available_services": [
+      "taxi",
+      "rent_car",
+      "driver"
+    ],
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "cultural Places",
+      "restaurants",
+      "religious places",
+      "city transport"
+    ],
+    "hotels": [
+      {
+        "name": {
+          "ar": "فندق ريكوستا ريزة",
+          "en": "Ricosta Hotel Rize",
+          "tr": "Ricosta Hotel Rize"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricostarize.png",
+        "rating": "5 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059",
+        "description": {
+          "ar": "فندق فاخر بتصنيف 5 نجوم يقع مباشرة على شاطئ البحر الأسود في ريزة. يوفر غرفاً بإطلالات شاطئية ساحرة، شاطئاً خاصاً، مسبحاً داخلياً، ومركز صحي متكامل.",
+          "en": "A luxury 5-star beachfront hotel in Rize overlooking the Black Sea. Features private beach access, an indoor pool, and a full spa.",
+          "tr": "Karadeniz kıyısında yer alan 5 yıldızlı lüks bir otel. Özel plaj, kapalı havuz ve spa hizmetleri sunmaktadır."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق رامادا بلازا باي ويندهام ريزة",
+          "en": "Ramada Plaza by Wyndham Rize",
+          "tr": "Ramada Plaza by Wyndham Rize"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramadarize.png",
+        "rating": "5 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059",
+        "description": {
+          "ar": "إقامة فاخرة تجمع بين إطلالات الجبال الخضراء والبحر الأسود، يضم الفندق سبا متكامل ومطاعم تقدم أشهى المأكولات المحلية والعالمية.",
+          "en": "Luxury accommodation combining green mountain and Black Sea views. Features a full-service spa and fine dining options.",
+          "tr": "Dağ ve Karadeniz manzaralarını birleştiren lüks konaklama. Kapsamlı spa ve seçkin restoranlar sunar."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق هاشم أوغلو أيدر",
+          "en": "Hasimoglu Hotel Ayder",
+          "tr": "Haşimoğlu Otel Ayder"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/hasimoglurize.png",
+        "rating": "4 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059",
+        "description": {
+          "ar": "من أشهر وأعرق الفنادق في مرتفعات أيدر، يتميز بتصميمه الخشبي الدافئ المنسجم مع طبيعة الجبال والأنهار المتدفقة بجواره.",
+          "en": "One of the most famous hotels in Ayder Plateau, featuring warm wooden architecture embedded in nature.",
+          "tr": "Ayder Yaylası'nın en ünlü otellerinden biri, doğayla iç içe ahşap mimarisiyle dikkat çeker."
+        }
+      }
+    ],
+    "cultural Places": [
+      {
+        "name": {
+          "ar": "قلعة زيل (زيل كالي)",
+          "en": "Zilkale Castle",
+          "tr": "Zilkale"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkale.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "قلعة ريزة التاريخية",
+          "en": "Rize Castle",
+          "tr": "Rize Kalesi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rizekalesi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": false
+      }
+    ],
+    "tours": [
+      {
+        "name": {
+          "ar": "جولة مرتفعات أيدر ووادي فرتنا والرافتينج",
+          "en": "Ayder Plateau & Fırtına Valley Rafting Tour",
+          "tr": "Ayder Yaylası & Fırtına Deresi Turu"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aydertour.png",
+        "website": "https://gyg.me/",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "جولة مرتفعات بوكوت وهوسر (غروب الشمس فوق السحاب)",
+          "en": "Pokut & Huser Sunset Above the Clouds Tour",
+          "tr": "Pokut & Huser Yaylası Bulut Denizi Turu"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/husertour.png",
+        "website": "https://gyg.me/",
+        "needs_ad": true
+      }
+    ],
+    "places": [
+      {
+        "name": {
+          "ar": "مرتفعات أيدر (أيدر يايلاسي)",
+          "en": "Ayder Plateau",
+          "tr": "Ayder Yaylası"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ayderyaylasi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": false
+      },
+      {
+        "name": {
+          "ar": "شلال بالوفيت",
+          "en": "Palovit Waterfall",
+          "tr": "Palovit Şelalesi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/palovitselalesi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "وادي ونهر فرتنا (مغامرات الرافتينج والحبل المعلق)",
+          "en": "Fırtına River & Valley",
+          "tr": "Fırtına Deresi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtinaderesi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مرتفعات بوكوت الساحرة",
+          "en": "Pokut Plateau",
+          "tr": "Pokut Yaylası"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pokutyaylasi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": false
+      }
+    ],
+    "restaurants": [
+      {
+        "name": {
+          "ar": "مطعم لالي (أشهر طبق فاصوليا في شايلي)",
+          "en": "Lale Restaurant Çayeli",
+          "tr": "Lale Lokantası Çayeli"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lalelokantasi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": false
+      },
+      {
+        "name": {
+          "ar": "مطعم ليمان ريزة",
+          "en": "Liman Restaurant Rize",
+          "tr": "Liman Lokantası Rize"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/limanlokantasi.png",
+        "website": "https://maps.app.goo.gl/",
+        "needs_ad": true
+      }
+    ],
+    "beaches": [],
+    "religious places": [],
+    "city transport": [
+      {
+        "name": {
+          "ar": "حافلات هواش مطار ريزة-أرتوين",
+          "en": "HAVAŞ Rize-Artvin Airport Shuttle",
+          "tr": "HAVAŞ Rize-Artvin Havalimanı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/havasrize.png",
+        "website": "https://havas.net",
+        "needs_ad": false
+      }
+    ]
+  }
+}

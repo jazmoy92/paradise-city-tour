@@ -6,9 +6,9 @@
       "tr": "Rize"
     },
     "description": {
-      "ar": "تقع مدينة ريزة في شمال شرق تركيا على ساحل البحر الأسود، وتُعد عاصمة الشاي الخضراء في البلاد. تتميز بطبيعتها الساحرة التي تجمع بين الجبال المغطاة بالضباب، مرتفعات أيدر وبوكوت الخلابة، وادي فرتنا المتدفق، والقلاع التاريخية مثل قلعة زيل. تُعتبر خياراً مثالياً لعشاق الطبيعة والمغامرات والاسترخاء بين المرتفعات الخضراء فوق السحاب.",
-      "en": "Rize is located in northeastern Turkey on the Black Sea coast and is considered the tea capital of the country. It is famous for its stunning natural beauty, combining mist-covered mountains, lush Ayder and Pokut plateaus, rushing rivers, and historic castles like Zilkale. It is an ideal destination for nature lovers and adventure seekers.",
-      "tr": "Rize, Türkiye'nin kuzeydoğusunda Karadeniz kıyısında yer almakta olup ülkenin çay başkenti olarak kabul edilir. Sisli dağları, yemyeşil Ayder ve Pokut yaylaları, çoşkun akan dereleri ve Zilkale gibi tarihi kaleleriyle muhteşem bir doğal güzelliğe sahiptir. Doğa severler ve macera arayanlar için mükemmel bir destinasyondur."
+      "ar": "تُعدّ مدينة ريزة (Rize) لؤلؤة الشمال التركي الخضراء، وعاصمتها الرسمية لإنتاج الشاي. حيث تقع شمال شرق تركيا وتطل مباشرةً على ساحل البحر الأسود. ويبلغ عدد نفوس (سكان) ولاية ريزة حوالي 365,938 نسمة، بينما تتميز بطبيعة ريفية ساحرة.الموقع: تقع شرق مدينة طرابزون وقريبة من الحدود الجورجية.عاصمة الشاي: تعتبر المنتج والمصدر الأول للشاي في تركيا، وتغطي مزارعه المدرجات الجبلية كالسجاد الأخضر.مرتفعات آيدر: هضبة جبلية ساحرة تشتهر بالبيوت والأكواخ الخشبية التقليدية.عسل أنزر: من أغلى وأنقى أنواع العسل الطبيعي والعلاجي في العالم، المستخلص من زهور جبلية نادرة في مرتفعات أنزر.الأنشطة: تشتهر المدينة برياضة التجديف (الرافتنج)، والاستمتاع بالجسور الأثرية والطبيعة الخلابة.",
+      "en": " production. It is located in northeastern Turkey, directly overlooking the Black Sea coast. The population of Rize Province is approximately 365,938 people, and it is characterized by its charming rural nature.Location: It lies east of Trabzon and close to the Georgian border.Tea Capital: It is the leading producer and exporter of tea in Turkey, with plantations covering the mountain terraces like a green carpet.Ayder Highlands: A magical mountain plateau famous for its traditional wooden houses and cabins.Anzer Honey: One of the most expensive, purest, natural, and therapeutic types of honey in the world, extracted from rare mountain flowers in the Anzer Highlands.Activities: The city is highly famous for rafting, exploring historical stone bridges, and enjoying breathtaking nature.",
+      "tr": "Rize, Türk Kuzeyinin yeşil incisi ve çay üretiminin resmi başkentidir. Türkiye'nin kuzeydoğusunda yer alan şehir, doğrudan Karadeniz sahiline bakmaktadır. Rize ilinin nüfusu yaklaşık 365.938 kişidir ve büyüleyici bir kırsal doğaya sahiptir.Konum: Trabzon'un doğusunda, Gürcistan sınırına yakın bir konumda yer alır.Çay Başkenti: Türkiye'nin bir numaralı çay üreticisi ve ihracatçısıdır; çay bahçeleri dağ yamaçlarını yeşil bir halı gibi kaplar.Ayder Yaylası: Ahşap evleri ve bungalovları ile ünlü, büyüleyici bir dağ yaylasıdır.Anzer Balı: Anzer Yaylası'ndaki nadide dağ çiçeklerinden elde edilen, dünyanın en pahalı, en saf, doğal ve şifalı bal türlerinden biridir.Aktiviteler: Şehir; rafting sporu, tarihi taş köprüleri keşfetme ve eşsiz doğanın tadını çıkarma konusunda oldukça meşhurdur."
     },
     "is_soon": false,
     "featured_apps": [
@@ -43,18 +43,11 @@
         "needs_ad": true
       }
     ],
-    "available_services": [
-      "taxi",
-      "rent_car",
-      "driver"
-    ],
     "available_categories": [
       "hotels",
       "tours",
       "places",
-      "cultural Places",
       "restaurants",
-      "religious places",
       "city transport"
     ],
     "hotels": [

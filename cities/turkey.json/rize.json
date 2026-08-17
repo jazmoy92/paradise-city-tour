@@ -71,7 +71,7 @@
           "en": "Kaf Dagi Konak Hotel",
           "tr": "Kaf Dağı Konak Otel"
         },
-        "image": [
+        "images": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi3.png",
@@ -111,7 +111,7 @@
           "en": "Organik Bungalov",
           "tr": "Organik Bungalov"
         },
-        "image": [
+        "images": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy3.png",

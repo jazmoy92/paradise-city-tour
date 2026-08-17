@@ -6,9 +6,9 @@
       "tr": "Rize"
     },
     "description": {
-      "ar": "تُعدّ مدينة ريزة (Rize) لؤلؤة الشمال التركي الخضراء، وعاصمتها الرسمية لإنتاج الشاي. حيث تقع شمال شرق تركيا وتطل مباشرةً على ساحل البحر الأسود. ويبلغ عدد نفوس ولاية ريزة حوالي 365,938 نسمة، وتتميز بطبيعة ريفية ساحرة، هضاب خضراء كآيدر وبوكوت، وقلاع أثرية وأودية ساحرة كوادي فرتنا.",
-      "en": "Rize is the green pearl of the Turkish Black Sea region and the official tea capital of Turkey. Located in northeastern Turkey directly overlooking the Black Sea. Known for its lush tea plantations, alpine plateaus like Ayder and Pokut, historical stone bridges, and rafting on Fırtına River.",
-      "tr": "Rize, Türk Kuzeyinin yeşil incisi ve çay üretiminin resmi başkentidir. Türkiye'nin kuzeydoğusunda yer alan şehir doğrudan Karadeniz sahiline bakmaktadır. Ayder ve Pokut gibi yaylaları, Fırtına Vadisi, tarihi kaleleri ve köprüleriyle doğa harikasıdır."
+      "ar": "تُعدّ مدينة ريزة (Rize) لؤلؤة الشمال التركي الخضراء، وعاصمتها الرسمية لإنتاج الشاي. تقع شمال شرق تركيا وتطل مباشرةً على ساحل البحر الأسود. تتميز بطبيعة ريفية ساحرة، ومدرجات الشاي الشاسعة، والأكواخ الجبلية الخشبية وسط الضباب، بالإضافة إلى وادي فورتينا الشهير برياضة التجديف وأنهارها الرائعة.",
+      "en": "Rize is the green pearl of Northern Turkey and the official capital of tea production. Located in northeastern Turkey overlooking the Black Sea, it boasts breathtaking alpine nature, endless emerald tea plantations, cozy wooden mountain bungalows, and the famous Fırtına Valley renowned for river rafting and waterfalls.",
+      "tr": "Rize, Karadeniz'in yeşil incisi ve Türkiye'nin çay başkentidir. Büyüleyici yaylaları, yemyeşil çay bahçeleri, sisler arasındaki ahşap dağ bungalovları ve Fırtına Vadisi'nin heyecan verici rafting ve doğa sporları ile öne çıkan benzersiz bir turizm cennetidir."
     },
     "is_soon": false,
     "featured_apps": [
@@ -20,9 +20,9 @@
         },
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
         "desc": {
-          "ar": "التطبيق الأكثر شهرة لطلب الطعام والمقاضي والبقالة في ريزة.",
-          "en": "The most popular food delivery and grocery shopping app in Rize.",
-          "tr": "Rize'de en çok tercih edilen yemek ve market siparişi uygulaması."
+          "ar": "تطبيق طلب الوجبات الأكثر شهرة في المدينة لطلب الطعام ومقاضي البقالة من المتاجر المحلية.",
+          "en": "The most popular food delivery and grocery shopping app covering all local restaurants and markets.",
+          "tr": "Rize'deki tüm yerel restoranlardan yemek ve mahalle esnafından market siparişi verme uygulaması."
         },
         "url": "https://www.yemeksepeti.com",
         "needs_ad": true
@@ -35,9 +35,9 @@
         },
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/BiTaksi.png",
         "desc": {
-          "ar": "التطبيق الأشهر لطلب التاكسي المحلي للتنقل في المدينة.",
-          "en": "The most popular app for ordering local taxis in the city.",
-          "tr": "Şehir içinde kolayca taksi çağırmak için en popüler uygulama."
+          "ar": "التطبيق الأشهر لطلب سيارات الأجرة والتنقل بأمان وسهولة في ريزة.",
+          "en": "The most reliable and popular taxi hailing application for getting around the city.",
+          "tr": "Şehir içi ulaşımda güvenilir ve hızlı taksi çağırma uygulaması."
         },
         "url": "https://www.bitaksi.com/en",
         "needs_ad": true
@@ -50,9 +50,9 @@
         },
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/trendyol.png",
         "desc": {
-          "ar": "التطبيق الأشهر للتسوق الإلكتروني وتوصيل الطلبات.",
-          "en": "The top online shopping and fast delivery application.",
-          "tr": "Türkiye'nin en popüler online alışveriş ve hızlı teslimat platformu."
+          "ar": "التطبيق الرائد للتسوق الإلكتروني، توصيل الوجبات والمستلزمات اليومية السريعة.",
+          "en": "The leading e-commerce and rapid delivery platform in Turkey for shopping and groceries.",
+          "tr": "Online alışveriş, hızlı market ve yemek siparişinde Türkiye'nin lider platformu."
         },
         "url": "https://www.trendyol.com/",
         "needs_ad": true
@@ -71,7 +71,7 @@
           "en": "Kaf Dagi Konak Hotel",
           "tr": "Kaf Dağı Konak Otel"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi3.png",
@@ -94,21 +94,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi21.png"
         ],
-        "desc": {
-          "ar": "إقامة فاخرة بإطلالات بانورامية خلابة على مزارع الشاي وجبال ريزة الخضراء.",
-          "en": "Luxury stay offering panoramic views over tea plantations and green mountain valleys.",
-          "tr": "Rize'nin muhteşem çay bahçeleri ve doğa manzarasına sahip konaklama tesisi."
-        },
-        "location_url": "https://maps.google.com/?q=Kaf+Dagi+Konak+Otel+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=60617611",
+        "location_url": "https://maps.google.com/?q=41.1356,40.8522",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فندق وملاذ جبلي تراثي فاخر بطراز عثماني سلجوقي وإطلالة بانورامية بزاوية 270 درجة على مزارع الشاي والبحر الأسود.",
+          "en": "Heritage boutique hotel offering 270-degree panoramic views over endless tea hills and the Black Sea.",
+          "tr": "Osmanlı ve Selçuklu mimarisiyle çay bahçeleri ve deniz manzarasına hakim eşsiz bir konak otel deneyimi."
+        }
       },
       {
         "name": {
-          "ar": "أورجانيك بنغالوز",
+          "ar": "أورجانيك بنغالوف",
           "en": "Organik Bungalov",
           "tr": "Organik Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik3.png",
@@ -131,21 +134,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik21.png"
         ],
-        "desc": {
-          "ar": "أكواخ خشبية صديقة للبيئة وسط الطبيعة العذراء وأصوات مياه الجداول النقية.",
-          "en": "Eco-friendly wooden bungalows surrounded by pristine nature and peaceful streams.",
-          "tr": "Doğayla iç içe, ahşap mimarisiyle huzurlu bir organik bungalov tatili."
-        },
-        "location_url": "https://maps.google.com/?q=Organik+Bungalov+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1645,40.9632",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ خشبية ريفية بيئية محاطة بأشجار الغابات وجداول المياه، توفر تجربة هادئة ونقية في قلب الطبيعة.",
+          "en": "Eco-friendly wooden bungalows surrounded by lush forests, peaceful streams, and organic local breakfast.",
+          "tr": "Doğal ahşap yapısı ve yemyeşil doğasıyla huzurlu ve organik bir yayla tatili sunan bungalov tesisi."
+        }
       },
       {
         "name": {
-          "ar": "ليفا بنغالوز",
+          "ar": "ليفا بنغالوف",
           "en": "Liva Bungalov",
           "tr": "Liva Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva3.png",
@@ -168,21 +174,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva21.png"
         ],
-        "desc": {
-          "ar": "أكواخ مريحة بإطلالة نهرية في وادي فرتنا، مناسبة للعائلات والأزواج.",
-          "en": "Comfortable bungalows along the Fırtına River, ideal for families and couples.",
-          "tr": "Fırtına Vadisi'nde nehir kenarında konforlu bungalov konaklaması."
-        },
-        "location_url": "https://maps.google.com/?q=Liva+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1481,40.9856",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ حديثة ومريحة مع واجهات زجاجية واسعة تطل على وادي فورتينا والجبال المكسوة بالضباب.",
+          "en": "Modern wooden cabins with large glass facades overlooking the stunning Fırtına Valley mountains.",
+          "tr": "Fırtına Vadisi manzaralı, jakuzili ve modern iç mekan konforuna sahip ahşap bungalovlar."
+        }
       },
       {
         "name": {
-          "ar": "بافري بنغالوز",
+          "ar": "بافري بنغالوف",
           "en": "Pavri Bungalov",
           "tr": "Pavri Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri3.png",
@@ -205,21 +214,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri21.png"
         ],
-        "desc": {
-          "ar": "تجربة إقامة هادئة في أحضان وادي فرتنا الأخضر مع شرفات مطلة على الجبل.",
-          "en": "Peaceful retreat in the heart of Fırtına Valley with mountain view balconies.",
-          "tr": "Fırtına Vadisi'nin eşsiz doğasında huzurlu bir tatil deneyimi."
-        },
-        "location_url": "https://maps.google.com/?q=Pavri+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.5",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1123,41.0245",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ تقليدية مصممة بعناية لتمنحك خصوصية مطلقة وإطلالات خلابة على مزارع الشاي وجريان النهر.",
+          "en": "Charming private bungalows offering romantic riverside and mountain terrace vistas.",
+          "tr": "Doğayla iç içe konumu ve nehir manzarasıyla misafirlerine huzur veren özel bungalovlar."
+        }
       },
       {
         "name": {
-          "ar": "ميغزا بنغالوز",
+          "ar": "ميجزا بنغالوف",
           "en": "Megza Bungalov",
           "tr": "Megza Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza3.png",
@@ -242,21 +254,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza21.png"
         ],
-        "desc": {
-          "ar": "أكواخ عصرية توفر الخصوصية والراحة مع إطلالات ساحرة على الضباب والجبال.",
-          "en": "Modern wooden cabins offering privacy and stunning mist and mountain views.",
-          "tr": "Modern konforu ahşap sıcaklığıyla birleştiren doğa manzaralı bungalovlar."
-        },
-        "location_url": "https://maps.google.com/?q=Megza+Bungalov+Ayder+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.0543,41.0821",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "إقامة فاخرة بنظام الأكواخ المثلثة (A-frame) المزودة بجاكوزي وتراس مفتوح على الغابات الكثيفة.",
+          "en": "Luxury A-frame cabins equipped with modern hot tubs and private panoramic forest viewing balconies.",
+          "tr": "A-Frame mimarisinde lüks jakuzili ve teraslı dağ evi konsepti sunan seçkin tesis."
+        }
       },
       {
         "name": {
-          "ar": "بيت الشلال الجبلي",
+          "ar": "بيت شلال الجبلي",
           "en": "Selale Dag Evi",
           "tr": "Şelale Dağ Evi"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale3.png",
@@ -279,21 +294,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale21.png"
         ],
-        "desc": {
-          "ar": "إقامة مميزة بالقرب من الشلالات الطبيعية حيث يلتقي صوت خرير الماء مع هدوء الجبال.",
-          "en": "Charming mountain house near cascading waterfalls surrounded by lush greenery.",
-          "tr": "Şelale sesi eşliğinde dağ havasını soluyabileceğiniz eşsiz bir dağ evi."
-        },
-        "location_url": "https://maps.google.com/?q=Selale+Dag+Evi+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=40.9934,41.0954",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "ملاذ جبلي ساحر بجوار الشلالات المائية المتتدفقة، يتميز بأجواء نقية وصوت خرير الماء المريح.",
+          "en": "Mountain lodge nestled directly next to cascading waterfalls offering serene alpine tranquility.",
+          "tr": "Şelale kenarında doğanın ve su sesinin büyüleyici atmosferinde konaklama fırsatı."
+        }
       },
       {
         "name": {
-          "ar": "ناني بنغالوز",
+          "ar": "ناني بنغالوف",
           "en": "Nani Bungalov",
           "tr": "Nani Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani3.png",
@@ -316,13 +334,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani21.png"
         ],
-        "desc": {
-          "ar": "أكواخ دافئة مجهزة بكافة سبل الراحة والجاكوزي وسط غابات ريزة الخلابة.",
-          "en": "Cozy wooden bungalows with modern amenities and jacuzzi nestled in Rize forests.",
-          "tr": "Orman manzaralı, jakuzili ve konforlu bungalov konaklama seçeneği."
-        },
-        "location_url": "https://maps.google.com/?q=Nani+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1378,41.0023",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ عائلية مميزة بخدمة راقية وتراس بإطلالة خضراء على التلال والغيوم المتناغمة.",
+          "en": "Cozy family-friendly bungalows offering modern amenities and sweeping green hillside panoramas.",
+          "tr": "Geniş aile odaları ve yemyeşil Karadeniz doğasına açılan verandalarıyla özel bir tatil noktası."
+        }
       },
       {
         "name": {
@@ -330,7 +351,7 @@
           "en": "Grand 464 Otel",
           "tr": "Grand 464 Otel"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_3.png",
@@ -353,21 +374,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_21.png"
         ],
-        "desc": {
-          "ar": "فندق فخم بموقع حيوي يقدم خدمات فندقية راقية ومرافق متكاملة للضيوف.",
-          "en": "Upscale city hotel offering modern amenities, high-level comfort, and hospitality.",
-          "tr": "Şehir merkezinde modern tasarımı ve üstün konforuyla hizmet veren otel."
-        },
-        "location_url": "https://maps.google.com/?q=Grand+464+Otel+Rize",
-        "needs_ad": true
+        "rating": "4.4",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1821,41.2589",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فندق فندقي كلاسيكي في منطقة أرديشين يوفر خدمات فندقية متكاملة وموقعاً مركزياً للتنقل بين الوديان.",
+          "en": "Comfortable modern hotel located centrally in Ardeşen, convenient for exploring Rize valleys.",
+          "tr": "Ardeşen merkezinde vadilere ve yaylalara ulaşım kolaylığı sağlayan konforlu şehir oteli."
+        }
       },
       {
         "name": {
-          "ar": "بيت آيدر إليزان الجبلي",
+          "ar": "آيدر إليزان داغ إيفي",
           "en": "Ayder Elizan Mountain House",
           "tr": "Ayder Elizan Dağ Evi"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan3.png",
@@ -390,13 +414,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan21.png"
         ],
-        "desc": {
-          "ar": "في قلب هضبة آيدر الساحرة، يمنحك تجربة الحياة الريفية الأصيلة وسط السحب.",
-          "en": "Located in the heart of Ayder Plateau, offering authentic mountain living above the clouds.",
-          "tr": "Ayder Yaylası'nın kalbinde, bulutların üzerinde otantik dağ evi konaklaması."
-        },
-        "location_url": "https://maps.google.com/?q=Ayder+Elizan+Dag+Evi+Rize",
-        "needs_ad": true
+        "rating": "4.5",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=40.9521,41.1132",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "نزل خشبي أصيل في هضبة آيدر يقدم تجربة ريفية فريدة وإطلالة مباشرة على المروج والشلالات.",
+          "en": "Authentic wooden lodge located in Ayder Plateau with direct views of waterfalls and alpine meadows.",
+          "tr": "Ayder Yaylası'nın kalbinde geleneksel ahşap mimarisi ve muazzam yayla manzaralı dağ evi."
+        }
       },
       {
         "name": {
@@ -404,7 +431,7 @@
           "en": "Rhisos Gold Otel",
           "tr": "Rhisos Gold Otel"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos3.png",
@@ -427,21 +454,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos21.png"
         ],
-        "desc": {
-          "ar": "فندق أنيق يجمع بين حداثة التصميم وسهولة الوصول لمراكز التسوق والشواطئ.",
-          "en": "Elegant hotel combining modern design with easy access to city attractions and the coast.",
-          "tr": "Rize merkezde konfor ve şıklığı bir arada sunan kaliteli şehir oteli."
-        },
-        "location_url": "https://maps.google.com/?q=Rhisos+Gold+Otel+Rize",
-        "needs_ad": true
+        "rating": "4.2",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.0267,40.5189",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فندق حديث يقع في وسط مدينة ريزة بالقرب من الأسواق والمطاعم والشاطئ.",
+          "en": "Modern city-center hotel in Rize close to shopping, dining, and coastal attractions.",
+          "tr": "Rize şehir merkezinde çarşılara ve sahil şeridine yakın konforlu konaklama adresi."
+        }
       },
       {
         "name": {
-          "ar": "فندق رمادا بلازا باي ويندهام ريزة",
+          "ar": "رامادا بلازا باي ويندهام ريزة",
           "en": "Ramada Plaza by Wyndham Rize",
           "tr": "Ramada Plaza by Wyndham Rize"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada3.png",
@@ -464,13 +494,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada21.png"
         ],
-        "desc": {
-          "ar": "فندق 5 نجوم عالمي يطل على البحر الأسود ويوفر خدمات سبا ومسابح فاخرة.",
-          "en": "5-star international hotel overlooking the Black Sea with luxury spa and wellness facilities.",
-          "tr": "Karadeniz manzaralı, 5 yıldızlı uluslararası standartlarda lüks konaklama ve spa tesisi."
-        },
-        "location_url": "https://maps.google.com/?q=Ramada+Plaza+by+Wyndham+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.wyndhamhotels.com",
+        "location_url": "https://maps.google.com/?q=41.0421,40.6123",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فندق 5 نجوم فاخر بإطلالات بحرية ومرافق استجمام ونادٍ صحي متكامل بمستوى عالمي.",
+          "en": "5-star luxury beachfront hotel featuring wellness spa facilities and upscale guest accommodations.",
+          "tr": "Deniz manzaralı odaları, spa ve toplantı olanakları ile 5 yıldızlı lüks otel konforu."
+        }
       },
       {
         "name": {
@@ -478,7 +511,7 @@
           "en": "Hotel Milano",
           "tr": "Hotel Milano"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano3.png",
@@ -501,21 +534,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano21.png"
         ],
-        "desc": {
-          "ar": "فندق مريح وهادئ بالقرب من الساحل ومرافق المدينة الحيوية.",
-          "en": "Comfortable and friendly hotel close to the seaside and city center amenities.",
-          "tr": "Rize merkezde sıcak ve konforlu bir konaklama sunan butik otel."
-        },
-        "location_url": "https://maps.google.com/?q=Hotel+Milano+Rize",
-        "needs_ad": true
+        "rating": "4.3",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.0312,40.5215",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فندق اقتصادي ومرتب في قلب المدينة، خيار ممتاز للمسافرين الباحثين عن سهولة التنقل والراحة.",
+          "en": "Centrally located modern hotel offering comfortable rooms and warm Black Sea hospitality.",
+          "tr": "Rize merkezde pratik ve rahat bir konaklama arayanlar için ideal şehir oteli."
+        }
       },
       {
         "name": {
-          "ar": "منتجع أفولوت ماونتن ريزورت",
+          "ar": "منتجع أفولوت ماونتن",
           "en": "Avulot Mountain Resort Hotel",
           "tr": "Avulot Mountain Resort Hotel"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot3.png",
@@ -538,21 +574,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot21.png"
         ],
-        "desc": {
-          "ar": "منتجع جبلي فاخر يطل على الغابات والأودية يقدم تجربة استرخاء لا تُنسى.",
-          "en": "Luxury mountain resort surrounded by forests offering an unforgettable wellness experience.",
-          "tr": "Dağların zirvesinde, doğayla baş başa lüks tatil ve dinlenme merkezi."
-        },
-        "location_url": "https://maps.google.com/?q=Avulot+Mountain+Resort+Hotel+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.0876,41.0432",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "منتجع جبلي راقٍ يوفر إطلالات خيالية على أعالي القمم السحابية وغابات الصنوبر البكر.",
+          "en": "High-altitude mountain resort offering panoramic sea-of-clouds vistas and premium alpine suites.",
+          "tr": "Bulut denizi üzerinde eşsiz yayla manzarasına sahip dağ resort oteli."
+        }
       },
       {
         "name": {
-          "ar": "إيليت بنغالوز",
+          "ar": "إيليت بنغالوف",
           "en": "Elit Bungalov",
           "tr": "Elit Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit3.png",
@@ -575,13 +614,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit21.png"
         ],
-        "desc": {
-          "ar": "أكواخ راقية توفر إطلالات فريدة على الطبيعة مع خدمات ممتازة.",
-          "en": "Premium wooden bungalows offering scenic mountain views and excellent hospitality.",
-          "tr": "Doğanın kucağında lüks ve huzurlu bir bungalov konaklaması."
-        },
-        "location_url": "https://maps.google.com/?q=Elit+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1512,41.0123",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ خشبية فاخرة ومصممة بأناقة مع جلسات خارجية مميزة تطل على الوادي.",
+          "en": "Chic wooden chalets featuring private terraces, jacuzzi, and beautiful valley views.",
+          "tr": "Modern konforu ahşap estetiğiyle buluşturan seçkin vadi manzaralı bungalovlar."
+        }
       },
       {
         "name": {
@@ -589,7 +631,7 @@
           "en": "Venek Villa Suit",
           "tr": "Venek Villa Suit"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek3.png",
@@ -612,21 +654,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek21.png"
         ],
-        "desc": {
-          "ar": "فيلات وأجنحة واسعة مثالية للعائلات التي تبحث عن الفخامة والخصوصية.",
-          "en": "Spacious luxury villa suites ideal for families seeking privacy and nature.",
-          "tr": "Geniş aileler ve özel tatil arayanlar için lüks villa suitleri."
-        },
-        "location_url": "https://maps.google.com/?q=Venek+Villa+Suit+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1394,40.9789",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أجنحة وفلل فندقية واسعة مناسبة للعائلات توفر الخصوصية والراحة وسط الطبيعة.",
+          "en": "Spacious villa suites tailored for families seeking privacy and luxury in the green highlands.",
+          "tr": "Aileler için özel olarak tasarlanmış geniş ve lüks yayla villaları."
+        }
       },
       {
         "name": {
-          "ar": "بيت سيرينيير الجبلي",
-          "en": "Serinyer Dag Evi",
+          "ar": "سيرين يير داغ إيفي",
+          "en": "Serinyer Mountain House",
           "tr": "Serinyer Dağ Evi"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer3.png",
@@ -649,21 +694,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer21.png"
         ],
-        "desc": {
-          "ar": "بيت خشبي ريفي هادئ في أعالي الجبال يوفر أجواء نقية وإطلالة ساحرة.",
-          "en": "Quiet rustic mountain house offering clean mountain air and panoramic vistas.",
-          "tr": "Yüksek rakımda, sessizlik ve doğa ile baş başa geleneksel dağ evi."
-        },
-        "location_url": "https://maps.google.com/?q=Serinyer+Dag+Evi+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.0765,41.0543",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "بيت ريفي تقليدي يقع في مكان منعزل وهادئ، مثالي لعشاق الطبيعة والاسترخاء التام.",
+          "en": "Traditional mountain cabin offering peaceful isolation and authentic local breakfast.",
+          "tr": "Sessiz ve sakin bir dağ yamacında Karadeniz doğasını doya doya yaşayacağınız dağ evi."
+        }
       },
       {
         "name": {
-          "ar": "بانسيون نيكا",
+          "ar": "نيكا بانسيون",
           "en": "Nika Pansiyon",
           "tr": "Nika Pansiyon"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika3.png",
@@ -686,21 +734,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika21.png"
         ],
-        "desc": {
-          "ar": "نُزل ريفي حميم يقدم مأكولات محلية وضيافة كارادينيزية أصيلة.",
-          "en": "Cozy guesthouse offering home-cooked regional meals and warm Black Sea hospitality.",
-          "tr": "Sıcak bir aile işletmesi, leziz köy kahvaltısı ve otantik yayla ortamı."
-        },
-        "location_url": "https://maps.google.com/?q=Nika+Pansiyon+Rize",
-        "needs_ad": true
+        "rating": "4.5",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=40.9487,41.1211",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "بنسيون دافئ يقدم ضيافة قروية أصيلة وأطعمة محلية طازجة في قلب منطقة آيدر.",
+          "en": "Homely pension in Ayder highlands serving traditional home-cooked regional meals.",
+          "tr": "Ayder Yaylası'nda samimi aile ortamı ve nefis yöresel lezzetler sunan şirin pansiyon."
+        }
       },
       {
         "name": {
-          "ar": "فندق مولفا بنغالوز",
+          "ar": "مولفا بنغالوز أوتيل",
           "en": "MOLVA Bungalows Otel",
           "tr": "MOLVA Bungalows Otel"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva3.png",
@@ -723,21 +774,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva21.png"
         ],
-        "desc": {
-          "ar": "أكواخ بتصميم مثلث مميز ومجهزة بجاكوزي وإطلالات ممتدة على الوادي.",
-          "en": "A-frame design wooden cabins with jacuzzi overlooking the lush river valley.",
-          "tr": "Üçgen mimarili, jakuzili ve vadi manzaralı modern bungalov otel."
-        },
-        "location_url": "https://maps.google.com/?q=Molva+Bungalows+Otel+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1578,40.9912",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مجموعة أكواخ ريفية فاخرة بتصميم عصري وأجواء رومانسية على ضفاف النهر والجبل.",
+          "en": "Charming boutique bungalows combining modern luxury and tranquil river views.",
+          "tr": "Nehir kenarında lüks ahşap tasarımı ve konforuyla öne çıkan butik bungalov tesisi."
+        }
       },
       {
         "name": {
-          "ar": "بارادايس فالي بنغالوز",
+          "ar": "بارادايس فالي بنغالوف",
           "en": "Paradise Valley Bungalow",
           "tr": "Paradise Valley Bungalow"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise3.png",
@@ -760,13 +814,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise21.png"
         ],
-        "desc": {
-          "ar": "جنة خضراء في وادي فرتنا توفر إقامة ريفية مريحة وسط أصوات الطبيعة.",
-          "en": "A tranquil green paradise along the valley offering relaxing wooden cabin stays.",
-          "tr": "Fırtına Deresi boyunca uzanan yemyeşil vadide huzurlu bir dinlenme noktası."
-        },
-        "location_url": "https://maps.google.com/?q=Paradise+Valley+Bungalow+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1345,41.0187",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ وادي الجنة ذات الإطلالة الساحرة المباشرة على انحدارات الوديان وغابات الصنوبر.",
+          "en": "Paradise Valley wooden cabins offering stunning valley landscapes and luxury amenities.",
+          "tr": "Vadiye tepeden bakan eşsiz konumu ve jakuzili odaları ile masalsı bir konaklama."
+        }
       },
       {
         "name": {
@@ -774,7 +831,7 @@
           "en": "River Side TinyHouse",
           "tr": "River Side TinyHouse"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside3.png",
@@ -797,21 +854,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside21.png"
         ],
-        "desc": {
-          "ar": "بيوت صغيرة حديثة على ضفة النهر مباشرة لتجربة تخييم وإقامة عصرية راقية.",
-          "en": "Modern tiny houses situated directly along the riverside for a unique glamping experience.",
-          "tr": "Dere kenarında konumlanmış şık ve modern Tiny House konaklaması."
-        },
-        "location_url": "https://maps.google.com/?q=River+Side+TinyHouse+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1689,40.9743",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "بيوت صغيرة عصرية وأنيقة تقع مباشرة بمحاذاة نهر فورتينا لصوت ماء ساحر وإقامة مميزة.",
+          "en": "Modern riverside tiny houses located right on the banks of the rushing Fırtına River.",
+          "tr": "Fırtına Deresi'nin hemen yanı başında nehir sesi eşliğinde modern tiny house deneyimi."
+        }
       },
       {
         "name": {
           "ar": "إمروز توين هاوس",
-          "en": "İmroz Twin House",
+          "en": "Imroz Twin House",
           "tr": "İmroz Twin House"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz3.png",
@@ -834,21 +894,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz21.png"
         ],
-        "desc": {
-          "ar": "أكواخ توأمية فاخرة تناسب العائلات والأصدقاء في قلب الطبيعة الهادئة.",
-          "en": "Luxury twin houses ideal for groups and families surrounded by nature.",
-          "tr": "Doğanın kalbinde, sevdiklerinizle huzurlu vakit geçirebileceğiniz ikiz evler."
-        },
-        "location_url": "https://maps.google.com/?q=Imroz+Twin+House+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1423,41.0067",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "بيوت توأمية خشبية مصممة خصيصاً للعائلات والأصدقاء في قلب الجبال الخضراء.",
+          "en": "Twin wooden chalets designed for comfort, group vacations, and nature immersion.",
+          "tr": "Aile ve arkadaş grupları için mükemmel donanıma sahip ikiz ahşap konaklama evleri."
+        }
       },
       {
         "name": {
-          "ar": "وود لايف بنغالوز",
+          "ar": "وود لايف بنغالوف",
           "en": "Wood Life Bungalov",
           "tr": "Wood Life Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife3.png",
@@ -871,21 +934,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife21.png"
         ],
-        "desc": {
-          "ar": "حياة خشبية نقية وتصميم عصري يمزج بين الراحة وسحر الغابات الخضراء.",
-          "en": "Pure wooden living with modern comfort blended seamlessly into forest scenery.",
-          "tr": "Ahşap sıcaklığı ve modern dizaynı bir arada sunan vadi manzaralı bungalov."
-        },
-        "location_url": "https://maps.google.com/?q=Wood+Life+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1298,41.0345",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ خشبية فاخرة تعكس نمط الحياة الطبيعي بين أشجار الصنوبر ونسيم الجبال المنعش.",
+          "en": "Wooden retreat cabins immersed in rich nature offering cozy wood stoves and modern comforts.",
+          "tr": "Doğal ahşap dokusu ve orman manzarasıyla dinlendirici bir kaçış sunan dağ bungalovları."
+        }
       },
       {
         "name": {
-          "ar": "بوهيمي فيلا بنغالوز",
+          "ar": "بوهيمي فيلا بنغالوف",
           "en": "Bohemi Villa Bungalov",
           "tr": "Bohemi Villa Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi3.png",
@@ -908,21 +974,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi21.png"
         ],
-        "desc": {
-          "ar": "تصميم بوهيمي ساحر وديكورات أنيقة مع شرفة خاصة وجاكوزي في قلب الجبل.",
-          "en": "Boho-chic design with stylish interiors, jacuzzi, and private mountain terraces.",
-          "tr": "Bohem tarzda dizayn edilmiş, lüks ve jakuzili villa bungalovlar."
-        },
-        "location_url": "https://maps.google.com/?q=Bohemi+Villa+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1354,41.0256",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فلل بنغالوف مصممة بطراز بوهيمي أنيق وجذاب مع جاكوزي وإطلالة جبلية خيالية.",
+          "en": "Bohemian style luxury villa bungalows with scenic mountain views and private amenities.",
+          "tr": "Bohem tarzda dekore edilmiş, jakuzili ve büyüleyici doğa manzaralı özel villalar."
+        }
       },
       {
         "name": {
-          "ar": "يروموني بنغالوز",
+          "ar": "يروموني بنغالوف",
           "en": "Yerumoni Bungalov",
           "tr": "Yerumoni Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni3.png",
@@ -945,21 +1014,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni21.png"
         ],
-        "desc": {
-          "ar": "أكواخ تقليدية كارادينيزية بإطلالات استثنائية على الضباب وقمم الجبال.",
-          "en": "Authentic Black Sea style wooden cabins overlooking sea of clouds and mountain ridges.",
-          "tr": "Bulut denizi ve eşsiz doğa manzarasına sahip otantik Karadeniz bungalovları."
-        },
-        "location_url": "https://maps.google.com/?q=Yerumoni+Bungalov+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1189,41.0478",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ جبلية مميزة بتصميم مفتوح وشرفة واسعة على أجمل وديان ريزة.",
+          "en": "Picturesque highland bungalows offering serene privacy and expansive nature terraces.",
+          "tr": "Rize yayla coğrafyasına hakim terasları ve sıcak atmosferi ile unutulmaz bir konaklama."
+        }
       },
       {
         "name": {
           "ar": "لازيفيلا سويت داغ إيفي",
-          "en": "Lazivilla Suit Dağ Evi",
+          "en": "Lazivilla Suit Mountain House",
           "tr": "Lazivilla Suit Dağ Evi"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla3.png",
@@ -982,21 +1054,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla21.png"
         ],
-        "desc": {
-          "ar": "أجنحة جبلية فسيحة مستوحاة من التراث اللازي مع أحدث وسائل الراحة العصرية.",
-          "en": "Spacious mountain suites inspired by Laz heritage with premium modern comforts.",
-          "tr": "Laz mimarisini modern lüksle birleştiren geniş süit dağ evi."
-        },
-        "location_url": "https://maps.google.com/?q=Lazivilla+Suit+Dag+Evi+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1456,41.0112",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فلل وأجنحة جبلية تعكس الطابع اللّازي التراثي مع لمسات الرفاهية المعاصرة.",
+          "en": "Mountain villa suites reflecting traditional Laz architecture blended with modern luxury.",
+          "tr": "Geleneksel Karadeniz Laz mimarisiyle modern konforun buluştuğu suit dağ evi."
+        }
       },
       {
         "name": {
-          "ar": "زين لايف سويت أبارت وبنغالوز",
+          "ar": "زيني لايف سويت أبارت وبنغالوف",
           "en": "Zenilife Suit Apart & Bungalov",
           "tr": "Zenilife Suit Apart & Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife3.png",
@@ -1019,21 +1094,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife21.png"
         ],
-        "desc": {
-          "ar": "شقق وأكواخ فندقية مجهزة بالكامل تناسب الإقامات العائلية الطويلة والقصيرة.",
-          "en": "Fully serviced aparts and wooden cabins suitable for short and extended family stays.",
-          "tr": "Ailelere uygun, tam donanımlı mutfaklı süit apart ve bungalovlar."
-        },
-        "location_url": "https://maps.google.com/?q=Zenilife+Suit+Apart+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1623,40.9834",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "شقق فندقية وأكواخ بنغالوف مجهزة بمطابخ وكافة سبل الراحة لإقامة عائلية مريحة.",
+          "en": "Apartment suites and bungalows equipped with kitchen facilities ideal for family stays.",
+          "tr": "Aileler için tam donanımlı mutfak ve ferah alanlar sunan apart ve ahşap bungalovlar."
+        }
       },
       {
         "name": {
-          "ar": "توفا فيلا بنغالوز",
+          "ar": "توفا فيلا بنغالوف",
           "en": "Tuva Villa Bungalov",
           "tr": "Tuva Villa Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva3.png",
@@ -1056,21 +1134,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva21.png"
         ],
-        "desc": {
-          "ar": "فيلات خشبية منعزلة تمنحك أقصى درجات الراحة والاستجمام في حضن الطبيعة.",
-          "en": "Secluded wooden villas offering maximum privacy, relaxation, and scenic views.",
-          "tr": "Doğanın ortasında tam mahremiyet ve dinlenme vadeden müstakil villa bungalov."
-        },
-        "location_url": "https://maps.google.com/?q=Tuva+Villa+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1278,41.0312",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "فلل خشبية فاخرة مستقلة بجلسات شواء وشرفات مطلة على سحر الضباب والوديان.",
+          "en": "Private luxury villa cabins with garden barbecue facilities and panoramic valley views.",
+          "tr": "Müstakil bahçeli, barbekülü ve muhteşem doğa manzaralı lüks villa bungalovlar."
+        }
       },
       {
         "name": {
-          "ar": "تاج محل بنغالوز",
+          "ar": "تاج محل بنغالوف",
           "en": "Tas Mahal Bungalov",
           "tr": "Taş Mahal Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal3.png",
@@ -1093,13 +1174,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal21.png"
         ],
-        "desc": {
-          "ar": "مزيج فريد من البناء الحجري والخشب مع إطلالة نهرية استثنائية.",
-          "en": "A unique blend of stone and timber architecture with stunning riverside views.",
-          "tr": "Taş ve ahşap mimarinin buluştuğu nehir kenarında konforlu konaklama."
-        },
-        "location_url": "https://maps.google.com/?q=Tas+Mahal+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1534,40.9987",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مزيج معماري ساحر يجمع بين الحجر الطبيعي والخشب مع إطلالة خلابة على الطبيعة الجبلية.",
+          "en": "Unique stone and wood architecture offering cozy luxury and private mountain retreats.",
+          "tr": "Taş ve ahşap mimarinin harmanlandığı, vadi manzaralı lüks ve otantik bungalovlar."
+        }
       },
       {
         "name": {
@@ -1107,7 +1191,7 @@
           "en": "VALLEY Suit OTEL",
           "tr": "VALLEY Suit OTEL"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit3.png",
@@ -1130,13 +1214,16 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit21.png"
         ],
-        "desc": {
-          "ar": "أجنحة فندقية عصرية في قلب الوادي تجمع بين الهدوء وجمال الطبيعة.",
-          "en": "Modern valley suites combining serenity, panoramic views, and upscale hospitality.",
-          "tr": "Vadi manzaralı, konforlu süit odaları ile unutulmaz bir konaklama."
-        },
-        "location_url": "https://maps.google.com/?q=VALLEY+Suit+OTEL+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1611,40.9765",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أجنحة فندقية عصرية في وادي فورتينا بإطلالات ممتدة على المياه والغابات.",
+          "en": "Contemporary valley suites offering modern hotel amenities directly in Fırtına Valley.",
+          "tr": "Fırtına Vadisi'nde modern süit odaları ve nehir manzarasıyla konforlu otel konaklaması."
+        }
       },
       {
         "name": {
@@ -1144,7 +1231,7 @@
           "en": "Ricosta Hotel",
           "tr": "Ricosta Hotel"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta3.png",
@@ -1167,21 +1254,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta21.png"
         ],
-        "desc": {
-          "ar": "أحد أفخم فنادق الـ 5 نجوم في ريزة بإطلالة بحرية مباشرة وشاطئ وسبا متكامل.",
-          "en": "Premier 5-star seaside hotel in Rize featuring private beach, wellness center, and fine dining.",
-          "tr": "Rize'nin en lüks 5 yıldızlı sahil oteli; özel plaj, spa ve seçkin lezzetler sunmaktadır."
-        },
-        "location_url": "https://maps.google.com/?q=Ricosta+Hotel+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.ricostahotel.com",
+        "location_url": "https://maps.google.com/?q=41.0456,40.5732",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أفخم منتجعات الـ 5 نجوم في ريزة مباشرة على ساحل البحر الأسود مع شاطئ ومسابح خاصة.",
+          "en": "Premier 5-star luxury coastal resort in Rize featuring private beach, spa, and sea views.",
+          "tr": "Rize sahilinde özel plajı, spa merkezi ve lüks odalarıyla 5 yıldızlı seçkin tatil oteli."
+        }
       },
       {
         "name": {
-          "ar": "فالي دومز (القباب البانورامية)",
+          "ar": "فالي دومز (قباب الوادي)",
           "en": "Valley Domes",
           "tr": "Valley Domes"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes3.png",
@@ -1204,21 +1294,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes21.png"
         ],
-        "desc": {
-          "ar": "قباب زجاجية جيوديسية للنوم تحت النجوم ومراقبة السحب والوديان من السرير.",
-          "en": "Geodesic dome glamping experience to sleep under the stars above the lush valley.",
-          "tr": "Yıldızların altında ve bulutların üstünde benzersiz dome glamping deneyimi."
-        },
-        "location_url": "https://maps.google.com/?q=Valley+Domes+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1154,41.0521",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "تجربة تخييم فاخرة (Glamping) في قباب جيوديسية شفافة تتيح مشاهدة النجوم والغيوم من السرير.",
+          "en": "Luxury geodesic dome glamping experience with transparent starry sky views and jacuzzi.",
+          "tr": "Yıldızları ve bulut denizini izleyebileceğiniz lüks jakuzili glamping kubbe çadır deneyimi."
+        }
       },
       {
         "name": {
-          "ar": "بولا بنغالوز",
-          "en": "Pula bungalov",
-          "tr": "Pula bungalov"
+          "ar": "بولا بنغالوف",
+          "en": "Pula Bungalov",
+          "tr": "Pula Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula3.png",
@@ -1241,21 +1334,24 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula21.png"
         ],
-        "desc": {
-          "ar": "أكواخ خشبية دافئة بإطلالة رائعة على الغابات والمنحدرات الجبلية في ريزة.",
-          "en": "Cozy wooden bungalows set against mountain slopes and evergreen forests.",
-          "tr": "Doğal ahşap dokusu ve yemyeşil doğasıyla dinlendirici bir bungalov tesisi."
-        },
-        "location_url": "https://maps.google.com/?q=Pula+Bungalov+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1567,40.9889",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ أنيقة وسط مزارع الشاي الخضراء توفر راحة تامة وإطلالات طبيعية رائعة.",
+          "en": "Charming tea-plantation bungalows offering authentic tranquility and modern mountain comfort.",
+          "tr": "Yemyeşil çay bahçelerinin ortasında huzur ve konfor vadeden ahşap bungalovlar."
+        }
       },
       {
         "name": {
-          "ar": "دولوبي بنغالوز",
+          "ar": "دولوبي بنغالوف",
           "en": "Dolobi Bungalov",
           "tr": "Dolobi Bungalov"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi3.png",
@@ -1278,197 +1374,230 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi21.png"
         ],
-        "desc": {
-          "ar": "إقامة ريفية مميزة توفر الراحة والاسترخاء وسط أجواء الطبيعة البكر والشلالات.",
-          "en": "Charming countryside cabins offering pure relaxation near mountain springs.",
-          "tr": "Doğanın kucağında sakin ve keyifli bir tatil sunan şirin ahşap bungalovlar."
-        },
-        "location_url": "https://maps.google.com/?q=Dolobi+Bungalov+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.booking.com",
+        "location_url": "https://maps.google.com/?q=41.1412,41.0045",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكواخ خشبية دافئة ذات شرفات واسعة مطلة على الطبيعة الساحرة لوادي فورتينا.",
+          "en": "Warm wooden cabins with expansive balconies and peaceful valley forest views.",
+          "tr": "Fırtına Vadisi'nin eşsiz doğasında ahşap sıcaklığı ve huzurlu konaklama imkanı."
+        }
       }
     ],
     "tours": [
       {
         "name": {
-          "ar": "جولة خاصة: دير سوميلا وطرابزون",
+          "ar": "جولة دير سوميلا وطرابزون الخاصة",
           "en": "Sumela Monastery and Trabzon Private Tour",
           "tr": "Sümela Manastırı ve Trabzon Özel Turu"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sumela1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sumela2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sumelatour1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sumelatour2.png"
         ],
-        "desc": {
-          "ar": "جولة يومية خاصة لزيارة دير سوميلا التاريخي المنحوت بالجبل وأبرز معالم طرابزون.",
-          "en": "Private day tour exploring the cliffside Sumela Monastery and top highlights of Trabzon.",
-          "tr": "Sarp kayalıklara inşa edilen tarihi Sümela Manastırı ve Trabzon'un önemli noktalarını keşif turu."
-        },
-        "location_url": "https://maps.google.com/?q=Sumela+Monastery+Trabzon",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://www.getyourguide.com",
+        "location_url": "https://maps.google.com/?q=40.6903,39.6583",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "جولة يومية خاصة تنطلق لزيارة دير سوميلا التاريخي المنحوت بالصخر واستكشاف معالم طرابزون.",
+          "en": "Full-day private guided tour to the iconic cliffside Sumela Monastery and Trabzon highlights.",
+          "tr": "Kayalara oyulmuş tarihi Sümela Manastırı ve Trabzon'un tarihi yerlerini kapsayan özel rehberli tur."
+        }
       },
       {
         "name": {
-          "ar": "قلعة زيل كالي التاريخية",
-          "en": "Zilkale Castle Tour",
+          "ar": "جولة قلعة زيل التاريخية",
+          "en": "Zilkale Tour",
           "tr": "Zilkale Turu"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkale1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkale2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkaletour1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkaletour2.png"
         ],
-        "desc": {
-          "ar": "استكشاف القلعة التاريخية الشاهقة المحاطة بغابات وادي فرتنا وجسورها العثمانية.",
-          "en": "Explore the medieval mountain fortress perched high above the Fırtına Valley.",
-          "tr": "Fırtına Vadisi'ne tepeden bakan, tarihin ve doğanın birleştiği görkemli Zilkale gezisi."
-        },
-        "location_url": "https://maps.google.com/?q=Zilkale+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.getyourguide.com",
+        "location_url": "https://maps.google.com/?q=40.9419,40.9628",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "جولة استكشافية إلى قلعة زيل التاريخية الشاهقة فوق وادي فورتينا وسط الغابات المطيرة.",
+          "en": "Exciting tour to the medieval Zilkale fortress perched high above the Fırtına Valley gorge.",
+          "tr": "Fırtına Vadisi'nin sarp kayalıkları üzerinde yükselen tarihi Zil Kale keşif turu."
+        }
       },
       {
         "name": {
-          "ar": "قلعة الفتاة (كيز كاليسي)",
-          "en": "Kiz Kalesi Maiden's Castle",
-          "tr": "Kız Kalesi"
+          "ar": "جولة قلعة الفتاة (قز قلعة سي)",
+          "en": "Kiz Kalesi Tour",
+          "tr": "Kız Kalesi Gezisi"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkalesi1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkalesi2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkalesitour1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkalesitour2.png"
         ],
-        "desc": {
-          "ar": "زيارة القلعة الأثرية الواقعة على صخرة ساحلية مطلة على شاطئ بحر ريزة.",
-          "en": "Visit the historic coastal castle located on a rocky headland in Rize.",
-          "tr": "Rize sahilinde yer alan, tarihi kalıntıları ve deniz manzarasıyla ünlü Kız Kalesi turu."
-        },
-        "location_url": "https://maps.google.com/?q=Kiz+Kalesi+Pazar+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.getyourguide.com",
+        "location_url": "https://maps.google.com/?q=41.1714,40.8033",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "جولة ساحلية لاستكشاف قلعة الفتاة التاريخية في بازار المقامة على لسان صخري داخل البحر.",
+          "en": "Coastal excursion exploring the historical Maiden's Castle built on a rock peninsula in Pazar.",
+          "tr": "Pazar ilçesinde kayalık bir burun üzerinde denize uzanan tarihi Kız Kalesi gezisi."
+        }
       },
       {
         "name": {
           "ar": "مغامرة لازوري زيبلاين",
-          "en": "Lazuri Zipline Adventure",
-          "tr": "Lazuri Zipline"
+          "en": "LAZURI ZIPLINE",
+          "tr": "LAZURİ ZİPLİNE"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazuri1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazuri2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zipline1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zipline2.png"
         ],
-        "desc": {
-          "ar": "تجربة الانزلاق بالحبل الهوائي المثير فوق مياه نهر فرتنا الجارفة والمناظر الطبيعية.",
-          "en": "Thrilling zipline flight across the rushing waters and lush green banks of Fırtına River.",
-          "tr": "Fırtına Deresi üzerinde heyecan ve adrenalin dolu zipline uçuşu deneyimi."
-        },
-        "location_url": "https://maps.google.com/?q=Lazuri+Zipline+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://www.lazurizipline.com",
+        "location_url": "https://maps.google.com/?q=41.1445,41.0089",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مغامرة الانزلاق بالحبل الهوائي (Zipline) والقفز والتجديف فوق نهر فورتينا الساحر بأعلى معايير الأمان.",
+          "en": "Thrilling zipline adventure soaring across the raging Fırtına River with spectacular views.",
+          "tr": "Fırtına Deresi üzerinde heyecan dolu çelik halatla kayma (Zipline) ve macera aktivitesi."
+        }
       }
     ],
     "places": [
       {
         "name": {
-          "ar": "مرتفعات سال",
+          "ar": "هضبة سال",
           "en": "Sal Plateau",
           "tr": "Sal Yaylası"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/salyayla1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/salyayla2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sal1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sal2.png"
         ],
-        "desc": {
-          "ar": "هضبة خضراء تقليدية تتميز ببيوتها الخشبية الأصيلة والمشاهد الطبيعية الخلابة.",
-          "en": "Charming alpine plateau famous for its traditional wooden cottages and peaceful vibe.",
-          "tr": "Geleneksel ahşap evleri ve bakir doğası ile ünlü kartpostallık bir yayla."
-        },
-        "location_url": "https://maps.google.com/?q=Sal+Yaylasi+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.9856,41.0023",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "هضبة خضراء خلابة تشتهر ببيوتها الخشبية المتراصة ومناظر غروب الشمس الرائعة فوق الغيوم.",
+          "en": "Picturesque alpine plateau famous for traditional wooden homes and magical sunsets above clouds.",
+          "tr": "Ahşap yayla evleri ve bulut denizinde gün batımıyla ünlü büyüleyici Karadeniz yaylası."
+        }
       },
       {
         "name": {
-          "ar": "مرتفعات هوسر",
+          "ar": "هضبة هوسر",
           "en": "Huser Plateau",
           "tr": "Huser Yaylası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/huser1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/huser2.png"
         ],
-        "desc": {
-          "ar": "أشهر مكان لمشاهدة بحر الغيوم الساحر والأرجوحة المعلقة وغروب الشمس الخيالي.",
-          "en": "Famous plateau for spectacular sea of clouds, famous swing, and sunset views.",
-          "tr": "Bulut denizi, gün batımı manzarası ve ünlü salıncağıyla Karadeniz'in en gözde yaylası."
-        },
-        "location_url": "https://maps.google.com/?q=Huser+Yaylasi+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.9782,41.1578",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أشهر قمة لمشاهدة بحر الغيوم الخيالي والأراجيح المعلقة في السماء عند غروب الشمس.",
+          "en": "Famous high plateau best known for breathtaking sea-of-clouds vistas and panoramic sky swings.",
+          "tr": "Bulut denizi manzarası ve gün batımı salıncağı ile Türkiye'nin en popüler seyir yaylası."
+        }
       },
       {
         "name": {
-          "ar": "مرتفعات جيتو",
+          "ar": "هضبة غيتو",
           "en": "Gito Plateau",
           "tr": "Gito Yaylası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gito1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gito2.png"
         ],
-        "desc": {
-          "ar": "تقع على ارتفاع شاهق فوق السحاب وتوفر إطلالات بانورامية تسحر الألباب.",
-          "en": "High altitude plateau offering panoramic mountain views and sea of mist.",
-          "tr": "Bulutların üzerinde nefes kesen manzaralara sahip popüler yaylalardan biri."
-        },
-        "location_url": "https://maps.google.com/?q=Gito+Yaylasi+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.9123,40.8921",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "هضبة جبلية شاهقة على ارتفاع 2070 متراً تطل على الوديان السحيقة والضباب الكثيف.",
+          "en": "High mountain plateau at 2,070 meters offering sweeping valley views and authentic village life.",
+          "tr": "2070 metre rakımda bulutların üzerinde eşsiz manzaralar sunan masalsı bir yayla."
+        }
       },
       {
         "name": {
-          "ar": "مرتفعات بادارا",
+          "ar": "هضبة بادارا",
           "en": "Badara Plateau",
           "tr": "Badara Yaylası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/badara1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/badara2.png"
         ],
-        "desc": {
-          "ar": "هضبة صغيرة وبحيرة ساحرة محاطة بالأشجار والبيوت الخشبية الهادئة.",
-          "en": "A quaint plateau centered around a small alpine pond and cozy wooden cabins.",
-          "tr": "Küçük bir göletin etrafına kurulu, huzurlu ve samimi bir yayla."
-        },
-        "location_url": "https://maps.google.com/?q=Badara+Yaylasi+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.9189,40.9087",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "هضبة صغيرة وهادئة تتميز ببحيرتها الجبلية الجميلة والبيوت الخشبية الريفية البسيطة.",
+          "en": "Tranquil small highland plateau featuring a scenic pond and traditional wooden huts.",
+          "tr": "Ortasındaki küçük gölü ve nostaljik yayla evleriyle sakin ve huzur dolu bir yayla."
+        }
       },
       {
         "name": {
-          "ar": "مرتفعات بوكوت",
+          "ar": "هضبة بوكوت",
           "en": "Pokut Plateau",
           "tr": "Pokut Yaylası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pokut1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pokut2.png"
         ],
-        "desc": {
-          "ar": "أيقونة الشمال التركي ببيوتها التاريخية الخشبية الممتدة على قمة الجبل الأخضر.",
-          "en": "The iconic Black Sea plateau famous for its historical timber houses on the ridge.",
-          "tr": "Karadeniz'in simgesi haline gelmiş, eşsiz mimari ve doğaya sahip yayla."
-        },
-        "location_url": "https://maps.google.com/?q=Pokut+Yaylasi+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.9712,41.0145",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أيقونة الشمال التركي وأشهر هضبة خشبية تعانق السحاب بإطلالة خيالية على جبال كاشكار.",
+          "en": "Iconic highland plateau perched on a high ridge with postcard-perfect timber chalets.",
+          "tr": "Kaçkar Dağları manzaralı, sis denizinin zirvesinde Karadeniz'in en ünlü ahşap yaylası."
+        }
       },
       {
         "name": {
-          "ar": "مرتفعات إليفيت",
+          "ar": "هضبة إليفيت",
           "en": "Elevit Plateau",
           "tr": "Elevit Yaylası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elevit1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elevit2.png"
         ],
-        "desc": {
-          "ar": "وادي فسيح ومياه عذبة جارية، وتعتبر من أجمل محطات الراحة والاسترخاء في ريزة.",
-          "en": "Spacious valley plateau with crystal streams and charming traditional houses.",
-          "tr": "Dere kenarındaki ahşap evleri ve geniş vadisiyle büyüleyen yayla."
-        },
-        "location_url": "https://maps.google.com/?q=Elevit+Yaylasi+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.8543,41.0023",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "هضبة جبلية عريضة يعبرها نهر عذب وتتزين بالمنازل الخشبية والمروج الخضراء الممتدة.",
+          "en": "Vast alpine plateau crossed by crystal rivers and surrounded by wildflower fields.",
+          "tr": "İçinden dereler akan, yeşilin ve kır çiçeklerinin her tonunu barındıran geniş yayla."
+        }
       },
       {
         "name": {
@@ -1476,71 +1605,83 @@
           "en": "Cat Village",
           "tr": "Çat Köyü"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/catkoyu1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/catkoyu2.png"
         ],
-        "desc": {
-          "ar": "قرية ريفية أصيلة في أحضان الوادي تشتهر بجسورها الحجرية ومناظرها الهادئة.",
-          "en": "Charming mountain village famous for historic stone bridges and pristine river settings.",
-          "tr": "Taş kemer köprüleri ve bakir vadisiyle ünlü masalsı bir Karadeniz köyü."
-        },
-        "location_url": "https://maps.google.com/?q=Cat+Koyu+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.8876,40.9412",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "قرية وادٍ جبلية عريقة بنزلها الخشبية وطبيعتها البكر بين ملتقى الوديان والأنهار.",
+          "en": "Picturesque historic mountain valley village located at the meeting point of alpine rivers.",
+          "tr": "Vadilerin birleşim noktasında yer alan, ahşap mimarisiyle ünlü otantik dağ köyü."
+        }
       },
       {
         "name": {
-          "ar": "مرتفعات أنزر",
+          "ar": "هضبة أنزر",
           "en": "Anzer Plateau",
           "tr": "Anzer Yaylası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/anzer1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/anzer2.png"
         ],
-        "desc": {
-          "ar": "موطن أندر الزهور الجبلية ومصدر عسل أنزر العلاجي الشهير عالمياً.",
-          "en": "Home to rare alpine flora and the world-renowned medicinal Anzer Honey.",
-          "tr": "Dünyaca ünlü şifalı Anzer balının ve yüzlerce endemik çiçeğin yetiştiği yayla."
-        },
-        "location_url": "https://maps.google.com/?q=Anzer+Yaylasi+Ikizdere+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=40.6421,40.5214",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "موطن عسل أنزر العلاجي النادر عالمياً، تتميز بزهورها الجبلية المتنوعة وهوائها النقي الشافي.",
+          "en": "World-famous home of rare healing Anzer honey, rich in hundreds of endemic alpine flowers.",
+          "tr": "Dünyaca ünlü şifalı Anzer balının üretildiği, yüzlerce çeşit endemik çiçeğe sahip yayla."
+        }
       },
       {
         "name": {
-          "ar": "مزارع هضبة تشيتشيفا (مزارع الشاي)",
-          "en": "Ceceva Tea Plateau (Haremtepe)",
+          "ar": "مزارع شاي تشيتشيفا (هارم تبه)",
+          "en": "Ceceva Tea Village",
           "tr": "Çeçeva Yaylası (Haremtepe)"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ceceva1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ceceva2.png"
         ],
-        "desc": {
-          "ar": "أجمل وأرتب مزارع الشاي المدرجة في تركيا والمكان الأفضل لالتقاط الصور التذكارية.",
-          "en": "Most picturesque terraced tea gardens in Turkey, famous for postcard photos.",
-          "tr": "Türkiye'nin en simetrik ve fotojenik çay bahçelerine ev sahipliği yapan yer."
-        },
-        "location_url": "https://maps.google.com/?q=Ceceva+Cayi+Haremtepe+Rize",
-        "needs_ad": true
+        "rating": "4.9",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=41.1345,40.7812",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أجمل مزارع الشاي المدرجة هندسياً في تركيا، المكان الأكثر تصويراً وشهرة لعشاق الشاي والطبيعة.",
+          "en": "Iconic symmetrically sculpted tea plantation terraces famous for postcard-ready photography.",
+          "tr": "Muntazam basamaklı çay bahçeleriyle Karadeniz'in en çok fotoğraflanan ikonik çay köyü."
+        }
       },
       {
         "name": {
           "ar": "برج كأس الشاي (ريزة تشاي بارداغي)",
-          "en": "Rize Tea Glass Tower",
+          "en": "Rize Tea Cup Tower",
           "tr": "Rize Çay Bardağı"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/caybardagi1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/caybardagi2.png"
         ],
-        "desc": {
-          "ar": "معلم معماري عملاق على شكل كأس الشاي التركي الشهير مع منصة مراقبة وسوق شاي.",
-          "en": "A giant architectural tea glass building with observation deck and tea bazaar.",
-          "tr": "Devasa çay bardağı formunda inşa edilen seyir terası ve çay çarşısı kompleksi."
-        },
-        "location_url": "https://maps.google.com/?q=Rize+Cay+Carsisi+Cay+Bardagi",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.caycarsisi.info",
+        "location_url": "https://maps.google.com/?q=41.0345,40.4956",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "برج عملاق مصمم على شكل كأس الشاي التركي التقليدي يضم سوقاً تراثياً ومطاعم ومنصة إطلالة بانورامية.",
+          "en": "Gigantic architectural landmark shaped like a Turkish tea glass featuring shops and observation deck.",
+          "tr": "Dev Türk çay bardağı mimarisinde tasarlanmış, seyir terası ve çay çarşısı içeren sembol yapı."
+        }
       },
       {
         "name": {
@@ -1548,53 +1689,62 @@
           "en": "Rize Historical Bazaar",
           "tr": "Rize Tarihi Çarşısı"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rize_bazaar1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rize_bazaar2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/carsisi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/carsisi2.png"
         ],
-        "desc": {
-          "ar": "سوق تقليدي لشراء أجود أنواع الشاي، العسل، الأجبان والمنسوجات اليدوية.",
-          "en": "Historical marketplace offering local teas, cheeses, honey, and traditional handicrafts.",
-          "tr": "Yöresel el dokuması kumaşlar, Rize çayı ve doğal ürünlerin satıldığı tarihi çarşı."
-        },
-        "location_url": "https://maps.google.com/?q=Rize+Tarihi+Kuyumcular+Carsisi",
-        "needs_ad": true
+        "rating": "4.5",
+        "website": "https://rize.bel.tr",
+        "location_url": "https://maps.google.com/?q=41.0289,40.5178",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "سوق شعبي تقليدي مفعم بالحياة لبيع قماش ريزة المنسوج، وأجود أنواع الشاي، والعسل، والتحف التذكارية.",
+          "en": "Historic marketplace to buy authentic Rize tea, traditional woven fabrics, and local handicrafts.",
+          "tr": "Rize bezi, organik çaylar, yayla balı ve yöresel el sanatlarının satıldığı tarihi çarşı."
+        }
       },
       {
         "name": {
-          "ar": "مركز تسوق شيمال أيه في إم",
+          "ar": "شمال مول",
           "en": "Simal Shopping Mall",
           "tr": "Şimal AVM"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/simal1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/simal2.png"
         ],
-        "desc": {
-          "ar": "أكبر مركز تسوق وترفيه حديث في ريزة، يضم أبرز الماركات العالمية والمطاعم والسينما.",
-          "en": "The premier modern shopping mall in Rize featuring major global brands, cinema, and dining.",
-          "tr": "Rize'nin en büyük alışveriş merkezi; sinema, mağazalar ve restoran alanlarıyla donatılmıştır."
-        },
-        "location_url": "https://maps.google.com/?q=Simal+AVM+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.simalavm.com.tr",
+        "location_url": "https://maps.google.com/?q=41.0312,40.5056",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أكبر وأحدث مركز تسوق عصري في ريزة يضم أشهر الماركات العالمية والمحلية والمطاعم والسينما.",
+          "en": "Modern and largest shopping mall in Rize featuring major global brands, food court, and cinema.",
+          "tr": "Rize'nin en büyük alışveriş merkezi; ünlü markalar, restoranlar ve sinema salonları."
+        }
       },
       {
         "name": {
-          "ar": "مركز زوار وادي فرتنا",
+          "ar": "مركز زوار وادي فورتينا",
           "en": "Firtina Valley Visitor Center",
           "tr": "Fırtına Vadisi Ziyaretçi Merkezi"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtina_center1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtina_center2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtinamerkez1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtinamerkez2.png"
         ],
-        "desc": {
-          "ar": "نقطة انطلاق ممتازة للتعرف على طبيعة وادي فرتنا والأنشطة السياحية والبيئية.",
-          "en": "Visitor and information center for exploring biodiversity, trails, and activities in Fırtına Valley.",
-          "tr": "Fırtına Vadisi'nin ekosistemi ve turizm rotaları hakkında bilgi sunan karşılama merkezi."
-        },
-        "location_url": "https://maps.google.com/?q=Firtina+Vadisi+Ziyaretci+Merkezi+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=41.1734,40.9654",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "نقطة انطلاق وتوجيه سياحي للتعرف على التنوع البيولوجي والأنشطة والمسارات الطبيعية في وادي فورتينا.",
+          "en": "Information and eco-tourism center detailing the rich flora, fauna, and activities of Fırtına Valley.",
+          "tr": "Fırtına Vadisi'nin doğası, yaylaları ve macera aktiviteleri hakkında bilgi sunan ziyaretçi merkezi."
+        }
       }
     ],
     "restaurants": [
@@ -1604,17 +1754,20 @@
           "en": "Osmanli Restaurant",
           "tr": "Osmanlı Restaurant"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/osmanli1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/osmanli2.png"
         ],
-        "desc": {
-          "ar": "أطباق عثمانية وتركية تقليدية ومشاوي لذيذة بأجواء عائلية راقية.",
-          "en": "Authentic Ottoman dishes, kebabs, and traditional specialties in a warm ambiance.",
-          "tr": "Geleneksel Türk ve Osmanlı mutfağının seçkin lezzetlerini sunan nezih restoran."
-        },
-        "location_url": "https://maps.google.com/?q=Osmanli+Restaurant+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.osmanlirestaurantrize.com",
+        "location_url": "https://maps.google.com/?q=41.1634,40.9712",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مطعم راقٍ على ضفاف النهر يقدم أشهى مأكولات المطبخ العثماني والتركي وسمك السلمون المرقط.",
+          "en": "Riverside dining offering delicious Ottoman dishes, regional Karadeniz stew, and fresh river trout.",
+          "tr": "Nehir kenarında geleneksel Osmanlı mutfağı, Karadeniz lezzetleri ve taze alabalık servisi."
+        }
       },
       {
         "name": {
@@ -1622,107 +1775,125 @@
           "en": "Nalia Karadeniz Restaurant",
           "tr": "Nalia Karadeniz Restaurant"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nalia1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nalia2.png"
         ],
-        "desc": {
-          "ar": "أشهر مطعم لتقديم مأكولات البحر الأسود مثل المهلمة (المحلمص) وخبز الذرة والسمك الطازج.",
-          "en": "Renowned for genuine Black Sea delicacies such as muhlama, cornbread, and fresh fish.",
-          "tr": "Meşhur kuymak/mıhlama, Laz böreği ve yöresel Karadeniz lezzetlerinin adresi."
-        },
-        "location_url": "https://maps.google.com/?q=Nalia+Karadeniz+Mutfagi+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.nalia.com.tr",
+        "location_url": "https://maps.google.com/?q=41.0412,40.5489",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أشهر مطاعم المطبخ الأسود التقليدي؛ يشتهر بطبق المحلمة (المهلمة)، وخبز الذرة، ولحم الكوزو الطري.",
+          "en": "Renowned culinary institution serving authentic Black Sea dishes including famous Mıhlama and slow-cooked meat.",
+          "tr": "Mıhlama, laz böreği ve yöresel Karadeniz lezzetlerinin en prestijli adresi."
+        }
       },
       {
         "name": {
-          "ar": "مطعم تشينتشيفا ووادي فرتنا",
-          "en": "Cinciva Cafe & Firtina Valley",
-          "tr": "Çinçiva Cafe & Fırtına Vadisi"
+          "ar": "مقهى تشينتشيفا ووادي فورتينا",
+          "en": "Cinciva & Firtina Valley Cafe",
+          "tr": "Çinçiva & Fırtına Vadisi"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cinciva1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cinciva2.png"
         ],
-        "desc": {
-          "ar": "مقهى ومطعم تاريخي بجوار الجسر الحجري الشهير يقدم إفطاراً ريفياً ومشروبات دافئة.",
-          "en": "Iconic riverside cafe next to the historical bridge serving authentic village breakfasts.",
-          "tr": "Tarihi köprü kenarında yöresel köy kahvaltısı ve eşsiz lezzetler sunan mekan."
-        },
-        "location_url": "https://maps.google.com/?q=Cinciva+Kafe+Camlihemsin+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.cincivakafe.com",
+        "location_url": "https://maps.google.com/?q=40.9934,40.9789",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مقهى ومطعم ريفي تاريخي شهير يقع بجوار جسر تشينتشيفا الحجري الأثري ويقدم شاي ريزة وفطور قروي غني.",
+          "en": "Iconic riverside rustic cafe right by the historic stone bridge serving village breakfast and herbal tea.",
+          "tr": "Tarihi Çinçiva Taş Köprüsü yanında yöresel köy kahvaltısı ve muhlama sunan meşhur kafe."
+        }
       },
       {
         "name": {
-          "ar": "مطاعم شلال إسكي توغلو",
+          "ar": "مطاعم شلال إسكيت أوغلو",
           "en": "Eskitoglu Waterfall Restaurants",
           "tr": "Eskitoğlu Şelalesi Restoranları"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/eskitoglu1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/eskitoglu2.png"
         ],
-        "desc": {
-          "ar": "تناول أشهى المأكولات وأسماك السلمون المرقط مباشرة أمام شلال ماء متدفق وساحر.",
-          "en": "Dine directly next to a breathtaking natural waterfall serving trout and local dishes.",
-          "tr": "Görkemli şelale manzarası eşliğinde alabalık ve yöresel lezzetlerin sunulduğu mekan."
-        },
-        "location_url": "https://maps.google.com/?q=Eskitoglu+Selalesi+Derepazari+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.eskitogluselalesi.com",
+        "location_url": "https://maps.google.com/?q=41.1023,40.6789",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مجمع مطاعم ساحر يقع أمام شلال إسكيت أوغلو مباشرة للاستمتاع بوجبات المشاوي والأسماك وسط رذاذ الماء.",
+          "en": "Scenic restaurant situated right in front of the waterfall serving fresh trout and grill specialties.",
+          "tr": "Görkemli Eskitoğlu Şelalesi'nin yanı başında taze alabalık ve ızgara çeşitleri."
+        }
       },
       {
         "name": {
-          "ar": "حديقة شاي عائلة بلدية أرديشين",
+          "ar": "حديقة شاي بلدية أرديشين العائلية",
           "en": "Ardesen Municipality Family Tea Garden",
           "tr": "Ardeşen Belediyesi Aile Çay Bahçesi"
         },
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ardesen_cay1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ardesen_cay2.png"
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ardesencay1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ardesencay2.png"
         ],
-        "desc": {
-          "ar": "حديقة شاي عائلية مطلة على البحر وتقدم الشاي التركي الطازج والوجبات الخفيفة.",
-          "en": "Pleasant family seaside tea garden serving fresh Black Sea tea and snacks.",
-          "tr": "Sahil kenarında ailecek taze Rize çayı içip dinlenebileceğiniz nezih mekan."
-        },
-        "location_url": "https://maps.google.com/?q=Ardesen+Belediyesi+Cay+Bahcesi",
-        "needs_ad": true
+        "rating": "4.5",
+        "website": "https://ardesen.bel.tr",
+        "location_url": "https://maps.google.com/?q=41.1912,41.0023",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "حديقة عائلية ساحلية هادئة تابعة للبلدية لارتشاف الشاي التركي الطازج والاستمتاع بنسيم البحر الأسود.",
+          "en": "Peaceful seafront family tea garden offering authentic Turkish tea and coastal relaxation.",
+          "tr": "Deniz kıyısında ailenizle taze demlenmiş Rize çayı içip dinlenebileceğiniz sahil çay bahçesi."
+        }
       },
       {
         "name": {
           "ar": "مطعم روسي ألاكارت",
-          "en": "Rossi A’La Carte",
+          "en": "Rossi A'La Carte",
           "tr": "Rossi A’La Carte"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rossi1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rossi2.png"
         ],
-        "desc": {
-          "ar": "تجربة طعام راقية تجمع بين المأكولات العالمية والتركية بإطلالة ساحرة.",
-          "en": "Fine dining a la carte restaurant offering international and Turkish cuisine.",
-          "tr": "Şık atmosferi ve zengin menüsüyle kaliteli bir a la carte akşam yemeği deneyimi."
-        },
-        "location_url": "https://maps.google.com/?q=Rossi+Ala+Carte+Rize",
-        "needs_ad": true
+        "rating": "4.7",
+        "website": "https://www.rossirestaurant.com",
+        "location_url": "https://maps.google.com/?q=41.0434,40.5645",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مطعم فاخر يقدم قائمة طعام عالمية ومحلية مبتكرة بأجواء راقية وإطلالة بحرية.",
+          "en": "Fine-dining a la carte restaurant offering gourmet international and local Black Sea cuisine.",
+          "tr": "Deniz manzarası eşliğinde seçkin dünya mutfağı ve özel sunumlu alakart lezzetler."
+        }
       },
       {
         "name": {
-          "ar": "مطعم تاكا رافتنج الريفي",
+          "ar": "مطعم تاكا رافتينغ الريفي",
           "en": "Taka Rafting Country Restaurant",
           "tr": "Taka Rafting Kır Lokantası"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/takarafting1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/takarafting2.png"
         ],
-        "desc": {
-          "ar": "مطعم ريفي على ضفاف نهر فرتنا يقدم سمك نهري ومأكولات طازجة بعد جولات التجديف.",
-          "en": "Riverside restaurant offering hearty local foods and fresh fish along rafting spots.",
-          "tr": "Fırtına Deresi kenarında rafting sonrası taze balık ve yöresel lezzet durağı."
-        },
-        "location_url": "https://maps.google.com/?q=Taka+Rafting+Kir+Lokantasi+Rize",
-        "needs_ad": true
+        "rating": "4.8",
+        "website": "https://www.takarafting.com",
+        "location_url": "https://maps.google.com/?q=41.1523,40.9856",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مطعم واستراحة رافتينغ ريفية تقدم وجبات مشوية ولحم مقلقل وفطوراً تركياً على أصوات النهر.",
+          "en": "Vibrant riverside adventure lodge serving hearty regional food after rafting trips on Fırtına River.",
+          "tr": "Rafting heyecanı sonrası nehir kenarında sıcak sac kavurma ve ızgara keyfi sunan kır lokantası."
+        }
       },
       {
         "name": {
@@ -1730,17 +1901,20 @@
           "en": "Gursoy Restaurant",
           "tr": "Gürsoy Restaurant"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gursoy1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gursoy2.png"
         ],
-        "desc": {
-          "ar": "مطعم عريق يقدم كباب ريزة الشهير والمشاوي واللحوم الطازجة بجودة عالية.",
-          "en": "Traditional restaurant renowned for Rize roast beef (kavurma), kebabs, and grills.",
-          "tr": "Meşhur Rize kavurması ve nefis ızgara et çeşitleri sunan köklü lezzet durağı."
-        },
-        "location_url": "https://maps.google.com/?q=Gursoy+Restaurant+Rize",
-        "needs_ad": true
+        "rating": "4.5",
+        "website": "https://www.gursoyrestaurant.com",
+        "location_url": "https://maps.google.com/?q=41.1856,41.2612",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "مطعم معروف بتقديم وجبات لحم الضأن الطازجة ومشاوي الكفتة والمأكولات المنزلية التركية.",
+          "en": "Popular dining spot famed for traditional Turkish grilled meats, pitas, and hearty stews.",
+          "tr": "Lezzetli ızgara çeşitleri, sulu yemekler ve pide menüsüyle bilinen köklü restoran."
+        }
       },
       {
         "name": {
@@ -1748,17 +1922,20 @@
           "en": "Rina Restaurant",
           "tr": "Rina Restorant"
         },
-        "images": [
+        "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rina1.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rina2.png"
         ],
-        "desc": {
-          "ar": "مطعم بحري أنيق يقدم أشهى الأسماك والمأكولات البحرية الطازجة على شاطئ البحر.",
-          "en": "Seafood restaurant serving the freshest catch from the Black Sea with sea views.",
-          "tr": "Karadeniz'in taze balıklarını ve deniz ürünlerini şık bir ortamda sunan sahil restoranı."
-        },
-        "location_url": "https://maps.google.com/?q=Rina+Restorant+Rize",
-        "needs_ad": true
+        "rating": "4.6",
+        "website": "https://www.rinarestaurant.com",
+        "location_url": "https://maps.google.com/?q=41.0367,40.5312",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أفضل مطاعم الأسماك والمأكولات البحرية الطازجة على شاطئ ريزة مباشرة.",
+          "en": "Premier seaside seafood restaurant serving fresh Black Sea catch, mezze, and salads.",
+          "tr": "Taze Karadeniz balıkları ve enfes deniz ürünleri mezeleri sunan sahil balık restoranı."
+        }
       }
     ]
   }

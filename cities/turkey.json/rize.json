@@ -72,7 +72,7 @@
           "tr": "Kaf Dağı Konak Otel"
         },
          "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
-        "images": [
+         "images": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi3.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi4.png",
@@ -107,15 +107,15 @@
       },
       {
         "name": {
-          "ar": "أورجانيك بنغالوف",
+          "ar": "أورجانيك كوخ",
           "en": "Organik Bungalov",
           "tr": "Organik Bungalov"
         },
-        "image": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik1.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik2.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik3.png",
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik4.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organikkoy4.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik5.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik6.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik7.png",

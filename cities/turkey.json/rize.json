@@ -6,27 +6,12 @@
       "tr": "Rize"
     },
     "description": {
-      "ar": "تُعدّ مدينة ريزة (Rize) لؤلؤة الشمال التركي الخضراء، وعاصمتها الرسمية لإنتاج الشاي. حيث تقع شمال شرق تركيا وتطل مباشرةً على ساحل البحر الأسود. ويبلغ عدد نفوس (سكان) ولاية ريزة حوالي 365,938 نسمة، بينما تتميز بطبيعة ريفية ساحرة.الموقع: تقع شرق مدينة طرابزون وقريبة من الحدود الجورجية.عاصمة الشاي: تعتبر المنتج والمصدر الأول للشاي في تركيا، وتغطي مزارعه المدرجات الجبلية كالسجاد الأخضر.مرتفعات آيدر: هضبة جبلية ساحرة تشتهر بالبيوت والأكواخ الخشبية التقليدية.عسل أنزر: من أغلى وأنقى أنواع العسل الطبيعي والعلاجي في العالم، المستخلص من زهور جبلية نادرة في مرتفعات أنزر.الأنشطة: تشتهر المدينة برياضة التجديف (الرافتنج)، والاستمتاع بالجسور الأثرية والطبيعة الخلابة.",
-      "en": " production. It is located in northeastern Turkey, directly overlooking the Black Sea coast. The population of Rize Province is approximately 365,938 people, and it is characterized by its charming rural nature.Location: It lies east of Trabzon and close to the Georgian border.Tea Capital: It is the leading producer and exporter of tea in Turkey, with plantations covering the mountain terraces like a green carpet.Ayder Highlands: A magical mountain plateau famous for its traditional wooden houses and cabins.Anzer Honey: One of the most expensive, purest, natural, and therapeutic types of honey in the world, extracted from rare mountain flowers in the Anzer Highlands.Activities: The city is highly famous for rafting, exploring historical stone bridges, and enjoying breathtaking nature.",
-      "tr": "Rize, Türk Kuzeyinin yeşil incisi ve çay üretiminin resmi başkentidir. Türkiye'nin kuzeydoğusunda yer alan şehir, doğrudan Karadeniz sahiline bakmaktadır. Rize ilinin nüfusu yaklaşık 365.938 kişidir ve büyüleyici bir kırsal doğaya sahiptir.Konum: Trabzon'un doğusunda, Gürcistan sınırına yakın bir konumda yer alır.Çay Başkenti: Türkiye'nin bir numaralı çay üreticisi ve ihracatçısıdır; çay bahçeleri dağ yamaçlarını yeşil bir halı gibi kaplar.Ayder Yaylası: Ahşap evleri ve bungalovları ile ünlü, büyüleyici bir dağ yaylasıdır.Anzer Balı: Anzer Yaylası'ndaki nadide dağ çiçeklerinden elde edilen, dünyanın en pahalı, en saf, doğal ve şifalı bal türlerinden biridir.Aktiviteler: Şehir; rafting sporu, tarihi taş köprüleri keşfetme ve eşsiz doğanın tadını çıkarma konusunda oldukça meşhurdur."
+      "ar": "تُعدّ مدينة ريزة (Rize) لؤلؤة الشمال التركي الخضراء، وعاصمتها الرسمية لإنتاج الشاي. حيث تقع شمال شرق تركيا وتطل مباشرةً على ساحل البحر الأسود. ويبلغ عدد نفوس ولاية ريزة حوالي 365,938 نسمة، وتتميز بطبيعة ريفية ساحرة، هضاب خضراء كآيدر وبوكوت، وقلاع أثرية وأودية ساحرة كوادي فرتنا.",
+      "en": "Rize is the green pearl of the Turkish Black Sea region and the official tea capital of Turkey. Located in northeastern Turkey directly overlooking the Black Sea. Known for its lush tea plantations, alpine plateaus like Ayder and Pokut, historical stone bridges, and rafting on Fırtına River.",
+      "tr": "Rize, Türk Kuzeyinin yeşil incisi ve çay üretiminin resmi başkentidir. Türkiye'nin kuzeydoğusunda yer alan şehir doğrudan Karadeniz sahiline bakmaktadır. Ayder ve Pokut gibi yaylaları, Fırtına Vadisi, tarihi kaleleri ve köprüleriyle doğa harikasıdır."
     },
     "is_soon": false,
     "featured_apps": [
-      {
-        "name": {
-          "ar": "هواش (حافلات المطار)",
-          "en": "HAVAŞ Airport Bus",
-          "tr": "HAVAŞ Otobüs"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/havas.png",
-        "desc": {
-          "ar": "الحافلات الرسمية المباشرة للنقل من وإلى مطار ريزة-أرتوين الدولي ووسط المدينة والمدن المجاورة.",
-          "en": "Official shuttle service connecting Rize-Artvin Airport to the city center and surrounding areas.",
-          "tr": "Rize-Artvin Havalimanı ile şehir merkezi arasında doğrudan ulaşım sağlayan resmi otobüs servisi."
-        },
-        "url": "https://havas.net",
-        "needs_ad": false
-      },
       {
         "name": {
           "ar": "يمك سيبتي (طلب طعام)",
@@ -35,11 +20,41 @@
         },
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
         "desc": {
-          "ar": "تطبيق طلب وجبات الطعام والمأكولات من المطاعم الشهيرة في ريزة مع خدمة التوصيل المباشر.",
-          "en": "Popular food delivery app from top local restaurants in Rize.",
-          "tr": "Rize'deki restoranlardan yemek siparişi vermek için en popüler uygulama."
+          "ar": "التطبيق الأكثر شهرة لطلب الطعام والمقاضي والبقالة في ريزة.",
+          "en": "The most popular food delivery and grocery shopping app in Rize.",
+          "tr": "Rize'de en çok tercih edilen yemek ve market siparişi uygulaması."
         },
         "url": "https://www.yemeksepeti.com",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بي تاكسي",
+          "en": "BiTaksi",
+          "tr": "BiTaksi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/BiTaksi.png",
+        "desc": {
+          "ar": "التطبيق الأشهر لطلب التاكسي المحلي للتنقل في المدينة.",
+          "en": "The most popular app for ordering local taxis in the city.",
+          "tr": "Şehir içinde kolayca taksi çağırmak için en popüler uygulama."
+        },
+        "url": "https://www.bitaksi.com/en",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "ترينديول",
+          "en": "Trendyol",
+          "tr": "Trendyol"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/trendyol.png",
+        "desc": {
+          "ar": "التطبيق الأشهر للتسوق الإلكتروني وتوصيل الطلبات.",
+          "en": "The top online shopping and fast delivery application.",
+          "tr": "Türkiye'nin en popüler online alışveriş ve hızlı teslimat platformu."
+        },
+        "url": "https://www.trendyol.com/",
         "needs_ad": true
       }
     ],
@@ -47,176 +62,1703 @@
       "hotels",
       "tours",
       "places",
-      "restaurants",
-      "city transport"
+      "restaurants"
     ],
     "hotels": [
       {
         "name": {
-          "ar": "فندق ريكوستا ريزة",
-          "en": "Ricosta Hotel Rize",
-          "tr": "Ricosta Hotel Rize"
+          "ar": "قصر أكواخ جبل قاف",
+          "en": "Kaf Dagi Konak Hotel",
+          "tr": "Kaf Dağı Konak Otel"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricostarize.png",
-        "rating": "5 Stars",
-        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059",
-        "description": {
-          "ar": "فندق فاخر بتصنيف 5 نجوم يقع مباشرة على شاطئ البحر الأسود في ريزة. يوفر غرفاً بإطلالات شاطئية ساحرة، شاطئاً خاصاً، مسبحاً داخلياً، ومركز صحي متكامل.",
-          "en": "A luxury 5-star beachfront hotel in Rize overlooking the Black Sea. Features private beach access, an indoor pool, and a full spa.",
-          "tr": "Karadeniz kıyısında yer alan 5 yıldızlı lüks bir otel. Özel plaj, kapalı havuz ve spa hizmetleri sunmaktadır."
-        }
-      },
-      {
-        "name": {
-          "ar": "فندق رامادا بلازا باي ويندهام ريزة",
-          "en": "Ramada Plaza by Wyndham Rize",
-          "tr": "Ramada Plaza by Wyndham Rize"
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi21.png"
+        ],
+        "desc": {
+          "ar": "إقامة فاخرة بإطلالات بانورامية خلابة على مزارع الشاي وجبال ريزة الخضراء.",
+          "en": "Luxury stay offering panoramic views over tea plantations and green mountain valleys.",
+          "tr": "Rize'nin muhteşem çay bahçeleri ve doğa manzarasına sahip konaklama tesisi."
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramadarize.png",
-        "rating": "5 Stars",
-        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059",
-        "description": {
-          "ar": "إقامة فاخرة تجمع بين إطلالات الجبال الخضراء والبحر الأسود، يضم الفندق سبا متكامل ومطاعم تقدم أشهى المأكولات المحلية والعالمية.",
-          "en": "Luxury accommodation combining green mountain and Black Sea views. Features a full-service spa and fine dining options.",
-          "tr": "Dağ ve Karadeniz manzaralarını birleştiren lüks konaklama. Kapsamlı spa ve seçkin restoranlar sunar."
-        }
-      },
-      {
-        "name": {
-          "ar": "فندق هاشم أوغلو أيدر",
-          "en": "Hasimoglu Hotel Ayder",
-          "tr": "Haşimoğlu Otel Ayder"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/hasimoglurize.png",
-        "rating": "4 Stars",
-        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059",
-        "description": {
-          "ar": "من أشهر وأعرق الفنادق في مرتفعات أيدر، يتميز بتصميمه الخشبي الدافئ المنسجم مع طبيعة الجبال والأنهار المتدفقة بجواره.",
-          "en": "One of the most famous hotels in Ayder Plateau, featuring warm wooden architecture embedded in nature.",
-          "tr": "Ayder Yaylası'nın en ünlü otellerinden biri, doğayla iç içe ahşap mimarisiyle dikkat çeker."
-        }
-      }
-    ],
-    "cultural Places": [
-      {
-        "name": {
-          "ar": "قلعة زيل (زيل كالي)",
-          "en": "Zilkale Castle",
-          "tr": "Zilkale"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkale.png",
-        "website": "https://maps.app.goo.gl/",
+        "location_url": "https://maps.google.com/?q=Kaf+Dagi+Konak+Otel+Rize",
         "needs_ad": true
       },
       {
         "name": {
-          "ar": "قلعة ريزة التاريخية",
-          "en": "Rize Castle",
-          "tr": "Rize Kalesi"
+          "ar": "أورجانيك بنغالوز",
+          "en": "Organik Bungalov",
+          "tr": "Organik Bungalov"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rizekalesi.png",
-        "website": "https://maps.app.goo.gl/",
-        "needs_ad": false
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/organik21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ خشبية صديقة للبيئة وسط الطبيعة العذراء وأصوات مياه الجداول النقية.",
+          "en": "Eco-friendly wooden bungalows surrounded by pristine nature and peaceful streams.",
+          "tr": "Doğayla iç içe, ahşap mimarisiyle huzurlu bir organik bungalov tatili."
+        },
+        "location_url": "https://maps.google.com/?q=Organik+Bungalov+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "ليفا بنغالوز",
+          "en": "Liva Bungalov",
+          "tr": "Liva Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ مريحة بإطلالة نهرية في وادي فرتنا، مناسبة للعائلات والأزواج.",
+          "en": "Comfortable bungalows along the Fırtına River, ideal for families and couples.",
+          "tr": "Fırtına Vadisi'nde nehir kenarında konforlu bungalov konaklaması."
+        },
+        "location_url": "https://maps.google.com/?q=Liva+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بافري بنغالوز",
+          "en": "Pavri Bungalov",
+          "tr": "Pavri Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri21.png"
+        ],
+        "desc": {
+          "ar": "تجربة إقامة هادئة في أحضان وادي فرتنا الأخضر مع شرفات مطلة على الجبل.",
+          "en": "Peaceful retreat in the heart of Fırtına Valley with mountain view balconies.",
+          "tr": "Fırtına Vadisi'nin eşsiz doğasında huzurlu bir tatil deneyimi."
+        },
+        "location_url": "https://maps.google.com/?q=Pavri+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "ميغزا بنغالوز",
+          "en": "Megza Bungalov",
+          "tr": "Megza Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/megza21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ عصرية توفر الخصوصية والراحة مع إطلالات ساحرة على الضباب والجبال.",
+          "en": "Modern wooden cabins offering privacy and stunning mist and mountain views.",
+          "tr": "Modern konforu ahşap sıcaklığıyla birleştiren doğa manzaralı bungalovlar."
+        },
+        "location_url": "https://maps.google.com/?q=Megza+Bungalov+Ayder+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بيت الشلال الجبلي",
+          "en": "Selale Dag Evi",
+          "tr": "Şelale Dağ Evi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale21.png"
+        ],
+        "desc": {
+          "ar": "إقامة مميزة بالقرب من الشلالات الطبيعية حيث يلتقي صوت خرير الماء مع هدوء الجبال.",
+          "en": "Charming mountain house near cascading waterfalls surrounded by lush greenery.",
+          "tr": "Şelale sesi eşliğinde dağ havasını soluyabileceğiniz eşsiz bir dağ evi."
+        },
+        "location_url": "https://maps.google.com/?q=Selale+Dag+Evi+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "ناني بنغالوز",
+          "en": "Nani Bungalov",
+          "tr": "Nani Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nani21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ دافئة مجهزة بكافة سبل الراحة والجاكوزي وسط غابات ريزة الخلابة.",
+          "en": "Cozy wooden bungalows with modern amenities and jacuzzi nestled in Rize forests.",
+          "tr": "Orman manzaralı, jakuzili ve konforlu bungalov konaklama seçeneği."
+        },
+        "location_url": "https://maps.google.com/?q=Nani+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق جراند 464",
+          "en": "Grand 464 Otel",
+          "tr": "Grand 464 Otel"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/grand464_21.png"
+        ],
+        "desc": {
+          "ar": "فندق فخم بموقع حيوي يقدم خدمات فندقية راقية ومرافق متكاملة للضيوف.",
+          "en": "Upscale city hotel offering modern amenities, high-level comfort, and hospitality.",
+          "tr": "Şehir merkezinde modern tasarımı ve üstün konforuyla hizmet veren otel."
+        },
+        "location_url": "https://maps.google.com/?q=Grand+464+Otel+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بيت آيدر إليزان الجبلي",
+          "en": "Ayder Elizan Mountain House",
+          "tr": "Ayder Elizan Dağ Evi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan21.png"
+        ],
+        "desc": {
+          "ar": "في قلب هضبة آيدر الساحرة، يمنحك تجربة الحياة الريفية الأصيلة وسط السحب.",
+          "en": "Located in the heart of Ayder Plateau, offering authentic mountain living above the clouds.",
+          "tr": "Ayder Yaylası'nın kalbinde, bulutların üzerinde otantik dağ evi konaklaması."
+        },
+        "location_url": "https://maps.google.com/?q=Ayder+Elizan+Dag+Evi+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق ريسوس جولد",
+          "en": "Rhisos Gold Otel",
+          "tr": "Rhisos Gold Otel"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rhisos21.png"
+        ],
+        "desc": {
+          "ar": "فندق أنيق يجمع بين حداثة التصميم وسهولة الوصول لمراكز التسوق والشواطئ.",
+          "en": "Elegant hotel combining modern design with easy access to city attractions and the coast.",
+          "tr": "Rize merkezde konfor ve şıklığı bir arada sunan kaliteli şehir oteli."
+        },
+        "location_url": "https://maps.google.com/?q=Rhisos+Gold+Otel+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق رمادا بلازا باي ويندهام ريزة",
+          "en": "Ramada Plaza by Wyndham Rize",
+          "tr": "Ramada Plaza by Wyndham Rize"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada21.png"
+        ],
+        "desc": {
+          "ar": "فندق 5 نجوم عالمي يطل على البحر الأسود ويوفر خدمات سبا ومسابح فاخرة.",
+          "en": "5-star international hotel overlooking the Black Sea with luxury spa and wellness facilities.",
+          "tr": "Karadeniz manzaralı, 5 yıldızlı uluslararası standartlarda lüks konaklama ve spa tesisi."
+        },
+        "location_url": "https://maps.google.com/?q=Ramada+Plaza+by+Wyndham+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق ميلانو",
+          "en": "Hotel Milano",
+          "tr": "Hotel Milano"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/milano21.png"
+        ],
+        "desc": {
+          "ar": "فندق مريح وهادئ بالقرب من الساحل ومرافق المدينة الحيوية.",
+          "en": "Comfortable and friendly hotel close to the seaside and city center amenities.",
+          "tr": "Rize merkezde sıcak ve konforlu bir konaklama sunan butik otel."
+        },
+        "location_url": "https://maps.google.com/?q=Hotel+Milano+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "منتجع أفولوت ماونتن ريزورت",
+          "en": "Avulot Mountain Resort Hotel",
+          "tr": "Avulot Mountain Resort Hotel"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot21.png"
+        ],
+        "desc": {
+          "ar": "منتجع جبلي فاخر يطل على الغابات والأودية يقدم تجربة استرخاء لا تُنسى.",
+          "en": "Luxury mountain resort surrounded by forests offering an unforgettable wellness experience.",
+          "tr": "Dağların zirvesinde, doğayla baş başa lüks tatil ve dinlenme merkezi."
+        },
+        "location_url": "https://maps.google.com/?q=Avulot+Mountain+Resort+Hotel+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "إيليت بنغالوز",
+          "en": "Elit Bungalov",
+          "tr": "Elit Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elit21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ راقية توفر إطلالات فريدة على الطبيعة مع خدمات ممتازة.",
+          "en": "Premium wooden bungalows offering scenic mountain views and excellent hospitality.",
+          "tr": "Doğanın kucağında lüks ve huzurlu bir bungalov konaklaması."
+        },
+        "location_url": "https://maps.google.com/?q=Elit+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فينيك فيلا سويت",
+          "en": "Venek Villa Suit",
+          "tr": "Venek Villa Suit"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek21.png"
+        ],
+        "desc": {
+          "ar": "فيلات وأجنحة واسعة مثالية للعائلات التي تبحث عن الفخامة والخصوصية.",
+          "en": "Spacious luxury villa suites ideal for families seeking privacy and nature.",
+          "tr": "Geniş aileler ve özel tatil arayanlar için lüks villa suitleri."
+        },
+        "location_url": "https://maps.google.com/?q=Venek+Villa+Suit+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بيت سيرينيير الجبلي",
+          "en": "Serinyer Dag Evi",
+          "tr": "Serinyer Dağ Evi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer21.png"
+        ],
+        "desc": {
+          "ar": "بيت خشبي ريفي هادئ في أعالي الجبال يوفر أجواء نقية وإطلالة ساحرة.",
+          "en": "Quiet rustic mountain house offering clean mountain air and panoramic vistas.",
+          "tr": "Yüksek rakımda, sessizlik ve doğa ile baş başa geleneksel dağ evi."
+        },
+        "location_url": "https://maps.google.com/?q=Serinyer+Dag+Evi+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بانسيون نيكا",
+          "en": "Nika Pansiyon",
+          "tr": "Nika Pansiyon"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nika21.png"
+        ],
+        "desc": {
+          "ar": "نُزل ريفي حميم يقدم مأكولات محلية وضيافة كارادينيزية أصيلة.",
+          "en": "Cozy guesthouse offering home-cooked regional meals and warm Black Sea hospitality.",
+          "tr": "Sıcak bir aile işletmesi, leziz köy kahvaltısı ve otantik yayla ortamı."
+        },
+        "location_url": "https://maps.google.com/?q=Nika+Pansiyon+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق مولفا بنغالوز",
+          "en": "MOLVA Bungalows Otel",
+          "tr": "MOLVA Bungalows Otel"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ بتصميم مثلث مميز ومجهزة بجاكوزي وإطلالات ممتدة على الوادي.",
+          "en": "A-frame design wooden cabins with jacuzzi overlooking the lush river valley.",
+          "tr": "Üçgen mimarili, jakuzili ve vadi manzaralı modern bungalov otel."
+        },
+        "location_url": "https://maps.google.com/?q=Molva+Bungalows+Otel+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بارادايس فالي بنغالوز",
+          "en": "Paradise Valley Bungalow",
+          "tr": "Paradise Valley Bungalow"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise21.png"
+        ],
+        "desc": {
+          "ar": "جنة خضراء في وادي فرتنا توفر إقامة ريفية مريحة وسط أصوات الطبيعة.",
+          "en": "A tranquil green paradise along the valley offering relaxing wooden cabin stays.",
+          "tr": "Fırtına Deresi boyunca uzanan yemyeşil vadide huzurlu bir dinlenme noktası."
+        },
+        "location_url": "https://maps.google.com/?q=Paradise+Valley+Bungalow+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "ريفر سايد تايني هاوس",
+          "en": "River Side TinyHouse",
+          "tr": "River Side TinyHouse"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside21.png"
+        ],
+        "desc": {
+          "ar": "بيوت صغيرة حديثة على ضفة النهر مباشرة لتجربة تخييم وإقامة عصرية راقية.",
+          "en": "Modern tiny houses situated directly along the riverside for a unique glamping experience.",
+          "tr": "Dere kenarında konumlanmış şık ve modern Tiny House konaklaması."
+        },
+        "location_url": "https://maps.google.com/?q=River+Side+TinyHouse+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "إمروز توين هاوس",
+          "en": "İmroz Twin House",
+          "tr": "İmroz Twin House"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ توأمية فاخرة تناسب العائلات والأصدقاء في قلب الطبيعة الهادئة.",
+          "en": "Luxury twin houses ideal for groups and families surrounded by nature.",
+          "tr": "Doğanın kalbinde, sevdiklerinizle huzurlu vakit geçirebileceğiniz ikiz evler."
+        },
+        "location_url": "https://maps.google.com/?q=Imroz+Twin+House+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "وود لايف بنغالوز",
+          "en": "Wood Life Bungalov",
+          "tr": "Wood Life Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife21.png"
+        ],
+        "desc": {
+          "ar": "حياة خشبية نقية وتصميم عصري يمزج بين الراحة وسحر الغابات الخضراء.",
+          "en": "Pure wooden living with modern comfort blended seamlessly into forest scenery.",
+          "tr": "Ahşap sıcaklığı ve modern dizaynı bir arada sunan vadi manzaralı bungalov."
+        },
+        "location_url": "https://maps.google.com/?q=Wood+Life+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بوهيمي فيلا بنغالوز",
+          "en": "Bohemi Villa Bungalov",
+          "tr": "Bohemi Villa Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi21.png"
+        ],
+        "desc": {
+          "ar": "تصميم بوهيمي ساحر وديكورات أنيقة مع شرفة خاصة وجاكوزي في قلب الجبل.",
+          "en": "Boho-chic design with stylish interiors, jacuzzi, and private mountain terraces.",
+          "tr": "Bohem tarzda dizayn edilmiş, lüks ve jakuzili villa bungalovlar."
+        },
+        "location_url": "https://maps.google.com/?q=Bohemi+Villa+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "يروموني بنغالوز",
+          "en": "Yerumoni Bungalov",
+          "tr": "Yerumoni Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yerumoni21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ تقليدية كارادينيزية بإطلالات استثنائية على الضباب وقمم الجبال.",
+          "en": "Authentic Black Sea style wooden cabins overlooking sea of clouds and mountain ridges.",
+          "tr": "Bulut denizi ve eşsiz doğa manzarasına sahip otantik Karadeniz bungalovları."
+        },
+        "location_url": "https://maps.google.com/?q=Yerumoni+Bungalov+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "لازيفيلا سويت داغ إيفي",
+          "en": "Lazivilla Suit Dağ Evi",
+          "tr": "Lazivilla Suit Dağ Evi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla21.png"
+        ],
+        "desc": {
+          "ar": "أجنحة جبلية فسيحة مستوحاة من التراث اللازي مع أحدث وسائل الراحة العصرية.",
+          "en": "Spacious mountain suites inspired by Laz heritage with premium modern comforts.",
+          "tr": "Laz mimarisini modern lüksle birleştiren geniş süit dağ evi."
+        },
+        "location_url": "https://maps.google.com/?q=Lazivilla+Suit+Dag+Evi+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "زين لايف سويت أبارت وبنغالوز",
+          "en": "Zenilife Suit Apart & Bungalov",
+          "tr": "Zenilife Suit Apart & Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife21.png"
+        ],
+        "desc": {
+          "ar": "شقق وأكواخ فندقية مجهزة بالكامل تناسب الإقامات العائلية الطويلة والقصيرة.",
+          "en": "Fully serviced aparts and wooden cabins suitable for short and extended family stays.",
+          "tr": "Ailelere uygun, tam donanımlı mutfaklı süit apart ve bungalovlar."
+        },
+        "location_url": "https://maps.google.com/?q=Zenilife+Suit+Apart+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "توفا فيلا بنغالوز",
+          "en": "Tuva Villa Bungalov",
+          "tr": "Tuva Villa Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tuva21.png"
+        ],
+        "desc": {
+          "ar": "فيلات خشبية منعزلة تمنحك أقصى درجات الراحة والاستجمام في حضن الطبيعة.",
+          "en": "Secluded wooden villas offering maximum privacy, relaxation, and scenic views.",
+          "tr": "Doğanın ortasında tam mahremiyet ve dinlenme vadeden müstakil villa bungalov."
+        },
+        "location_url": "https://maps.google.com/?q=Tuva+Villa+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "تاج محل بنغالوز",
+          "en": "Tas Mahal Bungalov",
+          "tr": "Taş Mahal Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tasmahal21.png"
+        ],
+        "desc": {
+          "ar": "مزيج فريد من البناء الحجري والخشب مع إطلالة نهرية استثنائية.",
+          "en": "A unique blend of stone and timber architecture with stunning riverside views.",
+          "tr": "Taş ve ahşap mimarinin buluştuğu nehir kenarında konforlu konaklama."
+        },
+        "location_url": "https://maps.google.com/?q=Tas+Mahal+Bungalov+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق فالي سويت",
+          "en": "VALLEY Suit OTEL",
+          "tr": "VALLEY Suit OTEL"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit21.png"
+        ],
+        "desc": {
+          "ar": "أجنحة فندقية عصرية في قلب الوادي تجمع بين الهدوء وجمال الطبيعة.",
+          "en": "Modern valley suites combining serenity, panoramic views, and upscale hospitality.",
+          "tr": "Vadi manzaralı, konforlu süit odaları ile unutulmaz bir konaklama."
+        },
+        "location_url": "https://maps.google.com/?q=VALLEY+Suit+OTEL+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فندق ريكوستا",
+          "en": "Ricosta Hotel",
+          "tr": "Ricosta Hotel"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta21.png"
+        ],
+        "desc": {
+          "ar": "أحد أفخم فنادق الـ 5 نجوم في ريزة بإطلالة بحرية مباشرة وشاطئ وسبا متكامل.",
+          "en": "Premier 5-star seaside hotel in Rize featuring private beach, wellness center, and fine dining.",
+          "tr": "Rize'nin en lüks 5 yıldızlı sahil oteli; özel plaj, spa ve seçkin lezzetler sunmaktadır."
+        },
+        "location_url": "https://maps.google.com/?q=Ricosta+Hotel+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "فالي دومز (القباب البانورامية)",
+          "en": "Valley Domes",
+          "tr": "Valley Domes"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes21.png"
+        ],
+        "desc": {
+          "ar": "قباب زجاجية جيوديسية للنوم تحت النجوم ومراقبة السحب والوديان من السرير.",
+          "en": "Geodesic dome glamping experience to sleep under the stars above the lush valley.",
+          "tr": "Yıldızların altında ve bulutların üstünde benzersiz dome glamping deneyimi."
+        },
+        "location_url": "https://maps.google.com/?q=Valley+Domes+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بولا بنغالوز",
+          "en": "Pula bungalov",
+          "tr": "Pula bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pula21.png"
+        ],
+        "desc": {
+          "ar": "أكواخ خشبية دافئة بإطلالة رائعة على الغابات والمنحدرات الجبلية في ريزة.",
+          "en": "Cozy wooden bungalows set against mountain slopes and evergreen forests.",
+          "tr": "Doğal ahşap dokusu ve yemyeşil doğasıyla dinlendirici bir bungalov tesisi."
+        },
+        "location_url": "https://maps.google.com/?q=Pula+Bungalov+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "دولوبي بنغالوز",
+          "en": "Dolobi Bungalov",
+          "tr": "Dolobi Bungalov"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi20.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dolobi21.png"
+        ],
+        "desc": {
+          "ar": "إقامة ريفية مميزة توفر الراحة والاسترخاء وسط أجواء الطبيعة البكر والشلالات.",
+          "en": "Charming countryside cabins offering pure relaxation near mountain springs.",
+          "tr": "Doğanın kucağında sakin ve keyifli bir tatil sunan şirin ahşap bungalovlar."
+        },
+        "location_url": "https://maps.google.com/?q=Dolobi+Bungalov+Rize",
+        "needs_ad": true
       }
     ],
     "tours": [
       {
         "name": {
-          "ar": "جولة مرتفعات أيدر ووادي فرتنا والرافتينج",
-          "en": "Ayder Plateau & Fırtına Valley Rafting Tour",
-          "tr": "Ayder Yaylası & Fırtına Deresi Turu"
+          "ar": "جولة خاصة: دير سوميلا وطرابزون",
+          "en": "Sumela Monastery and Trabzon Private Tour",
+          "tr": "Sümela Manastırı ve Trabzon Özel Turu"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aydertour.png",
-        "website": "https://gyg.me/",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sumela1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/sumela2.png"
+        ],
+        "desc": {
+          "ar": "جولة يومية خاصة لزيارة دير سوميلا التاريخي المنحوت بالجبل وأبرز معالم طرابزون.",
+          "en": "Private day tour exploring the cliffside Sumela Monastery and top highlights of Trabzon.",
+          "tr": "Sarp kayalıklara inşa edilen tarihi Sümela Manastırı ve Trabzon'un önemli noktalarını keşif turu."
+        },
+        "location_url": "https://maps.google.com/?q=Sumela+Monastery+Trabzon",
         "needs_ad": true
       },
       {
         "name": {
-          "ar": "جولة مرتفعات بوكوت وهوسر (غروب الشمس فوق السحاب)",
-          "en": "Pokut & Huser Sunset Above the Clouds Tour",
-          "tr": "Pokut & Huser Yaylası Bulut Denizi Turu"
+          "ar": "قلعة زيل كالي التاريخية",
+          "en": "Zilkale Castle Tour",
+          "tr": "Zilkale Turu"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/husertour.png",
-        "website": "https://gyg.me/",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkale1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zilkale2.png"
+        ],
+        "desc": {
+          "ar": "استكشاف القلعة التاريخية الشاهقة المحاطة بغابات وادي فرتنا وجسورها العثمانية.",
+          "en": "Explore the medieval mountain fortress perched high above the Fırtına Valley.",
+          "tr": "Fırtına Vadisi'ne tepeden bakan, tarihin ve doğanın birleştiği görkemli Zilkale gezisi."
+        },
+        "location_url": "https://maps.google.com/?q=Zilkale+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "قلعة الفتاة (كيز كاليسي)",
+          "en": "Kiz Kalesi Maiden's Castle",
+          "tr": "Kız Kalesi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkalesi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kizkalesi2.png"
+        ],
+        "desc": {
+          "ar": "زيارة القلعة الأثرية الواقعة على صخرة ساحلية مطلة على شاطئ بحر ريزة.",
+          "en": "Visit the historic coastal castle located on a rocky headland in Rize.",
+          "tr": "Rize sahilinde yer alan, tarihi kalıntıları ve deniz manzarasıyla ünlü Kız Kalesi turu."
+        },
+        "location_url": "https://maps.google.com/?q=Kiz+Kalesi+Pazar+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مغامرة لازوري زيبلاين",
+          "en": "Lazuri Zipline Adventure",
+          "tr": "Lazuri Zipline"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazuri1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazuri2.png"
+        ],
+        "desc": {
+          "ar": "تجربة الانزلاق بالحبل الهوائي المثير فوق مياه نهر فرتنا الجارفة والمناظر الطبيعية.",
+          "en": "Thrilling zipline flight across the rushing waters and lush green banks of Fırtına River.",
+          "tr": "Fırtına Deresi üzerinde heyecan ve adrenalin dolu zipline uçuşu deneyimi."
+        },
+        "location_url": "https://maps.google.com/?q=Lazuri+Zipline+Rize",
         "needs_ad": true
       }
     ],
     "places": [
       {
         "name": {
-          "ar": "مرتفعات أيدر (أيدر يايلاسي)",
-          "en": "Ayder Plateau",
-          "tr": "Ayder Yaylası"
+          "ar": "مرتفعات سال",
+          "en": "Sal Plateau",
+          "tr": "Sal Yaylası"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ayderyaylasi.png",
-        "website": "https://maps.app.goo.gl/",
-        "needs_ad": false
-      },
-      {
-        "name": {
-          "ar": "شلال بالوفيت",
-          "en": "Palovit Waterfall",
-          "tr": "Palovit Şelalesi"
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/salyayla1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/salyayla2.png"
+        ],
+        "desc": {
+          "ar": "هضبة خضراء تقليدية تتميز ببيوتها الخشبية الأصيلة والمشاهد الطبيعية الخلابة.",
+          "en": "Charming alpine plateau famous for its traditional wooden cottages and peaceful vibe.",
+          "tr": "Geleneksel ahşap evleri ve bakir doğası ile ünlü kartpostallık bir yayla."
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/palovitselalesi.png",
-        "website": "https://maps.app.goo.gl/",
+        "location_url": "https://maps.google.com/?q=Sal+Yaylasi+Camlihemsin+Rize",
         "needs_ad": true
       },
       {
         "name": {
-          "ar": "وادي ونهر فرتنا (مغامرات الرافتينج والحبل المعلق)",
-          "en": "Fırtına River & Valley",
-          "tr": "Fırtına Deresi"
+          "ar": "مرتفعات هوسر",
+          "en": "Huser Plateau",
+          "tr": "Huser Yaylası"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtinaderesi.png",
-        "website": "https://maps.app.goo.gl/",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/huser1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/huser2.png"
+        ],
+        "desc": {
+          "ar": "أشهر مكان لمشاهدة بحر الغيوم الساحر والأرجوحة المعلقة وغروب الشمس الخيالي.",
+          "en": "Famous plateau for spectacular sea of clouds, famous swing, and sunset views.",
+          "tr": "Bulut denizi, gün batımı manzarası ve ünlü salıncağıyla Karadeniz'in en gözde yaylası."
+        },
+        "location_url": "https://maps.google.com/?q=Huser+Yaylasi+Camlihemsin+Rize",
         "needs_ad": true
       },
       {
         "name": {
-          "ar": "مرتفعات بوكوت الساحرة",
+          "ar": "مرتفعات جيتو",
+          "en": "Gito Plateau",
+          "tr": "Gito Yaylası"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gito1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gito2.png"
+        ],
+        "desc": {
+          "ar": "تقع على ارتفاع شاهق فوق السحاب وتوفر إطلالات بانورامية تسحر الألباب.",
+          "en": "High altitude plateau offering panoramic mountain views and sea of mist.",
+          "tr": "Bulutların üzerinde nefes kesen manzaralara sahip popüler yaylalardan biri."
+        },
+        "location_url": "https://maps.google.com/?q=Gito+Yaylasi+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مرتفعات بادارا",
+          "en": "Badara Plateau",
+          "tr": "Badara Yaylası"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/badara1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/badara2.png"
+        ],
+        "desc": {
+          "ar": "هضبة صغيرة وبحيرة ساحرة محاطة بالأشجار والبيوت الخشبية الهادئة.",
+          "en": "A quaint plateau centered around a small alpine pond and cozy wooden cabins.",
+          "tr": "Küçük bir göletin etrafına kurulu, huzurlu ve samimi bir yayla."
+        },
+        "location_url": "https://maps.google.com/?q=Badara+Yaylasi+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مرتفعات بوكوت",
           "en": "Pokut Plateau",
           "tr": "Pokut Yaylası"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pokutyaylasi.png",
-        "website": "https://maps.app.goo.gl/",
-        "needs_ad": false
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pokut1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pokut2.png"
+        ],
+        "desc": {
+          "ar": "أيقونة الشمال التركي ببيوتها التاريخية الخشبية الممتدة على قمة الجبل الأخضر.",
+          "en": "The iconic Black Sea plateau famous for its historical timber houses on the ridge.",
+          "tr": "Karadeniz'in simgesi haline gelmiş, eşsiz mimari ve doğaya sahip yayla."
+        },
+        "location_url": "https://maps.google.com/?q=Pokut+Yaylasi+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مرتفعات إليفيت",
+          "en": "Elevit Plateau",
+          "tr": "Elevit Yaylası"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elevit1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elevit2.png"
+        ],
+        "desc": {
+          "ar": "وادي فسيح ومياه عذبة جارية، وتعتبر من أجمل محطات الراحة والاسترخاء في ريزة.",
+          "en": "Spacious valley plateau with crystal streams and charming traditional houses.",
+          "tr": "Dere kenarındaki ahşap evleri ve geniş vadisiyle büyüleyen yayla."
+        },
+        "location_url": "https://maps.google.com/?q=Elevit+Yaylasi+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "قرية تشات",
+          "en": "Cat Village",
+          "tr": "Çat Köyü"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/catkoyu1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/catkoyu2.png"
+        ],
+        "desc": {
+          "ar": "قرية ريفية أصيلة في أحضان الوادي تشتهر بجسورها الحجرية ومناظرها الهادئة.",
+          "en": "Charming mountain village famous for historic stone bridges and pristine river settings.",
+          "tr": "Taş kemer köprüleri ve bakir vadisiyle ünlü masalsı bir Karadeniz köyü."
+        },
+        "location_url": "https://maps.google.com/?q=Cat+Koyu+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مرتفعات أنزر",
+          "en": "Anzer Plateau",
+          "tr": "Anzer Yaylası"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/anzer1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/anzer2.png"
+        ],
+        "desc": {
+          "ar": "موطن أندر الزهور الجبلية ومصدر عسل أنزر العلاجي الشهير عالمياً.",
+          "en": "Home to rare alpine flora and the world-renowned medicinal Anzer Honey.",
+          "tr": "Dünyaca ünlü şifalı Anzer balının ve yüzlerce endemik çiçeğin yetiştiği yayla."
+        },
+        "location_url": "https://maps.google.com/?q=Anzer+Yaylasi+Ikizdere+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مزارع هضبة تشيتشيفا (مزارع الشاي)",
+          "en": "Ceceva Tea Plateau (Haremtepe)",
+          "tr": "Çeçeva Yaylası (Haremtepe)"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ceceva1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ceceva2.png"
+        ],
+        "desc": {
+          "ar": "أجمل وأرتب مزارع الشاي المدرجة في تركيا والمكان الأفضل لالتقاط الصور التذكارية.",
+          "en": "Most picturesque terraced tea gardens in Turkey, famous for postcard photos.",
+          "tr": "Türkiye'nin en simetrik ve fotojenik çay bahçelerine ev sahipliği yapan yer."
+        },
+        "location_url": "https://maps.google.com/?q=Ceceva+Cayi+Haremtepe+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "برج كأس الشاي (ريزة تشاي بارداغي)",
+          "en": "Rize Tea Glass Tower",
+          "tr": "Rize Çay Bardağı"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/caybardagi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/caybardagi2.png"
+        ],
+        "desc": {
+          "ar": "معلم معماري عملاق على شكل كأس الشاي التركي الشهير مع منصة مراقبة وسوق شاي.",
+          "en": "A giant architectural tea glass building with observation deck and tea bazaar.",
+          "tr": "Devasa çay bardağı formunda inşa edilen seyir terası ve çay çarşısı kompleksi."
+        },
+        "location_url": "https://maps.google.com/?q=Rize+Cay+Carsisi+Cay+Bardagi",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "سوق ريزة التاريخي",
+          "en": "Rize Historical Bazaar",
+          "tr": "Rize Tarihi Çarşısı"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rize_bazaar1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rize_bazaar2.png"
+        ],
+        "desc": {
+          "ar": "سوق تقليدي لشراء أجود أنواع الشاي، العسل، الأجبان والمنسوجات اليدوية.",
+          "en": "Historical marketplace offering local teas, cheeses, honey, and traditional handicrafts.",
+          "tr": "Yöresel el dokuması kumaşlar, Rize çayı ve doğal ürünlerin satıldığı tarihi çarşı."
+        },
+        "location_url": "https://maps.google.com/?q=Rize+Tarihi+Kuyumcular+Carsisi",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مركز تسوق شيمال أيه في إم",
+          "en": "Simal Shopping Mall",
+          "tr": "Şimal AVM"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/simal1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/simal2.png"
+        ],
+        "desc": {
+          "ar": "أكبر مركز تسوق وترفيه حديث في ريزة، يضم أبرز الماركات العالمية والمطاعم والسينما.",
+          "en": "The premier modern shopping mall in Rize featuring major global brands, cinema, and dining.",
+          "tr": "Rize'nin en büyük alışveriş merkezi; sinema, mağazalar ve restoran alanlarıyla donatılmıştır."
+        },
+        "location_url": "https://maps.google.com/?q=Simal+AVM+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مركز زوار وادي فرتنا",
+          "en": "Firtina Valley Visitor Center",
+          "tr": "Fırtına Vadisi Ziyaretçi Merkezi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtina_center1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/firtina_center2.png"
+        ],
+        "desc": {
+          "ar": "نقطة انطلاق ممتازة للتعرف على طبيعة وادي فرتنا والأنشطة السياحية والبيئية.",
+          "en": "Visitor and information center for exploring biodiversity, trails, and activities in Fırtına Valley.",
+          "tr": "Fırtına Vadisi'nin ekosistemi ve turizm rotaları hakkında bilgi sunan karşılama merkezi."
+        },
+        "location_url": "https://maps.google.com/?q=Firtina+Vadisi+Ziyaretci+Merkezi+Rize",
+        "needs_ad": true
       }
     ],
     "restaurants": [
       {
         "name": {
-          "ar": "مطعم لالي (أشهر طبق فاصوليا في شايلي)",
-          "en": "Lale Restaurant Çayeli",
-          "tr": "Lale Lokantası Çayeli"
+          "ar": "مطعم عثمانلي",
+          "en": "Osmanli Restaurant",
+          "tr": "Osmanlı Restaurant"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lalelokantasi.png",
-        "website": "https://maps.app.goo.gl/",
-        "needs_ad": false
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/osmanli1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/osmanli2.png"
+        ],
+        "desc": {
+          "ar": "أطباق عثمانية وتركية تقليدية ومشاوي لذيذة بأجواء عائلية راقية.",
+          "en": "Authentic Ottoman dishes, kebabs, and traditional specialties in a warm ambiance.",
+          "tr": "Geleneksel Türk ve Osmanlı mutfağının seçkin lezzetlerini sunan nezih restoran."
+        },
+        "location_url": "https://maps.google.com/?q=Osmanli+Restaurant+Rize",
+        "needs_ad": true
       },
       {
         "name": {
-          "ar": "مطعم ليمان ريزة",
-          "en": "Liman Restaurant Rize",
-          "tr": "Liman Lokantası Rize"
+          "ar": "مطعم ناليا كارادينيز",
+          "en": "Nalia Karadeniz Restaurant",
+          "tr": "Nalia Karadeniz Restaurant"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/limanlokantasi.png",
-        "website": "https://maps.app.goo.gl/",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nalia1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/nalia2.png"
+        ],
+        "desc": {
+          "ar": "أشهر مطعم لتقديم مأكولات البحر الأسود مثل المهلمة (المحلمص) وخبز الذرة والسمك الطازج.",
+          "en": "Renowned for genuine Black Sea delicacies such as muhlama, cornbread, and fresh fish.",
+          "tr": "Meşhur kuymak/mıhlama, Laz böreği ve yöresel Karadeniz lezzetlerinin adresi."
+        },
+        "location_url": "https://maps.google.com/?q=Nalia+Karadeniz+Mutfagi+Rize",
         "needs_ad": true
-      }
-    ],
-    "beaches": [],
-    "religious places": [],
-    "city transport": [
+      },
       {
         "name": {
-          "ar": "حافلات هواش مطار ريزة-أرتوين",
-          "en": "HAVAŞ Rize-Artvin Airport Shuttle",
-          "tr": "HAVAŞ Rize-Artvin Havalimanı"
+          "ar": "مطعم تشينتشيفا ووادي فرتنا",
+          "en": "Cinciva Cafe & Firtina Valley",
+          "tr": "Çinçiva Cafe & Fırtına Vadisi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/havasrize.png",
-        "website": "https://havas.net",
-        "needs_ad": false
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cinciva1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cinciva2.png"
+        ],
+        "desc": {
+          "ar": "مقهى ومطعم تاريخي بجوار الجسر الحجري الشهير يقدم إفطاراً ريفياً ومشروبات دافئة.",
+          "en": "Iconic riverside cafe next to the historical bridge serving authentic village breakfasts.",
+          "tr": "Tarihi köprü kenarında yöresel köy kahvaltısı ve eşsiz lezzetler sunan mekan."
+        },
+        "location_url": "https://maps.google.com/?q=Cinciva+Kafe+Camlihemsin+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مطاعم شلال إسكي توغلو",
+          "en": "Eskitoglu Waterfall Restaurants",
+          "tr": "Eskitoğlu Şelalesi Restoranları"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/eskitoglu1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/eskitoglu2.png"
+        ],
+        "desc": {
+          "ar": "تناول أشهى المأكولات وأسماك السلمون المرقط مباشرة أمام شلال ماء متدفق وساحر.",
+          "en": "Dine directly next to a breathtaking natural waterfall serving trout and local dishes.",
+          "tr": "Görkemli şelale manzarası eşliğinde alabalık ve yöresel lezzetlerin sunulduğu mekan."
+        },
+        "location_url": "https://maps.google.com/?q=Eskitoglu+Selalesi+Derepazari+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "حديقة شاي عائلة بلدية أرديشين",
+          "en": "Ardesen Municipality Family Tea Garden",
+          "tr": "Ardeşen Belediyesi Aile Çay Bahçesi"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ardesen_cay1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ardesen_cay2.png"
+        ],
+        "desc": {
+          "ar": "حديقة شاي عائلية مطلة على البحر وتقدم الشاي التركي الطازج والوجبات الخفيفة.",
+          "en": "Pleasant family seaside tea garden serving fresh Black Sea tea and snacks.",
+          "tr": "Sahil kenarında ailecek taze Rize çayı içip dinlenebileceğiniz nezih mekan."
+        },
+        "location_url": "https://maps.google.com/?q=Ardesen+Belediyesi+Cay+Bahcesi",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مطعم روسي ألاكارت",
+          "en": "Rossi A’La Carte",
+          "tr": "Rossi A’La Carte"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rossi1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rossi2.png"
+        ],
+        "desc": {
+          "ar": "تجربة طعام راقية تجمع بين المأكولات العالمية والتركية بإطلالة ساحرة.",
+          "en": "Fine dining a la carte restaurant offering international and Turkish cuisine.",
+          "tr": "Şık atmosferi ve zengin menüsüyle kaliteli bir a la carte akşam yemeği deneyimi."
+        },
+        "location_url": "https://maps.google.com/?q=Rossi+Ala+Carte+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مطعم تاكا رافتنج الريفي",
+          "en": "Taka Rafting Country Restaurant",
+          "tr": "Taka Rafting Kır Lokantası"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/takarafting1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/takarafting2.png"
+        ],
+        "desc": {
+          "ar": "مطعم ريفي على ضفاف نهر فرتنا يقدم سمك نهري ومأكولات طازجة بعد جولات التجديف.",
+          "en": "Riverside restaurant offering hearty local foods and fresh fish along rafting spots.",
+          "tr": "Fırtına Deresi kenarında rafting sonrası taze balık ve yöresel lezzet durağı."
+        },
+        "location_url": "https://maps.google.com/?q=Taka+Rafting+Kir+Lokantasi+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مطعم غورسوي",
+          "en": "Gursoy Restaurant",
+          "tr": "Gürsoy Restaurant"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gursoy1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/gursoy2.png"
+        ],
+        "desc": {
+          "ar": "مطعم عريق يقدم كباب ريزة الشهير والمشاوي واللحوم الطازجة بجودة عالية.",
+          "en": "Traditional restaurant renowned for Rize roast beef (kavurma), kebabs, and grills.",
+          "tr": "Meşhur Rize kavurması ve nefis ızgara et çeşitleri sunan köklü lezzet durağı."
+        },
+        "location_url": "https://maps.google.com/?q=Gursoy+Restaurant+Rize",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مطعم رينا للمأكولات البحرية",
+          "en": "Rina Restaurant",
+          "tr": "Rina Restorant"
+        },
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rina1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rina2.png"
+        ],
+        "desc": {
+          "ar": "مطعم بحري أنيق يقدم أشهى الأسماك والمأكولات البحرية الطازجة على شاطئ البحر.",
+          "en": "Seafood restaurant serving the freshest catch from the Black Sea with sea views.",
+          "tr": "Karadeniz'in taze balıklarını ve deniz ürünlerini şık bir ortamda sunan sahil restoranı."
+        },
+        "location_url": "https://maps.google.com/?q=Rina+Restorant+Rize",
+        "needs_ad": true
       }
     ]
   }

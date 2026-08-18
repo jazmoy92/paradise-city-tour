@@ -187,12 +187,12 @@
       },
       {
         "name": {
-          "ar": "بافري بنغالوف",
+          "ar": "اكواخ بافري ",
           "en": "Pavri Bungalov",
           "tr": "Pavri Bungalov"
         },
-        "image": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri1.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri1.png",
+        "images": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri3.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/pavri4.png",

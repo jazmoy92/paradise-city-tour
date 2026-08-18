@@ -147,12 +147,12 @@
       },
       {
         "name": {
-          "ar": "ليفا بنغالوف",
+          "ar": "اكواخ ليفا ",
           "en": "Liva Bungalov",
           "tr": "Liva Bungalov"
         },
-        "image": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva1.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva1.png",
+        "images": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva3.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/liva4.png",

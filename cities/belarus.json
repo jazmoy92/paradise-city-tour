@@ -1,0 +1,288 @@
+{
+  "belarus": {
+    "needs_ad": false,
+    "cities": {
+      "minsk": {
+        "names": {
+          "ar": "مينسك",
+          "en": "Minsk",
+          "tr": "Minsk"
+        },
+        "description": {
+          "ar": "عاصمة بيلاروسيا الكبيرة، تشتهر بشوارعها الشاسعة، العمارة السوفيتية الفخمة، الحدائق الخضراء الممتدة والمتاحف الحربية.",
+          "en": "The clean and spacious capital of Belarus, known for Grand Soviet Neoclassical architecture, wide avenues, and parks.",
+          "tr": "Belarus'un temiz ve geniş başkenti; Görkemli Sovyet Neoklasik mimarisi, geniş caddeleri ve parklarıyla ünlüdür."
+        },
+        "image": "res://images/minsk.png",
+        "bg_image": "res://images/minsk_bg.png",
+        "image_3d": "res://images/minsk_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ماريوت مينسك",
+              "en": "Minsk Marriott Hotel",
+              "tr": "Minsk Marriott Otel"
+            },
+            "image": "res://images/minsk_marriott.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق بكين مينسك",
+              "en": "Beijing Hotel Minsk",
+              "tr": "Beijing Hotel Minsk"
+            },
+            "image": "res://images/beijing_hotel_minsk.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوتشميسترز نافيتسكي",
+              "en": "Kuchmistrz Kaminski",
+              "tr": "Kuchmistrz Kaminski Restoran"
+            },
+            "image": "res://images/kuchmistrz.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أطباق بيلاروسية تقليدية مثل الدرانيكي",
+              "en": "Authentic Belarusian & Draniki",
+              "tr": "Geleneksel Belarus ve Draniki Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "متحف الحرب الوطنية العظمى",
+              "en": "Belarusian State Museum of the History of the Great Patriotic War",
+              "tr": "Belarus Devlet Büyük Yurtseverlik Savaşı Tarihi Müzesi"
+            },
+            "image": "res://images/minsk_war_museum.png",
+            "description": {
+              "ar": "متحف معماري ضخم يوثق أحداث الحرب العالمية الثانية.",
+              "en": "A massive architectural museum honoring World War II history.",
+              "tr": "İkinci Dünya Savaşı tarihini onurlandıran devasa mimari müze."
+            }
+          },
+          {
+            "name": {
+              "ar": "المكتبة الوطنية البيلاروسية",
+              "en": "National Library of Belarus",
+              "tr": "Belarus Ulusal Kütüphanesi"
+            },
+            "image": "res://images/national_library_minsk.png",
+            "description": {
+              "ar": "مبنى فريد على شكل هندسي متعدد الأسطح يضاء ليلاً بإضاءة شاشات حيوية.",
+              "en": "Futuristic rhombicuboctahedron shaped building with an observation deck.",
+              "tr": "Gözlem terasına sahip, gelecekçi kübik geometrik yapıda kütüphane binası."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بلدة نيميدزا القديمة (تروايتسكوي)",
+              "en": "Trinity Suburb (Troitskoye Predmestye)",
+              "tr": "Trinity Semti (Troitskoye)"
+            },
+            "image": "res://images/trinity_suburb.png",
+            "description": {
+              "ar": "الحي التاريخي الوحيد الذي يعود للقرن التاسع عشر على ضفاف نهر سفيسلوتش.",
+              "en": "Picturesque 19th-century restored quarter on the banks of the Svisloch River.",
+              "tr": "Svisloch Nehir kıyısında 19. yüzyıldan kalma restore edilmiş resim gibi mahalle."
+            }
+          }
+        ]
+      },
+      "brest": {
+        "names": {
+          "ar": "برست",
+          "en": "Brest",
+          "tr": "Brest"
+        },
+        "description": {
+          "ar": "مدينة برست الحدودية التاريخية الواقعة غرب بيلاروسيا، تشتهر بقلعة برست البطلة ومحمية بياوفيجا للغابات.",
+          "en": "Historic border city in western Belarus, world-renowned for the Brest Hero-Fortress and nearby primeval forests.",
+          "tr": "Batı Belarus'ta tarihi sınır şehri; Brest Kahraman Kalesi ve yakındaki el değmemiş ormanlarıyla dünyaca ünlüdür."
+        },
+        "image": "res://images/brest.png",
+        "bg_image": "res://images/brest_bg.png",
+        "image_3d": "res://images/brest_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق هيرميتاج برست",
+              "en": "Hermitage Hotel Brest",
+              "tr": "Hermitage Hotel Brest"
+            },
+            "image": "res://images/hermitage_brest.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوروغوا",
+              "en": "Jules Verne Restaurant",
+              "tr": "Jules Verne Restoran"
+            },
+            "image": "res://images/jules_verne_brest.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أوروبي حديث وبيلاروسي",
+              "en": "European & Belarusian",
+              "tr": "Avrupa ve Belarus Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة برست البطلة (Brest Fortress)",
+              "en": "Brest Hero-Fortress Complex",
+              "tr": "Brest Kahraman Kalesi Kompleksi"
+            },
+            "image": "res://images/brest_fortress.png",
+            "description": {
+              "ar": "تجمع تذكاري عسكري ضخم يخلد صمود القلعة في الحرب العالمية الثانية.",
+              "en": "Imperial 19th-century fortress turned Soviet World War II memorial complex.",
+              "tr": "Sovyet İkinci Dünya Savaşı anıt kompleksine dönüştürülmüş 19. yüzyıl kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع سوفيتسكايا للمشاة",
+              "en": "Sovetskaya Pedestrian Street",
+              "tr": "Sovetskaya Yürüyüş Caddesi"
+            },
+            "image": "res://images/sovetskaya_brest.png",
+            "description": {
+              "ar": "شارع مشاة حيوي يُضاء فيه مصابيح الغاز يدوياً كل مساء.",
+              "en": "Lively pedestrian street famous for a lamplighter who lights gas lanterns every evening by hand.",
+              "tr": "Her akşam gaz lambalarını elle yakan fenercisiyle ünlü canlı yürüyüş caddesi."
+            }
+          }
+        ]
+      },
+      "grodno": {
+        "names": {
+          "ar": "غردنو",
+          "en": "Grodno",
+          "tr": "Grodno"
+        },
+        "description": {
+          "ar": "أجمل مدن بيلاروسيا الكلاسيكية، وتعد الوحيدة التي لم تتأثر بالعمارة الحديثة تحتفظ بقلاعها وقلاع الملوك القدماء.",
+          "en": "Belarus's royal city, rich in royal castles, Catholic cathedrals, and intact pre-war architecture.",
+          "tr": "Belarus'un kraliyet şehri; kraliyet kaleleri, Katolik katedralleri ve savaş öncesi mimarisiyle zengindir."
+        },
+        "image": "res://images/grodno.png",
+        "bg_image": "res://images/grodno_bg.png",
+        "image_3d": "res://images/grodno_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كرونون بارك غردنو",
+              "en": "Kronon Park Hotel",
+              "tr": "Kronon Park Otel"
+            },
+            "image": "res://images/kronon_park.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعمستاري ليوبلين",
+              "en": "Royal Bakery & Restaurant",
+              "tr": "Royal Restoran Grodno"
+            },
+            "image": "res://images/royal_grodno.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "مأكولات ملكية وبولندية بيلاروسية",
+              "en": "Royal Belarusian & Polish",
+              "tr": "Kraliyet Belarus ve Polonya Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة غردنو القديمة والحديثة",
+              "en": "Old & New Grodno Castles",
+              "tr": "Grodno Eski ve Yeni Kaleleri"
+            },
+            "image": "res://images/grodno_castle.png",
+            "description": {
+              "ar": "قلاع الملوك الملكية التاريخية المطلة على نهر نيمان.",
+              "en": "Centuries-old royal residences of Polish kings and Lithuanian grand dukes.",
+              "tr": "Polonya krallarının ve Litvanya büyük düklerinin yüzyıllık kraliyet ikametgahları."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كنيسة بوريس وغليب الكالوزية",
+              "en": "Kalozha Church of SS. Boris and Gleb",
+              "tr": "Kalozha Kilisesi"
+            },
+            "image": "res://images/kalozha.png",
+            "description": {
+              "ar": "كنيسة حجرية يعود تاريخها للقرن الثاني عشر وهي أقدم مبنى في المدينة.",
+              "en": "12th-century Orthodox church, the oldest surviving building in Grodno.",
+              "tr": "Grodno'da ayakta kalan en eski yapı olan 12. yüzyıl Ortodoks kilisesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

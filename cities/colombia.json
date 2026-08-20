@@ -1,0 +1,296 @@
+{
+  "colombia": {
+    "needs_ad": false,
+    "cities": {
+      "bogota": {
+        "names": {
+          "ar": "بوغوتا",
+          "en": "Bogotá",
+          "tr": "Bogotá"
+        },
+        "description": {
+          "ar": "عاصمة كولومبيا الجبلية المرتفعة، تشتهر بوسطها التاريخي (لا كانديلاريا)، متحف الذهب العظيم، وتلة مونسيراتي.",
+          "en": "Colombia's high-altitude Andes capital, famous for La Candelaria old town, Gold Museum, and Monserrate hill.",
+          "tr": "Kolombiya'nın yüksek And başkenti; La Candelaria eski kenti, Altın Müzesi ve Monserrate tepesiyle ünlüdür."
+        },
+        "image": "res://images/bogota.png",
+        "bg_image": "res://images/bogota_bg.png",
+        "image_3d": "res://images/bogota_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فورسيزونز كاسا مدينا بوغوتا",
+              "en": "Four Seasons Hotel Casa Medina Bogotá",
+              "tr": "Four Seasons Hotel Casa Medina Bogotá"
+            },
+            "image": "res://images/four_seasons_bogota.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق غراند أوتيل جران أراو كان بوغوتا",
+              "en": "Grand Hyatt Bogotá",
+              "tr": "Grand Hyatt Bogotá"
+            },
+            "image": "res://images/grand_hyatt_bogota.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم إيل شيلو بوغوتا",
+              "en": "El Cielo Bogotá",
+              "tr": "El Cielo Bogotá Restoran"
+            },
+            "image": "res://images/el_cielo_bogota.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "تجربة طهي كولومبية مبتكرة معتمدة على الحواس",
+              "en": "Sensory Colombian Fine Dining",
+              "tr": "Duyusal Kolombiya Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تلة وقصية مونسيراتي (Monserrate Hill)",
+              "en": "Monserrate Hill",
+              "tr": "Monserrate Tepesi"
+            },
+            "image": "res://images/monserrate.png",
+            "description": {
+              "ar": "تلة مرتفعة بـ 3,152 متراً فوق البحر توفر أروع إطلالة بانورامية على بوغوتا عبر التلفريك.",
+              "en": "Mountain peak rising 3,152m above sea level with a church and panoramic cable car.",
+              "tr": "Teleferikle ulaşılan, kentin 3.152 metre üzerinde panoramik manzaralı dağ zirvesi."
+            }
+          },
+          {
+            "name": {
+              "ar": "متحف الذهب (Museo del Oro)",
+              "en": "Gold Museum (Museo del Oro)",
+              "tr": "Altın Müzesi (Museo del Oro)"
+            },
+            "image": "res://images/gold_museum.png",
+            "description": {
+              "ar": "يحتوي على أكبر مجموعة قطع ذهبية أثرية من حضارات كولومبيا ما قبل الكولومبية.",
+              "en": "World's largest collection of pre-Hispanic gold artifacts.",
+              "tr": "İspanyol öncesi döneme ait dünyanın en büyük altın eser koleksiyonu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي لا كانديلاريا التاريخي",
+              "en": "La Candelaria District",
+              "tr": "La Candelaria Semti"
+            },
+            "image": "res://images/la_candelaria.png",
+            "description": {
+              "ar": "القلب التاريخي بعمارته الاستعمارية الإسبانية وشوارعه الحجرية والرسومات الجدارية.",
+              "en": "Cobblestone historic center packed with colonial houses, museums, and street art.",
+              "tr": "Sömürge dönemi evleri, müzeler ve duvar resimleriyle dolu tarihi arnavut kaldırımlı merkez."
+            }
+          }
+        ]
+      },
+      "medellin": {
+        "names": {
+          "ar": "ميديلين",
+          "en": "Medellín",
+          "tr": "Medellín"
+        },
+        "description": {
+          "ar": "تسمى مدينة الربيع الدائم لطقسها الروعة، وتشتهر بتلفريك المترو التلّي، حديقة الأركيد، وحي الكومونا 13 المبتكر.",
+          "en": "The City of Eternal Spring, world-famous for its Metrocable, Botero Plaza, and Comuna 13 art.",
+          "tr": "Ebedi Bahar Şehri; Metrocable, Botero Meydanı ve Comuna 13 sanatsal dönüşümüyle ünlüdür."
+        },
+        "image": "res://images/medellin.png",
+        "bg_image": "res://images/medellin_bg.png",
+        "image_3d": "res://images/medellin_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا تشارلي ميديلين",
+              "en": "The Charlee Hotel",
+              "tr": "The Charlee Hotel"
+            },
+            "image": "res://images/the_charlee.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أوسياس ميديلين",
+              "en": "Oci.Mde Restaurant",
+              "tr": "Oci.Mde Restoran"
+            },
+            "image": "res://images/oci_mde.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق كولومبية مطهوة ببطء وجذابة",
+              "en": "Slow-cooked Colombian Comfort Food",
+              "tr": "Ağır Ateşte Pişmiş Kolombiya Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "حي الكومونا 13 (Comuna 13)",
+              "en": "Comuna 13 Street Art Tour",
+              "tr": "Comuna 13 Sokak Sanatı Turu"
+            },
+            "image": "res://images/comuna_13.png",
+            "description": {
+              "ar": "حي أسطوري تحول من منطقة نزاع إلى معرض فنون جدارية وسلاليم كهربائية هوائية مفتوحة.",
+              "en": "Vibrant neighborhood with outdoor escalators and powerful street art wall murals.",
+              "tr": "Açık hava yürüyen merdivenleri ve sokak duvar resimleriyle canlı bir mahalleye dönüşen semt."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ساحة تماثيل بوتيرو (Plaza Botero)",
+              "en": "Plaza Botero",
+              "tr": "Botero Meydanı"
+            },
+            "image": "res://images/plaza_botero.png",
+            "description": {
+              "ar": "ساحة مفتوحة تضم 23 تمثالاً ضخماً تبرع بها الفنان الكولومبي العالمي فرناندو بوتيرو.",
+              "en": "Park showcasing 23 oversized bronze sculptures by Fernando Botero.",
+              "tr": "Fernando Botero'nun 23 devasa bronz heykeline ev sahipliği yapan park."
+            }
+          }
+        ]
+      },
+      "cartagena": {
+        "names": {
+          "ar": "قرطاجنة",
+          "en": "Cartagena",
+          "tr": "Cartagena"
+        },
+        "description": {
+          "ar": "درة الساحل الكاريبي لكولومبيا، تتميز بمدينتها القديمة المحاطة بالأسوار التاريخية، والمباني الزاهية بالألوان، والحصون.",
+          "en": "Caribbean coastal jewel, famous for its walled Old Town, colonial balconies, and Fort San Felipe.",
+          "tr": "Karayip kıyı mücevheri; surlarla çevrili Eski Kent'i, sömürge balkonları ve San Felipe Kalesi ile ünlüdür."
+        },
+        "image": "res://images/cartagena.png",
+        "bg_image": "res://images/cartagena_bg.png",
+        "image_3d": "res://images/cartagena_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق صوفيتيل سانتا كلارا قرطاجنة",
+              "en": "Sofitel Legend Santa Clara Cartagena",
+              "tr": "Sofitel Legend Santa Clara Cartagena"
+            },
+            "image": "res://images/sofitel_cartagena.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لا سيفيتشيريا",
+              "en": "La Cevicheria",
+              "tr": "La Cevicheria Restoran"
+            },
+            "image": "res://images/la_cevicheria.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "سيفيتشي وأسماك الكاريبي الطازجة",
+              "en": "Fresh Caribbean Ceviche & Seafood",
+              "tr": "Taze Karayip Ceviche ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة سان فيليبي دي باراخاس",
+              "en": "Castle San Felipe de Barajas",
+              "tr": "San Felipe de Barajas Kalesi"
+            },
+            "image": "res://images/san_felipe_cartagena.png",
+            "description": {
+              "ar": "أضخم حصن عسكري إسباني بني في الأمريكتين ومزود بأنفاق أرضية معقدة.",
+              "en": "Imposing Spanish fortress built on a hill with complex underground tunnels.",
+              "tr": "Tepe üzerine inşa edilmiş, karmaşık yeraltı tünellerine sahip görkemli İspanyol kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المدينة التاريخية المحاطة بالأسوار (Walled City)",
+              "en": "Cartagena Walled City",
+              "tr": "Cartagena Sur İçi Şehri"
+            },
+            "image": "res://images/cartagena_walled_city.png",
+            "description": {
+              "ar": "منطقة التراث العالمي المليئة بالمباني الملونة والنوافذ المليئة بالزهور.",
+              "en": "UNESCO-listed maze of cobblestone streets, flowering bougainvillea, and plazas.",
+              "tr": "UNESCO listesindeki arnavut kaldırımlı sokaklar ve begonvillerle dolu tarihi merkez."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

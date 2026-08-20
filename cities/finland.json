@@ -1,0 +1,216 @@
+{
+  "finland": {
+    "needs_ad": false,
+    "cities": {
+      "helsinki": {
+        "names": {
+          "ar": "هلسنكي",
+          "en": "Helsinki",
+          "tr": "Helsinki"
+        },
+        "description": {
+          "ar": "عاصمة فنلندا الساحلية على بحر البالتيك، تتميز بتصميمها العصري، كاتدرائية هلسنكي البيضاء، ومبانٍ حديثة وساونا بحرية.",
+          "en": "Finland's seaside capital, famous for neoclassical architecture, Helsinki Cathedral, design district, and sea saunas.",
+          "tr": "Finlandiya'nın sahil başkenti; Neoklasik mimarisi, Helsinki Katedrali ve deniz saunalarıyla tanınır."
+        },
+        "image": "res://images/helsinki.png",
+        "bg_image": "res://images/helsinki_bg.png",
+        "image_3d": "res://images/helsinki_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق سانت جورج هلسنكي",
+              "en": "Hotel St. George Helsinki",
+              "tr": "Hotel St. George Helsinki"
+            },
+            "image": "res://images/st_george_helsinki.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق كيمب هلسنكي",
+              "en": "Hotel Kämp Helsinki",
+              "tr": "Hotel Kämp Helsinki"
+            },
+            "image": "res://images/hotel_kamp.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أولو هلسنكي (Olo)",
+              "en": "Olo Restaurant Helsinki",
+              "tr": "Olo Restoran Helsinki"
+            },
+            "image": "res://images/olo_helsinki.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات إسسكندنافية وفنلندية معاصرة حائزة ميشلان",
+              "en": "Michelin-Starred Modern Nordic Gastronomy",
+              "tr": "Michelin Yıldızlı Modern İskandinav Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية هلسنكي البيضاء (Helsinki Cathedral)",
+              "en": "Helsinki Cathedral",
+              "tr": "Helsinki Katedrali"
+            },
+            "image": "res://images/helsinki_cathedral.png",
+            "description": {
+              "ar": "رمز هلسنكي الأيقوني، كنيسة نيو كلاسيكية بيضاء بقباب خضراء تطل على ساحة مجلس الشيوخ.",
+              "en": "Iconic white neoclassical cathedral with green domes dominating Senate Square.",
+              "tr": "Senato Meydanı'na hakim yeşil kubbeli ikonik beyaz Neoklasik katedral."
+            }
+          },
+          {
+            "name": {
+              "ar": "قلعة سومينلينا البحرية (Suomenlinna Fortress)",
+              "en": "Suomenlinna Sea Fortress (UNESCO)",
+              "tr": "Suomenlinna Deniz Kalesi"
+            },
+            "image": "res://images/suomenlinna.png",
+            "description": {
+              "ar": "حصن بحري مبني على 6 جزر متصلة يعود للقرن الثامن عشر ومدرج باليونيسكو.",
+              "en": "Inhabited 18th-century sea fortress spread across six islands off Helsinki.",
+              "tr": "Helsinki açıklarındaki altı adaya yayılmış 18. yüzyıldan kalma yaşayan deniz kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كنيسة الصخرة (Temppeliaukio Church)",
+              "en": "Temppeliaukio Rock Church",
+              "tr": "Temppeliaukio Kaya Kilisesi"
+            },
+            "image": "res://images/rock_church_helsinki.png",
+            "description": {
+              "ar": "كنيسة فريدة منحوتة بالكامل داخل الصخور الجرانيتية الطبيعية وسقف نحاسي.",
+              "en": "Modern church carved directly into solid granite bedrock with a copper dome.",
+              "tr": "Doğrudan granit kayaya oyulmuş, bakır kubbeli modern kilise."
+            }
+          }
+        ]
+      },
+      "rovaniemi": {
+        "names": {
+          "ar": "روفانييمي (لابلاند)",
+          "en": "Rovaniemi",
+          "tr": "Rovaniemi"
+        },
+        "description": {
+          "ar": "العاصمة الرسمية لسانتا كلوز في إقليم لابلاند الثلجي، موطن الشفق القطبي والفنادق الزجاجية وركوب الـ الرنة.",
+          "en": "The official hometown of Santa Claus on the Arctic Circle, famous for Northern Lights and glass igloos.",
+          "tr": "Kuzey Kutup Dairesi'ndeki Noel Baba'nın resmi memleketi; Kuzey Işıkları ve cam iglo otelleriyle ünlüdür."
+        },
+        "image": "res://images/rovaniemi.png",
+        "bg_image": "res://images/rovaniemi_bg.png",
+        "image_3d": "res://images/rovaniemi_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الأكواخ الزجاجية أركتيك تري هاوس",
+              "en": "Arctic TreeHouse Hotel Rovaniemi",
+              "tr": "Arctic TreeHouse Hotel Rovaniemi"
+            },
+            "image": "res://images/arctic_treehouse.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع سانتا كلوز للجليد سانتا إيجلو",
+              "en": "Santa's Igloos Arctic Circle",
+              "tr": "Santa's Igloos Arctic Circle"
+            },
+            "image": "res://images/santas_igloos.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم نتا أركتيك روفانييمي",
+              "en": "Restaurant Nili Rovaniemi",
+              "tr": "Nili Restoran Rovaniemi"
+            },
+            "image": "res://images/nili_rovaniemi.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "لحوم الغزال القطبية وأسماك لابلاند الطازجة",
+              "en": "Authentic Lapland Reindeer & Arctic Salmon",
+              "tr": "Otantik Laponya Ren Geyiği ve Somon"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قرية سانتا كلوز القطبية (Santa Claus Village)",
+              "en": "Santa Claus Village",
+              "tr": "Noel Baba Köyü (Santa Claus Village)"
+            },
+            "image": "res://images/santa_claus_village.png",
+            "description": {
+              "ar": "قرية سحرية يمر بها خط الدائرة القطبية الشمالية وتضم مكتب بريد سانتا الأيقوني.",
+              "en": "Magical park right on the Arctic Circle line where visitors meet Santa Claus.",
+              "tr": "Ziyaretçilerin Noel Baba ile tanıştığı, Kuzey Kutup Çizgisi üzerindeki masalsı park."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف أركمنت القطبي (Arktikum Science Museum)",
+              "en": "Arktikum Science Centre & Museum",
+              "tr": "Arktikum Bilim Merkezi ve Müzesi"
+            },
+            "image": "res://images/arktikum.png",
+            "description": {
+              "ar": "متحف زجاجي تحت الأرض يروي تاريخ ثقافة سامي القطبية والشفق القطبي.",
+              "en": "Museum in a glass tunnel exploring Arctic nature, Northern Lights, and Sámi culture.",
+              "tr": "Kutup doğasını, Kuzey Işıklarını ve Sámi kültürünü inceleyen cam tünelli müze."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

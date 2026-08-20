@@ -1,0 +1,105 @@
+{
+  "grenada": {
+    "needs_ad": false,
+    "cities": {
+      "saint_georges": {
+        "names": {
+          "ar": "سانت جورج",
+          "en": "St. George's",
+          "tr": "St. George's"
+        },
+        "description": {
+          "ar": "عاصمة غرينادا الأجمل في الكاريبي، تلتف حول ميناء حدوة الحصان البركاني وتشتهر برائحة جوزة الطيب والشواطئ.",
+          "en": "The Spice Isle capital, centered around a horseshoe harbor and famous for Grand Anse Beach and nutmeg.",
+          "tr": "Baharat Adası başkenti; at nalı şeklindeki limanı ve Grand Anse Plajı ile ünlüdür."
+        },
+        "image": "res://images/saint_georges.png",
+        "bg_image": "res://images/saint_georges_bg.png",
+        "image_3d": "res://images/saint_georges_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا سيلفرسانتس غرينادا",
+              "en": "Silversands Grenada",
+              "tr": "Silversands Grenada"
+            },
+            "image": "res://images/silversands_grenada.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل كالاباش غرينادا",
+              "en": "Calabash Luxury Boutique Hotel",
+              "tr": "Calabash Luxury Boutique Hotel"
+            },
+            "image": "res://images/calabash_grenada.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم رودز أت كالاباش (Rhodes Restaurant)",
+              "en": "Rhodes Restaurant at Calabash",
+              "tr": "Rhodes Restoran Calabash"
+            },
+            "image": "res://images/rhodes_grenada.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات كاريبية بتوابل جوزة الطيب المحلية والأسماك",
+              "en": "Gourmet Caribbean Seafood & Nutmeg Spices",
+              "tr": "Gurme Karayip Deniz Ürünleri ve Baharatlar"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "حديقة التماثيل تحت الماء (Underwater Sculpture Park)",
+              "en": "Molinere Underwater Sculpture Park",
+              "tr": "Molinere Su Altı Heykel Parkı"
+            },
+            "image": "res://images/underwater_park_grenada.png",
+            "description": {
+              "ar": "أول متحف تماثيل تحت الماء في العالم مخصص للغوص والغطس والشعاب المرجانية.",
+              "en": "The world's first underwater sculpture park, creating artificial coral reefs for divers.",
+              "tr": "Dalgıçlar için yapay mercan kayalıkları oluşturan dünyanın ilk su altı heykel parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ غراند أنس (Grand Anse Beach)",
+              "en": "Grand Anse Beach",
+              "tr": "Grand Anse Plajı"
+            },
+            "image": "res://images/grand_anse_beach.png",
+            "description": {
+              "ar": "شاطئ ساحر برمال بيضاء ناعمة يمتد لـ 3 كم ومحاط بالمنتجعات الفاخرة.",
+              "en": "World-famous 3km long white sand beach protected by calm waters.",
+              "tr": "Sakin sularla korunan 3 km uzunluğunda dünyaca ünlü beyaz kumsal."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

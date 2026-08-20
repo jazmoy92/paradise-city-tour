@@ -1,0 +1,377 @@
+{
+  "belgium": {
+    "needs_ad": false,
+    "cities": {
+      "brussels": {
+        "names": {
+          "ar": "بروكسل",
+          "en": "Brussels",
+          "tr": "Brüksel"
+        },
+        "description": {
+          "ar": "عاصمة بلجيكا والاتحاد الأوروبي، تشتهر بساحة غراند بالاس الساحرة، الشوكولاتة البلجيكية، ومجسم الأتوميوم الفضائي.",
+          "en": "Capital of Belgium and the EU, famous for the Grand Place, Belgian chocolates, waffles, and the Atomium.",
+          "tr": "Belçika'nın ve AB'nin başkenti; Grand Place, Belçika çikolataları, waffle ve Atomium ile ünlüdür."
+        },
+        "image": "res://images/brussels.png",
+        "bg_image": "res://images/brussels_bg.png",
+        "image_3d": "res://images/brussels_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أستوريو آملي بروكسل",
+              "en": "Hotel Amigo, a Rocco Forte Hotel",
+              "tr": "Hotel Amigo Brüksel"
+            },
+            "image": "res://images/hotel_amigo.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا جولي ميتوبول",
+              "en": "Juliana Hotel Brussels",
+              "tr": "Juliana Hotel Brüksel"
+            },
+            "image": "res://images/juliana_brussels.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيل موف جينيف",
+              "en": "Comme Chez Soi",
+              "tr": "Comme Chez Soi Restoran"
+            },
+            "image": "res://images/comme_chez_soi.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "فرنسي وبلجيكي كلاسيكي راقٍ",
+              "en": "French & Belgian Fine Dining",
+              "tr": "Fransız ve Belçika Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "ساحة غراند بالاس (Grand Place)",
+              "en": "Grand Place (Grote Markt)",
+              "tr": "Grand Place Meydanı"
+            },
+            "image": "res://images/grand_place.png",
+            "description": {
+              "ar": "الساحة المركزية المدرجة يونسكو والمحاطة بمباني النقابات المذهبة وقاعة المدينة.",
+              "en": "UNESCO central square lined with opulent guildhalls and the Gothic Town Hall.",
+              "tr": "UNESCO listesindeki, altın kaplamalı lonca binalarıyla çevrili merkezi meydan."
+            }
+          },
+          {
+            "name": {
+              "ar": "مجسم الأتوميوم (Atomium)",
+              "en": "Atomium",
+              "tr": "Atomium"
+            },
+            "image": "res://images/atomium.png",
+            "description": {
+              "ar": "معلم شهير مصمم على شكل خلية حديد مكبرة 165 مليار مرة ويضم مصاعد ومناظر بانورامية.",
+              "en": "Iconic futuristic structure shaped like a giant iron crystal lattice.",
+              "tr": "Dev bir demir kristal hücresi şeklinde tasarlanmış ikonik gelecekçi yapı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "تمثال مانيكين بيس (Manneken Pis)",
+              "en": "Manneken Pis",
+              "tr": "Manneken Pis Heykeli"
+            },
+            "image": "res://images/manneken_pis.png",
+            "description": {
+              "ar": "تمثال برونزي صغير لولد يمثل الفلكلور والروح الساخرة لبروكسل.",
+              "en": "Famous small bronze fountain sculpture embodying Brussels folklore.",
+              "tr": "Brüksel folklorunu simgeleyen ünlü küçük bronz fıskiye heykeli."
+            }
+          }
+        ]
+      },
+      "bruges": {
+        "names": {
+          "ar": "بروج",
+          "en": "Bruges",
+          "tr": "Brugge"
+        },
+        "description": {
+          "ar": "تسمى فينيسيا الشمال، مدينة قوطية أثرية ساحرة تتخللها القنوات المائية والشوارع الحجرية الشبيهة بقصص الخيال.",
+          "en": "The Venice of the North, a fairy-tale medieval town of cobblestone streets and romantic canals.",
+          "tr": "Kuzeyin Venedik'i; arnavut kaldırımlı sokakları ve romantik kanallarıyla masalsı bir ortaçağ şehri."
+        },
+        "image": "res://images/bruges.png",
+        "bg_image": "res://images/bruges_bg.png",
+        "image_3d": "res://images/bruges_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق هيرميتاج دو دوك دي بورغونيا",
+              "en": "Hotel Duke's Palace Bruges",
+              "tr": "Hotel Duke's Palace Brugge"
+            },
+            "image": "res://images/dukes_palace_bruges.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيل بروج",
+              "en": "Park Restaurant Bruges",
+              "tr": "Park Restoran Brugge"
+            },
+            "image": "res://images/park_restaurant_bruges.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق بلجيكية وفرنسية راقية",
+              "en": "Belgian & French Classics",
+              "tr": "Belçika ve Fransız Klasikleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج الجرس (Belfry of Bruges)",
+              "en": "Belfry of Bruges (Belfort)",
+              "tr": "Brugge Çan Kulesi"
+            },
+            "image": "res://images/belfry_bruges.png",
+            "description": {
+              "ar": "برج أجراس قروسطي بارتفاع 83 متراً يطل على ساحة السوق الرئيسية.",
+              "en": "Medieval bell tower overlooking the market square with 366 steps.",
+              "tr": "Pazar meydanına bakan 366 basamaklı ortaçağ çan kulesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قنوات بروج المائية (Canals of Bruges)",
+              "en": "Canals of Bruges Boat Tour",
+              "tr": "Brugge Kanalları Tekne Turu"
+            },
+            "image": "res://images/bruges_canals.png",
+            "description": {
+              "ar": "جولة بالقارب بين المنازل والمباني التاريخية العريقة عبر المياه.",
+              "en": "Romantic boat rides passing under historic bridges and gothic houses.",
+              "tr": "Tarihi köprülerin ve Gotik evlerin altından geçen romantik tekne turları."
+            }
+          }
+        ]
+      },
+      "ghent": {
+        "names": {
+          "ar": "غنت",
+          "en": "Ghent",
+          "tr": "Gent"
+        },
+        "description": {
+          "ar": "مدينة جامعية وتاريخية نابضة بالحياة، تمتاز بقلعة القرافشة، المرافئ القديمة والمتاحف الفنية.",
+          "en": "A vibrant university town featuring Gravensteen Castle, medieval quays, and rich art history.",
+          "tr": "Gravensteen Kalesi, ortaçağ rıhtımları ve zengin sanat tarihiyle canlı bir üniversite şehri."
+        },
+        "image": "res://images/ghent.png",
+        "bg_image": "res://images/ghent_bg.png",
+        "image_3d": "res://images/ghent_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق 1898 ذا بوست غنت",
+              "en": "1898 The Post Ghent",
+              "tr": "1898 The Post Gent"
+            },
+            "image": "res://images/1898_the_post.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيلغا كوين",
+              "en": "Oak Restaurant Ghent",
+              "tr": "Oak Restoran Gent"
+            },
+            "image": "res://images/oak_ghent.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "حديث مبتكر بلجيكي",
+              "en": "Modern Creative Gastronomy",
+              "tr": "Modern Yaratıcı Gastronomi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة جرافينستين (Gravensteen)",
+              "en": "Gravensteen Castle",
+              "tr": "Gravensteen Kalesi"
+            },
+            "image": "res://images/gravensteen.png",
+            "description": {
+              "ar": "قلعة الكونتات الضخمة المحاطة بخندق مائي يعود تاريخها لعام 1180.",
+              "en": "Imposing 12th-century castle of the counts surrounded by a moat.",
+              "tr": "Bir hendekle çevrili, 12. yüzyıldan kalma heybetli kontlar kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "رصيف غراسليه وقورنليه المائي",
+              "en": "Graslei and Korenlei",
+              "tr": "Graslei ve Korenlei Rıhtımı"
+            },
+            "image": "res://images/graslei.png",
+            "description": {
+              "ar": "الميناء التاريخي القديم المصطف ببيوت النقابات والمقاهي الشاطئية.",
+              "en": "Historic quay in the city center lined with medieval guild houses.",
+              "tr": "Şehir merkezinde, ortaçağ lonca evleriyle sıralanmış tarihi rıhtım."
+            }
+          }
+        ]
+      },
+      "antwerp": {
+        "names": {
+          "ar": "أنتويرب",
+          "en": "Antwerp",
+          "tr": "Antwerpen"
+        },
+        "description": {
+          "ar": "عاصمة الألماس والموضة العالمية في بلجيكا، تضم أقدم محطة قطار وأهم ميناء تجاري وعمارة باروكية.",
+          "en": "The diamond capital of the world, famous for fashion, its opulent railway station, and Peter Paul Rubens.",
+          "tr": "Dünyanın elmas başkenti; moda, görkemli tren garı ve Peter Paul Rubens ile ünlüdür."
+        },
+        "image": "res://images/antwerp.png",
+        "bg_image": "res://images/antwerp_bg.png",
+        "image_3d": "res://images/antwerp_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الملاذ القوطي أنتويرب",
+              "en": "Botanic Sanctuary Antwerp",
+              "tr": "Botanic Sanctuary Antwerpen"
+            },
+            "image": "res://images/botanic_sanctuary.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ذا جين",
+              "en": "The Jane Antwerp",
+              "tr": "The Jane Antwerpen"
+            },
+            "image": "res://images/the_jane_antwerp.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات راقية في كنيسة تاريخية محولة",
+              "en": "Fine Dining in a Converted Church",
+              "tr": "Eski Bir Kilisede Lüks Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محطة أنتويرب المركزية للقطارات",
+              "en": "Antwerp Central Station",
+              "tr": "Antwerpen Merkez Tren Garı"
+            },
+            "image": "res://images/antwerp_central.png",
+            "description": {
+              "ar": "واحدة من أجمل محطات القطار كاتدرائية الطراز في العالم.",
+              "en": "Widely considered one of the world's most beautiful railway stations.",
+              "tr": "Dünyanın en güzel tren garlarından biri olarak kabul edilir."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي الألماس (Diamond District)",
+              "en": "Antwerp Diamond District",
+              "tr": "Antwerpen Elmas Bölgesi"
+            },
+            "image": "res://images/diamond_district.png",
+            "description": {
+              "ar": "مركز تجارة وقطع الألماس الأول عالمياً والممتد على عدة شوارع محصنة.",
+              "en": "The square mile district where 84% of the world's rough diamonds pass through.",
+              "tr": "Dünyadaki işlenmemiş elmasların %84'ünün geçtiği ünlü elماس merkezi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

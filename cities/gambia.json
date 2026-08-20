@@ -1,0 +1,178 @@
+{
+  "gambia": {
+    "needs_ad": false,
+    "cities": {
+      "banjul": {
+        "names": {
+          "ar": "بانجول",
+          "en": "Banjul",
+          "tr": "Banjul"
+        },
+        "description": {
+          "ar": "عاصمة غامبيا الهادئة الواقعة على جزيرة سانت ماري عند مصب نهر غامبيا، تشتهر بقوس 22 وسوق ألبيرت.",
+          "en": "The island capital of The Gambia, famous for Arch 22 monument and bustling Albert Market.",
+          "tr": "Gambiya'nın ada başkenti; 22 Nolu Kemer anıtı ve Albert Pazarı ile ünlüdür."
+        },
+        "image": "res://images/banjul.png",
+        "bg_image": "res://images/banjul_bg.png",
+        "image_3d": "res://images/banjul_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل أوشن باي بانجول",
+              "en": "Ocean Bay Hotel & Resort",
+              "tr": "Ocean Bay Hotel & Resort"
+            },
+            "image": "res://images/ocean_bay_banjul.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم علي بابا بانجول",
+              "en": "Ali Baba Restaurant Banjul",
+              "tr": "Ali Baba Restoran Banjul"
+            },
+            "image": "res://images/ali_baba_banjul.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق دومودا والأسماك والمشويات",
+              "en": "Gambian Domoda & Fresh Seafood",
+              "tr": "Gambiya Domoda ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "نصب قوس 22 التاريخي (Arch 22)",
+              "en": "Arch 22 Monument",
+              "tr": "22 Nolu Kemer Anıtı"
+            },
+            "image": "res://images/arch_22.png",
+            "description": {
+              "ar": "قوس نصر مرتفع يبلغ 36 متراً يضم متحفاً ومطلات على كامل مدينة بانجول والمحيط.",
+              "en": "36-meter tall commemorative gateway arch with a museum and top viewing deck.",
+              "tr": "Müze ve seyir terasına sahip 36 metre yüksekliğindeki anıtsal kemer."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "سوق ألبيرت التراثي (Albert Market)",
+              "en": "Albert Market",
+              "tr": "Albert Pazarı"
+            },
+            "image": "res://images/albert_market.png",
+            "description": {
+              "ar": "سوق مغطى يعود للقرن التاسع عشر ينبض بالأقمشة الباتيك المنقوشة والتوابل.",
+              "en": "Vibrant street market established in the mid-nineteenth century selling crafts and spices.",
+              "tr": "19. yüzyılda kurulan el sanatları ve baharatlar satan canlı pazar."
+            }
+          }
+        ]
+      },
+      "serrekunda": {
+        "names": {
+          "ar": "سيريكوندا (كوتو وسينيجامبيا)",
+          "en": "Serrekunda",
+          "tr": "Serekunda"
+        },
+        "description": {
+          "ar": "أكبر مدن غامبيا ومركز السياحة الشاطئية الأول، وتضم منطقة سينيجامبيا المليئة بالفنادق والمطاعم والشواطئ.",
+          "en": "The largest urban area in The Gambia, heart of the Senegambia beach strip and craft markets.",
+          "tr": "Gambiya'nın en büyük şehri; Senegambia sahil şeridinin ve pazarlarının kalbidir."
+        },
+        "image": "res://images/serrekunda.png",
+        "bg_image": "res://images/serrekunda_bg.png",
+        "image_3d": "res://images/serrekunda_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع كوكو أوشن وسبا سينيجامبيا",
+              "en": "Coco Ocean Resort & Spa",
+              "tr": "Coco Ocean Resort & Spa"
+            },
+            "image": "res://images/coco_ocean.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الكابتن غامبيا",
+              "en": "The Butcher's Shop Restaurant",
+              "tr": "The Butcher's Shop Restoran"
+            },
+            "image": "res://images/butchers_shop.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "مشويات ومأكولات عالمية وأفريقية",
+              "en": "International Grill & European Fusion",
+              "tr": "Uluslararası Izgara ve Avrupa"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "بركة التماسيح المقدسة في كوتشيكالي (Kachikally Crocodile Pool)",
+              "en": "Kachikally Crocodile Pool",
+              "tr": "Kachikally Timsah Havuzu"
+            },
+            "image": "res://images/kachikally.png",
+            "description": {
+              "ar": "موقع مقدس يضم عشرات التماسيح المستأنسة التي يمكن للزوار لمسها والتقاط الصور معها.",
+              "en": "Sacred pool housing dozens of docile crocodiles worshipped for fertility blessings.",
+              "tr": "Bereket getirdiğine inanılan onlarca uysal timsahın bulunduğu kutsal havuz."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "محمية بيجيلو للقرود والطبيعة (Bijilo Forest Park)",
+              "en": "Bijilo Forest Park (Monkey Park)",
+              "tr": "Bijilo Orman Parkı (Maymun Parkı)"
+            },
+            "image": "res://images/bijilo_park.png",
+            "description": {
+              "ar": "محمية غابات شاطئية تعيش فيها القرود الخضراء والطيور النادرة.",
+              "en": "Coastal rainforest reserve filled with friendly green vervet monkeys and nature trails.",
+              "tr": "Dost canlısı yeşil maymunlar ve doğa yollarıyla dolu sahil yağmur ormanı parkı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

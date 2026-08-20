@@ -1,0 +1,361 @@
+{
+  "armenia": {
+    "needs_ad": false,
+    "cities": {
+      "yerevan": {
+        "names": {
+          "ar": "يريفان",
+          "en": "Yerevan",
+          "tr": "Erivan"
+        },
+        "description": {
+          "ar": "عاصمة أرمينيا العريقة المسماة بالمدينة الوردية، تشتهر بساحة الجمهورية، مجمع كاسكاد الفني، والمسارح الموسيقية.",
+          "en": "The pink-hued capital of Armenia, famous for Republic Square, Cascade Complex, and lively open-air cafes.",
+          "tr": "Erivan, Pembe Şehir olarak bilinen Ermenistan'ın başkentidir; Cumhuriyet Meydanı ve Kaskat Kompleksi ile ünlüdür."
+        },
+        "image": "res://images/yerevan.png",
+        "bg_image": "res://images/yerevan_bg.png",
+        "image_3d": "res://images/yerevan_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا ألكسندر يريفان",
+              "en": "The Alexander Yerevan",
+              "tr": "The Alexander Erivan"
+            },
+            "image": "res://images/alexander_yerevan.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أرمينيا ماريوت",
+              "en": "Armenia Marriott Hotel Yerevan",
+              "tr": "Armenia Marriott Hotel Erivan"
+            },
+            "image": "res://images/marriott_yerevan.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لافاش يريفان",
+              "en": "Lavash Restaurant",
+              "tr": "Lavash Restoran"
+            },
+            "image": "res://images/lavash_yerevan.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مأكولات أرمينية تقليدية",
+              "en": "Traditional Armenian",
+              "tr": "Geleneksel Ermeni Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مجمع كاسكاد التدرجي",
+              "en": "Yerevan Cascade",
+              "tr": "Erivan Kaskat Kompleksi"
+            },
+            "image": "res://images/cascade_yerevan.png",
+            "description": {
+              "ar": "سلالم مدرجة ضخمة تضم متاحف وتماثيل فنية وتطل على جبل أرارات.",
+              "en": "A massive limestone stairway with art museums and views of Mount Ararat.",
+              "tr": "Sanat müzeleri ve Ağrı Dağı manzarasına sahip kireçtaşından devasa merdiven kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ساحة الجمهورية",
+              "en": "Republic Square",
+              "tr": "Cumhuriyet Meydanı"
+            },
+            "image": "res://images/republic_square.png",
+            "description": {
+              "ar": "القلب المركزي للبلدة والمصنوع من الأحجار الوردية والنافورة الراقصة.",
+              "en": "The central town square featuring pink tuff stone architecture and musical fountains.",
+              "tr": "Pembe tüf taşı mimarisi ve müzikli fıskiyeleriyle şehrin merkezi meydanı."
+            }
+          }
+        ]
+      },
+      "gyumri": {
+        "names": {
+          "ar": "غيومري",
+          "en": "Gyumri",
+          "tr": "Gümrü"
+        },
+        "description": {
+          "ar": "العاصمة الثقافية لأرمينيا وثاني أكبر مدنها، تشتهر ببيوتها المبنية من الحجر الأسود والأحمر والفنون الشعبية.",
+          "en": "Armenia's cultural capital and second largest city, known for 19th-century black tuff architecture and rich arts.",
+          "tr": "Ermenistan'ın kültür başkenti; 19. yüzyıldan kalma siyah tüf taşı binaları ve zengin sanat geçmişiyle ünlüdür."
+        },
+        "image": "res://images/gyumri.png",
+        "bg_image": "res://images/gyumri_bg.png",
+        "image_3d": "res://images/gyumri_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ألكسندرا بول غيومري",
+              "en": "Alexandrapol Hotel",
+              "tr": "Alexandrapol Otel"
+            },
+            "image": "res://images/alexandrapol_hotel.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم تشيركيزي دزور",
+              "en": "Cherkezi Dzor",
+              "tr": "Cherkezi Dzor Restoran"
+            },
+            "image": "res://images/cherkezi_dzor.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك السلمون المطهوة على الطريقة التقليدية",
+              "en": "Trout & Traditional Fish",
+              "tr": "Geleneksel Alabalık Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "الحصن الأسود (سيف بيرد)",
+              "en": "Black Fortress (Sev Berd)",
+              "tr": "Siyah Kale (Sev Berd)"
+            },
+            "image": "res://images/sev_berd.png",
+            "description": {
+              "ar": "حصن عسكري روسي قديم مبني على تلة مرتفعة.",
+              "en": "An imperial Russian fortress built from black stone atop a hill.",
+              "tr": "Tepede siyah taştan inşa edilmiş tarihi Rus askeri kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي كوميري القديم",
+              "en": "Kumayri Historic District",
+              "tr": "Kumayri Tarihi Bölgesi"
+            },
+            "image": "res://images/kumayri.png",
+            "description": {
+              "ar": "منطقة تاريخية تحتفظ بالعمارة النادرة من القرن التاسع عشر.",
+              "en": "One of the few places with authentic 1800s Armenian urban architecture.",
+              "tr": "Orijinal 19. yüzyıl Ermeni şehir mimarisini koruyan nadir bölgelerden biri."
+            }
+          }
+        ]
+      },
+      "dilijan": {
+        "names": {
+          "ar": "دليجان",
+          "en": "Dilijan",
+          "tr": "Dilican"
+        },
+        "description": {
+          "ar": "تسمى بسويسرا الصغيرة الأرمينية لكثرة غاباتها الخضراء وجبالها وتناغمها مع الطبيعة والمصحات العليلة.",
+          "en": "Often referred to as Little Switzerland, known for lush forest national parks, spas, and wooden architecture.",
+          "tr": "Küçük İsviçre olarak adlandırılan; gür ormanları, milli parkları ve ahşap mimarisiyle ünlü doğa harikası kasaba."
+        },
+        "image": "res://images/dilijan.png",
+        "bg_image": "res://images/dilijan_bg.png",
+        "image_3d": "res://images/dilijan_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا بيست ويسترن بلس دليجان",
+              "en": "Best Western Plus Paradise Hotel Dilijan",
+              "tr": "Best Western Plus Paradise Hotel Dilijan"
+            },
+            "image": "res://images/bw_dilijan.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كافينيت دليجان",
+              "en": "Flying Ostrich by Tufenkian",
+              "tr": "Flying Ostrich Restoran"
+            },
+            "image": "res://images/flying_ostrich.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "مشويات ومأكولات قوقازية",
+              "en": "Caucasian Grill",
+              "tr": "Kafkas Izgara Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "دير هاغارتسين الجبلي",
+              "en": "Haghartsin Monastery",
+              "tr": "Haghartsin Manastırı"
+            },
+            "image": "res://images/haghartsin.png",
+            "description": {
+              "ar": "دير مذهل يقع وسط غابات الجبال الشاهقة ويعود للقرن الثالث عشر.",
+              "en": "13th-century monastery tucked deep inside a rainforest canyon.",
+              "tr": "Ormanlık bir kanyonun derinliklerinde yer alan 13. yüzyıl manastırı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة بارز",
+              "en": "Lake Parz",
+              "tr": "Parz Gölü"
+            },
+            "image": "res://images/lake_parz.png",
+            "description": {
+              "ar": "بحيرة جبلية هادئة تحيط بها الأشجار وتوفر قوارب التجديف والأنشطة.",
+              "en": "Serene mountain lake surrounded by dense trees, offering boating and ziplining.",
+              "tr": "Sık ağaçlarla çevrili, kayık ve zipline imkanı sunan sakin dağ gölü."
+            }
+          }
+        ]
+      },
+      "tsaghkadzor": {
+        "names": {
+          "ar": "تساغكادزور",
+          "en": "Tsaghkadzor",
+          "tr": "Tsaghkadzor"
+        },
+        "description": {
+          "ar": "الوجهة الأولى للرياضات الشتوية والتزلج في أرمينيا، وتحتوي على تلفريك حديث ومنتجعات جبلية فاخرة.",
+          "en": "Armenia's premier ski resort town, renowned for its ropeway cable cars, winter sports, and luxury mountain resorts.",
+          "tr": "Ermenistan'ın bir numaralı kayak merkezi; teleferik hatları ve kış sporlarıyla ünlüdür."
+        },
+        "image": "res://images/tsaghkadzor.png",
+        "bg_image": "res://images/tsaghkadzor_bg.png",
+        "image_3d": "res://images/tsaghkadzor_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ماروت مراكش تساغكادزور",
+              "en": "Marriott Tsaghkadzor Hotel",
+              "tr": "Marriott Tsaghkadzor Otel"
+            },
+            "image": "res://images/marriott_tsaghkadzor.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كارس تساغكادزور",
+              "en": "Kars Restaurant",
+              "tr": "Kars Restoran"
+            },
+            "image": "res://images/kars_tsaghkadzor.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "لحوم ومشويات جبلية",
+              "en": "Mountain BBQ",
+              "tr": "Dağ Barbeküsü"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تلفريك حبل تساغكادزور",
+              "en": "Tsaghkadzor Ropeway",
+              "tr": "Tsaghkadzor Teleferiği"
+            },
+            "image": "res://images/tsaghkadzor_ropeway.png",
+            "description": {
+              "ar": "مجموعة مصاعد مقاعدية تأخذك لأعلى القمم للتزلج وتأمل المناظر.",
+              "en": "Multi-stage chairlift reaching high alpine peaks for skiing and sightseeing.",
+              "tr": "Kayak ve seyir için yüksek zirvelere ulaşan çok kademeli telesiyej hattı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "دير كيتشاريس التاريخي",
+              "en": "Kecharis Monastery",
+              "tr": "Kecharis Manastırı"
+            },
+            "image": "res://images/kecharis.png",
+            "description": {
+              "ar": "مجمع ديني يعود للقرن الحادي عشر في وسط بلدة التزلج.",
+              "en": "11th-century medieval monastic complex located right in town.",
+              "tr": "Kasabanın merkezinde yer alan 11. yüzyıldan kalma ortaçağ manastır kompleksi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

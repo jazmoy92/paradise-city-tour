@@ -1,0 +1,179 @@
+{
+  "burkina_faso": {
+    "needs_ad": false,
+    "cities": {
+      "ouagadougou": {
+        "names": {
+          "ar": "واغادوغو",
+          "en": "Ouagadougou",
+          "tr": "Ouagadougou"
+        },
+        "description": {
+          "ar": "عاصمة بوركينا فاسو وعاصمة السينما والثقافة الحرفية الإفريقية، تشتهر بقرية الحرفيين ومهرجان فيسپاكو السينمائي.",
+          "en": "The capital of Burkina Faso, heart of African cinema (FESPACO) and vibrant artisanal craft markets.",
+          "tr": "Burkina Faso'nun başkenti; Afrika sinemasının (FESPACO) ve canlı el sanatları pazarlarının merkezidir."
+        },
+        "image": "res://images/ouagadougou.png",
+        "bg_image": "res://images/ouaga_bg.png",
+        "image_3d": "res://images/ouaga_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق لانكاستر واغادوغو",
+              "en": "Lancaster Ouaga 2000",
+              "tr": "Lancaster Ouaga 2000"
+            },
+            "image": "res://images/lancaster_ouaga.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم فيردي واغادوغو",
+              "en": "Le Verdoyant Restaurant",
+              "tr": "Le Verdoyant Restoran"
+            },
+            "image": "res://images/le_verdoyant.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أطباق فرنسية وأفريقية وطعام محلي",
+              "en": "French & West African Fusion",
+              "tr": "Fransız ve Batı Afrika Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قرية الحرفيين في واغادوغو (Village Artisanal)",
+              "en": "Village Artisanal de Ouagadougou",
+              "tr": "Ouagadougou El Sanatları Köyü"
+            },
+            "image": "res://images/village_artisanal.png",
+            "description": {
+              "ar": "مركز الحرف التراثية الأكبر للنحت والجلود والأقمشة الإفريقية الأنيقة.",
+              "en": "Premier artisan complex where craftsmen make bronze sculptures and textiles.",
+              "tr": "Zanaatkarların bronz heykeller ve tekstil ürünleri ürettiği el sanatları kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المتحف الوطني لبوركينا فاسو",
+              "en": "National Museum of Burkina Faso",
+              "tr": "Burkina Faso Ulusal Müzesi"
+            },
+            "image": "res://images/burkina_national_museum.png",
+            "description": {
+              "ar": "يحتوي أقنعة دينية وأزياء قبائل المور والتراث العريق.",
+              "en": "Showcases tribal masks, traditional costumes, and indigenous heritage artifacts.",
+              "tr": "Kabile maskelerini, geleneksel kostümleri ve yerel miras eserlerini sergiler."
+            }
+          }
+        ]
+      },
+      "bobo_dioulasso": {
+        "names": {
+          "ar": "بوبوديولاسو",
+          "en": "Bobo-Dioulasso",
+          "tr": "Bobo-Dioulasso"
+        },
+        "description": {
+          "ar": "ثاني أكبر مدن البلاد والعاصمة الثقافية والموسيقية، تشتهر بمسجدها الطيني العتيق وحي كيبيدوي التراثي.",
+          "en": "Burkina Faso's cultural capital, famous for the Grand Mosque built of mud-brick and vibrant music scenes.",
+          "tr": "Burkina Faso'nun kültür başkenti; çamur tuğladan yapılmış Büyük Camii ve canlı müzik ortamıyla ünlüdür."
+        },
+        "image": "res://images/bobo_dioulasso.png",
+        "bg_image": "res://images/bobo_bg.png",
+        "image_3d": "res://images/bobo_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوبيرج بوبوديولاسو",
+              "en": "L'Auberge Hotel Bobo",
+              "tr": "L'Auberge Hotel Bobo"
+            },
+            "image": "res://images/auberge_bobo.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لو بوازار بوبو",
+              "en": "Le Jardin Restaurant Bobo",
+              "tr": "Le Jardin Restoran Bobo"
+            },
+            "image": "res://images/le_jardin_bobo.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "مشويات محليّة ورز الجولوف الأفريقي",
+              "en": "Local Grilled Dishes & Jollof",
+              "tr": "Yerel Izgara Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسجد الكبير الطيني في بوبوديولاسو",
+              "en": "Grand Mosque of Bobo-Dioulasso",
+              "tr": "Bobo-Dioulasso Büyük Camii"
+            },
+            "image": "res://images/bobo_grand_mosque.png",
+            "description": {
+              "ar": "تحفة معمارية من الطين والأعمدة الخشبية البارزة بنيت عام 1880 على الطراز السوداني الساحلي.",
+              "en": "Iconic 19th-century Sudano-Sahelian mud-brick mosque with timber poles.",
+              "tr": "Ahşap direkleriyle 19. yüzyıldan kalma ikonik Sudano-Sahelian çamur camii."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "الحي القديم (كيبيدوي Kibidwé)",
+              "en": "Kibidwé Old Quarter",
+              "tr": "Kibidwé Eski Mahalle"
+            },
+            "image": "res://images/kibidwe.png",
+            "description": {
+              "ar": "الحي التاريخي الذي يعيش فيه صانعو البرونز والمقامات القديمة للأسماك المقدسة.",
+              "en": "Historic village quarter housing blacksmith workshops and sacred catfish ponds.",
+              "tr": "Demirci atölyelerine ve kutsal yayın balığı havuzlarına ev sahipliği yapan tarihi mahalle."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

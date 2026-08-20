@@ -1,0 +1,177 @@
+{
+  "dominica": {
+    "needs_ad": false,
+    "cities": {
+      "roseau": {
+        "names": {
+          "ar": "روسو",
+          "en": "Roseau",
+          "tr": "Roseau"
+        },
+        "description": {
+          "ar": "عاصمة دومينيكا المحاطة بالأنهر والغابات الاستوائية المطيرة وتعتبر عاصمة الغوص ورؤية الحيتان.",
+          "en": "The Nature Island's capital, sandwiched between the Caribbean Sea and lush rainforest mountains.",
+          "tr": "Karayip Denizi ile gür yağmur ormanları arasında yer alan Doğa Adası'nın başkenti."
+        },
+        "image": "res://images/roseau.png",
+        "bg_image": "res://images/roseau_bg.png",
+        "image_3d": "res://images/roseau_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل فورت يونغ روسو",
+              "en": "Fort Young Hotel & Dive Resort",
+              "tr": "Fort Young Hotel Roseau"
+            },
+            "image": "res://images/fort_young_hotel.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الكاريبت كافيه روسو",
+              "en": "The Great Old House Restaurant",
+              "tr": "The Great Old House Restoran"
+            },
+            "image": "res://images/great_old_house.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق دومينيكية استوائية طازجة",
+              "en": "Authentic Creole & Seafood",
+              "tr": "Otantik Kreol ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه مورن تروا بيتون الوطني (UNESCO)",
+              "en": "Morne Trois Pitons National Park",
+              "tr": "Morne Trois Pitons Milli Parkı"
+            },
+            "image": "res://images/morne_trois_pitons.png",
+            "description": {
+              "ar": "محمية غابات استوائية تضم البحيرة الفوارة الغالية والشلالات الحارة.",
+              "en": "UNESCO park featuring the Boiling Lake, volcanic peaks, and waterfalls.",
+              "tr": "Kaynayan Göl, volkanik zirveler ve şelalelere sahip UNESCO parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شلالات ترافالغار التوأم (Trafalgar Falls)",
+              "en": "Trafalgar Falls",
+              "tr": "Trafalgar Şelaleleri"
+            },
+            "image": "res://images/trafalgar_falls.png",
+            "description": {
+              "ar": "شلالان توأمان شهيران ينهمران في ينابيع مياه حارة وباردة طبيعية.",
+              "en": "Twin waterfalls cascading into natural hot thermal mineral pools.",
+              "tr": "Doğal sıcak termal mineral havuzlarına dökülen ikiz şelaleler."
+            }
+          }
+        ]
+      },
+      "portsmouth": {
+        "names": {
+          "ar": "بورتسموث",
+          "en": "Portsmouth",
+          "tr": "Portsmouth"
+        },
+        "description": {
+          "ar": "ثاني أكبر مدن دومينيكا المطلة على خليج إنديان ريفر، تشتهر برحلات القوارب الاستوائية ومتنزه كابريتس.",
+          "en": "Dominica's second-largest town, gateway to the Indian River canoe tours and Cabrits National Park.",
+          "tr": "İndian Nehri kano turlarına ve Cabrits Milli Parkı'na açılan kapı."
+        },
+        "image": "res://images/portsmouth_dominica.png",
+        "bg_image": "res://images/portsmouth_bg.png",
+        "image_3d": "res://images/portsmouth_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع أوتيل سيكس سينسز دومينيكا",
+              "en": "Secret Bay Resort Dominica",
+              "tr": "Secret Bay Resort Dominica"
+            },
+            "image": "res://images/secret_bay.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كيرامبا بورتسموث",
+              "en": "Madiba Beach Bar & Restaurant",
+              "tr": "Madiba Beach Bar & Restoran"
+            },
+            "image": "res://images/madiba_beach.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك طازجة ومأكولات كاريبية",
+              "en": "Beachfront Seafood & Lobster",
+              "tr": "Sahil Deniz Ürünleri ve İstakoz"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "رحلة نهر إنديان ريفر بالقوارب الخشبية",
+              "en": "Indian River Boat Tour",
+              "tr": "İndian Nehri Tekne Turu"
+            },
+            "image": "res://images/indian_river.png",
+            "description": {
+              "ar": "رحلة هادئة عبر النهر المظلل بأسجار أشجار المانغروف التي صُور فيها فيلم قرصان الكاريبي.",
+              "en": "Hand-rowed boat trips along swampy mangrove rivers used as Pirates of the Caribbean set.",
+              "tr": "Karayip Korsanları film seti olarak kullanılan mangrove nehrinde kano turları."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حصن شيرلي ومتنزه كابريتس (Fort Shirley)",
+              "en": "Fort Shirley & Cabrits National Park",
+              "tr": "Fort Shirley ve Cabrits Milli Parkı"
+            },
+            "image": "res://images/fort_shirley.png",
+            "description": {
+              "ar": "حصن بريطاني مرمم يعود للقرن الثامن عشر يطل على الخليج الاستوائي.",
+              "en": "Restored 18th-century British military complex overlooking Prince Rupert Bay.",
+              "tr": "Prince Rupert Körfezi'ne bakan restore edilmiş 18. yüzyıl İngiliz askeri kompleksi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

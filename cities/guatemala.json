@@ -1,0 +1,181 @@
+{
+  "guatemala": {
+    "needs_ad": false,
+    "cities": {
+      "antigua_guatemala": {
+        "names": {
+          "ar": "أنتيغوا غواتيمالا",
+          "en": "Antigua Guatemala",
+          "tr": "Antigua Guatemala"
+        },
+        "description": {
+          "ar": "العاصمة الاستعمارية القديمة المصنفة باليونيسكو، تحيط بها البراكين وتتميز بقوس سانتا كاتالينا والشوارع المرصوفة.",
+          "en": "UNESCO colonial jewel framed by three volcanoes, famous for Santa Catalina Arch and cobblestone streets.",
+          "tr": "Üç volkanla çevrili UNESCO sömürge mücevheri; Santa Catalina Kemer'i ile ünlüdür."
+        },
+        "image": "res://images/antigua_guatemala.png",
+        "bg_image": "res://images/antigua_bg.png",
+        "image_3d": "res://images/antigua_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق متحف كاسا سانتو دومينغو أنتيغوا",
+              "en": "Hotel Museo Spa Casa Santo Domingo",
+              "tr": "Hotel Museo Spa Casa Santo Domingo"
+            },
+            "image": "res://images/casa_santo_domingo.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيسترو ميزون بانسو أنتيغوا",
+              "en": "Bistrot Cinq Antigua",
+              "tr": "Bistrot Cinq Antigua"
+            },
+            "image": "res://images/bistrot_cinq.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق غواتيمالية وأورپية طازجة",
+              "en": "French Fusion & Guatemalan Dishes",
+              "tr": "Fransız Füzyon ve Guatemala Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قوس سانتا كاتالينا (Santa Catalina Arch)",
+              "en": "Santa Catalina Arch",
+              "tr": "Santa Catalina Kemeri"
+            },
+            "image": "res://images/santa_catalina_arch.png",
+            "description": {
+              "ar": "القوس الأصفر الأيقوني الذي يعود للقرن السابع عشر مع إطلالة خلفية على بركان أغوا.",
+              "en": "17th-century yellow archway framing the towering Volcán de Agua in the background.",
+              "tr": "Arka planda yükselen Agua Volkanı'nı çerçeveleyen 17. yüzyıl sarı kemeri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بركان خاكوتينانغو وتخييم أكانيتانغو (Acatenango Volcano)",
+              "en": "Acatenango Volcano Hike",
+              "tr": "Acatenango Volkanı Tırmanışı"
+            },
+            "image": "res://images/acatenango.png",
+            "description": {
+              "ar": "مسار تسلق جالي يوفر تجربة مشاهدة انفجارات بركان فويغو الحية ليلاً.",
+              "en": "Famous overnight volcano trek offering front-row views of erupting Volcán de Fuego.",
+              "tr": "Püsküren Fuego Volkanı'nın manzarasını sunan ünlü gece volkan tırmanışı."
+            }
+          }
+        ]
+      },
+      "guatemala_city": {
+        "names": {
+          "ar": "مدينة غواتيمالا",
+          "en": "Guatemala City",
+          "tr": "Guatemala Şehri"
+        },
+        "description": {
+          "ar": "عاصمة البلاد وأكبر مدينة في أمريكا الوسطى، تضم متاحف المايا العريقة والقصر الوطني للثقافة.",
+          "en": "Capital city and largest metropolis in Central America, rich in Maya archaeology museums and culture.",
+          "tr": "Orta Amerika'nın en büyük metropolü; Maya arkeoloji müzeleri ve kültürüyle zengindir."
+        },
+        "image": "res://images/guatemala_city.png",
+        "bg_image": "res://images/guatemala_city_bg.png",
+        "image_3d": "res://images/guatemala_city_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق إنتركونتيننتال غواتيمالا",
+              "en": "Real InterContinental Guatemala",
+              "tr": "Real InterContinental Guatemala"
+            },
+            "image": "res://images/intercontinental_guatemala.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كاكاو غواتيمالا (Kape Paulinos)",
+              "en": "Kao Restaurant Guatemala",
+              "tr": "Kao Restoran Guatemala"
+            },
+            "image": "res://images/kao_guatemala.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "شوربة البيبيان الغواتيمالية ولحوم مشوية",
+              "en": "Traditional Guatemalan Pepián & Fusion",
+              "tr": "Geleneksel Guatemala Pepián Yemeği"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "القصر الوطني للثقافة (National Palace of Culture)",
+              "en": "National Palace of Culture",
+              "tr": "Ulusal Kültür Sarayı"
+            },
+            "image": "res://images/national_palace_guatemala.png",
+            "description": {
+              "ar": "المبنى الأخضر التاريخي الفخم بوسط الساحة الرئيسية المعبر عن عمارة غواتيمالا.",
+              "en": "Grand green-stone palace facing Plaza de la Constitución housing national art.",
+              "tr": "Meydana bakan yeşil taşlı görkemli saray."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف بوبول فوه الماياني (Popol Vuh Museum)",
+              "en": "Popol Vuh Museum",
+              "tr": "Popol Vuh Müzesi"
+            },
+            "image": "res://images/popol_vuh_museum.png",
+            "description": {
+              "ar": "يضم أضخم مجمّع فخاريات ومنحوتات لحضارة المايا القديمة.",
+              "en": "Houses one of the major collections of Maya art, burial urns, and polychrome pottery.",
+              "tr": "Maya sanatının ve çömleklerinin en büyük koleksiyonlarından birine ev sahipliği yapar."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

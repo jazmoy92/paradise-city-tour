@@ -1,0 +1,298 @@
+{
+  "brazil": {
+    "needs_ad": false,
+    "cities": {
+      "rio_de_janeiro": {
+        "names": {
+          "ar": "ريو دي جانيرو",
+          "en": "Rio de Janeiro",
+          "tr": "Rio de Janeiro"
+        },
+        "description": {
+          "ar": "المدينة الرائعة المصنفة يونسكو، تشتهر بتمثال المسيح المخلص، جبل خبز السكر، شواطئ كوباكابانا وإيبانيما، ومهرجانات الكرنفال.",
+          "en": "The Marvelous City, world-famous for Christ the Redeemer, Sugarloaf Mountain, Copacabana and Ipanema beaches.",
+          "tr": "Kurtarıcı İsa heykeli, Sugarloaf Dağı, Copacabana ve Ipanema plajlarıyla dünyaca ünlü harika şehir."
+        },
+        "image": "res://images/rio_de_janeiro.png",
+        "bg_image": "res://images/rio_bg.png",
+        "image_3d": "res://images/rio_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كوباكابانا بالاس",
+              "en": "Belmond Copacabana Palace",
+              "tr": "Belmond Copacabana Palace"
+            },
+            "image": "res://images/copacabana_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق إم بانيما ماريوت ريو",
+              "en": "JW Marriott Hotel Rio de Janeiro",
+              "tr": "JW Marriott Hotel Rio de Janeiro"
+            },
+            "image": "res://images/jw_marriott_rio.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم فورغاو دي تشاو ريو",
+              "en": "Fogo de Chão Botafogo",
+              "tr": "Fogo de Chão Botafogo"
+            },
+            "image": "res://images/fogo_de_chao_rio.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مشويات شوارسكاريا برازيلية فاخرة",
+              "en": "Authentic Brazilian Churrascaria",
+              "tr": "Otantik Brezilya Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تمثال المسيح المخلص (Christ the Redeemer)",
+              "en": "Christ the Redeemer (Cristo Redentor)",
+              "tr": "Kurtarıcı İsa Heykeli (Cristo Redentor)"
+            },
+            "image": "res://images/christ_the_redeemer.png",
+            "description": {
+              "ar": "إحدى عجائب الدنيا السبع الجديدة الشاهقة على قمة جبل كوركوفادو.",
+              "en": "Art-Deco statue standing 30 meters tall atop Mount Corcovado, one of the New 7 Wonders.",
+              "tr": "Corcovado Dağı'nın tepesinde 30 metre yüksekliğindeki Dünyanın Yeni 7 Harikası'ndan biri."
+            }
+          },
+          {
+            "name": {
+              "ar": "جبل خبز السكر (Sugarloaf Mountain)",
+              "en": "Sugarloaf Mountain (Pão de Açúcar)",
+              "tr": "Sugarloaf Dağı (Pão de Açúcar)"
+            },
+            "image": "res://images/sugarloaf.png",
+            "description": {
+              "ar": "جبل غرانيتي مرتفع يطل على الخليج ويمكن الوصول إليه عبر تلفريك زجاجي زجاجي.",
+              "en": "Granite peak sticking out of Guanabara Bay accessible by glass cable cars.",
+              "tr": "Guanabara Körfezi'nde yükselen, cam teleferiklerle ulaşılan granit tepe."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ كوباكابانا وشاطئ إيبانيما",
+              "en": "Copacabana & Ipanema Beaches",
+              "tr": "Copacabana ve Ipanema Plajları"
+            },
+            "image": "res://images/copacabana_beach.png",
+            "description": {
+              "ar": "أشهر الشواطئ العالمية الممتدة مع أرصفة الفسيفساء الأيقونية والمقاهي.",
+              "en": "World's most famous urban beaches lined with iconic wave-patterned mosaic boardwalks.",
+              "tr": "İkonik dalga desenli mozaik yürüyüş yollarıyla çevrili dünyanın en ünlü şehir plajları."
+            }
+          }
+        ]
+      },
+      "sao_paulo": {
+        "names": {
+          "ar": "ساو باولو",
+          "en": "São Paulo",
+          "tr": "São Paulo"
+        },
+        "description": {
+          "ar": "العاصمة الاقتصادية للبرازيل وأكبر مدينة في نصف الكرة الجنوبي، مركز الفنون والمطاعم العالمية والتنوع الثقافي.",
+          "en": "The financial heart of Brazil and largest city in the Americas, known for gastronomy, museums, and skyscrapers.",
+          "tr": "Brezilya'nın finans merkezi ve Amerika kıtasının en büyük şehri; gastronomi ve müzeleriyle tanınır."
+        },
+        "image": "res://images/sao_paulo.png",
+        "bg_image": "res://images/sao_paulo_bg.png",
+        "image_3d": "res://images/sao_paulo_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق روزوود ساو باولو",
+              "en": "Rosewood São Paulo",
+              "tr": "Rosewood São Paulo"
+            },
+            "image": "res://images/rosewood_sao_paulo.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أوماني D.O.M. أليكس أتالي",
+              "en": "D.O.M. Restaurant",
+              "tr": "D.O.M. Restoran"
+            },
+            "image": "res://images/dom_sao_paulo.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات برازيلية وأمازونية مبتكرة معتمدة على مكونات الغابات",
+              "en": "Innovative Amazonian & Brazilian Fine Dining",
+              "tr": "Yenilikçi Amazon ve Brezilya Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "متحف ساو باولو للفنون (MASP)",
+              "en": "São Paulo Museum of Art (MASP)",
+              "tr": "São Paulo Sanat Müzesi (MASP)"
+            },
+            "image": "res://images/masp.png",
+            "description": {
+              "ar": "متحف معلق فريد المعمار يضم أكبر مجموعة من الفن الغربي في أمريكا اللاتينية.",
+              "en": "Iconic glass-and-concrete landmark hanging over Paulista Avenue housing Latin America's top art collection.",
+              "tr": "Paulista Caddesi üzerinde yükselen, Latin Amerika'nın en iyi sanat koleksiyonuna sahip ikonik müze."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع باوليستا (Avenida Paulista)",
+              "en": "Paulista Avenue",
+              "tr": "Paulista Caddesi"
+            },
+            "image": "res://images/paulista_avenue.png",
+            "description": {
+              "ar": "الشارع الرئيسي والأنيق للمدينة المليء بالمطاعم والمتاحف والمتاجر الفخمة.",
+              "en": "The cultural and business artery of the city, closed to cars on Sundays for pedestrians.",
+              "tr": "Şehrin kültür ve iş damarı; Pazar günleri yayalar için araç trafiğine kapatılır."
+            }
+          }
+        ]
+      },
+      "brasilia": {
+        "names": {
+          "ar": "برازيليا",
+          "en": "Brasília",
+          "tr": "Brasília"
+        },
+        "description": {
+          "ar": "عاصمة البرازيل المستقبلية المخططة على شكل طائرة، صممها المعماري أوسكار نيماير كتحفة هندسية معاصرة.",
+          "en": "The futuristic planned capital of Brazil, shaped like an airplane and designed by Oscar Niemeyer (UNESCO).",
+          "tr": "Brezilya'nın uçak şeklinde tasarlanmış, Oscar Niemeyer tarafından çizilen gelecekçi başkenti."
+        },
+        "image": "res://images/brasilia.png",
+        "bg_image": "res://images/brasilia_bg.png",
+        "image_3d": "res://images/brasilia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق بينينسولا كراون برازيليا",
+              "en": "Royal Tulip Brasília Alvorada",
+              "tr": "Royal Tulip Brasília Alvorada"
+            },
+            "image": "res://images/royal_tulip_brasilia.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مانغاي برازيليا",
+              "en": "Mangai Brasília",
+              "tr": "Mangai Brasília Restoran"
+            },
+            "image": "res://images/mangai_brasilia.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق برازيلية شمالية شرقية مميزة",
+              "en": "Northeastern Brazilian Buffet",
+              "tr": "Kuzeydoğu Brezilya Açık Büfe"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية برازيليا (Cathedral of Brasília)",
+              "en": "Cathedral of Brasília",
+              "tr": "Brasília Katedrali"
+            },
+            "image": "res://images/brasilia_cathedral.png",
+            "description": {
+              "ar": "تحفة المعماري أوسكار نيماير المصممة بـ 16 عمود خرساني منحني وزجاج مائل ملون.",
+              "en": "Crown-like hyperboloid cathedral designed with 16 curved concrete columns and stained glass.",
+              "tr": "16 kavisli beton kolon ve vitray camlarla tasarlanmış taç şeklindeki katedral."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ساحة القوى الثلاث (Praça dos Três Poderes)",
+              "en": "Three Powers Plaza (Praça dos Três Poderes)",
+              "tr": "Üç Güç Meydanı"
+            },
+            "image": "res://images/tres_poderes.png",
+            "description": {
+              "ar": "ساحة تجمع المقرات الثلاثة للحكومة البرازيلية (الرئاسة، البرلمان، والمحكمة العليا).",
+              "en": "Plaza bringing together the Executive, Legislative, and Judiciary government buildings.",
+              "tr": "Brezilya hükümetinin Yürütme, Yasama ve Yargı binalarını bir araya getiren meydan."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

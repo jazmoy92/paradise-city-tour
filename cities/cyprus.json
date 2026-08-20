@@ -1,0 +1,281 @@
+{
+  "cyprus": {
+    "needs_ad": false,
+    "cities": {
+      "nicosia": {
+        "names": {
+          "ar": "نيقوسيا",
+          "en": "Nicosia",
+          "tr": "Lefkoşa"
+        },
+        "description": {
+          "ar": "عاصمة قبرص التاريخية والمقسمة الفريدة، تشتهر بأسوارها البندقية النجمية والبلدة القديمة النابضة.",
+          "en": "The divided capital city of Cyprus, encircled by Venetian stone walls and filled with museums.",
+          "tr": "Kıbrıs'ın Venedik surlarıyla çevrili, müzelerle dolu tarihi başkenti."
+        },
+        "image": "res://images/nicosia.png",
+        "bg_image": "res://images/nicosia_bg.png",
+        "image_3d": "res://images/nicosia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا كابيتال كوست نيقوسيا",
+              "en": "The Landmark Nicosia",
+              "tr": "The Landmark Lefkoşa"
+            },
+            "image": "res://images/landmark_nicosia.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم زانيتوس المازة القبرصية",
+              "en": "Zanettos Taverna",
+              "tr": "Zanettos Taverna"
+            },
+            "image": "res://images/zanettos.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مازة قبرصية يونانية وشرقية تقليدية",
+              "en": "Traditional Cypriot Meze",
+              "tr": "Geleneksel Kıbrıs Mezesi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أسوار نيقوسيا البندقية (Venetian Walls)",
+              "en": "Venetian Walls of Nicosia",
+              "tr": "Lefkoşa Venedik Surları"
+            },
+            "image": "res://images/venetian_walls_nicosia.png",
+            "description": {
+              "ar": "أسوار حصينة تعود للقرن السادس عشر مصممة على شكل نجمة بـ 11 حصناً.",
+              "en": "16th-century star-shaped stone fortification with 11 bastions.",
+              "tr": "11 tabyalı yıldız şeklinde 16. yüzyıl taş tahkimatı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع ليدرا للمشاة (Ledra Street)",
+              "en": "Ledra Street Pedestrian Way",
+              "tr": "Uzun Yol (Ledra) Yürüyüş Caddesi"
+            },
+            "image": "res://images/ledra_street.png",
+            "description": {
+              "ar": "شارع للتسوق والمقاهي يقطع قلب المدينة القديمة.",
+              "en": "Lively commercial pedestrian street passing through historical Nicosia.",
+              "tr": "Tarihi Lefkoşa'dan geçen canlı alışveriş yaya caddesi."
+            }
+          }
+        ]
+      },
+      "limassol": {
+        "names": {
+          "ar": "ليماسول",
+          "en": "Limassol",
+          "tr": "Limasol"
+        },
+        "description": {
+          "ar": "العاصمة البحرية والترفيهية لقبرص، تشتهر بميناء اليخوت الحديث، الشواطئ الممتازة، والمهرجانات السنوية.",
+          "en": "Cyprus's vibrant coastal hub, famous for Limassol Marina, seaside promenade, and luxury beach resorts.",
+          "tr": "Kıbrıs'ın sahil kordonu, marinası ve lüks resortlarıyla ünlü canlı sahil şehri."
+        },
+        "image": "res://images/limassol.png",
+        "bg_image": "res://images/limassol_bg.png",
+        "image_3d": "res://images/limassol_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أمارا ليماسول",
+              "en": "AMARA Hotel Limassol",
+              "tr": "AMARA Hotel Limasol"
+            },
+            "image": "res://images/amara_limassol.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع فورسيزونز ليماسول",
+              "en": "Four Seasons Hotel Limassol",
+              "tr": "Four Seasons Hotel Limasol"
+            },
+            "image": "res://images/four_seasons_limassol.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ماتسوهيسا ليماسول",
+              "en": "Matsuhisa Limassol",
+              "tr": "Matsuhisa Limasol"
+            },
+            "image": "res://images/matsuhisa_limassol.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "ياباني وبحري فاخر بإشراف الشيف نوبو",
+              "en": "Japanese-Peruvian Nobu Seafood",
+              "tr": "Japon-Peru Lüks Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "ميناء مارينا ليماسول اليخوتي (Limassol Marina)",
+              "en": "Limassol Marina",
+              "tr": "Limasol Marinası"
+            },
+            "image": "res://images/limassol_marina.png",
+            "description": {
+              "ar": "مرسى يخوت عالمي محاط بالمطاعم المطلة والمحلات الفاخرة.",
+              "en": "State-of-the-art superyacht marina lined with waterfront dining and boutiques.",
+              "tr": "Sahil restoranları ve butiklerle çevrili modern lüks yat marinası."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قلعة ليماسول القروسطية (Limassol Castle)",
+              "en": "Limassol Medieval Castle",
+              "tr": "Limasol Ortaçağ Kalesi"
+            },
+            "image": "res://images/limassol_castle.png",
+            "description": {
+              "ar": "قلعة تاريخية شهدت زفاف الملك ريتشارد قلب الأسد وتضم متحفاً للآثار.",
+              "en": "12th-century castle where Richard the Lionheart married Berengaria of Navarre.",
+              "tr": "12. yüzyıldan kalma, Aslan Yürekli Richard'ın evlendiği tarihi kale."
+            }
+          }
+        ]
+      },
+      "paphos": {
+        "names": {
+          "ar": "بافوس",
+          "en": "Paphos",
+          "tr": "Baf"
+        },
+        "description": {
+          "ar": "عاصمة قبرص الثقافية والمصنفة بكاملها لدى اليونيسكو، تشتهر بصخرة أفروديت الفسيفساء الرومانية والمقابر الأثرية.",
+          "en": "Entire UNESCO World Heritage city, mythic birthplace of Aphrodite with ancient Roman mosaics.",
+          "tr": "Afrodit'in doğduğu yer olarak bilinen, antik Roma mozaiklerine sahip UNESCO şehri."
+        },
+        "image": "res://images/paphos.png",
+        "bg_image": "res://images/paphos_bg.png",
+        "image_3d": "res://images/paphos_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع أنابيل بافوس",
+              "en": "Annabelle Hotel Paphos",
+              "tr": "Annabelle Hotel Baf"
+            },
+            "image": "res://images/annabelle_paphos.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أوشن باسكيت بافوس",
+              "en": "Ocean Basket Paphos",
+              "tr": "Ocean Basket Baf"
+            },
+            "image": "res://images/ocean_basket_paphos.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك ومأكولات بحرية طازجة",
+              "en": "Fresh Seafood & Mediterranean",
+              "tr": "Taze Deniz Ürünleri ve Akdeniz"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "صخرة أفروديت (Petra tou Romiou)",
+              "en": "Aphrodite's Rock",
+              "tr": "Afrodit Kayalığı"
+            },
+            "image": "res://images/aphrodite_rock.png",
+            "description": {
+              "ar": "تشكيل صخري أسطوري على الشاطئ يعتبر مسقط رأس آلهة الجمال أفروديت.",
+              "en": "Sea stack geological formation legendarily known as the birthplace of Aphrodite.",
+              "tr": "Efsaneye göre Afrodit'in denizden doğduğu sahil kayalığı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مقابر الملوك الأثرية (Tombs of the Kings)",
+              "en": "Tombs of the Kings",
+              "tr": "Kral Mezarları"
+            },
+            "image": "res://images/tombs_of_the_kings.png",
+            "description": {
+              "ar": "مقابر منحوتة في الصخور الصلبة تعود للقرن الرابع قبل الميلاد.",
+              "en": "Monumental underground tombs carved out of solid rock dating to 4th century BC.",
+              "tr": "MÖ 4. yüzyıla tarihlenen, kayalara oyulmuş anıtsal yeraltı mezarları."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

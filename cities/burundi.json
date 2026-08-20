@@ -1,0 +1,178 @@
+{
+  "burundi": {
+    "needs_ad": false,
+    "cities": {
+      "bujumbura": {
+        "names": {
+          "ar": "بوجومبورا",
+          "en": "Bujumbura",
+          "tr": "Bujumbura"
+        },
+        "description": {
+          "ar": "العاصمة الاقتصادية والميناء الرئيسي على بحيرة تنجانيقا الشاسعة، تشتهر بشواطئها المائية الرملية والمطاعم السمكية.",
+          "en": "The commercial hub and port on Lake Tanganyika, famous for white sandy lake beaches and fresh fish.",
+          "tr": "Tanganika Gölü kıyısındaki ticaret ve liman merkezi; beyaz kumlu göl plajlarıyla ünlüdür."
+        },
+        "image": "res://images/bujumbura.png",
+        "bg_image": "res://images/bujumbura_bg.png",
+        "image_3d": "res://images/bujumbura_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كيرامبا بوجومبورا",
+              "en": "Hotel Club du Lac Tanganyika",
+              "tr": "Hotel Club du Lac Tanganyika"
+            },
+            "image": "res://images/lac_tanganyika_hotel.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سيركل نوتيك بوجومبورا",
+              "en": "Cercle Nautique Restaurant",
+              "tr": "Cercle Nautique Restoran"
+            },
+            "image": "res://images/cercle_nautique.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أسماك سانغالا المشوية من بحيرة تنجانيقا",
+              "en": "Fresh Lake Tanganyika Fish & French Fusion",
+              "tr": "Taze Tanganika Gölü Balıkları"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه روسيزي الوطني (Rusizi National Park)",
+              "en": "Rusizi National Park",
+              "tr": "Rusizi Milli Parkı"
+            },
+            "image": "res://images/rusizi_park.png",
+            "description": {
+              "ar": "محمية طبيعية عند مصب نهر روسيزي يقطنها فرس النهر والتماسيح الضخمة.",
+              "en": "River delta reserve famous for hippo pods, crocodiles, and migratory birds.",
+              "tr": "Su aygırı sürüleri, timsahlar ve göçmen kuşlarıyla ünlü nehir deltası koruma alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ كاراغوا المائي (Karera Beach)",
+              "en": "Saga Beach (Bujumbura Beach)",
+              "tr": "Saga Plajı (Bujumbura)"
+            },
+            "image": "res://images/saga_beach.png",
+            "description": {
+              "ar": "أشهر شاطئ على بحيرة تنجانيقا للاستجمام والسباحة والموسيقى المحلية.",
+              "en": "Popular sandy beach on the shores of Lake Tanganyika with beach bars.",
+              "tr": "Tanganika Gölü kıyısında plaj barları bulunan popüler kumsal."
+            }
+          }
+        ]
+      },
+      "gitega": {
+        "names": {
+          "ar": "غيتيغا",
+          "en": "Gitega",
+          "tr": "Gitega"
+        },
+        "description": {
+          "ar": "العاصمة السياسية والتاريخية لبوروندي، وموطن المهرجين والعازفين على الطبول المقدسة المصنفة باليونيسكو.",
+          "en": "The political capital of Burundi, famous for the UNESCO Royal Drummers of Burundi and the National Museum.",
+          "tr": "Burundi'nin siyasi başkenti; UNESCO listesindeki Kraliyet Davulcuları ve Ulusal Müze ile tanınır."
+        },
+        "image": "res://images/gitega.png",
+        "bg_image": "res://images/gitega_bg.png",
+        "image_3d": "res://images/gitega_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أورانج بلس غيتيغا",
+              "en": "Helena Hotel Gitega",
+              "tr": "Helena Hotel Gitega"
+            },
+            "image": "res://images/helena_hotel_gitega.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كازا جيتان غيتيغا",
+              "en": "Resto Helena Gitega",
+              "tr": "Resto Helena Gitega"
+            },
+            "image": "res://images/resto_helena.png",
+            "rating": "4.4",
+            "cuisine": {
+              "ar": "أطباق بوروندية ولحوم مشوية",
+              "en": "Local Burundian & Grill",
+              "tr": "Yerel Burundi ve Izgara Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "موقع قرع الطبول الملكي (Gishora Drum Sanctuary)",
+              "en": "Gishora Royal Drum Sanctuary",
+              "tr": "Gishora Kraliyet Davul Barınağı"
+            },
+            "image": "res://images/gishora_drums.png",
+            "description": {
+              "ar": "موقع تراثي حي لعروض الطبول الملكية التي تروي تاريخ الملوك القدماء.",
+              "en": "Cultural sanctuary preserving the ancient royal ritual drumming heritage.",
+              "tr": "Kadim kraliyet ritüel davul mirasını koruyan kültür alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المتحف الوطني في غيتيغا",
+              "en": "Gitega National Museum",
+              "tr": "Gitega Ulusal Müzesi"
+            },
+            "image": "res://images/gitega_museum.png",
+            "description": {
+              "ar": "يعرض أدوات الملوك التاريخية والمقتنيات الثقافية والتراثية لبوروندي.",
+              "en": "National museum housing artifacts, royal regalia, and historical photographs.",
+              "tr": "Tarihi eserleri, kraliyet sembollerini ve tarihi fotoğrafları sergileyen ulusal müze."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

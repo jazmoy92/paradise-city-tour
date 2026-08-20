@@ -1,0 +1,204 @@
+{
+  "denmark": {
+    "needs_ad": false,
+    "cities": {
+      "copenhagen": {
+        "names": {
+          "ar": "كوبنهاغن",
+          "en": "Copenhagen",
+          "tr": "Kopenhag"
+        },
+        "description": {
+          "ar": "عاصمة الدانمرك النابضة بالحياة، تشتهر بميناء نيه his الملون، تمثال حورية البحر الصغير، وحدائق تيفولي الترفيهية.",
+          "en": "The vibrant Danish capital, famous for colorful Nyhavn harbor, Tivoli Gardens, and cycling culture.",
+          "tr": "Renkli Nyhavn limanı, Tivoli Bahçeleri ve bisiklet kültürüyle ünlü Danimarka başkenti."
+        },
+        "image": "res://images/copenhagen.png",
+        "bg_image": "res://images/copenhagen_bg.png",
+        "image_3d": "res://images/copenhagen_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق دالانغلتر كوبنهاغن",
+              "en": "Hotel d'Angleterre Copenhagen",
+              "tr": "Hotel d'Angleterre Kopenhag"
+            },
+            "image": "res://images/dangleterre.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق نيمب كوبنهاغن",
+              "en": "Nimb Hotel Copenhagen",
+              "tr": "Nimb Hotel Kopenhag"
+            },
+            "image": "res://images/nimb_hotel.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم نوما العالمي (Noma)",
+              "en": "Noma Restaurant",
+              "tr": "Noma Restoran"
+            },
+            "image": "res://images/noma_copenhagen.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "مأكولات الشمال الأوروبي المبتكرة الحائزة على النجوم العالمية",
+              "en": "New Nordic World-class Gastronomy",
+              "tr": "Dünyaca Ünlü Yeni İskandinav Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "ميناء نيهـافن التاريخي (Nyhavn)",
+              "en": "Nyhavn Waterfront",
+              "tr": "Nyhavn Limanı"
+            },
+            "image": "res://images/nyhavn.png",
+            "description": {
+              "ar": "أشهر ميناء تاريخي بالمباني الملونة والسفن الخشبية القديمة والمقاهي.",
+              "en": "17th-century waterfront canal district with brightly colored townhouses.",
+              "tr": "Parlak renkli evleriyle 17. yüzyıldan kalma sahil kanalı bölgesi."
+            }
+          },
+          {
+            "name": {
+              "ar": "حدائق تيفولي الترفيهية (Tivoli Gardens)",
+              "en": "Tivoli Gardens",
+              "tr": "Tivoli Bahçeleri"
+            },
+            "image": "res://images/tivoli_gardens.png",
+            "description": {
+              "ar": "ثاني أقدم ملاهي ترفيهية في العالم افتتحت عام 1843 بوسط كوبنهاغن.",
+              "en": "World's second-oldest operating amusement park with historic rides and gardens.",
+              "tr": "Tarihi oyuncakları ve bahçeleriyle dünyanın en eski ikinci eğlence parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "تمثال حورية البحر الصغيرة (The Little Mermaid)",
+              "en": "The Little Mermaid Statue",
+              "tr": "Küçük Deniz Kızı Heykeli"
+            },
+            "image": "res://images/little_mermaid.png",
+            "description": {
+              "ar": "تمثال برونزي أيقوني مستوحى من قصة الكاتب الدانمركي هانز أندرسون.",
+              "en": "Iconic bronze statue based on Hans Christian Andersen's fairy tale.",
+              "tr": "Hans Christian Andersen'in masalından esinlenilen ikonik bronz heykel."
+            }
+          }
+        ]
+      },
+      "aarhus": {
+        "names": {
+          "ar": "أورهوس",
+          "en": "Aarhus",
+          "tr": "Aarhus"
+        },
+        "description": {
+          "ar": "ثاني أكبر مدن الدانمرك والعاصمة الثقافية، تشتهر بمتنزه المتحف الحي ومتحف آروش الفني مع ممشى قوس قزح.",
+          "en": "Denmark's second-largest city, famous for ARoS Art Museum's rainbow panorama and Den Gamle By.",
+          "tr": "ARoS Sanat Müzesi'nin gökkuşağı panoraması ve Den Gamle By ile ünlü ikinci büyük şehir."
+        },
+        "image": "res://images/aarhus.png",
+        "bg_image": "res://images/aarhus_bg.png",
+        "image_3d": "res://images/aarhus_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق رويال أورهوس",
+              "en": "Hotel Royal Aarhus",
+              "tr": "Hotel Royal Aarhus"
+            },
+            "image": "res://images/hotel_royal_aarhus.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم فريديريكشوف أورهوس",
+              "en": "Frederikshøj Restaurant",
+              "tr": "Frederikshøj Restoran"
+            },
+            "image": "res://images/frederikshoj.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات دنمركية حديثة معتمدة على نجمة ميشلان",
+              "en": "Michelin-starred Scandinavian Dining",
+              "tr": "Michelin Yıldızlı İskandinav Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "متحف آروش الفني وممشى قوس قزح (ARoS Art Museum)",
+              "en": "ARoS Aarhus Art Museum",
+              "tr": "ARoS Aarhus Sanat Müzesi"
+            },
+            "image": "res://images/aros_aarhus.png",
+            "description": {
+              "ar": "متحف فني بجمال دائري ملون على السطح يمنحك رؤية المدينة بألوان قوس قزح.",
+              "en": "Modern art museum topped with Olafur Eliasson's 'Your Rainbow Panorama'.",
+              "tr": "Olafur Eliasson'un 'Your Rainbow Panorama' eseriyle taçlandırılmış modern sanat müzesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "البلدة القديمة المفتوحة (Den Gamle By)",
+              "en": "Den Gamle By (The Old Town Open-air Museum)",
+              "tr": "Den Gamle By Açık Hava Müzesi"
+            },
+            "image": "res://images/den_gamle_by.png",
+            "description": {
+              "ar": "متحف حي مفتوح يضم 75 بيتاً أثرياً خشبياً يمثل الحياة في الدانمرك القديمة.",
+              "en": "National open-air museum of urban history and timbered historic houses.",
+              "tr": "Ahşap tarihi evlerden oluşan ulusal açık hava şehir tarihi müzesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "botswana": {
+    "needs_ad": false,
+    "cities": {
+      "gaborone": {
+        "names": {
+          "ar": "غابورون",
+          "en": "Gaborone",
+          "tr": "Gaborone"
+        },
+        "description": {
+          "ar": "عاصمة بوتسوانا النابضة بالحياة، وتعد المركز المالي والثقافي للبلاد وتحيط بها محميات برية هادئة.",
+          "en": "The modern capital of Botswana, serving as the financial and cultural hub, surrounded by serene game reserves.",
+          "tr": "Botsvana'nın modern başkenti; sakin doğa koruma alanlarıyla çevrili finans ve kültür merkezidir."
+        },
+        "image": "res://images/gaborone.png",
+        "bg_image": "res://images/gaborone_bg.png",
+        "image_3d": "res://images/gaborone_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أفياني غابورون",
+              "en": "Avani Gaborone Resort & Casino",
+              "tr": "Avani Gaborone Resort & Casino"
+            },
+            "image": "res://images/avani_gaborone.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم البول أرينا غابورون",
+              "en": "The Bull & Bush Pub",
+              "tr": "The Bull & Bush Pub Restoran"
+            },
+            "image": "res://images/bull_and_bush.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "مشويات ولحوم الأفريقية",
+              "en": "African Steakhouse & Grill",
+              "tr": "Afrika Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محمية غابورون للحيوانات البرية",
+              "en": "Gaborone Game Reserve",
+              "tr": "Gaborone Doğa Koruma Alanı"
+            },
+            "image": "res://images/gaborone_game_reserve.png",
+            "description": {
+              "ar": "محمية طبيعية داخل حدود المدينة تضم الغزلان والنعام والطيور النادرة.",
+              "en": "City-adjacent nature reserve packed with native ostriches, zebras, and impalas.",
+              "tr": "Deve kuşları, zebralar ve impalalarla dolu şehir merkezine yakın doğa parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "نصب التماثيل الثلاثة (Three Dikgosi Monument)",
+              "en": "Three Dikgosi Monument",
+              "tr": "Üç Dikgosi Anıtı"
+            },
+            "image": "res://images/three_dikgosi.png",
+            "description": {
+              "ar": "تماثيل برونزية بارتفاع 5 أمتار تجسد الرؤساء الثلاثة التأسيسيين لبوتسوانا.",
+              "en": "Imposing bronze statues honoring Botswana's founding tribal chiefs.",
+              "tr": "Botsvana'nın kurucu kabile reislerini onurlandıran devasa bronz heykeller."
+            }
+          }
+        ]
+      },
+      "kasane": {
+        "names": {
+          "ar": "كاساني",
+          "en": "Kasane",
+          "tr": "Kasane"
+        },
+        "description": {
+          "ar": "عاصمة الفيلة في إفريقيا، تقع عند التقاء أربع دول وتعتبر البوابة الرئيسية لمنتزه تشوبي الوطني.",
+          "en": "Africa's elephant capital, situated at the meeting point of four nations and gateway to Chobe National Park.",
+          "tr": "Afrika'nın fil başkenti; dört ülkenin kesişim noktasında, Chobe Milli Parkı'nın giriş kapısıdır."
+        },
+        "image": "res://images/kasane.png",
+        "bg_image": "res://images/kasane_bg.png",
+        "image_3d": "res://images/kasane_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع شوبي غيم لودج",
+              "en": "Chobe Game Lodge",
+              "tr": "Chobe Game Lodge"
+            },
+            "image": "res://images/chobe_game_lodge.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم النهر كاساني",
+              "en": "The Old House Restaurant Kasane",
+              "tr": "The Old House Restoran Kasane"
+            },
+            "image": "res://images/old_house_kasane.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أطباق أفريقية وبحرية مطلة على نهر تشوبي",
+              "en": "Riverfront African Fusion",
+              "tr": "Nehir Kıyısında Afrika Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه تشوبي الوطني (Chobe National Park)",
+              "en": "Chobe National Park",
+              "tr": "Chobe Milli Parkı"
+            },
+            "image": "res://images/chobe_national_park.png",
+            "description": {
+              "ar": "يحتوي على أضخم تجمع للفيلة في القارة الأفريقية ورحلات سفاري نهرية مذهلة.",
+              "en": "Famous for holding the largest population of African elephants in the world.",
+              "tr": "Dünyanın en büyük Afrika fili nüfusuna ev sahipliği yapmasıyla ünlüdür."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "رحلات قوارب نهر تشوبي (Chobe River Safari)",
+              "en": "Chobe River Boat Cruise",
+              "tr": "Chobe Nehir Safarisi Teknesi"
+            },
+            "image": "res://images/chobe_cruise.png",
+            "description": {
+              "ar": "رحلة نهرية لمشاهدة فرس النهر والتماسيح والفيلة أثناء عبورها النهر.",
+              "en": "Sunset river cruise to watch elephants swim and hippos bathe.",
+              "tr": "Fillerin yüzüşünü ve hipopotamları izlemek için gün batımı nehir turu."
+            }
+          }
+        ]
+      },
+      "maun": {
+        "names": {
+          "ar": "معون",
+          "en": "Maun",
+          "tr": "Maun"
+        },
+        "description": {
+          "ar": "عاصمة دلتا أوكافانغو السياحية، وهي النقطة الانطلاق لرحلات الطيران الشراعي والقوارب الخشبية في الدلتا.",
+          "en": "The tourism capital of the Okavango Delta, gateway for Mokoro canoe trips and scenic bush flights.",
+          "tr": "Okavango Deltası'nın turizm başkenti; Mokoro kanosu turları ve manzara uçuşlarının başlangıç noktası."
+        },
+        "image": "res://images/maun.png",
+        "bg_image": "res://images/maun_bg.png",
+        "image_3d": "res://images/maun_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع بيلموند إيجل أيلاند",
+              "en": "Belmond Eagle Island Lodge",
+              "tr": "Belmond Eagle Island Lodge"
+            },
+            "image": "res://images/belmond_maun.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مارسيلا مانغير معون",
+              "en": "Marc's Eatery Maun",
+              "tr": "Marc's Eatery Maun"
+            },
+            "image": "res://images/marcs_eatery.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "وجبات خفيفة وعالمية ومخبوزات",
+              "en": "International Organic Cafe",
+              "tr": "Uluslararası Organik Kafe"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محمية دلتا أوكافانغو (Okavango Delta - UNESCO)",
+              "en": "Okavango Delta (UNESCO)",
+              "tr": "Okavango Deltası (UNESCO)"
+            },
+            "image": "res://images/okavango_delta.png",
+            "description": {
+              "ar": "أكبر دلتا داخلية في العالم وموقع التراث العالمي الزاخر بالحياة البرية.",
+              "en": "A vast inland river delta known for its lush marshes and teeming safari wildlife.",
+              "tr": "Gür bataklıkları ve zengin safari yaşamıyla tanınan devasa iç delta."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "رحلات موكورو البوتانية (Mokoro Canoe Excursions)",
+              "en": "Mokoro Canoe Safaris",
+              "tr": "Mokoro Kano Safarisi"
+            },
+            "image": "res://images/mokoro_safari.png",
+            "description": {
+              "ar": "جولة بالقوارب الخشبية التقليدية عبر قنوات المائية بين الأعشاب والطيور.",
+              "en": "Traditional dugout canoe trips glided quietly through shallow reed-lined channels.",
+              "tr": "Sazlık kanallarda sessizce süzülen geleneksel ahşap kano turları."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

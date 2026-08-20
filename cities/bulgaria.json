@@ -1,0 +1,364 @@
+{
+  "bulgaria": {
+    "needs_ad": false,
+    "cities": {
+      "sofia": {
+        "names": {
+          "ar": "صوفيا",
+          "en": "Sofia",
+          "tr": "Sofya"
+        },
+        "description": {
+          "ar": "عاصمة بلغاريا التاريخية الممتدة لآلاف السنين عند أقدام جبل فيتوشا، تجمع بين الكنائس الأرثوذكسية الفخمة والآثار الرومانية.",
+          "en": "Bulgaria's ancient capital at the foot of Vitosha Mountain, featuring Roman ruins and Alexander Nevsky Cathedral.",
+          "tr": "Vitoşa Dağı'nın eteklerindeki antik Bulgaristan başkenti; Roma kalıntıları ve katedraliyle ünlüdür."
+        },
+        "image": "res://images/sofia.png",
+        "bg_image": "res://images/sofia_bg.png",
+        "image_3d": "res://images/sofia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق جاند أوتيل صوفيا",
+              "en": "Grand Hotel Sofia",
+              "tr": "Grand Hotel Sofia"
+            },
+            "image": "res://images/grand_hotel_sofia.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أنتركونتيننتال صوفيا",
+              "en": "InterContinental Sofia",
+              "tr": "InterContinental Sofya"
+            },
+            "image": "res://images/intercontinental_sofia.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم هادجيدراغافينيتشي كاشتي",
+              "en": "Hadjidraganov's Houses Restaurant",
+              "tr": "Hadjidraganov's Houses Restoran"
+            },
+            "image": "res://images/hadjidraganovs.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق بلغارية تقليدية ومشويات في أوانٍ فخارية",
+              "en": "Traditional Bulgarian Clay-Pot & BBQ",
+              "tr": "Geleneksel Bulgar Güveç ve Izgara"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كاتدرائية القديس ألكسندر نيفسكي",
+              "en": "St. Alexander Nevsky Cathedral",
+              "tr": "Aziz Alexander Nevski Katedrali"
+            },
+            "image": "res://images/alexander_nevsky.png",
+            "description": {
+              "ar": "إحدى أضخم الكنائس الأرثوذكسية في العالم بقبابها الذهبية الفخمة.",
+              "en": "One of the largest Eastern Orthodox cathedrals in the world with gold-plated domes.",
+              "tr": "Altın kaplama kubbeleriyle dünyanın en büyük Doğu Ortodoks katedrallerinden biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع فيتوشا للمشاة (Vitosha Boulevard)",
+              "en": "Vitosha Boulevard",
+              "tr": "Vitoşa Bulvarı"
+            },
+            "image": "res://images/vitosha_boulevard.png",
+            "description": {
+              "ar": "شارع التسوق الرئيسي والمقاهي المطل مباشرة على قمة جبل فيتوشا الثلجية.",
+              "en": "Main commercial pedestrian street lined with fashionable cafes and shops.",
+              "tr": "Şık kafeler ve mağazalarla dolu ana alışveriş caddesi."
+            }
+          }
+        ]
+      },
+      "plovdiv": {
+        "names": {
+          "ar": "بلوفديف",
+          "en": "Plovdiv",
+          "tr": "Filibe"
+        },
+        "description": {
+          "ar": "أقدم مدينة مأهولة بالسكان باستمرار في أوروبا، تشتهر بمسرحها الروماني العظيم وحيها القديم الملون (كابانا).",
+          "en": "Europe's oldest continuously inhabited city, famous for its Roman Theatre and Kapana creative district.",
+          "tr": "Avrupa'nın kesintisiz yaşanan en eski şehri; Roma Tiyatrosu ve Kapana semtiyle ünlüdür."
+        },
+        "image": "res://images/plovdiv.png",
+        "bg_image": "res://images/plovdiv_bg.png",
+        "image_3d": "res://images/plovdiv_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق العذراء بلوفديف",
+              "en": "The Residence City Garden Plovdiv",
+              "tr": "The Residence City Garden Filibe"
+            },
+            "image": "res://images/residence_plovdiv.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بافاج كابانا بلوفديف",
+              "en": "Pavaj Restaurant Kapana",
+              "tr": "Pavaj Restoran Kapana"
+            },
+            "image": "res://images/pavaj_plovdiv.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات بلغارية منزلية حديثة",
+              "en": "Modern Bulgarian Comfort Food",
+              "tr": "Modern Bulgar Ev Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسرح الروماني القديم في بلوفديف",
+              "en": "Ancient Theatre of Philippopolis",
+              "tr": "Filibe Antik Roma Tiyatrosu"
+            },
+            "image": "res://images/plovdiv_roman_theatre.png",
+            "description": {
+              "ar": "مسرح روماني محفوظ بعناية بني في القرن الأول الميلادي ولا يزال يعزف فيه الموسيقى.",
+              "en": "Exceptionally preserved 1st-century Roman amphitheater still hosting concerts.",
+              "tr": "Macerası hala konserlere ev sahipliği yapan mükemmel korunmuş 1. yüzyıl Roma tiyatrosu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي كابانا الإبداعي (Kapana Trap)",
+              "en": "Kapana Creative District",
+              "tr": "Kapana Yaratıcı Semti"
+            },
+            "image": "res://images/kapana.png",
+            "description": {
+              "ar": "حي الأزقة الضيقة الفنية المليء بالمعارض والمقاهي العصرية.",
+              "en": "Pedestrian district of cobblestone alleys filled with craft shops and art cafes.",
+              "tr": "El sanatları dükkanları ve sanat kafeleriyle dolu arnavut kaldırımlı semt."
+            }
+          }
+        ]
+      },
+      "varna": {
+        "names": {
+          "ar": "فارنا",
+          "en": "Varna",
+          "tr": "Varna"
+        },
+        "description": {
+          "ar": "عاصمة بلغاريا الساحلية على البحر الأسود، تشتهر بشواطئ رمالها الذهبية وشواطئ الاستجمام والمتاحف البحرية.",
+          "en": "The summer capital of Bulgaria on the Black Sea coast, known for Golden Sands resort, beaches, and Sea Garden.",
+          "tr": "Karadeniz kıyısındaki Bulgaristan'ın yazlık başkenti; Altın Kumlar resortu ve plajlarıyla tanınır."
+        },
+        "image": "res://images/varna.png",
+        "bg_image": "res://images/varna_bg.png",
+        "image_3d": "res://images/varna_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق وسبا غاند أوتيل لندن فارنا",
+              "en": "Grand Hotel London Varna",
+              "tr": "Grand Hotel London Varna"
+            },
+            "image": "res://images/grand_hotel_london_varna.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الكابتن كوك فارنا",
+              "en": "Captain Cook Fish Restaurant",
+              "tr": "Captain Cook Balık Restoranı"
+            },
+            "image": "res://images/captain_cook_varna.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك ومأكولات البحر الأسود البحرية",
+              "en": "Fresh Black Sea Seafood",
+              "tr": "Taze Karadeniz Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه حديقة البحر (Sea Garden Varna)",
+              "en": "Sea Garden (Morska Gradina)",
+              "tr": "Deniz Parkı (Morska Gradina)"
+            },
+            "image": "res://images/sea_garden_varna.png",
+            "description": {
+              "ar": "أضخم منتزه ساحلي في البلقان يمتد على الشاطئ ويضم حدائق ونوافير.",
+              "en": "The largest landscaped park along the Black Sea coast with promenade access.",
+              "tr": "Karadeniz kıyısındaki en büyük peyzajlı sahil parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شواطئ غولدين ساندز (Golden Sands)",
+              "en": "Golden Sands Beach Resort",
+              "tr": "Altın Kumlar Plajı (Golden Sands)"
+            },
+            "image": "res://images/golden_sands_varna.png",
+            "description": {
+              "ar": "شاطئ سياحي فاخر برمال ذهبية ناعمة ومياه دافئة صافية.",
+              "en": "Major seaside resort town with wide golden beach and mineral springs.",
+              "tr": "Geniş altın kumsalı ve kaplıcalarıyla ünlü büyük sahil resortu."
+            }
+          }
+        ]
+      },
+      "bansko": {
+        "names": {
+          "ar": "بانسكو",
+          "en": "Bansko",
+          "tr": "Bansko"
+        },
+        "description": {
+          "ar": "أشهر مركز للتزلج والرياضات الشتوية في أوروبا الشرقية، تقع عند أقدام جبال بيرين وتتميز بمنتجعاتها الخشبية.",
+          "en": "Eastern Europe's premier ski resort at the foot of the Pirin Mountains, famous for winter sports and alpine lodges.",
+          "tr": "Doğu Avrupa'nın bir numaralı kayak merkezi; Pirin Dağları eteklerinde kış sporları ve ahşap dağ evleriyle ünlüdür."
+        },
+        "image": "res://images/bansko.png",
+        "bg_image": "res://images/bansko_bg.png",
+        "image_3d": "res://images/bansko_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كيمبينسكي غراند أرينا بانسكو",
+              "en": "Kempinski Hotel Grand Arena Bansko",
+              "tr": "Kempinski Hotel Grand Arena Bansko"
+            },
+            "image": "res://images/kempinski_bansko.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ميهانا الفولكلوري بانسكو",
+              "en": "Mehana Chevereto Bansko",
+              "tr": "Mehana Chevereto Bansko"
+            },
+            "image": "res://images/mehana_bansko.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مشويات جبلية بلغارية على الفحم",
+              "en": "Traditional Mountain Mehana & Roast",
+              "tr": "Geleneksel Dağ Mehanası ve Izgara"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتجع بانسكو للتزلج (Bansko Ski Resort)",
+              "en": "Bansko Ski Slopes & Gondola",
+              "tr": "Bansko Kayak Pistleri ve Teleferik"
+            },
+            "image": "res://images/bansko_ski.png",
+            "description": {
+              "ar": "مسارات تزلج عالمية بطول 75 كم وتلفريك جندول حديث ينقلك للقمم.",
+              "en": "Modern ski resort featuring 75km of slopes and a high-speed gondola.",
+              "tr": "75 km'lik pisti ve hızlı teleferiğiyle modern kayak merkezi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه بيرين الوطني (Pirin National Park - UNESCO)",
+              "en": "Pirin National Park",
+              "tr": "Pirin Milli Parkı"
+            },
+            "image": "res://images/pirin_national_park.png",
+            "description": {
+              "ar": "محمية طبيعية خلابة تضم بحيرات جبلية جلييدية وأشجار الصنوبر التاريخية.",
+              "en": "UNESCO World Heritage park filled with glacial lakes and ancient pine trees.",
+              "tr": "Buzul gölleri ve antik çam ağaçlarıyla dolu UNESCO Dünya Mirası parkı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1396 @@
+{
+  "algeria": {
+    "needs_ad": false,
+    "cities": {
+      "algiers": {
+        "names": {
+          "ar": "الجزائر العاصمة",
+          "en": "Algiers",
+          "tr": "Cezayir"
+        },
+        "description": {
+          "ar": "عاصمة الجزائر وتُعرف بالجزائر البيضاء، تقع على البحر المتوسط وتشتهر بحي القصبة العتيق المدرج باليونسكو، ومقام الشهيد وثراء معمارها العثماني والفرنسي.",
+          "en": "Capital of Algeria known as 'Algiers the White', famous for the UNESCO historic Kasbah, Martyrs' Memorial, and Mediterranean architecture.",
+          "tr": "Cezayir'in başkenti; 'Beyaz Cezayir' olarak bilinir, UNESCO mirası tarihi Kasbah, Şehitler Anıtı ve Akdeniz mimarisiyle ünlü."
+        },
+        "image": "res://images/algiers.png",
+        "bg_image": "res://images/algiers.png",
+        "image_3d": "res://images/algiers_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق سوفيتيل الجزائر حمة جاردن",
+              "en": "Sofitel Algiers Hamma Garden",
+              "tr": "Sofitel Algiers Hamma Garden"
+            },
+            "image": "res://images/sofitel_algiers.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق الأوراسي الجزائر",
+              "en": "El Aurassi Hotel Algiers",
+              "tr": "El Aurassi Hotel Cezayir"
+            },
+            "image": "res://images/aurassi_algiers.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "حي القصبة العتيق",
+              "en": "The Kasbah of Algiers",
+              "tr": "Cezayir Kasbah Şehri"
+            },
+            "image": "res://images/kasbah.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مقام الشهيد وحديقة التجارب الحمة",
+              "en": "Martyrs' Memorial & Hamma Botanical Garden",
+              "tr": "Şehitler Anıtı ve Hamma Botanik Bahçesi"
+            },
+            "image": "res://images/hamma_garden.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "oran": {
+        "names": {
+          "ar": "وهران",
+          "en": "Oran",
+          "tr": "Oran"
+        },
+        "description": {
+          "ar": "عاصمة الغرب الجزائري وعروس المتوسط، تشتهر بموسيقى الراي العالمية وقلعة سانتا كروز وكورنيش وهران الساحر.",
+          "en": "Capital of western Algeria, famous as the birthplace of Raï music, Santa Cruz Fort, and Mediterranean beach coastlines.",
+          "tr": "Cezayir'in batı başkenti; Raï müziğinin doğduğu yer, Santa Cruz Kalesi ve Akdeniz sahil şeridi ile ünlüdür."
+        },
+        "image": "res://images/oran.png",
+        "bg_image": "res://images/oran.png",
+        "image_3d": "res://images/oran_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شيراتون وهران",
+              "en": "Sheraton Oran Hotel",
+              "tr": "Sheraton Oran Hotel"
+            },
+            "image": "res://images/sheraton_oran.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "قلعة سانتا كروز التاريخية",
+              "en": "Santa Cruz Fort",
+              "tr": "Santa Cruz Kalesi"
+            },
+            "image": "res://images/santa_cruz.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ عين الترك وكورنيش وهران",
+              "en": "Ain El Turk Beach & Promenade",
+              "tr": "Ain El Turk Plajı ve Sahil Yolu"
+            },
+            "image": "res://images/oran_beach.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "constantine": {
+        "names": {
+          "ar": "قسنطينة",
+          "en": "Constantine",
+          "tr": "Kasntina"
+        },
+        "description": {
+          "ar": "عاصمة الشرق الجزائري ومدينة الجسور المعلقة السبع، تبنى فوق صخور شاهقة ومضيق وادي الرمال العظيم.",
+          "en": "City of Bridges built on high cliffs over the Rhumel River gorge, famous for historic suspension bridges and culture.",
+          "tr": "Köprüler Şehri; Rhumel Nehri kanyonunun kayalıkları üzerine kurulmuş, tarihi asma köprüleriyle tanınır."
+        },
+        "image": "res://images/constantine.png",
+        "bg_image": "res://images/constantine.png",
+        "image_3d": "res://images/constantine_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ماريوت قسنطينة",
+              "en": "Constantine Marriott Hotel",
+              "tr": "Constantine Marriott Hotel"
+            },
+            "image": "res://images/marriott_constantine.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "جسر سيدي مسيد المعلق",
+              "en": "Sidi M'Cid Suspension Bridge",
+              "tr": "Sidi M'Cid Asma Köprüsü"
+            },
+            "image": "res://images/sidi_mcid.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مسجد الأمير عبد القادر",
+              "en": "Emir Abdelkader Mosque",
+              "tr": "Emir Abdülkadir Camii"
+            },
+            "image": "res://images/abdelkader_mosque.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "annaba": {
+        "names": {
+          "ar": "عنابة",
+          "en": "Annaba",
+          "tr": "Annabe"
+        },
+        "description": {
+          "ar": "جوهرة الشرق وعنابة بونة القديس أغسطس، تتميز بشواطئها الفيروزية وكنيسة لالة بونة ومينائها التاريخي.",
+          "en": "Gem of the East, famous for St. Augustine Basilica, turquoise Mediterranean beaches, and historic port.",
+          "tr": "Doğunun mücevheri; Aziz Augustin Bazilikası, turkuaz Akdeniz plajları ve tarihi limanı ile bilinir."
+        },
+        "image": "res://images/annaba.png",
+        "bg_image": "res://images/annaba.png",
+        "image_3d": "res://images/annaba_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شيراتون عنابة",
+              "en": "Sheraton Annaba Hotel",
+              "tr": "Sheraton Annaba Hotel"
+            },
+            "image": "res://images/sheraton_annaba.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "كنيسة القديس أغسطس (لالة بونة)",
+              "en": "St. Augustine Basilica",
+              "tr": "Aziz Augustin Bazilikası"
+            },
+            "image": "res://images/st_augustine.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ عين عشير والجبل الأخضر",
+              "en": "Ain Achir Beach & Seraïdi Mountain",
+              "tr": "Ain Achir Plajı ve Seraïdi Dağı"
+            },
+            "image": "res://images/ain_achir.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "tlemcen": {
+        "names": {
+          "ar": "تلمسان",
+          "en": "Tlemcen",
+          "tr": "Tilimsen"
+        },
+        "description": {
+          "ar": "غرناطة إفريقيا ولؤلؤة المغرب العربي، تشتهر بقصر المشور ومسجد سيدي بومدين والتراث الأندلسي العريق ومغارات بني عاد.",
+          "en": "The 'Granada of Africa', famous for Andalusian heritage, El Mechouar Palace, Sidi Boumediene Mosque, and Beni Add Caves.",
+          "tr": "Afrika'nın Gırnata'sı; Endülüs mirası, El Mechouar Sarayı, Sidi Boumediene Camii ve Beni Add Mağarası ile ünlüdür."
+        },
+        "image": "res://images/tlemcen.png",
+        "bg_image": "res://images/tlemcen.png",
+        "image_3d": "res://images/tlemcen_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق رينيسانس تلمسان",
+              "en": "Renaissance Tlemcen Hotel",
+              "tr": "Renaissance Tlemcen Otel"
+            },
+            "image": "res://images/renaissance_tlemcen.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "قصر المشور الأندلسي",
+              "en": "El Mechouar Palace",
+              "tr": "El Mechouar Sarayı"
+            },
+            "image": "res://images/mechouar.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مغارات بني عاد الطبيعية",
+              "en": "Beni Add Caves",
+              "tr": "Beni Add Mağaraları"
+            },
+            "image": "res://images/beni_add.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "bejaia": {
+        "names": {
+          "ar": "بجاية",
+          "en": "Bejaia",
+          "tr": "Becaye"
+        },
+        "description": {
+          "ar": "عروس القبايل الساحلية، تضم قمة قوراية ولؤلؤة البحر المتوسط وخليج بجاية الساحر وشواطئ كاب كربون الخلابة.",
+          "en": "Coastal capital of Kabylie region, famous for Yemma Gouraya peak, Cap Carbon lighthouse, and stunning Mediterranean gulf.",
+          "tr": "Kabiliye sahilinin incisi; Yemma Gouraya zirvesi, Cap Carbon feneri ve büyüleyici Akdeniz körfezi ile tanınır."
+        },
+        "image": "res://images/bejaia.png",
+        "bg_image": "res://images/bejaia.png",
+        "image_3d": "res://images/bejaia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كريستال بجاية",
+              "en": "Hotel Cristal Bejaia",
+              "tr": "Hotel Cristal Bejaia"
+            },
+            "image": "res://images/cristal_bejaia.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "قمة يما قوراية والمحمية الوطنية",
+              "en": "Yemma Gouraya National Park",
+              "tr": "Yemma Gouraya Milli Parkı"
+            },
+            "image": "res://images/gouraya.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منارة كاب كربون وشاطئ العشايط",
+              "en": "Cap Carbon Lighthouse & Coast",
+              "tr": "Cap Carbon Feneri ve Sahili"
+            },
+            "image": "res://images/cap_carbon.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "ghardaia": {
+        "names": {
+          "ar": "غرداية",
+          "en": "Ghardaia",
+          "tr": "Ghardaiye"
+        },
+        "description": {
+          "ar": "عاصمة وادي ميزاب المدرجة في قائمة اليونسكو، تمتاز بهندستها المعمارية الصحراوية الفريدة وسوقها التقليدي ونخيل بني يزقن.",
+          "en": "Heart of the UNESCO M'Zab Valley, famous for unique Mozabite desert architecture, Beni Isguen ksar, and traditional markets.",
+          "tr": "UNESCO Dünya Mirası M'Zab Vadisi'nin kalbi; özgün çöl mimarisi, Beni Isguen ksar'ı ve geleneksel çarşısı ile ünlüdür."
+        },
+        "image": "res://images/ghardaia.png",
+        "bg_image": "res://images/ghardaia.png",
+        "image_3d": "res://images/ghardaia_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الرستميين غرداية",
+              "en": "Hotel Rostemides Ghardaia",
+              "tr": "Hotel Rostemides Ghardaia"
+            },
+            "image": "res://images/rostemides.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "قصر بني يزقن وسوق غرداية العتيق",
+              "en": "Beni Isguen Ksar & Traditional Market",
+              "tr": "Beni Isguen Ksar'ı ve Geleneksel Çarşı"
+            },
+            "image": "res://images/beni_isguen.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "واحات وادي ميزاب الصحراوية",
+              "en": "M'Zab Valley Oases",
+              "tr": "M'Zab Vadisi Vahaları"
+            },
+            "image": "res://images/mzab_valley.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "tamanrasset": {
+        "names": {
+          "ar": "تمنراست",
+          "en": "Tamanrasset",
+          "tr": "Tamanrasset"
+        },
+        "description": {
+          "ar": "عاصمة الهقار والصحراء الكبرى، تضم جبال الأسكرام والآسفار الساحرة لمشاهدة أجمل غروب شمس في العالم وثقافة الطوارق.",
+          "en": "Capital of Tuareg territory and Ahaggar Mountains, famous for Assekrem peak and world's most spectacular sunsets.",
+          "tr": "Tuğareg bölgesinin ve Ahaggar Dağları'nın başkenti; Assekrem zirvesi ve eşsiz gün batımı manzarası ile ünlü."
+        },
+        "image": "res://images/tamanrasset.png",
+        "bg_image": "res://images/tamanrasset.png",
+        "image_3d": "res://images/tamanrasset_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق التاهات تمنراست",
+              "en": "Hotel Tahat Tamanrasset",
+              "tr": "Hotel Tahat Tamanrasset"
+            },
+            "image": "res://images/tahat_hotel.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "موقع جبل الأسكرام وصومعة شارل دو فوكو",
+              "en": "Assekrem Peak Hermitage",
+              "tr": "Assekrem Zirvesi ve Manastır"
+            },
+            "image": "res://images/assekrem.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "سلسلة جبال الهقار الصحراوية",
+              "en": "Ahaggar National Park Mountains",
+              "tr": "Ahaggar Milli Parkı Dağları"
+            },
+            "image": "res://images/ahaggar.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "biskra": {
+        "names": {
+          "ar": "بسكرة",
+          "en": "Biskra",
+          "tr": "Biskra"
+        },
+        "description": {
+          "ar": "عروس الزيبان وعاصمة التمور، تشتهر بتمور دقلة نور الذهبية ومضايق القنطرة وبساتين النخيل الشاسعة وحماماتها المعدنية.",
+          "en": "Queen of the Ziban and dates capital, famous for Deglet Noor dates, El Kantara gorges, thermal baths, and vast palm groves.",
+          "tr": "Hurma başkenti; Deglet Noor hurmaları, El Kantara kanyonu, kaplıcaları ve geniş palmiye vahaları ile tanınır."
+        },
+        "image": "res://images/biskra.png",
+        "bg_image": "res://images/biskra.png",
+        "image_3d": "res://images/biskra_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الزيبان بسكرة",
+              "en": "Hotel Ziban Biskra",
+              "tr": "Hotel Ziban Biskra"
+            },
+            "image": "res://images/ziban_biskra.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "مضايق القنطرة الكلسية التاريخية",
+              "en": "El Kantara Gorges",
+              "tr": "El Kantara Kanyonu"
+            },
+            "image": "res://images/kantara.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حمامات الصالحين المعدنية",
+              "en": "Hammam Salihine Thermal Baths",
+              "tr": "Hammam Salihine Kaplıcaları"
+            },
+            "image": "res://images/salihine.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "batna": {
+        "names": {
+          "ar": "باتنة",
+          "en": "Batna",
+          "tr": "Batna"
+        },
+        "description": {
+          "ar": "عاصمة الأوراس وموطن الثورة الجزائرية، تضم أطلال تيمقاد الرومانية المدرجة في اليونسكو وغابات الأرز بمحمية بلزمة.",
+          "en": "Capital of the Aures region, famous for UNESCO Timgad Roman archaeological ruins and Belezma cedar forests.",
+          "tr": "Aures bölgesinin başkenti; UNESCO mirası Timgad Roma antik kenti ve Belezma sedir ormanları ile ünlüdür."
+        },
+        "image": "res://images/batna.png",
+        "bg_image": "res://images/batna.png",
+        "image_3d": "res://images/batna_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places", "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الأوراس باتنة",
+              "en": "Hotel Chelia Batna",
+              "tr": "Hotel Chelia Batna"
+            },
+            "image": "res://images/chelia_batna.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "مدينة تيمقاد الأثرية الرومانية",
+              "en": "Timgad Ancient Roman Ruins",
+              "tr": "Timgad Roma Antik Kenti"
+            },
+            "image": "res://images/timgad.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "محمية جبل بلزمة وغابات الأرز",
+              "en": "Belezma National Park",
+              "tr": "Belezma Milli Parkı"
+            },
+            "image": "res://images/belezma.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "setif": {
+        "names": {
+          "ar": "سطيف",
+          "en": "Setif",
+          "tr": "Setif"
+        },
+        "description": {
+          "ar": "العاصمة الاقتصادية للهضاب العليا وتشتهر بنفورة عين الفوارة التاريخية، وأطلال جميلة الرومانية اليونسكية وقربها من جبال بابور.",
+          "en": "Economic capital of the High Plateaus, famous for Ain El Fouara fountain, UNESCO Djemila Roman ruins, and Babor Mountains.",
+          "tr": "Yüksek Platoların ekonomi başkenti; Ain El Fouara çeşmesi, UNESCO mirası Djemila Roma antik kenti ile ünlü."
+        },
+        "image": "res://images/setif.png",
+        "bg_image": "res://images/setif.png",
+        "image_3d": "res://images/setif_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق بارك مال المفرز سطيف",
+              "en": "Park Mall Hotel Setif",
+              "tr": "Park Mall Hotel Setif"
+            },
+            "image": "res://images/park_mall_setif.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "مدينة جميلة الأثرية الرومانية",
+              "en": "Djemila Archaeological Site",
+              "tr": "Djemila Antik Kenti"
+            },
+            "image": "res://images/djemila.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "نافورة عين الفوارة بوسط المدينة",
+              "en": "Ain El Fouara Fountain",
+              "tr": "Ain El Fouara Çeşmesi"
+            },
+            "image": "res://images/ain_fouara.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "mostaganem": {
+        "names": {
+          "ar": "مستغانم",
+          "en": "Mostaganem",
+          "tr": "Müsteganem"
+        },
+        "description": {
+          "ar": "عاصمة المسرح والشعر، تتميز بشواطئها الساحلية الممتدة كشاطئ صابلات وبساتينها الخضراء ومتنزهاتها الحديثة.",
+          "en": "Cultural and coastal city famous for theater festivals, long sandy beaches like Les Sablettes, and lush green plains.",
+          "tr": "Kültür ve tiyatro şehri; Les Sablettes gibi uzun kumsal plajları ve verimli ovaları ile tanınır."
+        },
+        "image": "res://images/mostaganem.png",
+        "bg_image": "res://images/mostaganem.png",
+        "image_3d": "res://images/mostaganem_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ميموزا مستغانم",
+              "en": "Hotel Mimosa Mostaganem",
+              "tr": "Hotel Mimosa Müsteganem"
+            },
+            "image": "res://images/mimosa_mosta.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "حي المطمر العتيق والمسرح البلدي",
+              "en": "El Matmar Old Quarter",
+              "tr": "El Matmar Tarihi Semti"
+            },
+            "image": "res://images/matmar.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه وشاطئ صابلات الساحلي",
+              "en": "Les Sablettes Beach & Resort",
+              "tr": "Les Sablettes Sahili"
+            },
+            "image": "res://images/sablettes.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "tipaza": {
+        "names": {
+          "ar": "تيبازة",
+          "en": "Tipaza",
+          "tr": "Tipaza"
+        },
+        "description": {
+          "ar": "المدينة الأثرية الرومانية الشاطئية المدرجة باليونسكو، وتضم الضريح الملكي الموريتاني (قبر المسيحية) المطل على البحر الجميل.",
+          "en": "UNESCO World Heritage coastal site with ancient Roman ruins, blue bays, and the Royal Mausoleum of Mauretania.",
+          "tr": "UNESCO mirası Roma antik kenti; kıyı kalıntıları, mavi koyları ve Moritanya Kraliyet Mozolesi ile ünlü."
+        },
+        "image": "res://images/tipaza.png",
+        "bg_image": "res://images/tipaza.png",
+        "image_3d": "res://images/tipaza_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق القصر تيبازة",
+              "en": "Le Grand Bleu Tipaza",
+              "tr": "Le Grand Bleu Tipaza"
+            },
+            "image": "res://images/grand_bleu_tipaza.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "الضريح الملكي الموريتاني (قبر المسيحية)",
+              "en": "Royal Mausoleum of Mauretania",
+              "tr": "Moritanya Kraliyet Mozolesi"
+            },
+            "image": "res://images/mauretania_tomb.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المنتزه الأثري الروماني والشاطئ",
+              "en": "Tipaza Roman Archaeological Park",
+              "tr": "Tipaza Roma Arkeoloji Parkı"
+            },
+            "image": "res://images/tipaza_park.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "tizi_ouzou": {
+        "names": {
+          "ar": "تيزي وزو",
+          "en": "Tizi Ouzou",
+          "tr": "Tizi Ouzou"
+        },
+        "description": {
+          "ar": "قلب جبال جرجرة القبايلية، تتميز بقمم جبالها المغطاة بالثلوج شتاءً، وقراها التراثية المعلقة، وصناعة الحلي الفضية الأمازيغية.",
+          "en": "Heart of Kabylie and Djurdjura mountain range, famous for snow-capped peaks, cliffside Berber villages, and silver jewelry craft.",
+          "tr": "Cürcüre Dağları'nın ve Kabiliye bölgesinin kalbi; karlı zirveleri, Berberi köyleri ve gümüş takı sanatıyla ünlü."
+        },
+        "image": "res://images/tizi_ouzou.png",
+        "bg_image": "res://images/tizi_ouzou.png",
+        "image_3d": "res://images/tizi_ouzou_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق لالة خديجة تيزي وزو",
+              "en": "Hotel Lalla Khedidja",
+              "tr": "Hotel Lalla Khedidja"
+            },
+            "image": "res://images/lalla_khedidja.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "قرية آث يني وصناعة الفضة الأمازيغية",
+              "en": "Beni Yenni Silver Craft Village",
+              "tr": "Beni Yenni Gümüş İşçiliği Köyü"
+            },
+            "image": "res://images/beni_yenni.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المحمية الوطنية لجبال جرجرة وقمة تيكجدة",
+              "en": "Tikjda & Djurdjura National Park",
+              "tr": "Tikjda ve Cürcüre Milli Parkı"
+            },
+            "image": "res://images/tikjda.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "djanet": {
+        "names": {
+          "ar": "جانت",
+          "en": "Djanet",
+          "tr": "Djanet"
+        },
+        "description": {
+          "ar": "جوهرة الطاسيلي ناجر المدرجة باليونسكو، تشتهر بالرسومات الصخرية البدائية القديمة والكثبان الحمراء العالية وواحات النخيل.",
+          "en": "Pearl of UNESCO Tassili n'Ajjer, famous for prehistoric cave paintings, giant red sand dunes, and desert palm oases.",
+          "tr": "UNESCO mirası Tassili n'Ajjer'in incisi; tarih öncesi kaya resimleri, dev kızıl kum tepeleri ve çöl vahaları ile ünlü."
+        },
+        "image": "res://images/djanet.png",
+        "bg_image": "res://images/djanet.png",
+        "image_3d": "res://images/djanet_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الزيبان جانت",
+              "en": "Hotel Zeriba Djanet",
+              "tr": "Hotel Zeriba Djanet"
+            },
+            "image": "res://images/zeriba_djanet.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "الحديقة الوطنية للطاسيلي ناجر والرسومات الصخرية",
+              "en": "Tassili n'Ajjer Rock Art Park",
+              "tr": "Tassili n'Ajjer Kaya Sanatı Parkı"
+            },
+            "image": "res://images/tassili.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منطقة إهرير العجيبة والكثبان الحمراء",
+              "en": "Ihrir Oasis & Red Sand Dunes",
+              "tr": "Ihrir Vahası ve Kızıl Kum Tepeleri"
+            },
+            "image": "res://images/ihrir.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "jijel": {
+        "names": {
+          "ar": "جيجل",
+          "en": "Jijel",
+          "tr": "Cicel"
+        },
+        "description": {
+          "ar": "الساحل الساحر وشواطئ الكهوف العجيبة، تضم الحديقة الوطنية لتازة وغاباتها الخضراء المطلة مباشرة على البحر.",
+          "en": "Famous for Marvelous Caves (Les Grottes Merveilleuses), Taza National Park, and lush green coastlines meeting the sea.",
+          "tr": "Harika Mağaraları (Les Grottes Merveilleuses), Taza Milli Parkı ve denize sıfır yeşil ormanları ile tanınır."
+        },
+        "image": "res://images/jijel.png",
+        "bg_image": "res://images/jijel.png",
+        "image_3d": "res://images/jijel_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الكورنيش جيجل",
+              "en": "Hotel Le Corniche Jijel",
+              "tr": "Hotel Le Corniche Cicel"
+            },
+            "image": "res://images/corniche_jijel.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "الكهوف العجيبة الطبيعية في زيامة منصورية",
+              "en": "Marvelous Caves (Les Grottes Merveilleuses)",
+              "tr": "Harika Mağaralar (Les Grottes Merveilleuses)"
+            },
+            "image": "res://images/jijel_caves.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ الكهوف العجيبة والمحمية الوطنية لتازة",
+              "en": "Taza National Park & Coast",
+              "tr": "Taza Milli Parkı ve Sahili"
+            },
+            "image": "res://images/taza_jijel.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "el_oued": {
+        "names": {
+          "ar": "الوادي",
+          "en": "El Oued",
+          "tr": "El Oued"
+        },
+        "description": {
+          "ar": "مدينة الألف قبة وقبة، تشتهر بمعمارها الصحراوي القبابي الفريد، وسوق العرق الشرقي الكبير للتمور الرفيعة.",
+          "en": "City of a Thousand Domes, famous for unique domed desert architecture, Grand Erg Oriental sand dunes, and premium dates.",
+          "tr": "Bin Kubbeli Şehir; kubbeli çöl mimarisi, Büyük Doğu Erg kumulları ve kaliteli hurmaları ile meşhur."
+        },
+        "image": "res://images/el_oued.png",
+        "bg_image": "res://images/el_oued.png",
+        "image_3d": "res://images/el_oued_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الغزالة جولد الوادي",
+              "en": "La Gazelle D'Or Resort El Oued",
+              "tr": "La Gazelle D'Or Resort"
+            },
+            "image": "res://images/gazelle_oued.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "السوق التقليدي للقباب بوسط المدينة",
+              "en": "El Oued Traditional Domed Market",
+              "tr": "El Oued Geleneksel Kubbeli Çarşısı"
+            },
+            "image": "res://images/oued_bazaar.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كثبان العرق الشرقي الكبير الصحراوية",
+              "en": "Grand Erg Oriental Dunes",
+              "tr": "Büyük Doğu Erg Kumulları"
+            },
+            "image": "res://images/erg_oriental.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "skikda": {
+        "names": {
+          "ar": "سكيكدة",
+          "en": "Skikda",
+          "tr": "Skikda"
+        },
+        "description": {
+          "ar": "روسيكادا الرومانية القديمة وعروس الساحل الشرقي، تتميز بشواطئها العريضة ومهرجان الفراولة السنوي ومينائها التجاري.",
+          "en": "Ancient Roman Rusicade, famous for wide Mediterranean beaches, annual strawberry festivals, and historic port.",
+          "tr": "Tarihi Roma Rusicade kenti; geniş Akdeniz plajları, çilek festivali ve limanı ile tanınır."
+        },
+        "image": "res://images/skikda.png",
+        "bg_image": "res://images/skikda.png",
+        "image_3d": "res://images/skikda_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق القصر سكيكدة",
+              "en": "Hotel Royal Tulips Skikda",
+              "tr": "Hotel Royal Tulips Skikda"
+            },
+            "image": "res://images/royal_skikda.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "المسرح الروماني القديم بمدينة سكيكدة",
+              "en": "Skikda Roman Amphitheatre",
+              "tr": "Skikda Roma Amfitiyatrosu"
+            },
+            "image": "res://images/skikda_theatre.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ العربي بن مهيدي وكورنيش سكيكدة",
+              "en": "Ben M'hidi Beach Promenade",
+              "tr": "Ben M'hidi Plajı ve Kordonu"
+            },
+            "image": "res://images/skikda_beach.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "ouargla": {
+        "names": {
+          "ar": "ورقلة",
+          "en": "Ouargla",
+          "tr": "Vargla"
+        },
+        "description": {
+          "ar": "عاصمة الواحات والصحراء الكبرى، تضم القصر العتيق ومتحف الصحراء وتتميز ببساتين النخيل الممتدة وبحيرة سد المالح.",
+          "en": "Capital of desert oases, known for the historic Ksar of Ouargla, Sahara museum, date farms, and Salt Lake.",
+          "tr": "Çöl vahalarının başkenti; tarihi Vargla Ksar'ı, palmiye bahçeleri, Sahara müzesi ve Tuz Gölü ile bilinir."
+        },
+        "image": "res://images/ouargla.png",
+        "bg_image": "res://images/ouargla.png",
+        "image_3d": "res://images/ouargla_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الواحات ورقلة",
+              "en": "Hotel Le Tassili Ouargla",
+              "tr": "Hotel Le Tassili Vargla"
+            },
+            "image": "res://images/tassili_ouargla.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "قصر ورقلة العتيق ومتحف الصحراء",
+              "en": "Ksar of Ouargla & Sahara Museum",
+              "tr": "Vargla Ksar'ı ve Sahara Müzesi"
+            },
+            "image": "res://images/ksar_ouargla.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة سد المالح الصحراوية",
+              "en": "Sebkhet Safioune Salt Lake",
+              "tr": "Sebkhet Safioune Tuz Gölü"
+            },
+            "image": "res://images/salt_lake.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      },
+      "boumerdes": {
+        "names": {
+          "ar": "بومرداس",
+          "en": "Boumerdes",
+          "tr": "Bumerdes"
+        },
+        "description": {
+          "ar": "جوهرة الساحل الأوسط القريبة من العاصمة، تشتهر بشواطئ شاطئ الكرمة وغابات قورصو الصنوبرية والملاذات الشاطئية.",
+          "en": "Coastal gem near Algiers, famous for Rocher Noir beaches, Corso pine forests, and seaside resorts.",
+          "tr": "Cezayir yakınındaki sahil kenti; Rocher Noir plajları ve çam ormanları ile ünlü bir tatil beldesidir."
+        },
+        "image": "res://images/boumerdes.png",
+        "bg_image": "res://images/boumerdes.png",
+        "image_3d": "res://images/boumerdes_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الزيتون بومرداس",
+              "en": "Hotel Medina Boumerdes",
+              "tr": "Hotel Medina Bumerdes"
+            },
+            "image": "res://images/medina_boumerdes.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "cultural Places": [
+          {
+            "name": {
+              "ar": "منطقة الصخرة السوداء التاريخية (روشيه نوار)",
+              "en": "Historic Rocher Noir District",
+              "tr": "Tarihi Rocher Noir Semti"
+            },
+            "image": "res://images/rocher_noir.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ الكرمة وغابة قورصو البحرية",
+              "en": "Corso Beach & Pine Forest",
+              "tr": "Corso Plajı ve Çam Ormanı"
+            },
+            "image": "res://images/corso_beach.jpg",
+            "website": "https://maps.app.goo.gl",
+            "needs_ad": true
+          }
+        ]
+      }
+    }
+  }
+}

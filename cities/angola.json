@@ -1,0 +1,290 @@
+{
+  "angola": {
+    "needs_ad": false,
+    "cities": {
+      "luanda": {
+        "names": {
+          "ar": "لواندا",
+          "en": "Luanda",
+          "tr": "Luanda"
+        },
+        "description": {
+          "ar": "عاصمة أنغولا النابضة بالحياة الواقعة على ساحل الأطلسي، تجمع بين الميناء المزدحم، الشواطئ الساحر والمعالم الاستعمارية.",
+          "en": "The vibrant capital of Angola on the Atlantic coast, blending a busy port, scenic beaches, and colonial monuments.",
+          "tr": "Angola'nın Atlas Okyanusu kıyısındaki canlı başkenti; limanı, plajları ve sömürge dönemi anıtlarıyla dikkat çeker."
+        },
+        "image": "res://images/luanda.png",
+        "bg_image": "res://images/luanda_bg.png",
+        "image_3d": "res://images/luanda_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق إبيك سانا لواندا",
+              "en": "EPIC SANA Luanda Hotel",
+              "tr": "EPIC SANA Luanda Otel"
+            },
+            "image": "res://images/epic_sana_luanda.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق تروبيكو لواندا",
+              "en": "Hotel Tropico",
+              "tr": "Hotel Tropico"
+            },
+            "image": "res://images/hotel_tropico.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أو كينتال",
+              "en": "O Quintal Restaurant",
+              "tr": "O Quintal Restoran"
+            },
+            "image": "res://images/o_quintal.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "مأكولات أنغولية وبحرية",
+              "en": "Angolan & Seafood",
+              "tr": "Angola ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة ساو ميغيل",
+              "en": "Fortress of São Miguel",
+              "tr": "São Miguel Kalesi"
+            },
+            "image": "res://images/sao_miguel.png",
+            "description": {
+              "ar": "حصن برتغالي بني عام 1576 يطل على خليج لواندا ويحتوي الموزيم العسكري.",
+              "en": "16th-century Portuguese fortress overlooking Luanda Bay housing the Armed Forces Museum.",
+              "tr": "Luanda Körfezi'ne bakan ve Askeri Müze'ye ev sahipliği yapan 16. yüzyıl Portekiz kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع شاطئ إلها دي لواندا",
+              "en": "Ilha de Luanda Peninsula",
+              "tr": "Ilha de Luanda Yarımadası"
+            },
+            "image": "res://images/ilha_luanda.png",
+            "description": {
+              "ar": "شبه جزيرة ساحلية مليئة بالشواطئ الرملية والمطاعم البحرية الفاخرة.",
+              "en": "A coastal spit with white sand beaches, bars, and luxury seafood dining.",
+              "tr": "Beyaz kumlu plajları, barları ve lüks deniz ürünleri restoranlarıyla bilinen sahil şeridi."
+            }
+          }
+        ]
+      },
+      "lubango": {
+        "names": {
+          "ar": "لوبانغو",
+          "en": "Lubango",
+          "tr": "Lubango"
+        },
+        "description": {
+          "ar": "مدينة تقع في المرتفعات الجنوبية وتشتهر بطقسها المعتدل وطريق سيرا دا بيبا الشهير عالمياً بطرقاته الحلزونية.",
+          "en": "A highland city in southern Angola, famous for its pleasant climate and the spectacular Serra da Leba pass.",
+          "tr": "Güney Angola'da bir yayla şehri; ılıman iklimi ve muhteşem Serra da Leba geçidiyle ünlüdür."
+        },
+        "image": "res://images/lubango.png",
+        "bg_image": "res://images/lubango_bg.png",
+        "image_3d": "res://images/lubango_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كاسبر لوبانغو",
+              "en": "Pulman Lubango Hotel",
+              "tr": "Pulman Lubango Otel"
+            },
+            "image": "res://images/pulman_lubango.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كازا دو فيليو",
+              "en": "Casa do Velho",
+              "tr": "Casa do Velho Restoran"
+            },
+            "image": "res://images/casa_velho.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "مشويات ولحوم برتغالية",
+              "en": "Portuguese Steakhouse",
+              "tr": "Portekiz Izgara Ev"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "طريق وممر سيرا دا بيبا",
+              "en": "Serra da Leba Pass",
+              "tr": "Serra da Leba Geçidi"
+            },
+            "image": "res://images/serra_leba.png",
+            "description": {
+              "ar": "طريق جبل حلزوني ساحر يلتف بين الجبال الخضراء الخلابة.",
+              "en": "A legendary winding mountain highway carving through lush green cliffs.",
+              "tr": "Yemyeşil kayalıkların arasından geçen efsanevi kıvrımlı dağ yolu."
+            }
+          },
+          {
+            "name": {
+              "ar": "تمثال المسيح المخلص لوبانغو",
+              "en": "Cristo Rei Lubango",
+              "tr": "Cristo Rei Lubango"
+            },
+            "image": "res://images/cristo_rei_lubango.png",
+            "description": {
+              "ar": "تمثال ضخم يطل على المدينة بأكملها من قمة التلة.",
+              "en": "A massive white statue overlooking the entire city from a hilltop.",
+              "tr": "Bir tepeden tüm şehre bakan devasa beyaz heykel."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شلالات هواندا",
+              "en": "Huila Waterfalls",
+              "tr": "Huila Şelaleleri"
+            },
+            "image": "res://images/huila_falls.png",
+            "description": {
+              "ar": "شلالات طبيعية محاطة بالغابات الاستوائية والوديان.",
+              "en": "Natural waterfalls set amidst tropical forests and canyons.",
+              "tr": "Tropikal ormanlar ve kanyonlar arasında yer alan doğal şelaleler."
+            }
+          }
+        ]
+      },
+      "benguela": {
+        "names": {
+          "ar": "بينغيلا",
+          "en": "Benguela",
+          "tr": "Benguela"
+        },
+        "description": {
+          "ar": "مدينة ساحلية تاريخية تتميز بشواطئها الهادئة وعمارتها البرتغالية الكلاسيكية ومحيطها الدافئ.",
+          "en": "A historic coastal city known for its tranquil beaches, Portuguese art-deco architecture, and warm waters.",
+          "tr": "Sakin plajları, Portekiz art-deco mimarisi ve sıcak sularıyla tanınan tarihi sahil şehri."
+        },
+        "image": "res://images/benguela.png",
+        "bg_image": "res://images/benguela_bg.png",
+        "image_3d": "res://images/benguela_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق سيمبا بينغيلا",
+              "en": "Hotel Praia Morena",
+              "tr": "Hotel Praia Morena"
+            },
+            "image": "res://images/praia_morena.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم برايا مورينا البحري",
+              "en": "Tudo na Brasa",
+              "tr": "Tudo na Brasa Restoran"
+            },
+            "image": "res://images/tudo_brasa.png",
+            "rating": "4.4",
+            "cuisine": {
+              "ar": "أسماك ومأكولات بحرية طازجة",
+              "en": "Fresh Seafood & Barbecue",
+              "tr": "Taze Deniz Ürünleri ve Barbekü"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ برايا الأزرق",
+              "en": "Baía Azul Beach",
+              "tr": "Baía Azul Plajı"
+            },
+            "image": "res://images/baia_azul.png",
+            "description": {
+              "ar": "شاطئ ذو مياه زرقاء صافية ورمال ناعمة يعتبر وجهة الاستجمام الأولى.",
+              "en": "Famous beach with clear blue waters and soft sands, ideal for swimming.",
+              "tr": "Berrak mavi suları ve yumuşak kumlarıyla ünlü, yüzmek için ideal plaj."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المدينة القديمة في بينغيلا",
+              "en": "Benguela Old Town",
+              "tr": "Benguela Eski Kent"
+            },
+            "image": "res://images/benguela_old_town.png",
+            "description": {
+              "ar": "منطقة تاريخية تضم شوارع وشوارع مشجرة مع مباني أثرية.",
+              "en": "A quiet historic district with tree-lined avenues and colonial buildings.",
+              "tr": "Ağaçlıklı caddeleri ve sömürge binaları olan sakin bir tarihi bölge."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

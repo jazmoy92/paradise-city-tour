@@ -1,0 +1,377 @@
+{
+  "azerbaijan": {
+    "needs_ad": false,
+    "cities": {
+      "baku": {
+        "names": {
+          "ar": "باكو",
+          "en": "Baku",
+          "tr": "Bakü"
+        },
+        "description": {
+          "ar": "عاصمة أذربيجان العصرية والساحر المطلة على بحر قزوين، تتميز بأبراج اللهب، كورنيش باكو، والمدينة القديمة التاريخية (إيتشيري شيهير).",
+          "en": "The capital of Azerbaijan on the Caspian Sea, blending modern Flame Towers with the UNESCO ancient Old City.",
+          "tr": "Azerbaycan'ın Hazar Denizi kıyısındaki başkenti; modern Alev Kuleleri ile tarihi İçerişehir'i birleştirir."
+        },
+        "image": "res://images/baku.png",
+        "bg_image": "res://images/baku_bg.png",
+        "image_3d": "res://images/baku_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فورسيزونز باكو",
+              "en": "Four Seasons Hotel Baku",
+              "tr": "Four Seasons Otel Bakü"
+            },
+            "image": "res://images/four_seasons_baku.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فيرمونت أبراج اللهب باكو",
+              "en": "Fairmont Baku, Flame Towers",
+              "tr": "Fairmont Bakü, Alev Kuleleri"
+            },
+            "image": "res://images/fairmont_baku.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم موزاييك / موغام نادي",
+              "en": "Mugham Club Restaurant",
+              "tr": "Muğam Kulüp Restoran"
+            },
+            "image": "res://images/mugham_club.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "كباب أذري وأرز بالزعفران أذربيجاني",
+              "en": "Traditional Azerbaijani & Kebabs",
+              "tr": "Geleneksel Azerbaycan ve Kebap"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مركز حيدر علييف الثقافي",
+              "en": "Heydar Aliyev Center",
+              "tr": "Haydar Aliyev Kültür Merkezi"
+            },
+            "image": "res://images/heydar_aliyev_center.png",
+            "description": {
+              "ar": "حفنة معمارية انسيابية مذهلة من تصميم المعمارية العالمية زها حديد.",
+              "en": "Iconic fluid architectural masterpiece designed by Zaha Hadid.",
+              "tr": "Zaha Hadid tarafından tasarlanan ikonik akıcı mimari şaheser."
+            }
+          },
+          {
+            "name": {
+              "ar": "أبراج اللهب الأيقونية",
+              "en": "Flame Towers Baku",
+              "tr": "Bakü Alev Kuleleri"
+            },
+            "image": "res://images/flame_towers.png",
+            "description": {
+              "ar": "ثلاثة أبراج على شكل ألسنة لهب تضاء ليلاً بشكل ساحر ترمز لنار أذربيجان.",
+              "en": "Trio of flame-shaped skyscrapers illuminated with LED screens at night.",
+              "tr": "Geceleri LED ekranlarla aydınlatılan alev şeklinde üç gökdelen."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المدينة القديمة (إيتشيري شيهير)",
+              "en": "Icherisheher (Old City)",
+              "tr": "İçerişehir (Eski Kent)"
+            },
+            "image": "res://images/icherisheher.png",
+            "description": {
+              "ar": "القلب الأثري المحاط بالأسوار والذي يضم برج العذراء وقصر الشيروانشاهات.",
+              "en": "Historical walled maze housing the Maiden Tower and Shirvanshahs' Palace.",
+              "tr": "Kız Kalesi ve Şirvanşahlar Sarayı'na ev sahipliği yapan tarihi sur içi."
+            }
+          }
+        ]
+      },
+      "gabala": {
+        "names": {
+          "ar": "غابالا",
+          "en": "Gabala",
+          "tr": "Gəbələ"
+        },
+        "description": {
+          "ar": "عاصمة أذربيجان السياحية الجبلية، تشتهر بمنتجعات التزلج، بحيرة نوهور، وتلفريك توفانداغ الفاخر.",
+          "en": "The mountain resort capital of Azerbaijan, famous for Tufandag Ski Resort, Lake Nohur, and lush forests.",
+          "tr": "Azerbaycan'ın dağ turizmi başkenti; Tufandağ Kayak Merkezi, Nohur Gölü ve ormanlarıyla ünlüdür."
+        },
+        "image": "res://images/gabala.png",
+        "bg_image": "res://images/gabala_bg.png",
+        "image_3d": "res://images/gabala_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وفندق قوقاز غابالا",
+              "en": "Qafqaz Tufandag Mountain Resort",
+              "tr": "Qafqaz Tufandağ Dağ Resort"
+            },
+            "image": "res://images/qafqaz_tufandag.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غابالان الخان",
+              "en": "Gabala Xanlar Restaurant",
+              "tr": "Gəbələ Xanlar Restoran"
+            },
+            "image": "res://images/gabala_xanlar.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "مشويات جبلية وسط الطبيعة",
+              "en": "Traditional Mountain BBQ",
+              "tr": "Doğa İçinde Dağ Barbeküsü"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مجمع توفانداغ للتزلج والتلفريك",
+              "en": "Tufandag Mountain Resort",
+              "tr": "Tufandağ Kayak Kompleksi"
+            },
+            "image": "res://images/tufandag.png",
+            "description": {
+              "ar": "تلفريك متعدد المراحل ينقلك لقمم القوقاز للتزلج صيفاً وشتاءً.",
+              "en": "Multi-stage cable car complex offering skiing and high-altitude views.",
+              "tr": "Kayak ve yüksek irtifa manzaraları sunan çok kademeli teleferik kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة نوهور غول",
+              "en": "Nohur Lake",
+              "tr": "Nohur Gölü"
+            },
+            "image": "res://images/nohur_lake.png",
+            "description": {
+              "ar": "بحيرة طبيعية خلابة تحيط بها جبال القوقاز الخضراء وتوفر القوارب.",
+              "en": "A serene mountain lake surrounded by forests, perfect for boating.",
+              "tr": "Ormanlarla çevrili, sandal turu için mükemmel sakin bir dağ gölü."
+            }
+          }
+        ]
+      },
+      "sheki": {
+        "names": {
+          "ar": "شكي",
+          "en": "Sheki",
+          "tr": "Şəki"
+        },
+        "description": {
+          "ar": "مدينة تاريخية تقع على طريق الحرير القديم، تشتهر بقصر خانات شكي والحلويات الشرقية الفريدة المعمار التراثي.",
+          "en": "A historic Silk Road city famous for the UNESCO-listed Palace of Sheki Khans and local sweets.",
+          "tr": "Tarihi İpek Yolu şehri; UNESCO listesindeki Şəki Hanları Sarayı ve baklavasıyla ünlüdür."
+        },
+        "image": "res://images/sheki.png",
+        "bg_image": "res://images/sheki_bg.png",
+        "image_3d": "res://images/sheki_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كارافان سراي شكي التاريخي",
+              "en": "Yuxari Karavansaray Hotel",
+              "tr": "Yuxarı Karavansaray Otel"
+            },
+            "image": "res://images/karavansaray_sheki.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غاغالين شكي",
+              "en": "Gagarin Restaurant Sheki",
+              "tr": "Gagarin Restoran Şəki"
+            },
+            "image": "res://images/gagarin_sheki.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "حساء البيتي الشكي والكباب",
+              "en": "Traditional Sheki Piti & Kebabs",
+              "tr": "Geleneksel Şəki Piti Yemeği"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر خانات شكي الصيفي",
+              "en": "Palace of Sheki Khans",
+              "tr": "Şəki Hanları Sarayı"
+            },
+            "image": "res://images/sheki_khan_palace.png",
+            "description": {
+              "ar": "قصر ملكي تاريخي مذهل بنوافذ الموازيك الزجاجية (شبكة) بدون أي مسمار.",
+              "en": "18th-century royal palace featuring exquisite Shebeke stained-glass windows.",
+              "tr": "18. yüzyıldan kalma, çivisiz yapılan Şebeke vitray pencereli krallık sarayı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قرية كيش وكنيستها الألبانية القديمة",
+              "en": "Kish Church and Village",
+              "tr": "Kiş Köyü ve Kilisesi"
+            },
+            "image": "res://images/kish_church.png",
+            "description": {
+              "ar": "كنيسة قوقازية ألبانية قديمة تعود لأوائل القرون الوسطى.",
+              "en": "Ancient Caucasian Albanian church located in a picturesque mountain village.",
+              "tr": "Resim gibi bir dağ köyünde yer alan antik Kafkas Kafkas Kafkasya Kilisesi."
+            }
+          }
+        ]
+      },
+      "shahdag": {
+        "names": {
+          "ar": "شاهداغ (قوسار)",
+          "en": "Shahdag",
+          "tr": "Şahdağ"
+        },
+        "description": {
+          "ar": "أحدث وأفخم منتجع للتزلج والأنشطة الجبلية الشتوية والصيفية في أذربيجان.",
+          "en": "Azerbaijan's world-class mountain resort offering skiing, coaster rides, and luxury spa stays.",
+          "tr": "Azerbaycan'ın kayak, dağ kızağı ve lüks spa imkanları sunan birinci sınıf dağ tesisi."
+        },
+        "image": "res://images/shahdag.png",
+        "bg_image": "res://images/shahdag_bg.png",
+        "image_3d": "res://images/shahdag_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق بيك بالاس شاهداغ",
+              "en": "Pik Palace Shahdag Autograph Collection",
+              "tr": "Pik Palace Şahdağ"
+            },
+            "image": "res://images/pik_palace.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الفران المرتفع",
+              "en": "Scalini Shahdag",
+              "tr": "Scalini Şahdağ"
+            },
+            "image": "res://images/scalini_shahdag.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "إيطالي وجبلي دافئ",
+              "en": "Italian & Alpine",
+              "tr": "İtalyan ve Alp Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "زحليقة شاهداغ الأفعوانية (Coaster)",
+              "en": "Shahdag Mountain Coaster",
+              "tr": "Şahdağ Dağ Kızağı"
+            },
+            "image": "res://images/shahdag_coaster.png",
+            "description": {
+              "ar": "مسار أفعواني جبلي ممتع يمتد لمسافة طويلة بين الجبال.",
+              "en": "Thrilling alpine coaster slide winding down the snow-capped mountain slopes.",
+              "tr": "Karla kaplı dağ yamaçlarından aşağı inen heyecan verici dağ kızağı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه شاهداغ الوطني",
+              "en": "Shahdag National Park",
+              "tr": "Şahdağ Milli Parkı"
+            },
+            "image": "res://images/shahdag_park.png",
+            "description": {
+              "ar": "أكبر منتزه وطني طبيعي في القوقاز يضم قمم عالية وشلالات مجمدة شتاءً.",
+              "en": "The largest national park in Azerbaijan housing untouched wildlife and glaciers.",
+              "tr": "El değmemiş vahşi yaşama ve buzullara ev sahipliği yapan Azerbaycan'ın en büyük milli parkı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "bangladesh": {
+    "needs_ad": false,
+    "cities": {
+      "dhaka": {
+        "names": {
+          "ar": "دكا",
+          "en": "Dhaka",
+          "tr": "Dakka"
+        },
+        "description": {
+          "ar": "عاصمة بنغلاديش الصاخبة الملقبة بـ مدينة العربات الملونة (الريكشا)، تشتهر بـ حصن لالباغ المغولي ونهر بوريغانغا.",
+          "en": "City of Rickshaws, famous for Mughal Lalbagh Fort, Ahsan Manzil Pink Palace, and Buriganga River.",
+          "tr": "Rikşalar Şehri; Babür Lalbagh Kalesi, Ahsan Manzil Pembe Sarayı ile ünlü Bangladeş başkenti."
+        },
+        "image": "res://images/dhaka.png",
+        "bg_image": "res://images/dhaka_bg.png",
+        "image_3d": "res://images/dhaka_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل ذا ويستن دكا (The Westin Dhaka)",
+              "en": "The Westin Dhaka",
+              "tr": "The Westin Dakka"
+            },
+            "image": "res://images/westin_dhaka.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق إنتركونتيننتال دكا (InterContinental Dhaka)",
+              "en": "InterContinental Dhaka",
+              "tr": "InterContinental Dakka"
+            },
+            "image": "res://images/intercontinental_dhaka.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كاستوري دكا (Kasturi Restaurant)",
+              "en": "Kasturi Restaurant Gulshan",
+              "tr": "Kasturi Restoran Dakka"
+            },
+            "image": "res://images/kasturi_dhaka.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أرز البرياني البنغالي وأسماك الإيلش الوطنية الكاري",
+              "en": "Authentic Bengali Kacchi Biryani & Ilish Curry",
+              "tr": "Otantik Bengalli Kacchi Biryani ve Ilish Balığı Körisi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة لالباغ المغولية (Lalbagh Fort)",
+              "en": "Lalbagh Fort (Fort Aurangabad)",
+              "tr": "Lalbagh Kalesi"
+            },
+            "image": "res://images/lalbagh_fort.png",
+            "description": {
+              "ar": "مجمع ممتد من القرن السابع عشر يضم قصر الأمير وضريح بيبي باري ومسجداً بنغالياً.",
+              "en": "Unfinished 17th-century Mughal fort complex with Pari Bibi's tomb and gardens.",
+              "tr": "Pari Bibi'nin anıt mezarı ve bahçeleriyle 17. yüzyıldan kalma Babür kalesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "القصر الوردي أحسن منزل (Ahsan Manzil)",
+              "en": "Ahsan Manzil (Pink Palace)",
+              "tr": "Ahsan Manzil (Pembe Saray)"
+            },
+            "image": "res://images/ahsan_manzil.png",
+            "description": {
+              "ar": "المقر الرسمي لنواب دكا بني بستايل نيو-كلاسيكي وردي يطل على ضفاف نهر بوريغانغا.",
+              "en": "Iconic pink French-architectural palace of the Nawabs of Dhaka on Buriganga riverbank.",
+              "tr": "Buriganga nehri kıyısındaki Dakka Nawablarının ikonik pembe sarayı."
+            }
+          }
+        ]
+      },
+      "coxs_bazar": {
+        "names": {
+          "ar": "كوكس بازار (أطول شاطئ في العالم)",
+          "en": "Cox's Bazar",
+          "tr": "Cox's Bazar"
+        },
+        "description": {
+          "ar": "عاصمة الشواطئ العالمية، تشتهر بـ أطول شاطئ رملي طبيعي غير منقطع في العالم يمتد لـ 120 كم.",
+          "en": "Famous for holding the world's longest unbroken natural sandy sea beach (120km).",
+          "tr": "Dünyanın en uzun kintisiz doğal kumsalına (120km) ev sahipliği yapmasıyla ünlüdür."
+        },
+        "image": "res://images/coxs_bazar.png",
+        "bg_image": "res://images/coxs_bazar_bg.png",
+        "image_3d": "res://images/coxs_bazar_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع سي جيرل كوكس بازار (Sayeman Beach Resort)",
+              "en": "Sayeman Beach Resort Cox's Bazar",
+              "tr": "Sayeman Beach Resort Cox's Bazar"
+            },
+            "image": "res://images/sayeman_resort.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بوفيه البحر كوكس بازار (Poushee Restaurant)",
+              "en": "Poushee Restaurant Cox's Bazar",
+              "tr": "Poushee Restoran Cox's Bazar"
+            },
+            "image": "res://images/poushee_restaurant.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك خليج البنغال ومأكولات بحرية طازجة",
+              "en": "Fresh Bay of Bengal Seafood & Bhorta",
+              "tr": "Taze Bengal Körfezi Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ كوكس بازار العظيم (Cox's Bazar Sea Beach)",
+              "en": "Cox's Bazar Natural Sea Beach",
+              "tr": "Cox's Bazar Doğal Deniz Plajı"
+            },
+            "image": "res://images/coxs_bazar_beach.png",
+            "description": {
+              "ar": "شاطئ الرمال الذهبية الممتد لـ 120 كم بلا انقطاع ووجهة الغروب الأولى بالبلاد.",
+              "en": "Continuous 120-kilometer unbroken sandy beach overlooking the Bay of Bengal.",
+              "tr": "Bengal Körfezi'ne bakan 120 kilometrelik kesintisiz doğal kumsal."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جزيرة سانت مارتن المرجانية القريبة (St. Martin's Island)",
+              "en": "St. Martin's Coral Island",
+              "tr": "Aziz Martin Mercan Adası"
+            },
+            "image": "res://images/st_martins_island.png",
+            "description": {
+              "ar": "الجزيرة المرجانية الوحيدة في بنغلاديش ذات المياه الفيروزية والنخيل الاستوائي.",
+              "en": "The only coral island in Bangladesh surrounded by clear blue waters and coconut trees.",
+              "tr": "Berrak mavi sular ve palmiyelerle çevrili Bangladeş'in tek mercan adası."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "maldives": {
+    "needs_ad": false,
+    "cities": {
+      "male": {
+        "names": {
+          "ar": "ماليه",
+          "en": "Malé",
+          "tr": "Malé"
+        },
+        "description": {
+          "ar": "عاصمة جزر المالديف المكتظة والجذابة، تشتهر بـ المسجد الكبير المذهب، سوق الأسماك، والموانئ المائية الملونة.",
+          "en": "The densely populated island capital, home to the Grand Friday Mosque and bustling Fish Market.",
+          "tr": "Büyük Cuma Camii ve Balık Pazarı'na ev sahipliği yapan yoğun nüfuslu ada başkenti."
+        },
+        "image": "res://images/male.png",
+        "bg_image": "res://images/male_bg.png",
+        "image_3d": "res://images/male_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق شيراتون المالديف المائي (Sheraton Full Moon)",
+              "en": "Sheraton Maldives Full Moon Resort & Spa",
+              "tr": "Sheraton Maldives Full Moon Resort & Spa"
+            },
+            "image": "res://images/sheraton_maldives.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سيغراس كافيه ماليه (Symphony Solo)",
+              "en": "Seagull Café House Malé",
+              "tr": "Seagull Café House Malé"
+            },
+            "image": "res://images/seagull_male.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أسماك المالديف الطازجة وآيس كريم جوز الهند",
+              "en": "Fresh Maldivian Seafood & Gelato",
+              "tr": "Taze Maldiv Deniz Ürünleri ve Dondurma"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مسجد الجمعة الكبير (Grand Friday Mosque)",
+              "en": "Grand Friday Mosque (Islamic Centre)",
+              "tr": "Büyük Cuma Camii (İslam Merkezi)"
+            },
+            "image": "res://images/grand_friday_mosque.png",
+            "description": {
+              "ar": "أضخم مسجد في المالديف بقبة ذهبية متلألئة تتسع لأكثر من 5,000 مصلي.",
+              "en": "Imposing white-marble architectural landmark topped with a golden dome.",
+              "tr": "Altın kubbe ile taçlandırılmış beyaz mermer mimari simge."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "سوق الأسماك المركزي في ماليه (Malé Fish Market)",
+              "en": "Malé Fish Market",
+              "tr": "Malé Balık Pazarı"
+            },
+            "image": "res://images/male_fish_market.png",
+            "description": {
+              "ar": "قلب التجارة اليومية لرؤية صيد أسماك التونة العملاقة الطازجة من المحيط.",
+              "en": "Vibrant waterfront market where fishermen bring giant yellowfin tuna daily.",
+              "tr": "Balıkçıların dev sarıkanat ton balıklarını getirdiği canlı sahil pazarı."
+            }
+          }
+        ]
+      },
+      "ari_atoll": {
+        "names": {
+          "ar": "آري أتول (الفيلات المائية)",
+          "en": "Ari Atoll",
+          "tr": "Ari Atoll"
+        },
+        "description": {
+          "ar": "أشهر حلقة جزر المالديف للفنادق المعلقة فوق الماء والسباحة مع أسماك قرش الحوت والمانتا راي.",
+          "en": "Premier atoll ring, famous for overwater bungalows, crystal lagoons, and whale shark diving.",
+          "tr": "Su üstü bungalovları, berrak lagünleri ve balina köpekbalığı dalışlarıyla ünlü atol."
+        },
+        "image": "res://images/ari_atoll.png",
+        "bg_image": "res://images/ari_atoll_bg.png",
+        "image_3d": "res://images/ari_atoll_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع كونراد رانغالي المالديف (فندق تحت الماء)",
+              "en": "Conrad Maldives Rangali Island",
+              "tr": "Conrad Maldives Rangali Island"
+            },
+            "image": "res://images/conrad_maldives.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع وولدورف أستوريا المالديف إيثافوشي",
+              "en": "Waldorf Astoria Maldives Ithaafushi",
+              "tr": "Waldorf Astoria Maldives Ithaafushi"
+            },
+            "image": "res://images/waldorf_maldives.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم إيثا المائي تحت البحر (Ithaa Undersea Restaurant)",
+              "en": "Ithaa Undersea Restaurant",
+              "tr": "Ithaa Su Altı Restoranı"
+            },
+            "image": "res://images/ithaa_undersea.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أول مطعم زجاجي بالكامل تحت سطح المحيط بـ 5 أمتار",
+              "en": "The world's first all-glass undersea fine dining restaurant",
+              "tr": "Dünyanın ilk tamamen cam su altı lüks restoranı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "السباحة مع القرش الحوتي (Whale Shark Sanctuary Ari Atoll)",
+              "en": "South Ari Atoll Whale Shark Reserve",
+              "tr": "Güney Ari Atolu Balına Köpekbalığı Alanı"
+            },
+            "image": "res://images/whale_shark_maldives.png",
+            "description": {
+              "ar": "الموقع الوحيد في العالم الذي يمكن فيه رؤية وتأمل القرش الحوتي على مدار العام.",
+              "en": "Protected marine area famous for year-round whale shark snorkeling encounters.",
+              "tr": "Yıl boyunca balina köpekbalıklarıyla şnorkel imkanı sunan korumalı deniz alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شواطئ الفيلات الفيروزية المائية (Overwater Villa Lagoons)",
+              "en": "Overwater Villa Lagoons",
+              "tr": "Su Üstü Lagünleri"
+            },
+            "image": "res://images/overwater_villas.png",
+            "description": {
+              "ar": "بحيرات زجاجية زرقاء تحوي الفيلات ذات المسبح الخاص مع نزول مباشر للشعب المرجانية.",
+              "en": "Crystal clear shallow lagoons with private overwater sundecks and house reefs.",
+              "tr": "Özel su üstü teraslarına ve ev resiflerine sahip berrak sığ lagünler."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

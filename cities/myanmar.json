@@ -1,0 +1,72 @@
+{
+  "myanmar": {
+    "needs_ad": false,
+    "cities": {
+      "yangon": {
+        "names": {
+          "ar": "يانغون",
+          "en": "Yangon",
+          "tr": "Yangon"
+        },
+        "description": {
+          "ar": "أكبر مدن ميانمار وعاصمتها التاريخية، تشتهر بـ معبد شويدغون الذهبي الأسطوري والعمارة الاستعمارية.",
+          "en": "Myanmar's largest city, famous for the shimmering gold Shwedagon Pagoda and colonial architecture.",
+          "tr": "Altın Shwedagon Pagodası ve sömürge mimarisiyle ünlü Miyanmar'ın en büyük şehri."
+        },
+        "image": "res://images/yangon.png",
+        "bg_image": "res://images/yangon_bg.png",
+        "image_3d": "res://images/yangon_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا ستراند يانغون (The Strand)",
+              "en": "The Strand Yangon",
+              "tr": "The Strand Yangon"
+            },
+            "image": "res://images/strand_yangon.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي بلاندي يانغون (Le Planteur)",
+              "en": "Le Planteur Restaurant Yangon",
+              "tr": "Le Planteur Restoran Yangon"
+            },
+            "image": "res://images/le_planteur.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات فرنسية وبورمية فاخرة على البحيرة",
+              "en": "Lakeside Indochine & French Fine Dining",
+              "tr": "Göl Kıyısında Fransız ve Birmanya Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "معبد شويدغون المذهب (Shwedagon Pagoda)",
+              "en": "Shwedagon Pagoda",
+              "tr": "Shwedagon Pagodası"
+            },
+            "image": "res://images/shwedagon.png",
+            "description": {
+              "ar": "باغودا ذهبية بارتفاع 99 متراً مرصعة بـ 4,500 ماسة وتعد أقدس المزارات البوذية.",
+              

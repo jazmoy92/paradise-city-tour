@@ -1,0 +1,205 @@
+{
+  "laos": {
+    "needs_ad": false,
+    "cities": {
+      "luang_prabang": {
+        "names": {
+          "ar": "لوانغ برابانغ",
+          "en": "Luang Prabang",
+          "tr": "Luang Prabang"
+        },
+        "description": {
+          "ar": "عاصمة لاوس التراثية المصنفة يونسكو، تشتهر بـ معابدها المذهبة، شلالات كوانغ سي الكريستالية، ومواكب التكفّف الصباحية.",
+          "en": "UNESCO Heritage town surrounded by jungle and rivers, famous for Kuang Si Falls and Wat Xieng Thong.",
+          "tr": "UNESCO mirası kasaba; Kuang Si Şelaleleri ve Wat Xieng Thong tapınağı ile ünlüdür."
+        },
+        "image": "res://images/luang_prabang.png",
+        "bg_image": "res://images/luang_prabang_bg.png",
+        "image_3d": "res://images/luang_prabang_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع روزوود لوانغ برابانغ",
+              "en": "Rosewood Luang Prabang",
+              "tr": "Rosewood Luang Prabang"
+            },
+            "image": "res://images/rosewood_luang_prabang.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أمانتاكا لوانغ برابانغ (Amantaka)",
+              "en": "Amantaka Luang Prabang",
+              "tr": "Amantaka Luang Prabang"
+            },
+            "image": "res://images/amantaka.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لامايسون سوكساي لوانغ برابانغ",
+              "en": "L'Eléphant Restaurant",
+              "tr": "L'Eléphant Restoran Luang Prabang"
+            },
+            "image": "res://images/lelephant_laos.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق لاوسية وفرنسية استعمارية راقية",
+              "en": "French Colonial & Royal Lao Cuisine",
+              "tr": "Fransız Sömürge ve Kraliyet Laos Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شلالات كوانغ سي الفيروزية (Kuang Si Waterfalls)",
+              "en": "Kuang Si Falls",
+              "tr": "Kuang Si Şelaleleri"
+            },
+            "image": "res://images/kuang_si.png",
+            "description": {
+              "ar": "شلالات مدرجة ثلاثية الطبقات تنهمر في برك سباحة طبيعية ذات مياه فيروزية لا تصدق.",
+              "en": "Three-tiered waterfall cascading into vivid turquoise limestone pools.",
+              "tr": "Turkuaz kireçtaşı havuzlarına dökülen üç kademeli şelale."
+            }
+          },
+          {
+            "name": {
+              "ar": "معبد وات شينغ ثونغ المذهب (Wat Xieng Thong)",
+              "en": "Wat Xieng Thong Temple",
+              "tr": "Wat Xieng Thong Tapınağı"
+            },
+            "image": "res://images/wat_xieng_thong.png",
+            "description": {
+              "ar": "أجمل معبد في لاوس بسقفه المنحني الملتصق بالأرض والفسيفساء الذهبية.",
+              "en": "16th-century royal monastery featuring low sweeping roofs and gold leaf mosaics.",
+              "tr": "16. yüzyıldan kalma alçak çatılı ve altın mozaikli kraliyet manastırı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جبل وفوهة فوسي (Mount Phousi Sunset)",
+              "en": "Mount Phousi",
+              "tr": "Phousi Dağı"
+            },
+            "image": "res://images/mount_phousi.png",
+            "description": {
+              "ar": "تلة مرتفعة بوسط المدينة تضم معبداً مذهباً وتوفر أروع مشاهد غروب الشمس فوق نهر ميكونغ.",
+              "en": "100-meter-high hill in town center offering 360-degree views of the Mekong river.",
+              "tr": "Şehir merkezinde Mekong nehri manzaralı 100 metre yüksekliğinde tepe."
+            }
+          }
+        ]
+      },
+      "vientiane": {
+        "names": {
+          "ar": "فيينتيان",
+          "en": "Vientiane",
+          "tr": "Vientiane"
+        },
+        "description": {
+          "ar": "عاصمة لاوس الهادئة على نهر ميكونغ، تشتهر بـ صرح ثات لوانغ الذهبي وقوس النصر باتوكساي.",
+          "en": "Laos' relaxed capital on the Mekong, famous for Pha That Luang golden stupa and Patuxai Arch.",
+          "tr": "Mekong kıyısındaki huzurlu Laos başkenti; altın Pha That Luang stupası ve Patuxai ile ünlüdür."
+        },
+        "image": "res://images/vientiane.png",
+        "bg_image": "res://images/vientiane_bg.png",
+        "image_3d": "res://images/vientiane_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق كراون بلازا فيينتيان",
+              "en": "Crowne Plaza Vientiane",
+              "tr": "Crowne Plaza Vientiane"
+            },
+            "image": "res://images/crowne_plaza_vientiane.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كوت دو سويد فيينتيان",
+              "en": "Makphet Restaurant Vientiane",
+              "tr": "Makphet Restoran Vientiane"
+            },
+            "image": "res://images/makphet_laos.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أطباق لارپ اللحم والسمك اللاوسية الشهيرة",
+              "en": "Traditional Lao Laap & Sticky Rice",
+              "tr": "Geleneksel Laos Laap ve Yapışkan Pirinç"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "صرح ثات لوانغ الذهبي (Pha That Luang)",
+              "en": "Pha That Luang Golden Stupa",
+              "tr": "Pha That Luang Altın Stupası"
+            },
+            "image": "res://images/pha_that_luang.png",
+            "description": {
+              "ar": "الرمز الوطني الأول للاوس، صرح بوذي مغطى بصفائح الذهب الخالص يعود للقرن السادس عشر.",
+              "en": "Gold-covered large Buddhist stupa, national symbol of Laos built in 1566.",
+              "tr": "1566'da inşa edilen Laos'un ulusal simgesi altın kaplama Budist stupa."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قوس نصر باتوكساي (Patuxai Victory Gate)",
+              "en": "Patuxai Victory Monument",
+              "tr": "Patuxai Zafer Anıtı"
+            },
+            "image": "res://images/patuxai.png",
+            "description": {
+              "ar": "نصب استقلال شبيه بقوس النصر الباريسي مستوحى من زخارف الفنون اللاوسية.",
+              "en": "War monument resembling Paris's Arc de Triomphe decorated with Lao mythological motifs.",
+              "tr": "Laos mitolojik motifleriyle süslenmiş Paris Zafer Takı'nı andıran savaş anıtı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

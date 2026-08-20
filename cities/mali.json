@@ -1,0 +1,178 @@
+{
+  "mali": {
+    "needs_ad": false,
+    "cities": {
+      "bamako": {
+        "names": {
+          "ar": "باماكو",
+          "en": "Bamako",
+          "tr": "Bamako"
+        },
+        "description": {
+          "ar": "عاصمة مالي الواقعة على نهر النيجر العظيم، تشتهر بموسيقاها النادرة، المتحف الوطني، والأسواق الملونة.",
+          "en": "Mali's vibrant capital on the Niger River, world-famous for West African music and National Museum.",
+          "tr": "Nijer Nehri üzerindeki canlı Mali başkenti; Batı Afrika müziği ve Ulusal Müze ile ünlüdür."
+        },
+        "image": "res://images/bamako.png",
+        "bg_image": "res://images/bamako_bg.png",
+        "image_3d": "res://images/bamako_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أزالي أوتيل سلام باماكو",
+              "en": "Azalaï Hotel Salam Bamako",
+              "tr": "Azalaï Hotel Salam Bamako"
+            },
+            "image": "res://images/azalai_bamako.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي سوك باماكو",
+              "en": "Le Souk Restaurant Bamako",
+              "tr": "Le Souk Restoran Bamako"
+            },
+            "image": "res://images/le_souk_bamako.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق التيجاديغوي ولحوم النيجر والأرز الأفريقي",
+              "en": "Traditional Malian Tiga Dège Na & Grill",
+              "tr": "Geleneksel Mali Yemekleri ve Izgara"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المتحف الوطني في مالي (National Museum of Mali)",
+              "en": "National Museum of Mali",
+              "tr": "Mali Ulusal Müzesi"
+            },
+            "image": "res://images/mali_national_museum.png",
+            "description": {
+              "ar": "متحف معماري طيني رائع يضم النسيج القديم والأقنعة الدينية لحضارة مالي.",
+              "en": "Beautiful mud-brick museum displaying archaeological and musical heritage.",
+              "tr": "Arkeolojik ve müzikal mirası sergileyen güzel çamur tuğlalı müze."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "نقطة المطل على باماكو (Point G Lookout)",
+              "en": "Point G Panoramic Viewpoint",
+              "tr": "Point G Panoramik Seyir Noktası"
+            },
+            "image": "res://images/point_g_bamako.png",
+            "description": {
+              "ar": "تلة مرتفعة تمكنك من رؤية نهر النيجر وامتداد جسور باماكو.",
+              "en": "Hilltop offering panoramic views across the Niger River and city bridges.",
+              "tr": "Nijer Nehri ve şehir köprülerinin panoramik manzarasını sunan tepe."
+            }
+          }
+        ]
+      },
+      "djenne": {
+        "names": {
+          "ar": "جينيه (المدينة الطينية)",
+          "en": "Djenné",
+          "tr": "Djenné"
+        },
+        "description": {
+          "ar": "أشهر مدينة طينية تاريخية في العالم (UNESCO)، تحوي المسجد الكبير المصنوع بالكامل من الطين والأعمدة الخشبية.",
+          "en": "UNESCO ancient mud-brick trading city, world-renowned for the Great Mosque of Djenné.",
+          "tr": "Büyük Djenné Camii ile dünyaca ünlü UNESCO antik çamur tuğlalı ticaret şehri."
+        },
+        "image": "res://images/djenne.png",
+        "bg_image": "res://images/djenne_bg.png",
+        "image_3d": "res://images/djenne_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل كامابوتو جينيه",
+              "en": "Hotel Campement Djenné",
+              "tr": "Hotel Campement Djenné"
+            },
+            "image": "res://images/campement_djenne.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم جينيه القديم",
+              "en": "Chez Baba Restaurant Djenné",
+              "tr": "Chez Baba Restoran Djenné"
+            },
+            "image": "res://images/chez_baba_djenne.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "طعام مالي تقليدي وأرز بالصلصة الحارة",
+              "en": "Traditional Sahelian Rice & Fish",
+              "tr": "Geleneksel Sahil Pirinç ve Balık"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسجد الكبير في جينيه (Great Mosque of Djenné - UNESCO)",
+              "en": "Great Mosque of Djenné",
+              "tr": "Büyük Djenné Camii"
+            },
+            "image": "res://images/great_mosque_djenne.png",
+            "description": {
+              "ar": "أكبر مبنى مصنوع من الطين والقش الطبيعي على وجه الأرض تحفة العمارة السودانية الساحلية.",
+              "en": "The largest mud-brick structure in the world, masterpiece of Sudano-Sahelian architecture.",
+              "tr": "Sudano-Sahel mimarisinin şaheseri olan dünyanın en büyük çamur tuğlalı yapısı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "سوق جينيه الأسبوعي التاريخي (Djenné Monday Market)",
+              "en": "Djenné Monday Market",
+              "tr": "Djenné Pazartesi Pazarı"
+            },
+            "image": "res://images/djenne_market.png",
+            "description": {
+              "ar": "سوق أسبوعي ضخم يقام في ساحة المسجد يجمع التجار والقبائل القادمين عبر القوارب.",
+              "en": "Vibrant Monday market held in front of the mosque drawing traders across West Africa.",
+              "tr": "Camii önünde kurulan ve Batı Afrika'dan tüccarları çeken canlı Pazartesi pazarı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

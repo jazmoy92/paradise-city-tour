@@ -1,0 +1,106 @@
+{
+  "panama": {
+    "needs_ad": false,
+    "cities": {
+      "panama_city": {
+        "names": {
+          "ar": "مدينة بنما",
+          "en": "Panama City",
+          "tr": "Panama Şehri"
+        },
+        "description": {
+          "ar": "دبي أمريكا اللاتينية، تجمع بين قناة بنما الأسطورية، ناطحات السحاب الفاخرة، وحي كاسكو فيجو الاستعماري.",
+          "en": "The Dubai of Latin America, world-famous for the Panama Canal, Casco Viejo old town, and high-rise skyline.",
+          "tr": "Panama Kanalı, Casco Viejo eski kenti ve gökdelenleriyle ünlü Latin Amerika'nın Dubai'si."
+        },
+        "image": "res://images/panama_city.png",
+        "bg_image": "res://images/panama_bg.png",
+        "image_3d": "res://images/panama_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل جران دبليو بنما (W Panama)",
+              "en": "W Panama",
+              "tr": "W Panama"
+            },
+            "image": "res://images/w_panama.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل أرباني كاسكو فيجو (American Trade Hotel)",
+              "en": "American Trade Hotel Casco Viejo",
+              "tr": "American Trade Hotel Casco Viejo"
+            },
+            "image": "res://images/american_trade_panama.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مامي موندو بنما (Maito)",
+              "en": "Maito Restaurant Panama City",
+              "tr": "Maito Restoran Panama Şehri"
+            },
+            "image": "res://images/maito_panama.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أول مطعم بنمي يدخل قائمة أفضل مطاعم العالم لأطباق المحيطين",
+              "en": "Award-winning Panamanian Fusion Gastronomy",
+              "tr": "Ödüllü Panama Füzyon Gastronomisi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قناة بنما العظيمة وأهويس ميرافلوريس (Panama Canal)",
+              "en": "Panama Canal (Miraflores Locks)",
+              "tr": "Panama Kanalı (Miraflores Havuzları)"
+            },
+            "image": "res://images/panama_canal.png",
+            "description": {
+              "ar": "إحدى أكبر المعجزات الهنديسة العالمية التي تربط بين المحيط الأطلسي والمحيط الهادي.",
+              "en": "Engineering wonder of the world connecting the Atlantic and Pacific Oceans.",
+              "tr": "Atlas ve Pasifik Okyanuslarını birbirine bağlayan dünyanın mühendislik harikası."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي كاسكو فيجو الاستعماري (Casco Viejo - UNESCO)",
+              "en": "Casco Viejo (Historic District)",
+              "tr": "Casco Viejo (Tarihi Bölge)"
+            },
+            "image": "res://images/casco_viejo.png",
+            "description": {
+              "ar": "المركز التاريخي ذو المباني الإسبانية والفرنسية الملونة والمقاهي المطلة على الأفق.",
+              "en": "UNESCO historic district filled with brick streets, plazas, and rooftop bars.",
+              "tr": "Tuğla sokakları, meydanları ve çatı barlarıyla dolu UNESCO tarihi bölgesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

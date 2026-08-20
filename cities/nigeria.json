@@ -1,0 +1,192 @@
+{
+  "nigeria": {
+    "needs_ad": false,
+    "cities": {
+      "lagos": {
+        "names": {
+          "ar": "لاغوس",
+          "en": "Lagos",
+          "tr": "Lagos"
+        },
+        "description": {
+          "ar": "أضخم مدينة في إفريقيا وعاصمة الأفروبيتس والموضة، تشتهر بـ جزيرة فيكتوريا، جسر ليكي الحبلين، وشواطئ ليكي الفاخرة.",
+          "en": "Africa's largest metropolis, cultural capital of Afrobeats music, Victoria Island, and Lekki Conservation Centre.",
+          "tr": "Afrobeats müziğinin kültür başkenti; Victoria Adası ve Lekki Koruma Merkezi ile ünlü devasa metropol."
+        },
+        "image": "res://images/lagos.png",
+        "bg_image": "res://images/lagos_bg.png",
+        "image_3d": "res://images/lagos_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا ويت هيلز لاغوس (The Wheatbaker Lagos)",
+              "en": "The Wheatbaker Lagos",
+              "tr": "The Wheatbaker Lagos"
+            },
+            "image": "res://images/wheatbaker_lagos.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق إيكو أوتيل آند سويتس لاغوس (Eko Hotels)",
+              "en": "Eko Hotels & Suites Victoria Island",
+              "tr": "Eko Hotels & Suites Victoria Island"
+            },
+            "image": "res://images/eko_hotels.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم نوك باي ألماسي لاغوس (NOK by Alara)",
+              "en": "NOK by Alara Lagos",
+              "tr": "NOK by Alara Lagos"
+            },
+            "image": "res://images/nok_by_alara.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أطباق نيجيرية وغرب أفريقية فاخرة الأرز الجولوف ودجاج السويا",
+              "en": "Contemporary West African Fine Dining & Suya",
+              "tr": "Modern Batı Afrika Lüks Mutfağı ve Suya"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مركز ليكي للمحميات الطبيعية والجسور (Lekki Conservation Centre)",
+              "en": "Lekki Conservation Centre",
+              "tr": "Lekki Koruma Merkezi"
+            },
+            "image": "res://images/lekki_conservation.png",
+            "description": {
+              "ar": "محمية غابات استوائية تضم أطول جسر ممشى معلق في قارة إفريقيا (401 متراً).",
+              "en": "78-hectare nature reserve featuring the longest canopy walkway in Africa.",
+              "tr": "Afrika'nın en uzun asma yürüyüş yoluna sahip 78 hektarlık doğa koruma alanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "معرض نيكي للفنون التراثية (Nike Art Gallery)",
+              "en": "Nike Art Gallery & Culture Centre",
+              "tr": "Nike Sanat Galerisi"
+            },
+            "image": "res://images/nike_art_gallery.png",
+            "description": {
+              "ar": "أضخم معرض فني فردي في إفريقيا يضم أكثر من 8,000 قطعة فنية ومنحوتة أفريقية.",
+              "en": "West Africa's largest art gallery showcasing 8,000 African contemporary paintings and carvings.",
+              "tr": "8.000 Afrika eserini sergileyen Batı Afrika'nın en büyük sanat galerisi."
+            }
+          }
+        ]
+      },
+      "abuja": {
+        "names": {
+          "ar": "أبوجه",
+          "en": "Abuja",
+          "tr": "Abuja"
+        },
+        "description": {
+          "ar": "العاصمة الفيدرالية المخططة لنيجيريا، تشتهر بـ صخرة زوما العظيمة، المسجد الوطني القومي، والحدائق الفسيحة.",
+          "en": "Nigeria's planned federal capital, famous for Zuma Rock, Abuja National Mosque, and Millennium Park.",
+          "tr": "Zuma Kayası, Abuja Ulusal Camii ve Millennium Park ile ünlü Nijerya'nın planlı başkenti."
+        },
+        "image": "res://images/abuja.png",
+        "bg_image": "res://images/abuja_bg.png",
+        "image_3d": "res://images/abuja_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ترانسكورب هيلتون أبوجا",
+              "en": "Transcorp Hilton Abuja",
+              "tr": "Transcorp Hilton Abuja"
+            },
+            "image": "res://images/transcorp_hilton_abuja.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم جلومور نيجيريا أبوجا (BluCabana)",
+              "en": "BluCabana Restaurant & Lounge Abuja",
+              "tr": "BluCabana Restoran Abuja"
+            },
+            "image": "res://images/blucabana_abuja.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "مأكولات عالمية وأفريقية ومشاوي على المسبح",
+              "en": "International & Mediterranean Poolside Dining",
+              "tr": "Uluslararası ve Akdeniz Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسجد الوطني النيجيري (National Mosque Abuja)",
+              "en": "Abuja National Mosque",
+              "tr": "Abuja Ulusal Camii"
+            },
+            "image": "res://images/abuja_national_mosque.png",
+            "description": {
+              "ar": "المسجد الوطني بقبته الذهبية العظيمة وأربع مآذن بارتفاع 120 متراً بقلب العاصمة.",
+              "en": "The national Islamic landmark of Nigeria with a golden dome and four 120m minarets.",
+              "tr": "Altın kubbesi ve 120 metrelik dört minaresiyle Nijerya'nın simge ulusal camii."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "صخرة زوما العظيمة (Zuma Rock)",
+              "en": "Zuma Rock",
+              "tr": "Zuma Kayası"
+            },
+            "image": "res://images/zuma_rock.png",
+            "description": {
+              "ar": "صخرة моноليثية جبلية ضخمة ترتفع 725 متراً تشبه ملامح الوجه البشري.",
+              "en": "Giant natural monolith 725 meters high standing at the entrance of Abuja.",
+              "tr": "Abuja'nın girişinde duran 725 metre yüksekliğindeki devasa doğal monolit."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

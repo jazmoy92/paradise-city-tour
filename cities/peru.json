@@ -1,0 +1,193 @@
+{
+  "peru": {
+    "needs_ad": false,
+    "cities": {
+      "cusco": {
+        "names": {
+          "ar": "كوزكو (عاصمة أسطورة الإنكا)",
+          "en": "Cusco",
+          "tr": "Cusco"
+        },
+        "description": {
+          "ar": "عاصمة إمبراطورية الإنكا القديمة والمصنفة باليونيسكو، البوابة الأسطورية إلى مدينة ماتشو بيتشو العجيبة والوادي المقدس.",
+          "en": "UNESCO Inca Empire capital, historic gateway to the legendary citadel of Machu Picchu and Sacred Valley.",
+          "tr": "Efsanevi Machu Picchu antik kentine ve Kutsal Vadi'ye açılan kapı olan UNESCO İnka başkenti."
+        },
+        "image": "res://images/cusco.png",
+        "bg_image": "res://images/cusco_bg.png",
+        "image_3d": "res://images/cusco_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق بيلموند بالاسيو نازاريناس كوزكو (Belmond)",
+              "en": "Belmond Palacio Nazarenas Cusco",
+              "tr": "Belmond Palacio Nazarenas Cusco"
+            },
+            "image": "res://images/belmond_cusco.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل جران ماريوت كوزكو (JW Marriott El Convento)",
+              "en": "JW Marriott El Convento Cusco",
+              "tr": "JW Marriott El Convento Cusco"
+            },
+            "image": "res://images/jw_marriott_cusco.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سيكلو كوزكو (CICCIOLINA)",
+              "en": "Cicciolina Tapas Bar Cusco",
+              "tr": "Cicciolina Restoran Cusco"
+            },
+            "image": "res://images/cicciolina_cusco.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "لحوم ألباقا وجبال الأنديز وسيفيتشي راقٍ",
+              "en": "Andean Alpaca Steaks & Gourmet Tapas",
+              "tr": "And Alpaka Eti ve Gurme Tapas"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مدينة ماتشو بيتشو الأسطورية (Machu Picchu - UNESCO)",
+              "en": "Machu Picchu Ancient Inca Citadel",
+              "tr": "Machu Picchu Antik İnka Kenti"
+            },
+            "image": "res://images/machu_picchu.png",
+            "description": {
+              "ar": "إحدى عجائب الدنيا السبع الجديدة المعلقة بين قمم جبال الأنديز الضبابية الخضراء.",
+              "en": "15th-century Inca citadel set high in the Andes mountains, one of the New 7 Wonders.",
+              "tr": "And Dağları'nda yer alan 15. yüzyıl İnka kalesi, Dünyanın Yeni 7 Harikası'ndan biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ساحة بلازا دي أرماس كوزكو (Plaza de Armas)",
+              "en": "Plaza de Armas Cusco",
+              "tr": "Plaza de Armas Cusco"
+            },
+            "image": "res://images/plaza_de_armas_cusco.png",
+            "description": {
+              "ar": "الساحة التاريخية المحاطة بالكاتدرائية الرخامية والشرفات الأنديزية الملونة.",
+              "en": "Historic central square framed by Spanish colonial arcades and Cusco Cathedral.",
+              "tr": "İspanyol sömürge kemerleri ve Cusco Katedrali ile çevrili tarihi merkez meydan."
+            }
+          }
+        ]
+      },
+      "lima": {
+        "names": {
+          "ar": "ليما (عاصمة الطهي الفاخر)",
+          "en": "Lima",
+          "tr": "Lima"
+        },
+        "description": {
+          "ar": "عاصمة بيرو وعاصمة الطهي والطهي الأولى في أمريكا الجنوبية، تشتهر بـ حي ميرَفلوريس الجرفي ومأكولات السيفيتشي.",
+          "en": "Gastronomic capital of the Americas, famous for Miraflores cliffs, Larco Museum, and Michelin ceviche.",
+          "tr": "Miraflores falezleri, Larco Müzesi ve ceviche mutfağıyla ünlü Amerika'nın gastronomi başkenti."
+        },
+        "image": "res://images/lima.png",
+        "bg_image": "res://images/lima_bg.png",
+        "image_3d": "res://images/lima_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ميرَفلوريس بارك بيلموند ليما (Belmond Miraflores Park)",
+              "en": "Miraflores Park, A Belmond Hotel, Lima",
+              "tr": "Miraflores Park, A Belmond Hotel, Lima"
+            },
+            "image": "res://images/miraflores_park_hotel.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سنترال ليما (Central Restaurant)",
+              "en": "Central Restaurant Lima (World's Best)",
+              "tr": "Central Restoran Lima"
+            },
+            "image": "res://images/central_lima.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "صُنف أفضل مطعم في العالم لأطباق مكونات الارتفاعات البيروفية",
+              "en": "World's #1 Ranked Restaurant by 50 Best, High-altitude Gastronomy",
+              "tr": "Dünyanın 1 Numaralı Restoranı Seçilen Yüksek İrtifa Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "حي ميرَفلوريس الجرفي وممشى الكورنيش (Miraflores Malecón)",
+              "en": "Miraflores Malecón Cliffside Walk",
+              "tr": "Miraflores Malecón Falez Yolu"
+            },
+            "image": "res://images/miraflores_malecon.png",
+            "description": {
+              "ar": "ممشى ساحلي مرتفع فوق جروف المحيط الهادي يضم بارك دي أمور الملون والقفز المظلي.",
+              "en": "Scenic 6km boardwalk perched on cliffs above the Pacific Ocean featuring Love Park.",
+              "tr": "Pasifik Okyanusu üzerindeki falezlerde yer alan 6 km'lik manzaralı sahil kordonu."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف لاركو للآثار (Larco Museum)",
+              "en": "Larco Museum (Museo Larco)",
+              "tr": "Larco Müzesi (Museo Larco)"
+            },
+            "image": "res://images/larco_museum.png",
+            "description": {
+              "ar": "متحف أثري مقام داخل قصر استعماري بني في القرن الـ 18 يضم ذهب وفخاريات حضارات البيرو.",
+              "en": "Pre-Columbian art museum housed in an 18th-century mansion surrounded by gardens.",
+              "tr": "18. yüzyıldan kalma bir konakta yer alan Kolomb öncesi sanat müzesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

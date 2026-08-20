@@ -1,0 +1,93 @@
+{
+  "namibia": {
+    "needs_ad": false,
+    "cities": {
+      "windhoek": {
+        "names": {
+          "ar": "ويندهوك",
+          "en": "Windhoek",
+          "tr": "Windhoek"
+        },
+        "description": {
+          "ar": "عاصمة ناميبيا الجبلية، تشتهر بعمارتها الألمانية الاستعمارية النادرة، كنيسة المسيح، والمصنوعات الجلدية.",
+          "en": "Namibia's capital set in a valley, famous for German colonial architecture like Christuskirche.",
+          "tr": "Alman sömürge mimarisi ve Christuskirche ile ünlü vadi içindeki Namibya başkenti."
+        },
+        "image": "res://images/windhoek.png",
+        "bg_image": "res://images/windhoek_bg.png",
+        "image_3d": "res://images/windhoek_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق هيلتون ويندهوك",
+              "en": "Hilton Windhoek",
+              "tr": "Hilton Windhoek"
+            },
+            "image": "res://images/hilton_windhoek.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم جوز بيير هاوس ويندهوك (Joe's Beerhouse)",
+              "en": "Joe's Beerhouse Windhoek",
+              "tr": "Joe's Beerhouse Windhoek"
+            },
+            "image": "res://images/joes_beerhouse.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "مشويات لحوم النعام والمها والغزلان الأفريقية",
+              "en": "Famous Namibian Game Meat & Steakhouse",
+              "tr": "Ünlü Namibya Av Eti ve Izgara Evi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كنيسة المسيح الألمانية (Christuskirche)",
+              "en": "Christuskirche Windhoek",
+              "tr": "Christuskirche Windhoek"
+            },
+            "image": "res://images/christuskirche.png",
+            "description": {
+              "ar": "كنيسة لوثرية بنيت عام 1907 من الحجر الرملي الوردي المحلي والزجاج المعشق.",
+              "en": "1907 historic Lutheran church built from local quartz sandstone.",
+              "tr": "Yerel kuvars kumtaşından inşa edilmiş 1907 yapımı tarihi Lüteriyen kilisesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "كثبان سوسوسفلي الرملية القريبة (Sossusvlei Dunes)",
+              "en": "Sossusvlei & Dune 45 Excursion",
+              "tr": "Sossusvlei ve Kum Tepesi 45"
+            },
+            "image": "res://images/sossusvlei.png",
+            "description": {
+              "ar": "أعلى كثبان رملية حمراء برتقالية في العالم تحيط ببحيرة الملح الميتة (Deadvlei).",
+              "en": "World's highest red sand dunes surrounding the white salt pan of Deadvlei.",
+              "tr": "Deadvlei'nin beyaz tuz tavasını çevreleyen dünyanın en yüksek kırmızı kum tepeleri."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

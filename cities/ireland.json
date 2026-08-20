@@ -1,0 +1,193 @@
+{
+  "ireland": {
+    "needs_ad": false,
+    "cities": {
+      "dublin": {
+        "names": {
+          "ar": "دبلن",
+          "en": "Dublin",
+          "tr": "Dublin"
+        },
+        "description": {
+          "ar": "عاصمة أيرلندا الأدبية والتاريخية، تشتهر بـ جامعة ترينيتي، مكتبة كتاب كيلس القديمة، وقلعة دبلن وحي تمبل بار.",
+          "en": "Ireland's historic capital on the River Liffey, famous for Trinity College, Book of Kells, and Temple Bar.",
+          "tr": "Liffey Nehri üzerindeki İrlanda'nın tarihi başkenti; Trinity College ve Temple Bar ile ünlüdür."
+        },
+        "image": "res://images/dublin.png",
+        "bg_image": "res://images/dublin_bg.png",
+        "image_3d": "res://images/dublin_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا الميريون دبلن (The Merrion Hotel)",
+              "en": "The Merrion Hotel Dublin",
+              "tr": "The Merrion Hotel Dublin"
+            },
+            "image": "res://images/merrion_dublin.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا الشيلبورن دبلن Autograph Collection",
+              "en": "The Shelbourne, Autograph Collection",
+              "tr": "The Shelbourne Dublin"
+            },
+            "image": "res://images/shelbourne_dublin.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم باتريك غيلبود دبلن (Chapter One)",
+              "en": "Chapter One by Mickael Viljanen",
+              "tr": "Chapter One Restoran Dublin"
+            },
+            "image": "res://images/chapter_one_dublin.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات أيرلندية وأوروبية راقية 2 نجوم ميشلان",
+              "en": "Two-Michelin-starred Modern Irish Fine Dining",
+              "tr": "İki Michelin Yıldızlı Modern İrlanda Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "جامعة ترينيتي ومكتبة كتاب كيلس (Trinity College & Book of Kells)",
+              "en": "Trinity College & The Long Room Library",
+              "tr": "Trinity College ve Long Room Kütüphanesi"
+            },
+            "image": "res://images/trinity_college.png",
+            "description": {
+              "ar": "أقدم جامعة في أيرلندا وتضم المكتبة الخشبية التاريخية ومخطوطة كيلس الإنجيلية النادرة.",
+              "en": "Historic 1592 university housing the famous 9th-century illuminated Gospel manuscript.",
+              "tr": "Ünlü 9. yüzyıl el yazmasına ev sahipliği yapan 1592 tarihli üniversite."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي تمبل بار الثقافي (Temple Bar)",
+              "en": "Temple Bar District",
+              "tr": "Temple Bar Semti"
+            },
+            "image": "res://images/temple_bar.png",
+            "description": {
+              "ar": "القلب الثقافي والأزقة المرصوفة بالحجارة للموسيقى الأيرلندية الحية والمقاهي.",
+              "en": "Cobblestone cultural quarter packed with traditional Irish pubs and music venues.",
+              "tr": "Geleneksel İrlanda barları ve canlı müzik mekanlarıyla dolu taş arnavut kaldırımlı semt."
+            }
+          }
+        ]
+      },
+      "galway": {
+        "names": {
+          "ar": "غالواي",
+          "en": "Galway",
+          "tr": "Galway"
+        },
+        "description": {
+          "ar": "العاصمة الثقافية والموسيقية للغرب الأيرلندي، تشتهر بـ الشارع الأيرلندي التراثي وقربها من جروف موهر العظيمة.",
+          "en": "Ireland's bohemian cultural capital on the west coast, gateway to the Cliffs of Moher and Connemara.",
+          "tr": "Batı kıyısındaki kültür başkenti; Moher Falezleri ve Connemara'ya açılan kapıdır."
+        },
+        "image": "res://images/galway.png",
+        "bg_image": "res://images/galway_bg.png",
+        "image_3d": "res://images/galway_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق ذا جي غالواي (The g Hotel & Spa)",
+              "en": "The g Hotel & Spa Galway",
+              "tr": "The g Hotel & Spa Galway"
+            },
+            "image": "res://images/g_hotel_galway.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أنيار غالواي (Aniar Restaurant)",
+              "en": "Aniar Restaurant Galway",
+              "tr": "Aniar Restoran Galway"
+            },
+            "image": "res://images/aniar_galway.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات الغرب الأيرلندي والأسماك المحلية",
+              "en": "Michelin-starred Terroir West Irish Dining",
+              "tr": "Michelin Yıldızlı Batı İrlanda Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "جروف موهر العظيمة (Cliffs of Moher Excursion)",
+              "en": "Cliffs of Moher",
+              "tr": "Moher Falezleri (Cliffs of Moher)"
+            },
+            "image": "res://images/cliffs_of_moher.png",
+            "description": {
+              "ar": "منحدرات صخرية شاهقة بارتفاع 214 متراً تسقط عمودياً في أمواج المحيط الأطلسي.",
+              "en": "Dramatic sea cliffs towering 214 meters above the Atlantic Ocean coastline.",
+              "tr": "Atlas Okyanusu kıyısında 214 metre yüksekliğinde yükselen kayalık falezler."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع كواي ستريت للمشاة (Quay Street)",
+              "en": "Quay Street Pedestrian District",
+              "tr": "Quay Street Yürüyüş Caddesi"
+            },
+            "image": "res://images/quay_street_galway.png",
+            "description": {
+              "ar": "شارع مشاة ملون يعج بعازفي الشارع والمطاعم المباشرة والموسيقى التراثية.",
+              "en": "Lively pedestrian street filled with brightly painted storefronts and street buskers.",
+              "tr": "Parlak boyalı dükkanlar ve sokak müzisyenleriyle dolu canlı yaya caddesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

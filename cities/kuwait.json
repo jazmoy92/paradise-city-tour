@@ -1,0 +1,206 @@
+{
+  "kuwait": {
+    "needs_ad": false,
+    "cities": {
+      "kuwait_city": {
+        "names": {
+          "ar": "مدينة الكويت",
+          "en": "Kuwait City",
+          "tr": "Kuveyt Şehri"
+        },
+        "description": {
+          "ar": "عاصمة الكويت المعمارية والتاريخية، تشتهر بـ أبراج الكويت الشهيرة، المسجد الكبير، سوق المباركية التراثي، ومركز الشيخ جابر الأحمد الثقافي.",
+          "en": "Kuwait's vibrant capital, famous for Kuwait Towers, Souq Al-Mubarakiya, Grand Mosque, and Sheikh Jaber Al-Ahmad Cultural Centre.",
+          "tr": "Kuveyt Kuleleri, Mübarekiye Çarşısı, Ulu Cami ve Şeyh Caber Al-Ahmad Kültür Merkezi ile ünlü Kuveyt başkenti."
+        },
+        "image": "res://images/kuwait_city.png",
+        "bg_image": "res://images/kuwait_city_bg.png",
+        "image_3d": "res://images/kuwait_city_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فورسيزونز برج الشايع الكويت",
+              "en": "Four Seasons Hotel Kuwait at Burj Alshaya",
+              "tr": "Four Seasons Hotel Kuwait at Burj Alshaya"
+            },
+            "image": "res://images/four_seasons_kuwait.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل جران ماريوت الكويت",
+              "en": "JW Marriott Hotel Kuwait City",
+              "tr": "JW Marriott Hotel Kuveyt"
+            },
+            "image": "res://images/jw_marriott_kuwait.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دار حمد الكويت (Dar Hamad)",
+              "en": "Dar Hamad Restaurant",
+              "tr": "Dar Hamad Restoran Kuveyt"
+            },
+            "image": "res://images/dar_hamad.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات كويتية وخليجية تراثية بلمسة معاصرة",
+              "en": "Authentic Contemporary Kuwaiti Cuisine",
+              "tr": "Modern Otantik Kuveyt Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أبراج الكويت الأيقونية (Kuwait Towers)",
+              "en": "Kuwait Towers",
+              "tr": "Kuveyt Kuleleri"
+            },
+            "image": "res://images/kuwait_towers.png",
+            "description": {
+              "ar": "ثلاثة أبراج ساحلية مغطاة بالكرات الزرقاء والمزخرفة بموزاييك كروي تضم مطعماً دواراً ومطلاً على الخليج.",
+              "en": "Iconic trio of reinforced-concrete towers topped with blue-tiled spheres.",
+              "tr": "Mavi çinili kürelerle taçlandırılmış üç ikonik sahil kulesi."
+            }
+          },
+          {
+            "name": {
+              "ar": "المسجد الكبير (Grand Mosque)",
+              "en": "Grand Mosque of Kuwait",
+              "tr": "Kuveyt Ulu Camii"
+            },
+            "image": "res://images/kuwait_grand_mosque.png",
+            "description": {
+              "ar": "أضخم مسجد في الكويت مصمم بالنمط الإسلامي الأندلسي يتسع لأكثر من 10,000 مصلي.",
+              "en": "The official largest mosque in Kuwait known for Islamic calligraphy and Andalusian design.",
+              "tr": "İslam kaligrafisi ve Endülüs tasarımıyla ünlü Kuveyt'in en büyük camii."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "سوق المباركية التراثي (Souq Al-Mubarakiya)",
+              "en": "Souq Al-Mubarakiya",
+              "tr": "Mübarekiye Çarşısı (Souq Al-Mubarakiya)"
+            },
+            "image": "res://images/souq_mubarakiya.png",
+            "description": {
+              "ar": "أقدم سوق تراثي كويتي يعود لأكثر من 200 عام لبيع العطور والتمور والمشاوي الشعبية.",
+              "en": "Historic traditional market operating for over 200 years, offering dates, spices, and kebabs.",
+              "tr": "200 yıldan fazla süredir hizmet veren hurma, baharat ve kebap satan tarihi pazar."
+            }
+          }
+        ]
+      },
+      "salmiya": {
+        "names": {
+          "ar": "السالمية",
+          "en": "Salmiya",
+          "tr": "Salmiya"
+        },
+        "description": {
+          "ar": "المركز التجاري والترفيهي المطل على البحر، تشتهر بـ المركز العلمي، مارينا مول، والواجهة البحرية.",
+          "en": "Coastal commercial hub, famous for The Scientific Center, Marina Mall, and seaside promenades.",
+          "tr": "Bilim Merkezi, Marina Mall ve sahil gezinti yollarıyla ünlü sahil ticaret merkezi."
+        },
+        "image": "res://images/salmiya.png",
+        "bg_image": "res://images/salmiya_bg.png",
+        "image_3d": "res://images/salmiya_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق سيمفوني ستايل السالمية",
+              "en": "Symphony Style Hotel Kuwait",
+              "tr": "Symphony Style Hotel Kuveyt"
+            },
+            "image": "res://images/symphony_kuwait.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بابل السالمية (Babel Kuwait)",
+              "en": "Babel Kuwait Salmiya",
+              "tr": "Babel Restoran Salmiya"
+            },
+            "image": "res://images/babel_kuwait.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات شرقية وبحرية فاخرة مباشرة على الشاطئ",
+              "en": "Luxury Waterfront Lebanese & Seafood",
+              "tr": "Lüks Sahil Lübnan ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المركز العلمي وقاعة الأكواريوم (The Scientific Center)",
+              "en": "The Scientific Center of Kuwait",
+              "tr": "Kuveyt Bilim Merkezi"
+            },
+            "image": "res://images/scientific_center_kuwait.png",
+            "description": {
+              "ar": "صرح تعليمي وبحري يضم أضخم حوض أسماك بالخليج وقاعة سينما آيماكس وسفينة البوم التاريخية.",
+              "en": "Waterfront center featuring a giant aquarium, IMAX theater, and historic dhow harbor.",
+              "tr": "Dev akvaryumu, IMAX sineması ve tarihi dhow limanına sahip sahil merkezi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مارينا مول والواجهة البحرية (Marina Mall & Waves)",
+              "en": "Marina Mall Promenade",
+              "tr": "Marina Mall Sahil Kordonu"
+            },
+            "image": "res://images/marina_mall_kuwait.png",
+            "description": {
+              "ar": "مجمع تسوق وممشى بحري يربط الميناء بالصالات والمقاهي الشاطئية.",
+              "en": "Shopping complex connected to a pedestrian pier, glass bridge, and yacht marina.",
+              "tr": "Yaya iskelesi, cam köprüsü ve yat marinasına bağlı alışveriş kompleksi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

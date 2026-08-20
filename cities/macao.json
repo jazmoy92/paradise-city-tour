@@ -1,0 +1,104 @@
+{
+  "macao": {
+    "needs_ad": false,
+    "cities": {
+      "macau_city": {
+        "names": {
+          "ar": "مدينة ماكاو",
+          "en": "Macau",
+          "tr": "Makao"
+        },
+        "description": {
+          "ar": "لاس فيغاس الشرق والمصنفة باليونيسكو، تجمع بين بقايا كنيسة القديس بولس البرتغالية، المجمعات الفاخرة، والبرج.",
+          "en": "The Vegas of the East (UNESCO), famous for the Ruins of St. Paul's, Senado Square, Cotai Strip, and Macau Tower.",
+          "tr": "Doğu'nun Vegas'ı (UNESCO); Aziz Paul Harabeleri, Senado Meydanı ve Cotai Strip ile ünlüdür."
+        },
+        "image": "res://images/macau.png",
+        "bg_image": "res://images/macau_bg.png",
+        "image_3d": "res://images/macau_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع ذا فينيشيان ماكاو (The Venetian Macao)",
+              "en": "The Venetian Macao Resort",
+              "tr": "The Venetian Macao Resort"
+            },
+            "image": "res://images/venetian_macau.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل وين بالاس ماكاو (Wynn Palace)",
+              "en": "Wynn Palace Macao",
+              "tr": "Wynn Palace Makao"
+            },
+            "image": "res://images/wynn_palace_macau.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ثمانية ماكاو (The Eight)",
+              "en": "The Eight at Grand Lisboa",
+              "tr": "The Eight Restoran Makao"
+            },
+            "image": "res://images/the_eight_macau.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أطباق كانتونية صينية فاخرة 3 نجوم ميشلان",
+              "en": "Three-Michelin-starred Gourmet Chinese & Dim Sum",
+              "tr": "Üç Michelin Yıldızlı Gurme Çin Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "أطلال كنيسة القديس بولس (Ruins of St. Paul's - UNESCO)",
+              "en": "Ruins of Saint Paul's",
+              "tr": "Aziz Paul Katedrali Harabeleri"
+            },
+            "image": "res://images/st_pauls_macau.png",
+            "description": {
+              "ar": "الواجهة الحجرية المنحوتة المتبقية من أضخم كنيسة كاتوليكية بنيت عام 1602.",
+              "en": "17th-century stone facade of a Portuguese cathedral, iconic symbol of Macau.",
+              "tr": "17. yüzyıldan kalma Portekiz katedralinin taş cephesi, Makao'nun simgesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "برج ماكاو وقفزة القفز المظلي (Macau Tower)",
+              "en": "Macau Tower Convention & Entertainment Centre",
+              "tr": "Makao Kulesi"
+            },
+            "image": "res://images/macau_tower.png",
+            "description": {
+              "ar": "برج بارتفاع 338 متراً يضم أعلى منصة قفز بانجي جومب (Bungy Jump) تجارية في العالم.",
+              "en": "338-meter tower famous for holding the world's highest commercial bungy jump.",
+              "tr": "Dünyanın en yüksek ticari bungee jumping noktasına sahip 338 metrelik kule."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

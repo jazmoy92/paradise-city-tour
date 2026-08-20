@@ -1,0 +1,191 @@
+{
+  "montenegro": {
+    "needs_ad": false,
+    "cities": {
+      "kotor": {
+        "names": {
+          "ar": "كوتور (خليج كوتور)",
+          "en": "Kotor",
+          "tr": "Kotor"
+        },
+        "description": {
+          "ar": "مدينة الموانئ والأخاديد المائية المصنفة يونسكو، تشتهر بـ أسوار القلعة الجبلية، الخليج الفيروزي والأزقة الحجرية.",
+          "en": "UNESCO fjord-like bay city, famous for Kotor Fortress, medieval Old Town, and Boka Bay views.",
+          "tr": "Kotor Kalesi, ortaçağ Eski Kenti ve Boka Körfezi ile ünlü UNESCO fiyort şehri."
+        },
+        "image": "res://images/kotor.png",
+        "bg_image": "res://images/kotor_bg.png",
+        "image_3d": "res://images/kotor_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل كاسا ديل مار كوتور (Boutique Hotel Astoria)",
+              "en": "Boutique Hotel Astoria Kotor",
+              "tr": "Boutique Hotel Astoria Kotor"
+            },
+            "image": "res://images/astoria_kotor.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع هيرميتاج بورتو مونتينيغرو القريب (One&Only Portonovi)",
+              "en": "One&Only Portonovi Montenegro",
+              "tr": "One&Only Portonovi Karadağ"
+            },
+            "image": "res://images/oneandonly_montenegro.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم غالايون كوتور (Galion)",
+              "en": "Galion Restaurant Kotor",
+              "tr": "Galion Restoran Kotor"
+            },
+            "image": "res://images/galion_kotor.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مأكولات أدرياتيكية وبحرية راقية مطلة على الخليج",
+              "en": "Luxury Adriatic Seafood & Bay Views",
+              "tr": "Lüks Adriyatik Deniz Ürünleri ve Körfez Manzarası"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة وأسوار القديس يوحنا (Kotor Fortress / San Giovanni)",
+              "en": "San Giovanni Fortress & Kotor Walls",
+              "tr": "San Giovanni Kalesi ve Kotor Surları"
+            },
+            "image": "res://images/kotor_fortress.png",
+            "description": {
+              "ar": "مسار صاعد بـ 1350 درجة حجرية نحو القلعة المرتفعة لمشاهدة أروع إطلالة في أوروبا.",
+              "en": "1,350-step stair climb up the mountain bastions offering breathtaking bay views.",
+              "tr": "Nefes kesici körfez manzarası sunan 1.350 basamaklı dağ kalesi tırmanışı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مدينة كوتور القديمة (Kotor Old Town - UNESCO)",
+              "en": "Kotor Stari Grad (Old Town)",
+              "tr": "Kotor Eski Şehri (Stari Grad)"
+            },
+            "image": "res://images/kotor_old_town.png",
+            "description": {
+              "ar": "متاهة من الشوارع الرخامية المرصوفة والكنائس البندقية والمقاهي العريقة.",
+              "en": "Preserved Venetian medieval maze of squares, cathedrals, and stray cats.",
+              "tr": "Meydanlar, katedraller ve kedilerle dolu korunan Venedik ortaçağ labirenti."
+            }
+          }
+        ]
+      },
+      "budva": {
+        "names": {
+          "ar": "بودفا",
+          "en": "Budva",
+          "tr": "Budva"
+        },
+        "description": {
+          "ar": "عاصمة الشواطئ والمهرجانات في مونتينيغرو، تشتهر ببيوتها القديمة الممتدة في البحر وجزيرة سفيثي ستيفان الأسطورية.",
+          "en": "Montenegro's premier beach resort, famous for its medieval Old Town peninsula and Sveti Stefan island.",
+          "tr": "Ortaçağ Eski Kent yarımadası ve Sveti Stefan adasıyla ünlü Karadağ'ın sahil başkenti."
+        },
+        "image": "res://images/budva.png",
+        "bg_image": "res://images/budva_bg.png",
+        "image_3d": "res://images/budva_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع أمان سفيثي ستيفان (Aman Sveti Stefan)",
+              "en": "Aman Sveti Stefan",
+              "tr": "Aman Sveti Stefan"
+            },
+            "image": "res://images/aman_sveti_stefan.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دوكلي بيتش كلوب بودفا (Dukley Beach)",
+              "en": "Dukley Seafront Restaurant Budva",
+              "tr": "Dukley Restoran Budva"
+            },
+            "image": "res://images/dukley_budva.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أسماك أدرياتيكية طازجة ومأكولات متوسطية",
+              "en": "Mediterranean Seafood & Beachfront Fine Dining",
+              "tr": "Akdeniz Deniz Ürünleri ve Sahil Lüks Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "جزيرة وشاطئ سفيثي ستيفان (Sveti Stefan)",
+              "en": "Sveti Stefan Island Peninsula",
+              "tr": "Sveti Stefan Adası"
+            },
+            "image": "res://images/sveti_stefan.png",
+            "description": {
+              "ar": "قرية صيد قروسطية تحولت لمنتجع جزيري محاط بشاطئ الوردي الرملي.",
+              "en": "Fortified 15th-century island village connected to the mainland by a narrow causeway.",
+              "tr": "Dar bir geçitle karaya bağlanan 15. yüzyıldan kalma tahkimatlı ada köyü."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قلعة بودفا القديمة (Budva Citadel)",
+              "en": "Budva Citadel (Citadela)",
+              "tr": "Budva Kalesi (Citadela)"
+            },
+            "image": "res://images/budva_citadel.png",
+            "description": {
+              "ar": "حصن أثري يمتد عند الحافة الجنوبية للمدينة القديمة يطل على البحر.",
+              "en": "Ancient fortress at the southern edge of Budva Old Town with library and sea views.",
+              "tr": "Kütüphanesi ve deniz manzarasıyla Budva Eski Kenti'nin güneyindeki antik kale."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

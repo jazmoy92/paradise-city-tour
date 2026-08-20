@@ -1,0 +1,106 @@
+{
+  "lithuania": {
+    "needs_ad": false,
+    "cities": {
+      "vilnius": {
+        "names": {
+          "ar": "فيلنيوس",
+          "en": "Vilnius",
+          "tr": "Vilnius"
+        },
+        "description": {
+          "ar": "عاصمة ليتوانيا ذات الطراز الباروكي الفخم المصنف باليونيسكو، تشتهر ببرج جيديميناس، وحي أوزوبيس الفني.",
+          "en": "Lithuania's Baroque capital (UNESCO), famous for Gediminas Tower, Vilnius Cathedral, and Uzupis Republic.",
+          "tr": "Gediminas Kulesi, Vilnius Katedrali ve Užupis Cumhuriyeti ile ünlü UNESCO başkenti."
+        },
+        "image": "res://images/vilnius.png",
+        "bg_image": "res://images/vilnius_bg.png",
+        "image_3d": "res://images/vilnius_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق غراند أوتيل كيمبينسكي فيلنيوس",
+              "en": "Grand Hotel Kempinski Vilnius",
+              "tr": "Grand Hotel Kempinski Vilnius"
+            },
+            "image": "res://images/kempinski_vilnius.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل باسيليا فيلنيوس Relais & Châteaux",
+              "en": "Relais & Châteaux Stikliai Hotel",
+              "tr": "Stikliai Hotel Vilnius"
+            },
+            "image": "res://images/stikliai_vilnius.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم درينكياي فيلنيوس (Džiaugsmas)",
+              "en": "Džiaugsmas Restaurant Vilnius",
+              "tr": "Džiaugsmas Restoran Vilnius"
+            },
+            "image": "res://images/dziaugsmas_vilnius.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق ليتوانية حديثة معتمدة على المكونات المحلية النادرة",
+              "en": "Modern Lithuanian Organic Gastronomy",
+              "tr": "Modern Litvanya Organik Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "برج قلعة جيديميناس (Gediminas Tower)",
+              "en": "Gediminas Tower",
+              "tr": "Gediminas Kulesi"
+            },
+            "image": "res://images/gediminas_tower.png",
+            "description": {
+              "ar": "برج أحمر تاريخي يتربع على التلة يمثل الرمز الوطني لليتوانيا والقلعة العليا.",
+              "en": "Remaining red-brick tower of the Upper Castle offering sweeping capital views.",
+              "tr": "Yukarı Kale'den kalan, şehir manzaraları sunan kiremit kule."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جمهورية أوزوبيس الفنية المستقلة (Užupis Republic)",
+              "en": "Užupis Bohemian District",
+              "tr": "Užupis Bohem Semti"
+            },
+            "image": "res://images/uzupis.png",
+            "description": {
+              "ar": "حي فني مستقل رمزياً يمتلك دستوره وشعاره الخاص ومكتظ بالمعارض والمقاهي.",
+              "en": "Self-proclaimed bohemian artists' republic with its own constitution and constitution wall.",
+              "tr": "Kendi anayasasına ve duvarına sahip, sanatçıların bağımsız bohem semti."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

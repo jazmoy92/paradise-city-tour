@@ -1,0 +1,232 @@
+{
+  "japan": {
+    "needs_ad": false,
+    "cities": {
+      "tokyo": {
+        "names": {
+          "ar": "طوكيو",
+          "en": "Tokyo",
+          "tr": "Tokyo"
+        },
+        "description": {
+          "ar": "عاصمة اليابان وفائقة التطور، تشتهر بـ تقاطع شيبويا الأكبر في العالم، معبد سينسوجي، برح طوكيو سكاي تري، وأضواء أكيخابارا.",
+          "en": "The world's largest metropolis, famous for Shibuya Crossing, Senso-ji Temple, Tokyo Skytree, and Michelin dining.",
+          "tr": "Shibuya Kavşağı, Senso-ji Tapınağı ve Tokyo Skytree ile ünlü dünyanın en büyük metropolü."
+        },
+        "image": "res://images/tokyo.png",
+        "bg_image": "res://images/tokyo_bg.png",
+        "image_3d": "res://images/tokyo_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أمان طوكيو (Aman Tokyo)",
+              "en": "Aman Tokyo",
+              "tr": "Aman Tokyo"
+            },
+            "image": "res://images/aman_tokyo.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق الماندارين أورينتال طوكيو",
+              "en": "Mandarin Oriental, Tokyo",
+              "tr": "Mandarin Oriental, Tokyo"
+            },
+            "image": "res://images/mandarin_tokyo.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سوكيمياشي جيرو سوشي (Sukiyabashi Jiro)",
+              "en": "Sukiyabashi Jiro Ginza",
+              "tr": "Sukiyabashi Jiro Ginza Restoran"
+            },
+            "image": "res://images/jiro_sushi.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أشهر طاهي ورائد السوشي الياباني الأسطوري في العالم",
+              "en": "World-famous Master Chef Omakase Sushi",
+              "tr": "Dünyaca Ünlü Usta Şef Omakase Suşi"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تقاطع شيبويا العالمي (Shibuya Crossing)",
+              "en": "Shibuya Crossing",
+              "tr": "Shibuya Kavşağı"
+            },
+            "image": "res://images/shibuya_crossing.png",
+            "description": {
+              "ar": "أكثر معبر مشاة ازدحاماً وحيوية في العالم مع أضواء الشاشات الضخمة.",
+              "en": "World's busiest pedestrian scramble intersection surrounded by giant video screens.",
+              "tr": "Dev video ekranlarıyla çevrili dünyanın en kalabalık yaya geçidi."
+            }
+          },
+          {
+            "name": {
+              "ar": "برج طوكيو سكاي تري (Tokyo Skytree)",
+              "en": "Tokyo Skytree",
+              "tr": "Tokyo Skytree Kulesi"
+            },
+            "image": "res://images/tokyo_skytree.png",
+            "description": {
+              "ar": "أطول برج إرسال في العالم بارتفاع 634 متراً يوفر رؤية جبل فوجي والمدينة.",
+              "en": "Tallest tower structure in the world at 634m with observation decks.",
+              "tr": "634 metrelik gözlem teraslarıyla dünyanın en yüksek kulesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "معبد سينسو-جي التراثي في أساكوسا (Senso-ji Temple)",
+              "en": "Senso-ji Temple Asakusa",
+              "tr": "Senso-ji Tapınağı Asakusa"
+            },
+            "image": "res://images/sensoji_temple.png",
+            "description": {
+              "ar": "أقدم معبد بوذي في طوكيو يعود للعام 645 م بفتحة الفانوس الأحمر الكبير.",
+              "en": "Tokyo's oldest and most significant Buddhist temple founded in 645 AD.",
+              "tr": "MS 645'te kurulan Tokyo'nun en eski ve en önemli Budist tapınağı."
+            }
+          }
+        ]
+      },
+      "kyoto": {
+        "names": {
+          "ar": "كيوتو",
+          "en": "Kyoto",
+          "tr": "Kyoto"
+        },
+        "description": {
+          "ar": "عاصمة اليابان القديمة وروحها الثقافية، تشتهر بـ معبد السرادق الذهبي، غابة الخيزران في أراشيياما، ومعبد فوشيمي إيناري.",
+          "en": "Japan's ancient imperial capital, famous for Kinkaku-ji (Golden Pavilion), Arashiyama bamboo grove, and Fushimi Inari.",
+          "tr": "Kinkaku-ji (Altın Köşk), Arashiyama bambu ormanı ve Fushimi Inari ile ünlü antik imparatorluk başkenti."
+        },
+        "image": "res://images/kyoto.png",
+        "bg_image": "res://images/kyoto_bg.png",
+        "image_3d": "res://images/kyoto_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فورسيزونز كيوتو",
+              "en": "Four Seasons Hotel Kyoto",
+              "tr": "Four Seasons Hotel Kyoto"
+            },
+            "image": "res://images/four_seasons_kyoto.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع أمان كيوتو (Aman Kyoto)",
+              "en": "Aman Kyoto",
+              "tr": "Aman Kyoto"
+            },
+            "image": "res://images/aman_kyoto.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كيك أون كيوتو (Kikunoi Honten)",
+              "en": "Kikunoi Honten Kyoto",
+              "tr": "Kikunoi Honten Restoran Kyoto"
+            },
+            "image": "res://images/kikunoi_kyoto.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "وجبات الكايسيكي اليابانية الإمبراطورية 3 نجوم ميشلان",
+              "en": "Three-Michelin-starred Imperial Kaiseki Dining",
+              "tr": "Üç Michelin Yıldızlı İmparatorluk Kaiseki Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "معبد فوشيمي إيناري وأبواب التوري الحمراء (Fushimi Inari)",
+              "en": "Fushimi Inari Taisha Shrine",
+              "tr": "Fushimi Inari Taisha Tapınağı"
+            },
+            "image": "res://images/fushimi_inari.png",
+            "description": {
+              "ar": "أشهر معبد ياباني يضك مساراً جلياً مكوناً من أكثر من 10,000 باب توري برتقالي أحمر.",
+              "en": "Iconic Shinto shrine famous for its mountain path lined with 10,000 vermilion torii gates.",
+              "tr": "10.000 kiremit kırmızısı torii kapısıyla kaplı dağ yoluyla ünlü ikonik Şinto tapınağı."
+            }
+          },
+          {
+            "name": {
+              "ar": "السرادق الذهبي كينكاكو-جي (Kinkaku-ji)",
+              "en": "Kinkaku-ji (Temple of the Golden Pavilion)",
+              "tr": "Kinkaku-ji (Altın Köşk Tapınağı)"
+            },
+            "image": "res://images/kinkaku_ji.png",
+            "description": {
+              "ar": "معبد بوذي مغطى طابقاه العلويان بالذهب الخالص ينعكس على بركة المياه الخضراء.",
+              "en": "Zen Buddhist temple covered in pure gold leaf overlooking a serene mirror pond.",
+              "tr": "Ayna gölete bakan, saf altın yapraklarla kaplı Zen Budist tapınağı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "غابة خيزران أراشيياما (Arashiyama Bamboo Grove)",
+              "en": "Arashiyama Bamboo Grove",
+              "tr": "Arashiyama Bambu Ormanı"
+            },
+            "image": "res://images/arashiyama_bamboo.png",
+            "description": {
+              "ar": "ممر سحري بين قصبات الخيزران الشاهقة التي تصدر صفيراً ناعماً مع الرياح.",
+              "en": "Soaring bamboo forest trails offering a magical green sensory experience.",
+              "tr": "Büyüleyici yeşil bir duyusal deneyim sunan yüksek bambu ormanı yolları."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

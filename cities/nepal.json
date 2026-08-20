@@ -1,0 +1,178 @@
+{
+  "nepal": {
+    "needs_ad": false,
+    "cities": {
+      "kathmandu": {
+        "names": {
+          "ar": "كاتماندو",
+          "en": "Kathmandu",
+          "tr": "Katmandu"
+        },
+        "description": {
+          "ar": "عاصمة نيبال التاريخية المحاطة بجبال الهملايا، تشتهر بـ ساحة دوربار الخشبية، معبد سويمبوناث (معبد القردة)، وصرح بوداناث.",
+          "en": "Himalayan valley capital, world-famous for Durbar Square, Swayambhunath (Monkey Temple), and Boudhanath Stupa.",
+          "tr": "Durbar Meydanı, Swayambhunath (Maymun Tapınağı) ve Boudhanath Stupası ile ünlü başkent."
+        },
+        "image": "res://images/kathmandu.png",
+        "bg_image": "res://images/kathmandu_bg.png",
+        "image_3d": "res://images/kathmandu_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل دواريكاس كاتماندو (Dwarika's Hotel)",
+              "en": "The Dwarika's Hotel Kathmandu",
+              "tr": "The Dwarika's Hotel Katmandu"
+            },
+            "image": "res://images/dwarikas_kathmandu.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كريسشان كافيه كاتماندو (Krishnarpan)",
+              "en": "Krishnarpan Restaurant at Dwarika's",
+              "tr": "Krishnarpan Restoran Katmandu"
+            },
+            "image": "res://images/krishnarpan.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق نيبالية ملكية المومو والدال بهات بـ 22 طبقاً",
+              "en": "Traditional Multi-course Nepali Feast & Momos",
+              "tr": "Geleneksel Çok Çeşitli Nepal Ziyafeti ve Momo"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "صرح بوداناث البوذي (Boudhanath Stupa - UNESCO)",
+              "en": "Boudhanath Stupa",
+              "tr": "Boudhanath Stupası"
+            },
+            "image": "res://images/boudhanath.png",
+            "description": {
+              "ar": "أضخم صرح دائر بوذي في آسيا تعلوه أعين بودا التي تنظر للاتجاهات الأربعة.",
+              "en": "Massive 36-meter spherical stupa, center of Tibetan Buddhism in Nepal.",
+              "tr": "Nepal'deki Tibet Budizminin merkezi olan 36 metrelik devasa küresel stupa."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "معبد القردة سويمبوناث (Swayambhunath / Monkey Temple)",
+              "en": "Swayambhunath Stupa (Monkey Temple)",
+              "tr": "Swayambhunath (Maymun Tapınağı)"
+            },
+            "image": "res://images/swayambhunath.png",
+            "description": {
+              "ar": "معبد تاريخي فوق قمة تلة يطل على وادي كاتماندو ومملوء بالقرود الطليقة.",
+              "en": "Ancient religious complex atop a hill in the Kathmandu Valley surrounded by holy monkeys.",
+              "tr": "Kutsal maymunlarla çevrili Katmandu Vadisi'ndeki bir tepede yer alan antik tapınak."
+            }
+          }
+        ]
+      },
+      "pokhara": {
+        "names": {
+          "ar": "بوكارا (بوابة جبال الأنابورنا)",
+          "en": "Pokhara",
+          "tr": "Pokhara"
+        },
+        "description": {
+          "ar": "عاصمة الطبيعة والمغامرات في نيبال، تشتهر بـ بحيرة فيوا الفيروزية، قفز المظلات، وإطلالة قمم الأنابورنا الثلجية.",
+          "en": "Nepal's adventure capital, famous for Phewa Lake reflection of Machhapuchhre peak and paragliding.",
+          "tr": "Phewa Gölü ve Annapurna Dağı manzaralarıyla ünlü Nepal'in macera başkenti."
+        },
+        "image": "res://images/pokhara.png",
+        "bg_image": "res://images/pokhara_bg.png",
+        "image_3d": "res://images/pokhara_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع فيشتايل لودج بوكارا (Fishtail Lodge)",
+              "en": "Fish Tail Lodge Pokhara",
+              "tr": "Fish Tail Lodge Pokhara"
+            },
+            "image": "res://images/fishtail_lodge.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم موكشا بوكارا (Moondance Restaurant)",
+              "en": "Moondance Restaurant Pokhara",
+              "tr": "Moondance Restoran Pokhara"
+            },
+            "image": "res://images/moondance_pokhara.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "بيتزا الحطب ومأكولات الهملايا والأسماك",
+              "en": "Wood-fired Pizza & Himalayan Trout",
+              "tr": "Odun Ateşinde Pizza ve Himalaya Alabalığı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "بحيرة فيوا وقارب المعبد (Phewa Lake)",
+              "en": "Phewa Lake & Tal Barahi Temple",
+              "tr": "Phewa Gölü ve Tal Barahi Tapınağı"
+            },
+            "image": "res://images/phewa_lake.png",
+            "description": {
+              "ar": "بحيرة زرقاء زجاجية ينعكس عليها جبل ذيل السمكة وتضم معبداً في جزيرتها الوسطى.",
+              "en": "Picturesque freshwater lake with the two-storied Tal Barahi Temple on an island.",
+              "tr": "Ortasındaki adada Tal Barahi Tapınağı bulunan resim gibi tatlı su gölü."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "معبد ومعبد السلام العالمي (World Peace Pagoda Pokhara)",
+              "en": "World Peace Pagoda (Shanti Stupa)",
+              "tr": "Dünya Barış Pagodası (Shanti Stupa)"
+            },
+            "image": "res://images/shanti_stupa_pokhara.png",
+            "description": {
+              "ar": "باغودا بيضاء ناصعة على قمة الجبل توفر إطلالة بانورامية كاملة على سلاسل الهملايا.",
+              "en": "White pagoda on Anadu Hill built by Buddhist monks offering sweeping Annapurna views.",
+              "tr": "Annapurna dağlarının panoramik manzarasını sunan Anadu Tepesi'ndeki beyaz pagoda."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

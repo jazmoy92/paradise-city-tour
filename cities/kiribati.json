@@ -1,0 +1,93 @@
+{
+  "kiribati": {
+    "needs_ad": false,
+    "cities": {
+      "south_tarawa": {
+        "names": {
+          "ar": "جنوب تارافا",
+          "en": "South Tarawa",
+          "tr": "Güney Tarawa"
+        },
+        "description": {
+          "ar": "عاصمة دولة كيريباتي الجزيرية في المحيط الهادي، تشتهر ببحيراتها الفيروزية الهادئة والقرى المائية ببيوت القش.",
+          "en": "The island capital of Kiribati, featuring turquoise lagoons, traditional Maneaba halls, and WWII relics.",
+          "tr": "Kiribati'nin ada başkenti; turkuaz lagünleri ve geleneksel Maneaba toplantı salonlarıyla tanınır."
+        },
+        "image": "res://images/south_tarawa.png",
+        "bg_image": "res://images/tarawa_bg.png",
+        "image_3d": "res://images/tarawa_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل فريغيت طارافا",
+              "en": "Freetown Lodge & Utirerei Hotel South Tarawa",
+              "tr": "Utirerei Hotel Güney Tarawa"
+            },
+            "image": "res://images/utirerei_hotel.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ماتانغ تارافا",
+              "en": "George Hotel Restaurant Tarawa",
+              "tr": "George Hotel Restoran Tarawa"
+            },
+            "image": "res://images/george_tarawa.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "أسماك التونة الطازجة ومأكولات ثمرة جوز الهند",
+              "en": "Fresh Ocean Tuna & Pacific Dishes",
+              "tr": "Taze Okyanus Ton Balığı ve Pasifik Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "صالة المانيابا التقليدية (Traditional Maneaba)",
+              "en": "Traditional Maneaba Meeting Hall",
+              "tr": "Geleneksel Maneaba Toplantı Salonu"
+            },
+            "image": "res://images/maneaba.png",
+            "description": {
+              "ar": "مبنى خشبي مفتوح ذو سقف قش عالٍ يمثل قلب المجتمع المحلي والاحتفالات.",
+              "en": "Open-air thatched communal hall representing the spiritual heart of Kiribati culture.",
+              "tr": "Kiribati kültürünün manevi kalbini temsil eden açık hava saz çatılı salon."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة تارافا الفيروزية (Tarawa Lagoon)",
+              "en": "Tarawa Lagoon",
+              "tr": "Tarawa Lagünü"
+            },
+            "image": "res://images/tarawa_lagoon.png",
+            "description": {
+              "ar": "بحيرة شاسعة هادئة ممتازة للسباحة واستكشاف الحياة المائية العذراء.",
+              "en": "Vast turquoise sheltered lagoon perfect for canoeing and swimming.",
+              "tr": "Kano ve yüzme için mükemmel olan devasa turkuaz korunaklı lagün."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

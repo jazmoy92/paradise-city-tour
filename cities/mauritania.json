@@ -1,0 +1,180 @@
+{
+  "mauritania": {
+    "needs_ad": false,
+    "cities": {
+      "nouakchott": {
+        "names": {
+          "ar": "نواكشوط",
+          "en": "Nouakchott",
+          "tr": "Nuakşot"
+        },
+        "description": {
+          "ar": "عاصمة موريتانيا الكبرى المطلة على المحيط الأطلسي، تشتهر بشاطئ الصيادين (شاطئ نواكشوط) وسوق الحرف التراثية.",
+          "en": "Mauritania's coastal capital, famous for Port de Pêche colorful fishing boats and craft markets.",
+          "tr": "Port de Pêche renkli balıkçı tekneleri ve pazarlarıyla ünlü Moritanya başkenti."
+        },
+        "image": "res://images/nouakchott.png",
+        "bg_image": "res://images/nouakchott_bg.png",
+        "image_3d": "res://images/nouakchott_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أزالي أوتيل ماركبا نواكشوط",
+              "en": "Azalaï Hotel Marhaba Nouakchott",
+              "tr": "Azalaï Hotel Marhaba Nuakşot"
+            },
+            "image": "res://images/azalai_nouakchott.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي إمير نواكشوط",
+              "en": "Le Prince Restaurant Nouakchott",
+              "tr": "Le Prince Restoran Nuakşot"
+            },
+            "image": "res://images/le_prince_nouakchott.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "كسكسي موريتاني ولحوم الإبل والأسماك الطازجة",
+              "en": "Traditional Mauritanian Camel Meat & Fresh Seafood",
+              "tr": "Geleneksel Moritanya Deve Eti ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ وميناء الصيادين (Port de Pêche)",
+              "en": "Port de Pêche Fishing Beach",
+              "tr": "Port de Pêche Balıkçı Plajı"
+            },
+            "image": "res://images/port_de_peche.png",
+            "description": {
+              "ar": "شاطئ يعود إليه مئات الصيادين يومياً بقواربهم الملونة المزخرفة باليد لبيع الصيد.",
+              "en": "Bustling Atlantic beach where hundreds of hand-painted wooden pirogues bring daily catch.",
+              "tr": "Yüzlerce el boyaması ahşap kayığın günlük avları getirdiği canlı sahil."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "المتحف الوطني الموريتاني (National Museum)",
+              "en": "National Museum of Mauritania",
+              "tr": "Moritanya Ulusal Müzesi"
+            },
+            "image": "res://images/mauritania_national_museum.png",
+            "description": {
+              "ar": "يضم مخطوطات شنقيط الأثرية والآلات الموسيقية التراثية للبادية الصحراوية.",
+              "en": "Museum housing ancient Moorish manuscripts, Berber artifacts, and desert crafts.",
+              "tr": "Eski Mağribi el yazmalarını ve Berberi eserlerini barındıran müze."
+            }
+          }
+        ]
+      },
+      "chinguetti": {
+        "names": {
+          "ar": "شنقيط (مدينة المكتبات الصحراوية)",
+          "en": "Chinguetti",
+          "tr": "Şingetti"
+        },
+        "description": {
+          "ar": "المدينة الصحراوية المقدسة والمصنفة باليونيسكو، تشتهر بمسجدها العتيق ومكتبات المخطوطات النادرة بقلب الصحراء.",
+          "en": "UNESCO ancient desert trading post, famous for dry-stone minaret and medieval Islamic manuscript libraries.",
+          "tr": "Kuru taş minaresi ve ortaçağ İslam el yazması kütüphaneleriyle ünlü UNESCO antik çöl şehri."
+        },
+        "image": "res://images/chinguetti.png",
+        "bg_image": "res://images/chinguetti_bg.png",
+        "image_3d": "res://images/chinguetti_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوبيرج إيدين شنقيط",
+              "en": "Auberge Eden Chinguetti",
+              "tr": "Auberge Eden Şingetti"
+            },
+            "image": "res://images/auberge_chinguetti.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم صحراء شنقيط",
+              "en": "La Caravane Chinguetti",
+              "tr": "La Caravane Şingetti"
+            },
+            "image": "res://images/caravane_chinguetti.png",
+            "rating": "4.6",
+            "cuisine": {
+              "ar": "أطباق الكسكسي وتمر العيون واللحوم الشتوية",
+              "en": "Authentic Desert Couscous & Dates",
+              "tr": "Otantik Çöl Kuskusu ve Hurma"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مسجد شنقيط العتيق ومئذنته الحجرية (Chinguetti Mosque - UNESCO)",
+              "en": "Great Mosque of Chinguetti",
+              "tr": "Büyük Şingetti Camii"
+            },
+            "image": "res://images/chinguetti_mosque.png",
+            "description": {
+              "ar": "مسجد صحراوي بني في القرن الثالث عشر بأحجار صلبة بدون ملاط ومئذنة مربعة استثنائية.",
+              "en": "13th-century dry-stone mosque with a square square minaret built without mortar.",
+              "tr": "Harç kullanılmadan inşa edilmiş kare minareli 13. yüzyıl kuru taş camii."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مكتبات المخطوطات الإسلامية التاريخية (Chinguetti Manuscript Libraries)",
+              "en": "Chinguetti Manuscript Libraries",
+              "tr": "Şingetti El Yazması Kütüphaneleri"
+            },
+            "image": "res://images/chinguetti_libraries.png",
+            "description": {
+              "ar": "مكتبات صحراوية عائلية خاصة تحفظ آلاف المخطوطات الجلدية النادرة في الفقه والفلك.",
+              "en": "Private family libraries safeguarding thousands of rare Quranic and scientific manuscript scrolls.",
+              "tr": "Binlerce nadir Kuran ve bilimsel el yazmasını koruyan özel aile kütüphaneleri."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

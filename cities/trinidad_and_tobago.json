@@ -1,0 +1,182 @@
+{
+  "trinidad_and_tobago": {
+    "needs_ad": false,
+    "cities": {
+      "port_of_spain": {
+        "names": {
+          "ar": "بورت أوف سبين",
+          "en": "Port of Spain",
+          "tr": "Port of Spain"
+        },
+        "description": {
+          "ar": "عاصمة ترينيداد وتوباغو الكاريبية، تشتهر بـ مهرجان الكرنفال العالمي، معزوفات الستيل بان، والقصور السبعة العظيمة.",
+          "en": "The Caribbean capital, famous for world-renowned Carnival celebrations, Steelpan music, and Magnificent Seven mansions.",
+          "tr": "Dünyaca ünlü Karnaval kutlamaları, Steelpan müziği ve Muhteşem Yedi konaklarıyla ünlü başkent."
+        },
+        "image": "res://images/port_of_spain.png",
+        "bg_image": "res://images/pos_bg.png",
+        "image_3d": "res://images/pos_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق هايات ريجنسي ترينيداد (Hyatt Regency Trinidad)",
+              "en": "Hyatt Regency Trinidad",
+              "tr": "Hyatt Regency Trinidad"
+            },
+            "image": "res://images/hyatt_trinidad.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم تشوداري كاريبيان (Chaud Restaurant)",
+              "en": "Chaud Restaurant Port of Spain",
+              "tr": "Chaud Restoran Port of Spain"
+            },
+            "image": "res://images/chaud_trinidad.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق الكاري الهندي الكاريبي والروتي والمأكولات البحرية",
+              "en": "Gourmet Caribbean Creole & Indo-Trinbagonian",
+              "tr": "Gurme Karayip Kreol ve Hint-Trinidad Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "منتزه كوينز بارك سافانا والقصور السبعة (Queen's Park Savannah)",
+              "en": "Queen's Park Savannah & Magnificent Seven",
+              "tr": "Queen's Park Savannah ve Muhteşem Yedi"
+            },
+            "image": "res://images/queens_park_savannah.png",
+            "description": {
+              "ar": "منتزه حضري دائر بقلب العاصمة تحيط به 7 قصور استعمارية تاريخية شاذة المعمار.",
+              "en": "Vast green park ringed by the 'Magnificent Seven' Victorian and French colonial mansions.",
+              "tr": "Victoria ve Fransız sömürge konaklarıyla çevrili devasa yeşil park."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شاطئ ماركاس باي (Maracas Beach)",
+              "en": "Maracas Beach",
+              "tr": "Maracas Plajı"
+            },
+            "image": "res://images/maracas_beach.png",
+            "description": {
+              "ar": "أشهر شاطئ محاط بالجبال الخضراء وموطن وجبة القرش والخبز المقلي (Bake and Shark).",
+              "en": "Mountain-backed Caribbean bay famous for golden sand and traditional Bake & Shark stalls.",
+              "tr": "Altın kumsalı ve geleneksel Bake & Shark stantlarıyla ünlü dağlarla çevrili koy."
+            }
+          }
+        ]
+      },
+      "crown_point": {
+        "names": {
+          "ar": "كراون بوينت (جزيرة توباغو)",
+          "en": "Crown Point",
+          "tr": "Crown Point"
+        },
+        "description": {
+          "ar": "عاصمة السياحة الشاطئية والاستجمام في جزيرة توباغو، تشتهر بـ شاطئ بيجون بوينت والمياه الفيروزية للبحيرة المرجانية.",
+          "en": "Tobago's resort capital, world-famous for Pigeon Point Heritage Park and Nylon Pool sandbar.",
+          "tr": "Pigeon Point Miras Parkı ve Nylon Pool sığlığı ile ünlü Tobago'nun resort başkenti."
+        },
+        "image": "res://images/crown_point.png",
+        "bg_image": "res://images/crown_point_bg.png",
+        "image_3d": "res://images/crown_point_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع وسبا ماغدالينا غراند توباغو",
+              "en": "Magdalena Grand Beach & Golf Resort",
+              "tr": "Magdalena Grand Beach & Golf Resort"
+            },
+            "image": "res://images/magdalena_tobago.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كاري بين توباغو (Jemma's Seaview Kitchen)",
+              "en": "Jemma's Seaview Treehouse Restaurant",
+              "tr": "Jemma's Seaview Restoran"
+            },
+            "image": "res://images/jemmas_tobago.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "سرطان البحر بالكاري المطهو وفطائر الكاسافا",
+              "en": "Famous Tobago Curry Crab & Dumplings",
+              "tr": "Ünlü Tobago Yengeç Körisi ve Mantı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "شاطئ ورصيف بيجون بوينت الخشبي (Pigeon Point Heritage Park)",
+              "en": "Pigeon Point Beach",
+              "tr": "Pigeon Point Plajı"
+            },
+            "image": "res://images/pigeon_point_tobago.png",
+            "description": {
+              "ar": "الشاطئ البطاقي الأيقوني برصيفه القشي الممتد فوق المياه الفيروزية الشفافة.",
+              "en": "Tobago's most famous beach recognized by its thatched roof jetty over turquoise waters.",
+              "tr": "Turkuaz sular üzerindeki saz çatılı iskelesiyle tanınan Tobago'nun en ünlü plajı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة النايلون بول المائية وسط البحر (Nylon Pool)",
+              "en": "Nylon Pool Sandbar",
+              "tr": "Nylon Pool Doğal Sığlık"
+            },
+            "image": "res://images/nylon_pool.png",
+            "description": {
+              "ar": "مسبح طبيعي رملي ضحل وسط المحيط ذو مياه شفافة كالبلور أطلق عليه الأميرة مارغريت هذا الاسم.",
+              "en": "In-ocean natural shallow swimming pool with white coral sand right in the middle of the sea.",
+              "tr": "Denizin ortasında beyaz mercan kumlu doğal sığ yüzme havuzu."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

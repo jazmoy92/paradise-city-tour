@@ -1,0 +1,327 @@
+{
+  "saudi_arabia": {
+    "needs_ad": false,
+    "cities": {
+      "makkah": {
+        "names": {
+          "ar": "مكة المكرمة",
+          "en": "Makkah",
+          "tr": "Mekke"
+        },
+        "description": {
+          "ar": "أقدس بقعة على وجه الأرض، موطن المسجد الحرام، الكعبة المشرفة، برج الساعة، والمشاعر المقدسة.",
+          "en": "Holiest city in Islam, home to the Grand Mosque (Masjid al-Haram) and the Holy Kaaba.",
+          "tr": "İslam'ın en kutsal şehri; Mescid-i Haram, Kabe-i Muazzama ve Abraj Al Bait ile dünyaca ünlüdür."
+        },
+        "image": "res://images/makkah.png",
+        "bg_image": "res://images/makkah_bg.png",
+        "image_3d": "res://images/makkah_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فيرمونت برج الساعة مكة",
+              "en": "Makkah Clock Royal Tower, A Fairmont Hotel",
+              "tr": "Makkah Clock Royal Tower, A Fairmont Hotel"
+            },
+            "image": "res://images/fairmont_makkah.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل رافلز مكة قصر المخبز",
+              "en": "Raffles Makkah Palace",
+              "tr": "Raffles Makkah Palace"
+            },
+            "image": "res://images/raffles_makkah.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مجلس الأبراج مكة",
+              "en": "Al Majlis Restaurant Makkah",
+              "tr": "Al Majlis Restoran Mekke"
+            },
+            "image": "res://images/almajlis_makkah.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق كبسة ولحوم ومأكولات حجازية مطلة على الحرم الشريف",
+              "en": "Authentic Hijazi Kabsa & Middle Eastern Fine Dining",
+              "tr": "Hicaz Kabsa ve Orta Doğu Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "المسجد الحرام والكعبة المشرفة (Masjid al-Haram & Kaaba)",
+              "en": "Masjid al-Haram & Kaaba",
+              "tr": "Mescid-i Haram ve Kabe"
+            },
+            "image": "res://images/masjid_al_haram.png",
+            "description": {
+              "ar": "أعظم وأكبر مسجد في العالم وقبلة أكثر من ملياري مسلم حول الأرض.",
+              "en": "The largest and holiest mosque in the world surrounding the Sacred Kaaba.",
+              "tr": "Kutsal Kabe'yi çevreleyen dünyanın en büyük ve en kutsal camii."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "أبراج البيت ومتحف برج الساعة",
+              "en": "Abraj Al-Bait & Clock Tower Museum",
+              "tr": "Abraj Al-Bait ve Saat Kulesi Müzesi"
+            },
+            "image": "res://images/clock_tower_makkah.png",
+            "description": {
+              "ar": "مجمع أبراج يضم ثالث أطول مبنى وأكبر وجه ساعة في العالم يطل على صحن الحرم.",
+              "en": "Complex featuring the world's largest clock face and cosmic observation museum.",
+              "tr": "Dünyanın en büyük saat yüzüne sahip gökdelen kompleksi."
+            }
+          }
+        ]
+      },
+      "riyadh": {
+        "names": {
+          "ar": "الرياض",
+          "en": "Riyadh",
+          "tr": "Riyad"
+        },
+        "description": {
+          "ar": "عاصمة المملكة الحضرية، تجمع بين أبراج المملكة والمجدول، الدرعية التاريخية (UNESCO)، والرياض سيزون العالي.",
+          "en": "Saudi Arabia's capital, famous for Kingdom Centre, UNESCO Diriyah, Boulevard City, and Edge of the World.",
+          "tr": "Kingdom Centre, UNESCO Diriyah ve Dünyanın Kenarı (Edge of the World) ile ünlü Suudi başkenti."
+        },
+        "image": "res://images/riyadh.png",
+        "bg_image": "res://images/riyadh_bg.png",
+        "image_3d": "res://images/riyadh_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق فورسيزونز برج المملكة الرياض",
+              "en": "Four Seasons Hotel Riyadh at Kingdom Centre",
+              "tr": "Four Seasons Hotel Riyadh at Kingdom Centre"
+            },
+            "image": "res://images/four_seasons_riyadh.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا ريتز كارلتون الرياض",
+              "en": "The Ritz-Carlton, Riyadh",
+              "tr": "The Ritz-Carlton, Riyad"
+            },
+            "image": "res://images/ritz_riyadh.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم تكية الرياض (Takya)",
+              "en": "Takya Saudi Fine Dining Diriyah",
+              "tr": "Takya Restoran Riyad"
+            },
+            "image": "res://images/takya_riyadh.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أول مطعم سعودي فاخر يبتكر أطباق المناطق السعودية بلمسات عالمية",
+              "en": "High-end Contemporary Saudi Heritage Cuisine",
+              "tr": "Modern Lüks Suudi Miras Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "الدرعية التاريخية وحي الطريف (Diriyah & At-Turaif - UNESCO)",
+              "en": "Diriyah & At-Turaif District",
+              "tr": "Diriyah ve At-Turaif Mahallesi"
+            },
+            "image": "res://images/diriyah.png",
+            "description": {
+              "ar": "العاصمة السعودية الأولى المبنية من الطين واللبن النجدي الأثري وموطن مطل البجيري.",
+              "en": "The birthplace of the Saudi State, featuring UNESCO Najdi mud-brick palaces and Bujairi Terrace.",
+              "tr": "Suudi Devletinin doğduğu yer; UNESCO Necid çamur tuğla sarayları ile ünlü."
+            }
+          },
+          {
+            "name": {
+              "ar": "برج المملكة والجسور الجوية (Kingdom Centre Tower)",
+              "en": "Kingdom Centre & Sky Bridge",
+              "tr": "Kingdom Centre ve Gökyüzü Köprüsü"
+            },
+            "image": "res://images/kingdom_centre.png",
+            "description": {
+              "ar": "ناطحة سحاب بارتفاع 300 متر تعلوها الهلال والجسور الزجاجية المطلة على أفق العاصمة.",
+              "en": "300-meter skyscraper topped with a parabolic arch and 65-meter high Sky Bridge observatory.",
+              "tr": "300 metrelik gökdelen ve 65 metrelik Gökyüzü Köprüsü gözlem terası."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "مطل حافة العالم الصحراوي (Edge of the World / Jebel Fihrayn)",
+              "en": "Edge of the World (Jebel Fihrayn)",
+              "tr": "Dünyanın Kenarı (Edge of the World)"
+            },
+            "image": "res://images/edge_of_the_world.png",
+            "description": {
+              "ar": "جروف صحراوية شاهقة يبلغ ارتفاعها 300 متر تسقط عمودياً في قاع بحر أثري قديم.",
+              "en": "Dramatic 300m high cliff sheer drop-offs in the desert offering endless horizon views.",
+              "tr": "Çölde sonsuz ufuk manzaraları sunan 300 m yüksekliğindeki dik falezler."
+            }
+          }
+        ]
+      },
+      "al_ula": {
+        "names": {
+          "ar": "العلا (الحِجر ومداين صالح)",
+          "en": "AlUla",
+          "tr": "AlUla"
+        },
+        "description": {
+          "ar": "متحف الطبيعة والتاريخ المفتوح، تشتهر بـ الحِجر (مداين صالح - UNESCO)، صخرة الفيل، وقاعة مرايا الزجاجية.",
+          "en": "Saudi Arabia's living museum, world-famous for Hegra (Madain Salih), Elephant Rock, and Maraya Hall.",
+          "tr": "Hegra (Madain Salih), Fil Kayası ve Maraya Konser Salonu ile ünlü canlı müze."
+        },
+        "image": "res://images/al_ula.png",
+        "bg_image": "res://images/al_ula_bg.png",
+        "image_3d": "res://images/al_ula_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "منتجع بانيان تري العلا (Banyan Tree AlUla)",
+              "en": "Banyan Tree AlUla",
+              "tr": "Banyan Tree AlUla"
+            },
+            "image": "res://images/banyan_tree_alula.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "منتجع هابيتاس العلا (Habitas AlUla)",
+              "en": "Habitas AlUla Resort",
+              "tr": "Habitas AlUla Resort"
+            },
+            "image": "res://images/habitas_alula.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم مرايا سوشال العلا (Maraya Social by Jason Atherton)",
+              "en": "Maraya Social AlUla",
+              "tr": "Maraya Social AlUla"
+            },
+            "image": "res://images/maraya_social.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق عالمية راقية أعلى مبنى مرايا الزجاجي الميرور",
+              "en": "Michelin Chef Fine Dining atop Maraya Mirror Building",
+              "tr": "Maraya Cam Binasının Çatısında Lüks Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "موقع الحِجر الأثري (Hegra / Madain Salih - UNESCO)",
+              "en": "Hegra (Madain Salih)",
+              "tr": "Hegra (Madain Salih)"
+            },
+            "image": "res://images/hegra_alula.png",
+            "description": {
+              "ar": "أول موقع سعودي مدرج باليونيسكو يضم 111 مقبرة نبطية منحوتة بصلابة الصخور الورود.",
+              "en": "Saudi Arabia's first UNESCO site featuring over 100 monumental Nabataean rock tombs.",
+              "tr": "100'den fazla anıtsal Nebati kaya mezarını barındıran Suudi Arabistan'ın ilk UNESCO alanı."
+            }
+          },
+          {
+            "name": {
+              "ar": "مسرح وقاعة مرايا الزجاجية (Maraya Concert Hall)",
+              "en": "Maraya Concert Hall",
+              "tr": "Maraya Konser Salonu"
+            },
+            "image": "res://images/maraya_alula.png",
+            "description": {
+              "ar": "أضخم مبنى مغطى بالمرايا في العالم يعكس أفق الجبال الصحراوية الساحر.",
+              "en": "Guinness World Record largest mirror-clad building reflecting the desert landscape.",
+              "tr": "Çöl manzarasını yansıtan dünyanın en büyük ayna kaplı binası."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "صخرة الفيل الطبيعية (Elephant Rock / Jabal AlFil)",
+              "en": "Elephant Rock (Jabal AlFil)",
+              "tr": "Fil Kayası (Jabal AlFil)"
+            },
+            "image": "res://images/elephant_rock.png",
+            "description": {
+              "ar": "تشكيل صخري طبيعي هائل نحتته الرياح على شكل فيل بخرطوم يمتد للأرض.",
+              "en": "Iconic 52-meter high natural sandstone monolith eroded into the shape of an elephant.",
+              "tr": "Rüzgarın erozyonuyla fil şeklini almış 52 metre yüksekliğinde kumtaşı kayası."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

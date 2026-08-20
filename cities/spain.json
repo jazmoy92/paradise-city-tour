@@ -1,0 +1,293 @@
+{
+  "spain": {
+    "needs_ad": false,
+    "cities": {
+      "madrid": {
+        "names": {
+          "ar": "مدريد",
+          "en": "Madrid",
+          "tr": "Madrid"
+        },
+        "description": {
+          "ar": "عاصمة إسبانيا الفخمة، تشتهر بـ القصر الملكي العظيم، متحف برادو العالمي، ساحة بلازا مايور، ومتنزه المترو ريتيرو.",
+          "en": "Spain's capital, famous for the Royal Palace, Prado Museum, Plaza Mayor, and El Retiro Park.",
+          "tr": "Kraliyet Sarayı, Prado Müzesi, Plaza Mayor ve El Retiro Parkı ile ünlü İspanya başkenti."
+        },
+        "image": "res://images/madrid.png",
+        "bg_image": "res://images/madrid_bg.png",
+        "image_3d": "res://images/madrid_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الماندارين أورينتال ريتز مدريد (Mandarin Oriental Ritz)",
+              "en": "Mandarin Oriental Ritz, Madrid",
+              "tr": "Mandarin Oriental Ritz, Madrid"
+            },
+            "image": "res://images/mandarin_madrid.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فورسيزونز مدريد",
+              "en": "Four Seasons Hotel Madrid",
+              "tr": "Four Seasons Hotel Madrid"
+            },
+            "image": "res://images/four_seasons_madrid.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ديفيركسو مدريد (DiverXO)",
+              "en": "DiverXO by Dabiz Muñoz",
+              "tr": "DiverXO Restoran Madrid"
+            },
+            "image": "res://images/diverxo_madrid.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أشهر مطعم مبتكر 3 نجوم ميشلان في مدريد",
+              "en": "Three-Michelin-starred Avant-Garde Gastronomy",
+              "tr": "Üç Michelin Yıldızlı Avangart Lüks Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "القصر الملكي في مدريد (Royal Palace of Madrid)",
+              "en": "Royal Palace of Madrid (Palacio Real)",
+              "tr": "Madrid Kraliyet Sarayı (Palacio Real)"
+            },
+            "image": "res://images/royal_palace_madrid.png",
+            "description": {
+              "ar": "أضخم قصر ملكي عامل في أوروپا يضم 3,418 غرفة من الرخام والذهب والتابستري.",
+              "en": "Largest functioning royal palace in Western Europe with 3,418 opulent rooms.",
+              "tr": "3.418 odasıyla Batı Avrupa'nın çalışan en büyük kraliyet sarayı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "متحف دل برادو العالمي (Prado Museum)",
+              "en": "Prado Museum (Museo del Prado)",
+              "tr": "Prado Müzesi (Museo del Prado)"
+            },
+            "image": "res://images/prado_museum.png",
+            "description": {
+              "ar": "أهم متحف فني في إسبانيا يضم تحف فيلاسكيز، جويا، وإل جريكو.",
+              "en": "Main Spanish national art museum holding European masterpieces from 12th to 19th century.",
+              "tr": "12. yüzyıldan 19. yüzyıla kadar Avrupa şaheserlerini barındıran İspanya ulusal sanat müzesi."
+            }
+          }
+        ]
+      },
+      "barcelona": {
+        "names": {
+          "ar": "برشلونة",
+          "en": "Barcelona",
+          "tr": "Barselona"
+        },
+        "description": {
+          "ar": "عاصمة إقليم كاتالونيا الساحر، تشتهر بـ كنيسة الساجرادا فاميليا، أعمال المعماري غودي، شارع لارامبلا، والشواطئ.",
+          "en": "Catalonia's coastal capital, world-famous for Antoni Gaudí's Sagrada Família, Park Güell, and La Rambla.",
+          "tr": "Antoni Gaudí'nin Sagrada Família'sı, Park Güell ve La Rambla ile ünlü Katalonya başkenti."
+        },
+        "image": "res://images/barcelona.png",
+        "bg_image": "res://images/barcelona_bg.png",
+        "image_3d": "res://images/barcelona_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل أرتس برشلونة (Hotel Arts Barcelona)",
+              "en": "Hotel Arts Barcelona (Ritz-Carlton)",
+              "tr": "Hotel Arts Barcelona"
+            },
+            "image": "res://images/hotel_arts_barcelona.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل دبليو برشلونة الشراعي (W Barcelona)",
+              "en": "W Barcelona",
+              "tr": "W Barcelona"
+            },
+            "image": "res://images/w_barcelona.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم ديسفروتار برشلونة (Disfrutar)",
+              "en": "Disfrutar Barcelona (World's Best)",
+              "tr": "Disfrutar Restoran Barselona"
+            },
+            "image": "res://images/disfrutar_barcelona.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "صُنف أفضل مطعم في العالم بـ 3 نجوم ميشلان للطهي المبتكر",
+              "en": "World's #1 Ranked Restaurant, 3-Michelin-starred Fine Dining",
+              "tr": "Dünyanın 1 Numaralı Restoranı Seçilen Üç Michelin Yıldızlı Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "كنيسة الساجرادا فاميليا العظيمة (Basílica de la Sagrada Família - UNESCO)",
+              "en": "Basílica de la Sagrada Família",
+              "tr": "Sagrada Família Bazilikası"
+            },
+            "image": "res://images/sagrada_familia.png",
+            "description": {
+              "ar": "تحفة المعماري أنطوني غودي الاستثنائية القائمة منذ عام 1882 بأبراجها العجيبة.",
+              "en": "Unfinished UNESCO minor basilica designed by Antoni Gaudí dominating Barcelona.",
+              "tr": "Antoni Gaudí tarafından tasarlanan UNESCO listesindeki tamamlanmamış bazilika."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه بارك غويل الملون (Park Güell)",
+              "en": "Park Güell by Gaudí",
+              "tr": "Park Güell"
+            },
+            "image": "res://images/park_guell.png",
+            "description": {
+              "ar": "حديقة فنية خرافية صممها غودي بمقاعد الفسيفساء الملونة المطلة على البحر والمدينة.",
+              "en": "Public park system composed of gardens and organic architectural elements on Carmel Hill.",
+              "tr": "Carmel Tepesi'nde organik mimari öğelerden oluşan halk parkı."
+            }
+          }
+        ]
+      },
+      "granada_spain": {
+        "names": {
+          "ar": "غرناطة (قصر الحمراء بالأندلس)",
+          "en": "Granada",
+          "tr": "Granada"
+        },
+        "description": {
+          "ar": "عاصمة الفردوس المفقود في الأندلس، تشتهر بـ قصر الحمراء المورق الأسطوري، حي البيازين، وجبال سييرا نيفادا.",
+          "en": "The jewel of Andalusia, world-famous for the Alhambra Palace (UNESCO), Albayzín quarter, and Flamenco.",
+          "tr": "UNESCO El Hamra Sarayı, Albayzín mahallesi ve Flamenko ile ünlü Endülüs'ün mücevheri."
+        },
+        "image": "res://images/granada_spain.png",
+        "bg_image": "res://images/granada_spain_bg.png",
+        "image_3d": "res://images/granada_spain_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل بارادور دي غرناطة (Parador de Granada)",
+              "en": "Parador de Granada (Inside Alhambra Grounds)",
+              "tr": "Parador de Granada"
+            },
+            "image": "res://images/parador_granada.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كاسا مورو غرناطة (Mirador de Morayma)",
+              "en": "Restaurante Mirador de Morayma",
+              "tr": "Mirador de Morayma Restoran Granada"
+            },
+            "image": "res://images/morayma_granada.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق أندلسية تقليدية ومأكولات البحر مع إطلالة مباشرة على قصر الحمراء المضاء",
+              "en": "Traditional Andalusian Gastronomy with Alhambra Views",
+              "tr": "El Hamra Sarayı Manzaralı Geleneksel Endülüs Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قصر الحمراء وجنات العريف (Alhambra Palace & Generalife - UNESCO)",
+              "en": "Alhambra Palace & Generalife Gardens",
+              "tr": "El Hamra Sarayı ve Generalife Bahçeleri"
+            },
+            "image": "res://images/alhambra.png",
+            "description": {
+              "ar": "أعظم القصور الإسلامية النصرية الأندلسية في العالم بقاعاته المقرنصة ونافورات جنات العريف.",
+              "en": "13th-century Islamic palace complex renowned for Arabesque plasterwork and fountains.",
+              "tr": "Arabesk alçı işçiliği ve fıskiyeleriyle ünlü 13. yüzyıl İslam sarayı kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "حي البيازين الأندلسي ومطل سان نيكولاس (Albayzín Quarter)",
+              "en": "Albayzín Historic Quarter & Mirador de San Nicolás",
+              "tr": "Albayzín Mahallesi ve San Nicolás Seyir Terası"
+            },
+            "image": "res://images/albayzin.png",
+            "description": {
+              "ar": "الحي الإسلامي القديم بأزقته البيضاء ومطل سان نيكولاس الأسطوري المطل على القصر والجبال.",
+              "en": "Medieval Moorish quarter with whitewashed houses and stunning sunset views of the Alhambra.",
+              "tr": "Beyaz evleri ve El Hamra'nın muhteşem gün batımı manzarasıyla ortaçağ Mağribi mahallesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

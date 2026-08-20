@@ -1,0 +1,107 @@
+{
+  "sweden": {
+    "needs_ad": false,
+    "cities": {
+      "stockholm": {
+        "names": {
+          "ar": "ستوكهولم",
+          "en": "Stockholm",
+          "tr": "Stokholm"
+        },
+        "description": {
+          "ar": "فينيسيا الشمال والمبنية على 14 جزيرة، تشتهر بـ البلدة القديمة غاملا ستان الملونة، متحف فاسا البحري، والقصر الملكي.",
+          "en": "Capital built across 14 islands, famous for Gamla Stan old town, Vasa Museum, and Royal Palace.",
+          "tr": "14 ada üzerine kurulu başkent; Gamla Stan, Vasa Müzesi ve Kraliyet Sarayı ile ünlüdür."
+        },
+        "image": "res://images/stockholm.png",
+        "bg_image": "res://images/stockholm_bg.png",
+        "image_3d": "res://images/stockholm_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل غراند أوتيل ستوكهولم (Grand Hôtel Stockholm)",
+              "en": "Grand Hôtel Stockholm",
+              "tr": "Grand Hôtel Stokholm"
+            },
+            "image": "res://images/grand_hotel_stockholm.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل إت هيم ستوكهولم (Ett Hem)",
+              "en": "Ett Hem Stockholm",
+              "tr": "Ett Hem Stokholm"
+            },
+            "image": "res://images/ett_hem.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم فرانزن ستوكهولم (Frantzén)",
+              "en": "Restaurant Frantzén Stockholm",
+              "tr": "Frantzén Restoran Stokholm"
+            },
+            "image": "res://images/frantzen_stockholm.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أول مطعم سويدي يحصد 3 نجوم ميشلان للمأكولات النوردية المعاصرة",
+              "en": "Sweden's Three-Michelin-starred World-Class Gastronomy",
+              "tr": "İsveç'in Üç Michelin Yıldızlı Lüks İskandinav Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "متحف سفينة فاسا الملكية (Vasa Museum)",
+              "en": "Vasa Museum (Vasamuseet)",
+              "tr": "Vasa Müzesi (Vasamuseet)"
+            },
+            "image": "res://images/vasa_museum.png",
+            "description": {
+              "ar": "يحتوي على السفينة الحربية الملكية الوحيدة المحفوظة بالكامل في العالم منذ عام 1628.",
+              "en": "Displays the world's only almost fully intact 17th-century warship that sank on its maiden voyage.",
+              "tr": "17. yüzyıldan kalma neredeyse tamamen sağlam tek savaş gemisini sergiler."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "البلدة القديمة غاملا ستان (Gamla Stan)",
+              "en": "Gamla Stan (Old Town)",
+              "tr": "Gamla Stan (Eski Şehir)"
+            },
+            "image": "res://images/gamla_stan.png",
+            "description": {
+              "ar": "القلب القروسطي الملون بالأصفر والأحمر المليء بالمقاهي والقصر الملكي.",
+              "en": "Preserved 13th-century medieval core featuring cobblestone streets and mustard-yellow buildings.",
+              "tr": "Sarı binaları ve arnavut kaldırımlarıyla 13. yüzyıldan kalma korunmuş ortaçağ merkezi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

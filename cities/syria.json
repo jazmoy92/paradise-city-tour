@@ -1,0 +1,104 @@
+{
+  "syria": {
+    "needs_ad": false,
+    "cities": {
+      "damascus": {
+        "names": {
+          "ar": "دمشق (أقدم عاصمة في التاريخ)",
+          "en": "Damascus",
+          "tr": "Şam"
+        },
+        "description": {
+          "ar": "أقدم عاصمة مأهولة بالسكان في التاريخ (UNESCO)، تشتهر بـ الجامع الأموي الكبير، سوق الحميدية، والبيوت الشامية التراثية.",
+          "en": "World's oldest continuously inhabited capital, famous for the Umayyad Mosque, Al-Hamidiyah Souq, and Old Damascus.",
+          "tr": "Emevi Camii, El-Hamidiye Çarşısı ve tarihi Şam evleriyle ünlü dünyanın en eski başkenti."
+        },
+        "image": "res://images/damascus.png",
+        "bg_image": "res://images/damascus_bg.png",
+        "image_3d": "res://images/damascus_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل بيت الملوك دمشق (Beit Al Mamlouka)",
+              "en": "Beit Al Mamlouka Damascus",
+              "tr": "Beit Al Mamlouka Şam"
+            },
+            "image": "res://images/mamlouka_damascus.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق بيت الشام التراثي (Beit Zaman Hotel)",
+              "en": "Beit Zaman Hotel Old Damascus",
+              "tr": "Beit Zaman Hotel Şam"
+            },
+            "image": "res://images/beit_zaman.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم بيت جبري دمشق القديمة (Beit Jabri)",
+              "en": "Beit Jabri Restaurant Old Damascus",
+              "tr": "Beit Jabri Restoran Şam"
+            },
+            "image": "res://images/beit_jabri.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق المطبخ الشامي التراثي والمشروبات والمازة في دار شامية عريقة",
+              "en": "Authentic Damascene Feast & Meze in a 17th-century Courtyard Mansion",
+              "tr": "17. Yüzyıl Konağında Otantik Şam Yemekleri ve Meze"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "الجامع الأموي الكبير (Umayyad Mosque - UNESCO)",
+              "en": "Umayyad Mosque (Great Mosque of Damascus)",
+              "tr": "Emevi Camii (Şam Ulu Camii)"
+            },
+            "image": "res://images/umayyad_mosque.png",
+            "description": {
+              "ar": "أحد أكبر وأقدم المساجد والمعجزات المعمارية الإسلامية بني عام 705 م بالفسيفساء المذهبة.",
+              "en": "8th-century Islamic architectural masterpiece with gilded mosaics and three minarets.",
+              "tr": "Altın mozaikleri ve üç minaresiyle 8. yüzyıldan kalma İslam mimarisi şaheseri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "سوق الحميدية التراثي (Al-Hamidiyah Souq)",
+              "en": "Al-Hamidiyah Souq",
+              "tr": "El-Hamidiye Çarşısı"
+            },
+            "image": "res://images/al_hamidiyah.png",
+            "description": {
+              "ar": "أشهر سوق تاريخي مغطى بالحديد ينتهي عند بوابات الجامع الأموي وموطن بوزة بكداش.",
+              "en": "Historic iron-vaulted covered market leading to the Umayyad Mosque, famous for Bakdash ice cream.",
+              "tr": "Emevi Camii'ne çıkan, Bakdash dondurmasıyla ünlü tarihi demir kubbeli kapalı çarşı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

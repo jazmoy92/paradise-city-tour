@@ -1,0 +1,93 @@
+{
+  "tonga": {
+    "needs_ad": false,
+    "cities": {
+      "nukualofa": {
+        "names": {
+          "ar": "نوكو ألوفا",
+          "en": "Nuku'alofa",
+          "tr": "Nuku'alofa"
+        },
+        "description": {
+          "ar": "عاصمة مملكة تونغا الملكية في المحيط الهادي، تشتهر بـ القصر الملكي الخشبي الأبيض والسباحة مع الحيتان السنامية.",
+          "en": "The Pacific royal capital, famous for the Victorian Royal Palace, blowholes, and humpback whale swimming.",
+          "tr": "Victoria tarzı Kraliyet Sarayı ve kambur balina yüzme turlarıyla ünlü Pasifik krallık başkenti."
+        },
+        "image": "res://images/nukualofa.png",
+        "bg_image": "res://images/nukualofa_bg.png",
+        "image_3d": "res://images/nukualofa_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل سينيك أوتيل تونغا (Scenic Hotel Tonga)",
+              "en": "Scenic Hotel Tonga",
+              "tr": "Scenic Hotel Tonga"
+            },
+            "image": "res://images/scenic_tonga.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كيرامبا الشاطئي نوكو ألوفا (Waterfront Restaurant)",
+              "en": "Waterfront Cafe & Restaurant Nuku'alofa",
+              "tr": "Waterfront Restoran Nuku'alofa"
+            },
+            "image": "res://images/waterfront_tonga.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك التونة العظيمة المتبلة بجوز الهند والطعام البولينيزي",
+              "en": "Traditional Polynesian 'Ota 'Ika Raw Fish & Italian",
+              "tr": "Geleneksel Polinezya 'Ota 'Ika Çiğ Balık Yemeği"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "نافورة الثقوب المائية الصخرية (Mapu 'a Vaea Blowholes)",
+              "en": "Mapu 'a Vaea Blowholes",
+              "tr": "Mapu 'a Vaea Su Püskürtme Kayalıkları"
+            },
+            "image": "res://images/mapu_a_vaea.png",
+            "description": {
+              "ar": "مئات الثقوب الصخرية المرجانية التي تنفث مياه المحيط بقوة لارتفاع 30 متراً في الهواء.",
+              "en": "Natural coral reef blowholes spouting sea water up to 30 meters high along 5km coast.",
+              "tr": "5 km'lik sahil boyunca deniz suyunu 30 metre yüksekliğe fışkırtan doğal mercan püskürtücüleri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "القصر الملكي الخشبي في نوكو ألوفا (Royal Palace)",
+              "en": "Royal Palace of Tonga",
+              "tr": "Tonga Kraliyet Sarayı"
+            },
+            "image": "res://images/tonga_royal_palace.png",
+            "description": {
+              "ar": "قصر ملكي خشبي أحمر وأبيض بني عام 1867 يطل على جبهة الميناء.",
+              "en": "Victorian wooden palace with red roof, official residence of the King of Tonga.",
+              "tr": "Tonga Kralı'nın resmi ikametgahı olan kırmızı çatılı Victoria ahşap sarayı."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

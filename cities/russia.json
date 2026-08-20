@@ -1,0 +1,233 @@
+{
+  "russia": {
+    "needs_ad": false,
+    "cities": {
+      "moscow": {
+        "names": {
+          "ar": "موسكو",
+          "en": "Moscow",
+          "tr": "Moskova"
+        },
+        "description": {
+          "ar": "عاصمة روسيا الاتحادية العظمى، تشتهر بـ الميدان الأحمر، قلعة الكرملين، كاتدرائية القديس باسل الملونة، ومحطات المترو الملكية.",
+          "en": "Russia's iconic capital, famous for Red Square, Kremlin, St. Basil's Cathedral, and opulent Metro stations.",
+          "tr": "Kızıl Meydan, Kremliln, Aziz Basil Katedrali ve görkemli Metro istasyonlarıyla ünlü başkent."
+        },
+        "image": "res://images/moscow.png",
+        "bg_image": "res://images/moscow_bg.png",
+        "image_3d": "res://images/moscow_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق الفورسيزونز موسكو (Four Seasons Hotel Moscow)",
+              "en": "Four Seasons Hotel Moscow",
+              "tr": "Four Seasons Hotel Moskova"
+            },
+            "image": "res://images/four_seasons_moscow.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق ذا كارلتون موسكو (The Carlton Moscow)",
+              "en": "The Carlton, Moscow",
+              "tr": "The Carlton, Moskova"
+            },
+            "image": "res://images/carlton_moscow.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم وايت رابيت موسكو البانورامي (White Rabbit)",
+              "en": "White Rabbit Restaurant Moscow",
+              "tr": "White Rabbit Restoran Moskova"
+            },
+            "image": "res://images/white_rabbit_moscow.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق روسية معاصرة فاخرة مع قبة زجاجية تطل على الكرملين",
+              "en": "World-famous Modern Russian Cuisine under Glass Dome",
+              "tr": "Cam Kubbe Altında Dünyaca Ünlü Modern Rus Mutfağı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "الميدان الأحمر وكاتدرائية القديس باسل (Red Square & St. Basil's)",
+              "en": "Red Square & Saint Basil's Cathedral",
+              "tr": "Kızıl Meydan ve Aziz Basil Katedrali"
+            },
+            "image": "res://images/red_square.png",
+            "description": {
+              "ar": "قلب موسكو التاريخي مع الكاتدرائية ذات القباب البصلية الملونة الأسطورية.",
+              "en": "Iconic cobble square bounded by the Kremlin and 16th-century onion-domed cathedral.",
+              "tr": "Kremlin ve 16. yüzyıl soğan kubbeli katedraliyle çevrili ikonik meydan."
+            }
+          },
+          {
+            "name": {
+              "ar": "قلعة الكرملين وقصور الأباطرة (Moscow Kremlin - UNESCO)",
+              "en": "Moscow Kremlin Citadel",
+              "tr": "Moskova Kremlin Kalesi"
+            },
+            "image": "res://images/kremlin_moscow.png",
+            "description": {
+              "ar": "حصن القياصرة ورئاسة الدولة المحاط بأسوار حمراء وكاتدرائيات الكرملين المذهبة.",
+              "en": "Fortified complex serving as official residence of the President of Russia.",
+              "tr": "Rusya Devlet Başkanı'nın resmi ikametgahı olan korunaklı kale kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "محطات مترو موسكو القصرية (Moscow Metro Palaces)",
+              "en": "Moscow Metro Historic Stations",
+              "tr": "Moskova Metrosu Tarihi İstasyonları"
+            },
+            "image": "res://images/moscow_metro.png",
+            "description": {
+              "ar": "أجمل شبكة قطارات أنفاق في العالم مصممة كـ قصور زجاجية ورخامية وثريات.",
+              "en": "Subra subterranean architectural marvels adorned with chandeliers, marble, and mosaics.",
+              "tr": "Avizeler, mermer ve mozaiklerle süslenmiş yeraltı mimari harikaları."
+            }
+          }
+        ]
+      },
+      "saint_petersburg": {
+        "names": {
+          "ar": "سانت بطرسبرغ (العاصمة الثقافية)",
+          "en": "Saint Petersburg",
+          "tr": "St. Petersburg"
+        },
+        "description": {
+          "ar": "فينيسيا الشمال وعاصمة القياصرة، تشتهر بـ متحف الهيرميتاج القصر الشتوي، القنوات المائية، وكاتدرائية الدم المراق.",
+          "en": "Venice of the North, world-famous for the Hermitage State Museum, Winter Palace, and Church of the Savior on Blood.",
+          "tr": "Kuzeyin Venedik'i; Hermitage Müzesi, Kışlık Saray ve Dökülen Kan Camii ile dünyaca ünlüdür."
+        },
+        "image": "res://images/saint_petersburg.png",
+        "bg_image": "res://images/spb_bg.png",
+        "image_3d": "res://images/spb_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "cruise"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل أستوريا سانت بطرسبرغ (Rocco Forte Hotel Astoria)",
+              "en": "Hotel Astoria, Rocco Forte Hotel",
+              "tr": "Hotel Astoria St. Petersburg"
+            },
+            "image": "res://images/hotel_astoria_spb.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق فورسيزونز القصر الشتوي (Four Seasons Lion Palace)",
+              "en": "Four Seasons Hotel Lion Palace St. Petersburg",
+              "tr": "Four Seasons Hotel Lion Palace St. Petersburg"
+            },
+            "image": "res://images/four_seasons_spb.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم كافيا بوشكين سانت بطرسبرغ (Palkin)",
+              "en": "Palkin Restaurant St. Petersburg",
+              "tr": "Palkin Restoran St. Petersburg"
+            },
+            "image": "res://images/palkin_spb.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "أطباق القياصرة الروسية والكافيار والكافيار الأسود",
+              "en": "Imperial Russian Cuisine & Black Caviar",
+              "tr": "İmparatorluk Rus Mutfağı ve Siyah Havyar"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "متحف الهيرميتاج والقصر الشتوي (State Hermitage Museum)",
+              "en": "State Hermitage Museum & Winter Palace",
+              "tr": "Hermitage Müzesi ve Kışlık Saray"
+            },
+            "image": "res://images/hermitage_spb.png",
+            "description": {
+              "ar": "ثاني أضخم متحف فني في العالم يضم 3 ملايين قطعة فنية وقصر القياصرة الأخضر المذهب.",
+              "en": "One of the largest art museums in the world housed in the Baroque Winter Palace.",
+              "tr": "Barok Kışlık Saray'da yer alan dünyanın en büyük sanat müzelerinden biri."
+            }
+          },
+          {
+            "name": {
+              "ar": "كنيسة المخلص على الدم المراق (Church of the Savior on Blood)",
+              "en": "Church of the Savior on Spilled Blood",
+              "tr": "Dökülen Kan Üzerindeki Kurtarıcı Kilisesi"
+            },
+            "image": "res://images/savior_on_blood.png",
+            "description": {
+              "ar": "كنيسة خرافية مغطاة بـ 7,500 متر مربع من الفسيفساء الدقيقة والقباب الملونة.",
+              "en": "Ornate Russian Orthodox church containing over 7,500 square meters of mosaics.",
+              "tr": "7.500 metrekareden fazla mozaikle süslü Rus Ortodoks kilisesi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "قصر بيترهوف والنوافير الذهبية (Peterhof Palace)",
+              "en": "Peterhof Palace & Grand Cascade Fountains",
+              "tr": "Peterhof Sarayı ve Büyük Fıskiye Şelalesi"
+            },
+            "image": "res://images/peterhof.png",
+            "description": {
+              "ar": "فيرساي الروسية، قصر القيصر بطرس الأكبر بالنوافير الراقصة المذهبة الشاطئية.",
+              "en": "The Russian Versailles, famous for the Grand Cascade of gilded bronze statues.",
+              "tr": "Altın bronz heykellerden oluşan Büyük Şelalesi ile ünlü 'Rus Versayı'."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

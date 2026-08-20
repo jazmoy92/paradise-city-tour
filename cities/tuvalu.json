@@ -1,0 +1,93 @@
+{
+  "tuvalu": {
+    "needs_ad": false,
+    "cities": {
+      "funafuti": {
+        "names": {
+          "ar": "فونافوتي",
+          "en": "Funafuti",
+          "tr": "Funafuti"
+        },
+        "description": {
+          "ar": "عاصمة توفالو البيضاوية النادرة في المحيط الهادي، تشتهر بـ بحيرة فونافوتي المرجانية والهدوء الأوقيانوسي.",
+          "en": "Capital atoll of Tuvalu, famous for the vast Funafuti Lagoon and serene island lifestyle.",
+          "tr": "Devasa Funafuti Lagünü ve huzurlu ada yaşamıyla ünlü Tuvalu başkenti."
+        },
+        "image": "res://images/funafuti.png",
+        "bg_image": "res://images/funafuti_bg.png",
+        "image_3d": "res://images/funafuti_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل وايتاپو لاغون (Vaiaku Lagi Hotel)",
+              "en": "Vaiaku Lagi Hotel Funafuti",
+              "tr": "Vaiaku Lagi Hotel Funafuti"
+            },
+            "image": "res://images/vaiaku_lagi.png",
+            "rating": "3 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم أوك بيري فونافوتي (3T's Funafuti)",
+              "en": "3T's Restaurant Funafuti",
+              "tr": "3T's Restoran Funafuti"
+            },
+            "image": "res://images/3ts_funafuti.png",
+            "rating": "4.5",
+            "cuisine": {
+              "ar": "أسماك التونة الطازجة وجوز الهند والمأكولات المحلية",
+              "en": "Fresh Pacific Seafood & Local Tuvaluan Cuisine",
+              "tr": "Taze Pasifik Deniz Ürünleri ve Tuvalu Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "محمية فونافوتي البحرية المرجانية (Funafuti Conservation Area)",
+              "en": "Funafuti Conservation Area",
+              "tr": "Funafuti Koruma Alanı"
+            },
+            "image": "res://images/funafuti_conservation.png",
+            "description": {
+              "ar": "محمية بحرية بساحة 33 كم مربع تضم 6 جزر غير مأهولة وسلاحف وشعباً مرجانية.",
+              "en": "Marine park covering 33 sq km of reef, lagoons, and six uninhabited islets.",
+              "tr": "33 kilometrekarelik mercan, lagün ve altı ıssız adayı kapsayan deniz parkı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "بحيرة فونافوتي المائية الضحلة (Funafuti Lagoon)",
+              "en": "Funafuti Lagoon",
+              "tr": "Funafuti Lagünü"
+            },
+            "image": "res://images/funafuti_lagoon.png",
+            "description": {
+              "ar": "بحيرة زرقاء شاسعة تحيط بها الموانئ ومدرج الطائرات التاريخي الوحيد.",
+              "en": "Vast turquoise lagoon offering crystal-clear swimming and kayaking.",
+              "tr": "Berrak yüzme ve kano imkanı sunan devasa turkuaz lagün."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

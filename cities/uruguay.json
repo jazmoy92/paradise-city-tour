@@ -1,0 +1,95 @@
+{
+  "uruguay": {
+    "needs_ad": false,
+    "cities": {
+      "montevideo": {
+        "names": {
+          "ar": "مونتيفيديو",
+          "en": "Montevideo",
+          "tr": "Montevideo"
+        },
+        "description": {
+          "ar": "عاصمة أوروغواي الأنيقة على نهر دي لا بلاتا، تشتهر بـ ممشى الرامبلا الساحلي الشاسع، قصر سالفو، وسوق بورتو دل بويرتو.",
+          "en": "Uruguay's vibrant capital, famous for Rambla coastal drive, Palacio Salvo, and Mercado del Puerto.",
+          "tr": "Rambla sahil yolu, Palacio Salvo ve Mercado del Puerto ile ünlü Uruguay başkenti."
+        },
+        "image": "res://images/montevideo.png",
+        "bg_image": "res://images/montevideo_bg.png",
+        "image_3d": "res://images/montevideo_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل صوفيتيل مونتيفيديو كاسينو (Sofitel Montevideo)",
+              "en": "Sofitel Montevideo Casino Carrasco & Spa",
+              "tr": "Sofitel Montevideo Casino Carrasco & Spa"
+            },
+            "image": "res://images/sofitel_montevideo.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم الباريلا في سوق بورتو (El Palenque Mercado del Puerto)",
+              "en": "El Palenque Restaurant Mercado del Puerto",
+              "tr": "El Palenque Restoran Montevideo"
+            },
+            "image": "res://images/el_palenque.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مشويات أوروغوانية بارايلا ولحوم حطب ممتازة",
+              "en": "Authentic Uruguayan Parrilla & Steakhouse",
+              "tr": "Otantik Uruguay Izgara Evi (Parrilla)"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "مبنى قصر سالفو التاريخي (Palacio Salvo)",
+              "en": "Palacio Salvo",
+              "tr": "Palacio Salvo Binası"
+            },
+            "image": "res://images/palacio_salvo.png",
+            "description": {
+              "ar": "ناطحة سحاب أيقونية تعود لعام 1928 بنيت بستايل آرت ديكو وتطل على ساحة الاستقلال.",
+              "en": "Iconic 100-meter Art Deco tower standing at the intersection of Plaza Independencia.",
+              "tr": "Plaza Independencia'da yer alan 100 metrelik ikonik Art Deco kule."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "ممشى الرامبلا الشاطئي (La Rambla of Montevideo)",
+              "en": "La Rambla Promenade",
+              "tr": "La Rambla Sahil Yolu"
+            },
+            "image": "res://images/la_rambla_montevideo.png",
+            "description": {
+              "ar": "أطول كورنيش مائي متصل في العالم يمتد لـ 22 كم بموازاة الشواطئ والمقاهي.",
+              "en": "Continuous 22-kilometer beachfront esplanade along Rio de la Plata.",
+              "tr": "Rio de la Plata boyunca uzanan 22 kilometrelik kesintisiz sahil kordonu."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

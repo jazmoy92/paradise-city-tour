@@ -1,0 +1,95 @@
+{
+  "sri_lanka": {
+    "needs_ad": false,
+    "cities": {
+      "kandy": {
+        "names": {
+          "ar": "كاندي (العاصمة الثقافية والجبلية)",
+          "en": "Kandy",
+          "tr": "Kandy"
+        },
+        "description": {
+          "ar": "العاصمة الجبلية والتراثية لسريلانكا المصنفة باليونيسكو، تشتهر بـ معبد السن المقدس، بحيرة كاندي، ومزارع الشاي.",
+          "en": "UNESCO sacred mountain capital, famous for Temple of the Sacred Tooth Relic, Kandy Lake, and tea hills.",
+          "tr": "Kutsal Diş Tapınağı, Kandy Gölü ve çay tepeleriyle ünlü UNESCO kutsal dağ başkenti."
+        },
+        "image": "res://images/kandy.png",
+        "bg_image": "res://images/kandy_bg.png",
+        "image_3d": "res://images/kandy_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل سان كاندي الجبلي (Ceylon Tea Trails)",
+              "en": "Ceylon Tea Trails Kandy",
+              "tr": "Ceylon Tea Trails Kandy"
+            },
+            "image": "res://images/tea_trails_kandy.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم سيلان كاري كاندي (Slightly Chilled)",
+              "en": "Slightly Chilled Lounge Kandy",
+              "tr": "Slightly Chilled Restoran Kandy"
+            },
+            "image": "res://images/chilled_kandy.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "أرز وكاري سريلانكي وشاي سيلان الأسطوري",
+              "en": "Authentic Sri Lankan Rice & Curry & Ceylon Tea",
+              "tr": "Otantik Sri Lanka Pirinç ve Körisi ve Seylan Çayı"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "معبد السن المقدس البوذي (Temple of the Sacred Tooth Relic)",
+              "en": "Temple of the Sacred Tooth Relic (Sri Dalada Maligawa)",
+              "tr": "Kutsal Diş Tapınağı (Sri Dalada Maligawa)"
+            },
+            "image": "res://images/tooth_temple.png",
+            "description": {
+              "ar": "أقدس معبد بوذي في سريلانكا يقع بداخل القصر الملكي القديم على البحيرة.",
+              "en": "Venerated UNESCO Buddhist temple complex housing the tooth relic of the Buddha.",
+              "tr": "Buda'nın diş kalıntısını barındıran kutsal UNESCO Budist tapınağı kompleksi."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "صخرة سيجيريا الأثرية القريبة (Sigiriya Lion Rock - UNESCO)",
+              "en": "Sigiriya Ancient Rock Fortress",
+              "tr": "Sigiriya Antik Kaya Kalesi"
+            },
+            "image": "res://images/sigiriya.png",
+            "description": {
+              "ar": "صخرة بركانية عملاقة ترتفع 200 متر تعلوها بقايا قصر الملك كاسابا والرسومات الملونة.",
+              "en": "200-meter high ancient rock fortress with frescoes and lion paw entrance.",
+              "tr": "Freskleri ve aslan pençesi girişiyle 200 metre yüksekliğindeki antik kaya kalesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "timor_leste": {
+    "needs_ad": false,
+    "cities": {
+      "dili": {
+        "names": {
+          "ar": "ديلي",
+          "en": "Dili",
+          "tr": "Dili"
+        },
+        "description": {
+          "ar": "عاصمة تيمور الشرقية المطلة على البحر، تشتهر بـ تمثال المسيح المخلص الشاطئي (Cristo Rei)، وشواطئ الغوص والرمال النظيفة.",
+          "en": "Timor-Leste's coastal capital, famous for the Cristo Rei statue on Cape Fatucama and coral reefs.",
+          "tr": "Cape Fatucama'daki Cristo Rei heykeli ve mercan kayalıklarıyla ünlü Doğu Timor başkenti."
+        },
+        "image": "res://images/dili.png",
+        "bg_image": "res://images/dili_bg.png",
+        "image_3d": "res://images/dili_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل تمور بلاس ديلي (Novo Turismo Resort)",
+              "en": "Novo Turismo Resort & Spa Dili",
+              "tr": "Novo Turismo Resort Dili"
+            },
+            "image": "res://images/novo_turismo_dili.png",
+            "rating": "4 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم دياغيرا ديلي (Diya Restaurant)",
+              "en": "Diya Restaurant Dili",
+              "tr": "Diya Restoran Dili"
+            },
+            "image": "res://images/diya_dili.png",
+            "rating": "4.7",
+            "cuisine": {
+              "ar": "أسماك المحيط الهادي الطازجة والمأكولات البرتغالية والتيمورية",
+              "en": "Fresh Ocean Fish & Portuguese Creole Fusion",
+              "tr": "Taze Okyanus Balıkları ve Portekiz Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تمثال المسيح المخلص كريسثو راي (Cristo Rei of Dili)",
+              "en": "Cristo Rei of Dili",
+              "tr": "Dili Cristo Rei Heykeli"
+            },
+            "image": "res://images/cristo_rei_dili.png",
+            "description": {
+              "ar": "تمثال برونزي بارتفاع 27 متراً يرتفع فوق قمة رأس فاتوكاما المطل على خليج ديلي والمحيط.",
+              "en": "27-meter tall statue of Jesus standing atop a globe on Cape Fatucama peninsula.",
+              "tr": "Cape Fatucama yarımadasında bir kürenin üzerinde duran 27 metrelik İsa heykeli."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جزيرة أتاورو للغوص القريبة (Atauro Island)",
+              "en": "Atauro Island Dive Sanctuary",
+              "tr": "Atauro Adası Dalış Merkezi"
+            },
+            "image": "res://images/atauro_island.png",
+            "description": {
+              "ar": "جزيرة تضم أثرى تنوع بيولوجي للشعاب المرجانية والأسماك في العالم قبالة ساحل ديلي.",
+              "en": "Island holding the world's most biodiverse coral reef waters according to scientists.",
+              "tr": "Bilim insanlarına göre dünyanın biyoçeşitlilik açısından en zengin mercan sularına sahip ada."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

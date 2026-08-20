@@ -1,0 +1,120 @@
+{
+  "serbia": {
+    "needs_ad": false,
+    "cities": {
+      "belgrade": {
+        "names": {
+          "ar": "بلغراد",
+          "en": "Belgrade",
+          "tr": "Belgrad"
+        },
+        "description": {
+          "ar": "المدينة البيضاء وعاصمة صربيا عند التقاء نهري الدانوب وسافا، تشتهر بـ قلعة كاليميغدان، كنيسة القديس سيفا، وحي كنيز ميهايلوفا.",
+          "en": "The White City where Danube meets Sava river, famous for Kalemegdan Fortress, Church of Saint Sava, and Knez Mihailova.",
+          "tr": "Kalemegdan Kalesi, Aziz Sava Kilisesi ve Knez Mihailova ile ünlü Tuna ve Sava nehirlerinin birleştiği başkent."
+        },
+        "image": "res://images/belgrade.png",
+        "bg_image": "res://images/belgrade_bg.png",
+        "image_3d": "res://images/belgrade_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "religious places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل سكوير ناين بلغراد (Square Nine Hotel)",
+              "en": "Square Nine Hotel Belgrade",
+              "tr": "Square Nine Hotel Belgrad"
+            },
+            "image": "res://images/square_nine_belgrade.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل هايات ريجنسي بلغراد",
+              "en": "Hyatt Regency Belgrade",
+              "tr": "Hyatt Regency Belgrad"
+            },
+            "image": "res://images/hyatt_belgrade.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم فرانش بلغراد (Franš)",
+              "en": "Franš Restaurant Belgrade",
+              "tr": "Franš Restoran Belgrad"
+            },
+            "image": "res://images/frans_belgrade.png",
+            "rating": "4.9",
+            "cuisine": {
+              "ar": "مشويات صربية شيفاب تشيفي ومأكولات بلقانية فاخرة",
+              "en": "Traditional Serbian Ćevapi & Fine Balkan Dining",
+              "tr": "Geleneksel Sırp Köftesi (Ćevapi) ve Balkan Yemekleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "قلعة ومنتزه كاليميغدان (Belgrade Fortress / Kalemegdan)",
+              "en": "Belgrade Fortress & Kalemegdan Park",
+              "tr": "Belgrad Kalesi ve Kalemegdan Parkı"
+            },
+            "image": "res://images/kalemegdan.png",
+            "description": {
+              "ar": "قلعة عسكرية أثرية تاريخية تتربع فوق التقاء النهرين العظيمين مع المتاحف والحدائق.",
+              "en": "Historic citadel standing on a ridge at the confluence of the River Sava and Danube.",
+              "tr": "Sava ve Tuna Nehirlerinin birleştiği noktada duran tarihi kale."
+            }
+          },
+          {
+            "name": {
+              "ar": "كاتدرائية القديس سيفا العظمى (Church of Saint Sava)",
+              "en": "Church of Saint Sava",
+              "tr": "Aziz Sava Kilisesi"
+            },
+            "image": "res://images/st_sava_belgrade.png",
+            "description": {
+              "ar": "أكبر كنيسة أرثوذكسية في البلقان بقبتها الذهبية الداخلية المكونة من الملايين من أحجار الموزاييك.",
+              "en": "One of the largest Orthodox church buildings in the world featuring gold mosaics.",
+              "tr": "Altın mozaikleriyle dünyadaki en büyük Ortodoks kiliselerinden biri."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "شارع كنيز ميهايلوفا للمشاة (Knez Mihailova Street)",
+              "en": "Knez Mihailova Pedestrian Street",
+              "tr": "Knez Mihailova Yürüyüş Caddesi"
+            },
+            "image": "res://images/knez_mihailova.png",
+            "description": {
+              "ar": "شارع المشاة الرئيسي التاريخي المحاط بالمباني الأنيقة من القرن الـ 19 والمقاهي.",
+              "en": "Main pedestrian and shopping zone protected as one of Belgrade's oldest landmarks.",
+              "tr": "Belgrad'ın en eski simgelerinden biri olarak korunan ana yaya ve alışveriş caddesi."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

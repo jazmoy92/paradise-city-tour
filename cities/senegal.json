@@ -1,0 +1,105 @@
+{
+  "senegal": {
+    "needs_ad": false,
+    "cities": {
+      "dakar": {
+        "names": {
+          "ar": "داكار",
+          "en": "Dakar",
+          "tr": "Dakar"
+        },
+        "description": {
+          "ar": "عاصمة السنغال الواقعة في أقصى غرب قارة إفريقيا، تشتهر بـ تمثال النهضة الأفريقية العظيم، جزيرة غوريه، والبحيرة الوردية.",
+          "en": "Africa's westernmost capital, famous for the African Renaissance Monument, Gorée Island, and Pink Lake.",
+          "tr": "Afrika Rönesans Anıtı, Gorée Adası ve Pembe Göl ile ünlü Afrika'nın en batıdaki başkenti."
+        },
+        "image": "res://images/dakar.png",
+        "bg_image": "res://images/dakar_bg.png",
+        "image_3d": "res://images/dakar_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "restaurant",
+          "beaches",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل تراديسون بلو داكار (Radisson Blu Dakar)",
+              "en": "Radisson Blu Hotel, Dakar Sea Plaza",
+              "tr": "Radisson Blu Hotel, Dakar Sea Plaza"
+            },
+            "image": "res://images/radisson_dakar.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أوتيل طيرنغا داكار (Terrou-Bi Resort)",
+              "en": "Terrou-Bi Resort Dakar",
+              "tr": "Terrou-Bi Resort Dakar"
+            },
+            "image": "res://images/terrou_bi_dakar.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم لي لاغون داكار (Le Lagon 1)",
+              "en": "Le Lagon 1 Restaurant Dakar",
+              "tr": "Le Lagon 1 Restoran Dakar"
+            },
+            "image": "res://images/lagon_dakar.png",
+            "rating": "4.8",
+            "cuisine": {
+              "ar": "طبق الثيبوديين الوطني وأسماك المحيط على الرصيف المائي",
+              "en": "Authentic Senegalese Thiéboudienne & Ocean Seafood",
+              "tr": "Otantik Senegal Thiéboudienne ve Deniz Ürünleri"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تمثال النهضة الأفريقية العظيم (African Renaissance Monument)",
+              "en": "African Renaissance Monument",
+              "tr": "Afrika Rönesans Anıtı"
+            },
+            "image": "res://images/african_renaissance_monument.png",
+            "description": {
+              "ar": "أطول تمثال برونزي في إفريقيا يرتفع 52 متراً فوق قمة تلة يطل على المحيط الأطلسي.",
+              "en": "52-meter tall bronze statue standing on a hill overlooking Dakar, tallest in Africa.",
+              "tr": "Dakar'a bakan bir tepede duran 52 metre yüksekliğinde Afrika'nın en yüksek bronz heykeli."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "جزيرة غوريه التاريخية (Île de Gorée - UNESCO)",
+              "en": "Gorée Island (Île de Gorée)",
+              "tr": "Gorée Adası (Île de Gorée)"
+            },
+            "image": "res://images/goree_island.png",
+            "description": {
+              "ar": "جزيرة ملونة هادئة خالية من السيارات تحوي بيت العبيد التاريخي ومتاحف الاستقلال.",
+              "en": "Car-free island off Dakar holding the historic House of Slaves (Maison des Esclaves).",
+              "tr": "Tarihi Köleler Evi'ne ev sahipliği yapan Dakar açıklarındaki araçsız ada."
+            }
+          }
+        ]
+      }
+    }
+  }
+}

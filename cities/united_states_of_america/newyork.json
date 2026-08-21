@@ -1,0 +1,112 @@
+{
+  "united_states_of_america": {
+    "needs_ad": false,
+    "cities": {
+      "new_york_city": {
+        "names": {
+          "ar": "نيويورك",
+          "en": "New York City",
+          "tr": "New York"
+        },
+        "description": {
+          "ar": "التفاحة الكبيرة وعاصمة العالم، تشتهر بـ تمثال الحرية، ميدان تايمز سكوير المضيء، حديقة سنترال بارك، ومسارح برودواي.",
+          "en": "The Big Apple, world-famous for Statue of Liberty, Times Square, Central Park, and Empire State Building.",
+          "tr": "Özgürlük Heykeli, Times Meydanı, Central Park ve Empire State Binası ile ünlü dünyaca ünlü metropol."
+        },
+        "image": "res://images/new_york_city.png",
+        "bg_image": "res://images/nyc_bg.png",
+        "image_3d": "res://images/nyc_3d.png",
+        "is_soon": false,
+        "available_services": [
+          "taxi",
+          "rent_car",
+          "driver",
+          "luxury lifstyle",
+          "rent house"
+        ],
+        "available_categories": [
+          "hotels",
+          "places",
+          "cultural Places",
+          "city transport",
+          "restaurant",
+          "attractions"
+        ],
+        "hotels": [
+          {
+            "name": {
+              "ar": "فندق أوتيل ذا بلازا نيويورك (The Plaza Hotel)",
+              "en": "The Plaza Hotel New York",
+              "tr": "The Plaza Hotel New York"
+            },
+            "image": "res://images/the_plaza_nyc.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          },
+          {
+            "name": {
+              "ar": "فندق أمان نيويورك (Aman New York)",
+              "en": "Aman New York",
+              "tr": "Aman New York"
+            },
+            "image": "res://images/aman_nyc.png",
+            "rating": "5 Stars",
+            "website": "https://example.com"
+          }
+        ],
+        "restaurants": [
+          {
+            "name": {
+              "ar": "مطعم إيليفن ماديسون بارك نيويورك (Eleven Madison Park)",
+              "en": "Eleven Madison Park NYC",
+              "tr": "Eleven Madison Park New York"
+            },
+            "image": "res://images/eleven_madison.png",
+            "rating": "5.0",
+            "cuisine": {
+              "ar": "أشهر مطعم نباتي راقٍ 3 نجوم ميشلان صُنف الأفضل في العالم",
+              "en": "Three-Michelin-starred Plant-based World's #1 Gastronomy",
+              "tr": "Dünyanın En İyisi Seçilen Üç Michelin Yıldızlı Lüks Yemek"
+            }
+          }
+        ],
+        "attractions": [
+          {
+            "name": {
+              "ar": "تمثال الحرية الأيقوني (Statue of Liberty)",
+              "en": "Statue of Liberty National Monument",
+              "tr": "Özgürlük Heykeli Anıtı"
+            },
+            "image": "res://images/statue_of_liberty.png",
+            "description": {
+              "ar": "رمز الحرية العالمي والترحيب في خليج نيويورك أهدته فرنسا لأمريكا عام 1886.",
+              "en": "Colossal neoclassical sculpture on Liberty Island, international symbol of freedom.",
+              "tr": "Liberty Adası'nda yer alan özgürlüğün uluslararası simgesi devasa Neoklasik heykel."
+            }
+          },
+          {
+            "name": {
+              "ar": "ميدان تايمز سكوير المضيء (Times Square)",
+              "en": "Times Square",
+              "tr": "Times Meydanı"
+            },
+            "image": "res://images/times_square.png",
+            "description": {
+              "ar": "ملتقى الطرق العالمي والأكثر إضاءة في العالم بالشاشات الإعلانية ومسارح برودواي.",
+              "en": "Major commercial intersection, tourist destination, and entertainment center lined with billboards.",
+              "tr": "Dev reklam panolarıyla kaplı dünyanın en ünlü yaya ve eğlence meydanı."
+            }
+          }
+        ],
+        "places": [
+          {
+            "name": {
+              "ar": "منتزه سنترال بارك الأسطوري (Central Park)",
+              "en": "Central Park",
+              "tr": "Central Park"
+            },
+            "image": "res://images/central_park_nyc.png",
+            "description": {
+              "ar": "أشهر حديقة حضرية في العالم تمتد على مساحة 843 أكر بقلب مانهاتن بين ناطحات السحاب.",
+              "en": "Urban oasis in Manhattan featuring lakes, Bethesda Terrace, and Strawberry Fields.",
+              "tr": "Manhattan'ın ortasında göller, yürüyüş yolları ve korulara sahip şehir vaha parkı."

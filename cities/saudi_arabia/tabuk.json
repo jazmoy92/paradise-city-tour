@@ -1,0 +1,26 @@
+{
+  "tabuk": {
+    "names": { "ar": "تبوك", "en": "Tabuk", "tr": "Tebük" },
+    "description": {
+      "ar": "بوابة الشمال وسحر الطبيعة البكر، تضم جبال الديسة ونيوم وجبال اللوز المغطاة بالثلوج شتاءً وشواطئ حقل وضباء.",
+      "en": "Gateway to the north, home to Wadi Al Disah, NEOM, and snowy Jabal Al Lawz.",
+      "tr": "Kuzeyin kapısı, Vadi El-Dise ve kışın karlı Jabal Al Lawz dağlarıyla ünlü."
+    },
+    "places": [
+      {
+        "name": { "ar": "وادي الديسة الطبيعي", "en": "Wadi Al Disah", "tr": "Vadi El-Dise" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/disah.jpg",
+        "location_url": "https://maps.google.com/?q=Wadi+Al+Disah",
+        "desc": { "ar": "أعجوبة طبيعية تضم أعمدة صخرية شاهقة وينابيع مياه عذبة ونخيل.", "en": "Natural wonder with towering sandstone pillars and freshwater streams.", "tr": "Dev kanyonlar ve tatlı su kaynaklarıyla doğa harikası." }
+      },
+      {
+        "name": { "ar": "جبال اللوز الثلجية", "en": "Jabal Al Lawz", "tr": "Jabal Al Lawz" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/lawz.jpg",
+        "location_url": "https://maps.google.com/?q=Jabal+Al+Lawz+Tabuk",
+        "desc": { "ar": "تكتسي بالثلوج البيضاء في فصل الشتاء مع إطلالات خلابة.", "en": "Snow-covered peaks during winter with spectacular views.", "tr": "Kışın karla kaplanan görkemli dağ zirveleri." }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "jazan": {
+    "names": { "ar": "جازان", "en": "Jazan", "tr": "Cazan" },
+    "description": {
+      "ar": "لؤلؤة البحر الأحمر وسلة الفواكه الاستوائية، تضم جزر فرسان العذراء وجبال فيفا الخضراء ومزارع المانجو والبن.",
+      "en": "Tropical paradise featuring Farasan Islands, green Fayfa Mountains, and mango farms.",
+      "tr": "Farasan Adaları, yeşil Fayfa Dağları ve tropik meyveleriyle Kızıldeniz incisi."
+    },
+    "places": [
+      {
+        "name": { "ar": "جبال فيفا (جبال القمر)", "en": "Fayfa Mountains", "tr": "Fayfa Dağları" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/fayfa.jpg",
+        "location_url": "https://maps.google.com/?q=Fayfa+Mountains",
+        "desc": { "ar": "مدرجات خضراء معلقة بين السحاب تشبه جبال الألب.", "en": "Lush green terraced mountains high above the clouds.", "tr": "Bulutların üzerinde yemyeşil teraslı dağlar." }
+      },
+      {
+        "name": { "ar": "محمية جزر فرسان البحرية", "en": "Farasan Islands", "tr": "Farasan Adaları" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/farasan.jpg",
+        "location_url": "https://maps.google.com/?q=Farasan+Islands",
+        "desc": { "ar": "أرخبيل جزر بكر برمال بيضاء ومياه فيروزية مثالية للغوص.", "en": "Pristine archipelago with turquoise waters and coral reefs.", "tr": "Turkuaz suları ve mercan resifleriyle ada cenneti." }
+      }
+    ]
+  }
+}

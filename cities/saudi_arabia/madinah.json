@@ -1,0 +1,51 @@
+{
+  "madinah": {
+    "names": { "ar": "المدينة المنورة", "en": "Madinah", "tr": "Medine" },
+    "description": {
+      "ar": "طيبة الطيبة ومدينة رسول الله ﷺ، تضم المسجد النبوي الشريف ومسجد قباء وجبل أحد وبساتين النخيل.",
+      "en": "The Radiant City of the Prophet (PBUH), home to the Prophet's Mosque and Mount Uhud.",
+      "tr": "Peygamber Efendimiz'in (SAV) şehri, Mescid-i Nebevi ve Uhud Dağı'nın bulunduğu nurlu şehir."
+    },
+    "hotels": [
+      {
+        "name": { "ar": "فندق أوبروي المدينة", "en": "The Oberoi Madina", "tr": "The Oberoi Medine" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/oberoi_madinah.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "أفخم فنادق المدينة المنورة الملاصقة للحرم النبوي مباشرة.", "en": "Luxury hotel adjacent to the Prophet's Mosque.", "tr": "Mescid-i Nebevi'ye bitişik lüks otel." }
+      },
+      {
+        "name": { "ar": "دار التقوى إنتركونتيننتال", "en": "Dar Al Taqwa Hotel", "tr": "Dar Al Taqwa Otel" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dar_taqwa.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "إطلالة مباشرة على ساحات المسجد النبوي الشريف.", "en": "Direct view of the Prophet's Mosque courtyard.", "tr": "Mescid-i Nebevi avlusuna bakan otel." }
+      }
+    ],
+    "religious places": [
+      {
+        "name": { "ar": "المسجد النبوي الشريف والروضة المباركة", "en": "Prophet's Mosque & Rawdah", "tr": "Mescid-i Nebevi ve Ravza-i Mutahhara" },
+        "rating": "5.0",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/nabawi.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Masjid+an-Nabawi",
+        "desc": { "ar": "مسجد رسول الله ﷺ والروضة الشريفة وقبر النبي وصاحبيه.", "en": "The holy mosque of the Prophet (PBUH) and the Noble Rawdah.", "tr": "Peygamber Camii ve Cennet Bahçesi Ravza." }
+      },
+      {
+        "name": { "ar": "مسجد قباء", "en": "Quba Mosque", "tr": "Kuba Mescidi" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/quba.jpg",
+        "location_url": "https://maps.google.com/?q=Quba+Mosque+Madinah",
+        "desc": { "ar": "أول مسجد أسس في الإسلام وله فضل عظيم وأجر عمرة.", "en": "The first mosque built in Islamic history.", "tr": "İslam tarihinde inşa edilen ilk mescit." }
+      }
+    ],
+    "places": [
+      {
+        "name": { "ar": "جبل أحد ومقبرة الشهداء", "en": "Mount Uhud & Martyrs Cemetery", "tr": "Uhud Dağı ve Şehitliği" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/uhud.jpg",
+        "location_url": "https://maps.google.com/?q=Mount+Uhud",
+        "desc": { "ar": "جبل يحبنا ونحبه، موقع غزوة أحد التاريخية.", "en": "Historic mountain and battlefield of Uhud.", "tr": "Tarihi Uhud Savaşı'nın gerçekleştiği yer." }
+      }
+    ]
+  }
+}

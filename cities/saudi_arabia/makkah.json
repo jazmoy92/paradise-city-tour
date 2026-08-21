@@ -1,0 +1,57 @@
+{
+  "makkah": {
+    "names": { "ar": "مكة المكرمة", "en": "Makkah", "tr": "Mekke" },
+    "description": {
+      "ar": "أقدس بقاع الأرض، قبلة المسلمين ومهبط الوحي، تضم المسجد الحرام والكعبة المشرفة والمشاعر المقدسة.",
+      "en": "The holiest city in Islam, home to the Holy Kaaba and the Grand Mosque.",
+      "tr": "İslam'ın en kutsal şehri, Mescid-i Haram ve Kabe'nin bulunduğu merkez."
+    },
+    "hotels": [
+      {
+        "name": { "ar": "فندق برج ساعة مكة فيرمونت", "en": "Makkah Clock Royal Tower", "tr": "Mekke Saat Kulesi Fairmont" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/makkah_clock.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "فندق فاخر بإطلالة مباشرة وملاصقة للحرم المكي الشريف.", "en": "Luxury hotel overlooking the Holy Kaaba.", "tr": "Kabe'ye doğrudan bakan lüks otel." }
+      },
+      {
+        "name": { "ar": "فندق جبل عمر كونراد", "en": "Conrad Jabal Omar Makkah", "tr": "Conrad Jabal Omar" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/conrad_makkah.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "خطوات قليلة سيراً على الأقدام إلى ساحات الحرم.", "en": "Steps away from the Grand Mosque courtyard.", "tr": "Harem'e birkaç adım yürüme mesafesinde." }
+      }
+    ],
+    "religious places": [
+      {
+        "name": { "ar": "المسجد الحرام والكعبة المشرفة", "en": "The Grand Mosque & Kaaba", "tr": "Mescid-i Haram ve Kabe" },
+        "rating": "5.0",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/haram.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Masjid+al-Haram",
+        "desc": { "ar": "أعظم وأقدس مسجد في الإسلام.", "en": "The greatest and holiest mosque in Islam.", "tr": "İslam dünyasının en büyük ve en kutsal camisi." }
+      },
+      {
+        "name": { "ar": "غار حراء (جبل النور)", "en": "Cave of Hira (Jabal Al Nour)", "tr": "Hira Mağarası" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hira.jpg",
+        "location_url": "https://maps.google.com/?q=Ghar+Hira+Makkah",
+        "desc": { "ar": "المكان الذي نزل فيه الوحي الأول على النبي محمد ﷺ.", "en": "Where the first revelation was received by Prophet Muhammad (PBUH).", "tr": "İlk vahyin indiği kutsal mağara." }
+      }
+    ],
+    "cultural Places": [
+      {
+        "name": { "ar": "حي حراء الثقافي ومتحف الوحي", "en": "Hira Cultural District", "tr": "Hira Kültür Merkezi" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hira_museum.jpg",
+        "location_url": "https://maps.google.com/?q=Hira+Cultural+District",
+        "desc": { "ar": "مركز ثقافي سياحي يروي قصة نزول الوحي وخدمة الزوار.", "en": "Cultural center telling the story of the revelation.", "tr": "Vahiy tarihini anlatan modern kültür merkezi." }
+      }
+    ],
+    "city transport": [
+      {
+        "name": { "ar": "قطار الحرمين السريع", "en": "Haramain High Speed Railway", "tr": "Haremeyn Hızlı Treni" },
+        "desc": { "ar": "يربط مكة المكرمة بالمدينة المنورة وجدة ومطار الملك عبدالعزيز في دقائق.", "en": "High-speed train linking Makkah, Madinah, and Jeddah Airport.", "tr": "Mekke, Medine ve Cidde'yi birbirine bağlayan hızlı tren." }
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "riyadh": {
+    "names": { "ar": "الرياض", "en": "Riyadh", "tr": "Riyad" },
+    "description": {
+      "ar": "عاصمة المملكة العربية السعودية ومركزها المالي والحيوي، تجمع بين ناطحات السحاب الحديثة والتاريخ العريق مثل الدرعية وقصر المصمك.",
+      "en": "The capital of Saudi Arabia, blending modern skyscrapers with ancient heritage like Diriyah and Masmak Fortress.",
+      "tr": "Suudi Arabistan'ın başkenti, modern gökdelenler ve Diriye gibi tarihi zenginlikleri bir araya getirir."
+    },
+    "hotels": [
+      {
+        "name": { "ar": "فندق الفيصلية", "en": "Al Faisaliah Hotel", "tr": "Al Faisaliah Otel" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/faisaliah.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "أحد أفخم فنادق الرياض في قلب شارع العليا التجاري.", "en": "One of Riyadh's most luxurious hotels on Olaya St.", "tr": "Riyad'ın en lüks otellerinden biri." }
+      },
+      {
+        "name": { "ar": "فور سيزونز الرياض (برج المملكة)", "en": "Four Seasons Riyadh", "tr": "Four Seasons Riyad" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/kingdom_hotel.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "إطلالة بانورامية ساحرة من أعلى برج المملكة.", "en": "Breathtaking panoramic views from Kingdom Centre.", "tr": "Kingdom Centre kulesinden harika manzara." }
+      }
+    ],
+    "places": [
+      {
+        "name": { "ar": "بوليفارد سيتي", "en": "Boulevard City", "tr": "Boulevard City" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/blvd.jpg",
+        "location_url": "https://maps.google.com/?q=Boulevard+Riyadh+City",
+        "desc": { "ar": "أكبر مجمع ترفيهي وسياحي ومطاعم في موسم الرياض.", "en": "Largest entertainment and dining destination in Riyadh Season.", "tr": "Riyad Sezonu'nun en büyük eğlence merkezi." }
+      },
+      {
+        "name": { "ar": "برج المملكة وجسر المشاهدة", "en": "Kingdom Tower Sky Bridge", "tr": "Krallık Kulesi Köprüsü" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/kingdom.jpg",
+        "location_url": "https://maps.google.com/?q=Kingdom+Centre+Riyadh",
+        "desc": { "ar": "أشهر معالم الرياض بإطلالة معلقة على ارتفاع 300 متر.", "en": "Iconic sky bridge offering a 300-meter high view.", "tr": "300 metre yükseklikten şehri izleme köprüsü." }
+      }
+    ],
+    "cultural Places": [
+      {
+        "name": { "ar": "حي الطريف بالدرعية التاريخية", "en": "At-Turaif Diriyah", "tr": "Tarihi Diriye" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/diriyah.jpg",
+        "location_url": "https://maps.google.com/?q=At-Turaif+Diriyah",
+        "desc": { "ar": "موقع مسجل باليونسكو، مهد الدولة السعودية الأولى.", "en": "UNESCO World Heritage site, birthplace of the first Saudi state.", "tr": "UNESCO Dünya Mirası alanı ve ilk Suudi devletinin merkezi." }
+      }
+    ],
+    "restaurants": [
+      {
+        "name": { "ar": "مطعم القرية النجدية", "en": "Najd Village", "tr": "Necid Köyü Restoranı" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/najd.jpg",
+        "url": "https://najdvillage.com",
+        "desc": { "ar": "تجربة تراثية أصيلة لأشهى المأكولات النجدية والسعودية.", "en": "Authentic traditional Saudi and Najdi cuisine.", "tr": "Geleneksel Suudi lezzetleri." }
+      }
+    ],
+    "city transport": [
+      {
+        "name": { "ar": "قطار الرياض (المترو)", "en": "Riyadh Metro", "tr": "Riyad Metrosu" },
+        "desc": { "ar": "شبكة قطارات حديثة وفائقة السرعة تربط أرجاء العاصمة والمطار.", "en": "Modern rapid transit system connecting the city and airport.", "tr": "Şehri ve havalimanını bağlayan modern metro ağı." }
+      }
+    ]
+  }
+}

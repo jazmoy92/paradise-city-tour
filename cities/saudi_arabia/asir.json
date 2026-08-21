@@ -1,0 +1,35 @@
+{
+  "asir": {
+    "names": { "ar": "عسير (أبها)", "en": "Asir (Abha)", "tr": "Asir (Abha)" },
+    "description": {
+      "ar": "سيدة الضباب وعروس الجنوب، تتميز بقمم جبال السودة الشاهقة، الأجواء المعتدلة الماطرة صيفاً، والتراث العسيري العريق.",
+      "en": "The misty capital of the south, famous for Soudah peaks, green terraces, and cool weather.",
+      "tr": "Sisli dağları, Souda zirveleri ve serin yayla havasıyla ünlü güney bölgesi."
+    },
+    "hotels": [
+      {
+        "name": { "ar": "فندق قصر أبها", "en": "Abha Palace Hotel", "tr": "Abha Palace Otel" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/abha_palace.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "إطلالة بانورامية على بحيرة سد أبها ومحطة التلفريك.", "en": "Overlooking Lake Abha with direct cable car access.", "tr": "Abha Gölü ve teleferiğe bakan otel." }
+      }
+    ],
+    "places": [
+      {
+        "name": { "ar": "مرتفعات السودة المعلقة", "en": "Soudah Peaks", "tr": "Souda Zirveleri" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/soudah.jpg",
+        "location_url": "https://maps.google.com/?q=Soudah+Abha",
+        "desc": { "ar": "أعلى قمة جبلية في السعودية على ارتفاع يتجاوز 3000 متر بين الغابات والغيوم.", "en": "Highest peak in Saudi Arabia enveloped in clouds and juniper forests.", "tr": "Suudi Arabistan'ın 3000 metreyi aşan en yüksek zirvesi." }
+      },
+      {
+        "name": { "ar": "قرية رجال ألمع التراثية", "en": "Rijal Almaa Heritage Village", "tr": "Rijal Almaa Köyü" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/rijal_almaa.jpg",
+        "location_url": "https://maps.google.com/?q=Rijal+Almaa",
+        "desc": { "ar": "قرية حجرية تاريخية فريدة بهندستها المعمارية ونوافذها الملونة.", "en": "Stunning historic stone village with colorful architecture.", "tr": "Geleneksel taş mimarisiyle ünlü tarihi köy." }
+      }
+    ]
+  }
+}

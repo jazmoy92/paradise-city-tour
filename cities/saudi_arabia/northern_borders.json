@@ -1,0 +1,26 @@
+{
+  "northern_borders": {
+    "names": { "ar": "الحدود الشمالية", "en": "Northern Borders", "tr": "Kuzey Sınırları" },
+    "description": {
+      "ar": "بوابة الشمال والبادية الأصيلة، تضم عرعر وطريف ورفحاء، وتشتهر برعي الصقور والمحميات الطبيعية ومشاريع التعدين الكبرى.",
+      "en": "Rich northern region featuring Arar and Turaif, famous for falconry and nature reserves.",
+      "tr": "Arar ve Turaif şehirlerini içeren, doğa ve avcılık kültürüyle ünlü kuzey bölgesi."
+    },
+    "places": [
+      {
+        "name": { "ar": "محمية الإمام تركي بن عبدالله الملكية", "en": "Imam Turki Nature Reserve", "tr": "İmam Turki Doğa Koruma Alanı" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turki_reserve.jpg",
+        "location_url": "https://maps.google.com/?q=Imam+Turki+bin+Abdullah+Royal+Nature+Reserve",
+        "desc": { "ar": "محمية بيئية شاسعة للحياة الفطرية والتخييم والسياحة البيئية.", "en": "Vast natural reserve for wildlife, ecotourism, and camping.", "tr": "Yaban hayatı ve ekoturizm için geniş doğal koruma alanı." }
+      },
+      {
+        "name": { "ar": "منتزه وادي عرعر الوطني", "en": "Arar National Valley Park", "tr": "Arar Milli Parkı" },
+        "rating": "4.6",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/arar_park.jpg",
+        "location_url": "https://maps.google.com/?q=Arar+Valley",
+        "desc": { "ar": "منتزه طبيعي ومتنفس للعائلات وسط الطبيعة الصحراوية الخضراء.", "en": "Green desert valley park ideal for family walks.", "tr": "Aileler için doğa parkı ve dinlenme alanı." }
+      }
+    ]
+  }
+}

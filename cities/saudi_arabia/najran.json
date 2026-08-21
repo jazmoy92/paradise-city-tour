@@ -1,0 +1,26 @@
+{
+  "najran": {
+    "names": { "ar": "نجران", "en": "Najran", "tr": "Necran" },
+    "description": {
+      "ar": "واحة التاريخ والقصور الطينية على أطراف الربع الخالي، تضم موقع الأخدود الأثري وقصر الإمارة التاريخي.",
+      "en": "Historic crossroads rich in ancient mud palaces and the archaeological site of Al-Okhdood.",
+      "tr": "Geleneksel kerpiç kaleleri ve Al-Okhdood antik kentiyle ünlü tarihi şehir."
+    },
+    "places": [
+      {
+        "name": { "ar": "موقع الأخدود الأثري", "en": "Al-Okhdood Archaeological Site", "tr": "Al-Okhdood Antik Kenti" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/okhdood.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Okhdood+Najran",
+        "desc": { "ar": "موقع أثري عريق يروي قصة أصحاب الأخدود المذكورة بالقرآن.", "en": "Historic site mentioned in the Quran with ancient inscriptions.", "tr": "Kur'an'da bahsedilen Ashab-ı Uhdud'un tarihi kalıntıları." }
+      },
+      {
+        "name": { "ar": "قصر الإمارة التاريخي", "en": "Emarah Heritage Palace", "tr": "Emarah Tarihi Sarayı" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/emarah_najran.jpg",
+        "location_url": "https://maps.google.com/?q=Historic+Emarah+Palace+Najran",
+        "desc": { "ar": "تحفة من العمارة الطينية النجرانية التقليدية في قلب البلدة القديمة.", "en": "Architectural mud-brick masterpiece built in 1944.", "tr": "Geleneksel Necran kerpiç mimarisinin başyapıtı." }
+      }
+    ]
+  }
+}

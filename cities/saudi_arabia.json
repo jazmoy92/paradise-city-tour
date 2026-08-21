@@ -16,13 +16,13 @@
       "names": { "ar": "عسير", "en": "Asir", "tr": "Asiir" }
     },
     "al_qassim": {
-      "names": { "ar": "القصيم", "en": "Al Qassim", "tr": "El-Kasım" }
+      "names": { "ar": "القصيم", "en": "Al Qaseem", "tr": "El-gasiim" }
     },
     "tabuk": {
       "names": { "ar": "تبوك", "en": "Tabuk", "tr": "Tebük" }
     },
     "hail": {
-      "names": { "ar": "حائل", "en": "Hail", "tr": "Ha'il" }
+      "names": { "ar": "حائل", "en": "Hail", "tr": "Haiil" }
     },
     "jazan": {
       "names": { "ar": "جازان", "en": "Jazan", "tr": "Cazan" }
@@ -34,7 +34,7 @@
       "names": { "ar": "الباحة", "en": "Al Baha", "tr": "El-Baha" }
     },
     "al_jouf": {
-      "names": { "ar": "الجوف", "en": "Al Jouf", "tr": "El-Cevf" }
+      "names": { "ar": "الجوف", "en": "Al Jouf", "tr": "El-Ceuf" }
     },
     "northern_borders": {
       "names": { "ar": "الحدود الشمالية", "en": "Northern Borders", "tr": "Kuzey Sınırları" }

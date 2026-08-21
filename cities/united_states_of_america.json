@@ -1,0 +1,10 @@
+{
+  "cities": {
+    "newyork": {
+      "names": { "ar": "نيويورك", "en": "New York City", "tr": "New York" }
+    },
+    "miami": {
+      "names": { "ar": "ميامي", "en": "Miami", "tr": "Miami" }
+    }
+  }
+}

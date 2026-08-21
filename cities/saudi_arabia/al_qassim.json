@@ -1,0 +1,26 @@
+{
+  "al_qassim": {
+    "names": { "ar": "القصيم", "en": "Al Qassim", "tr": "El-Kasım" },
+    "description": {
+      "ar": "سلة غذاء المملكة وعاصمة التمور العالمية، تضم بريدة وعنيزة وواحات النخيل والأسواق التراثية القديمة.",
+      "en": "The date capital of the world, famous for Buraidah date festival, heritage souqs, and farms.",
+      "tr": "Dünyanın hurma başkenti, geleneksel çarşıları ve tarım vahalarıyla ünlü bölge."
+    },
+    "places": [
+      {
+        "name": { "ar": "سوق بريدة الدولي للتمور", "en": "Buraidah Dates Market", "tr": "Bureyde Hurma Pazarı" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dates_qassim.jpg",
+        "location_url": "https://maps.google.com/?q=Buraidah+Dates+Market",
+        "desc": { "ar": "أكبر تجمع تجاري سنوي لتجارة التمور في العالم.", "en": "The largest date market in the world.", "tr": "Dünyanın en büyük hurma ticaret pazarı." }
+      },
+      {
+        "name": { "ar": "سوق المسوكف الشعبي بعنيزة", "en": "Al Musawkaf Traditional Market", "tr": "Al Musawkaf Çarşısı" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/musawkaf.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Musawkaf+Onaizah",
+        "desc": { "ar": "سوق تراثي طيني يضم الحرفيين والمقتنيات الشعبية.", "en": "Traditional clay market with handicrafts and antiques.", "tr": "El sanatları ve antika ürünlerin bulunduğu tarihi çarşı." }
+      }
+    ]
+  }
+}

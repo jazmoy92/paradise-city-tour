@@ -1,0 +1,26 @@
+{
+  "al_jouf": {
+    "names": { "ar": "الجوف", "en": "Al Jouf", "tr": "El-Cevf" },
+    "description": {
+      "ar": "عاصمة الزيتون وموطن أقدم الحضارات في شمال الجزيرة، تضم سكاكا ودومة الجندل وقلعة مارد وبحيرة دومة الجندل.",
+      "en": "Olive capital of Arabia, rich with ancient castles and Dumat Al-Jandal lake.",
+      "tr": "Zeytin başkenti, antik Marid Kalesi ve Dumat Al-Jandal gölüyle ünlü bölge."
+    },
+    "places": [
+      {
+        "name": { "ar": "قلعة مارد ومسجد عمر بن الخطاب", "en": "Marid Castle & Omar Mosque", "tr": "Marid Kalesi ve Ömer Camii" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/marid.jpg",
+        "location_url": "https://maps.google.com/?q=Marid+Castle+Dumat+Al+Jandal",
+        "desc": { "ar": "حصن عسكري تاريخي يعود للقرن الأول الميلادي في دومة الجندل.", "en": "Historic fortress dating back to the 1st century AD.", "tr": "1. yüzyıla dayanan tarihi savunma kalesi." }
+      },
+      {
+        "name": { "ar": "أعمدة الرجاجيل الأثرية", "en": "Al Rajajil Standing Stones", "tr": "Al Rajajil Dikilitaşları" },
+        "rating": "4.6",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/rajajil.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Rajajil+Columns",
+        "desc": { "ar": "أعمدة صخرية غامضة تعود للعصر النحاسي (أكثر من 6000 عام).", "en": "Mysterious 6,000-year-old standing stone megaliths.", "tr": "6000 yıllık gizemli megalit taş sütunlar." }
+      }
+    ]
+  }
+}

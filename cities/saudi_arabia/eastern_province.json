@@ -1,0 +1,44 @@
+{
+  "eastern_province": {
+    "names": { "ar": "المنطقة الشرقية", "en": "Eastern Province", "tr": "Doğu Bölgesi" },
+    "description": {
+      "ar": "عاصمة الطاقة والصناعة والسياحة البحرية، تضم الدمام والخبر والجبيل وواحة الأحساء التاريخية وشواطئ الخليج العربي.",
+      "en": "Home to Dammam, Khobar, and Al-Ahsa Oasis, offering stunning Arabian Gulf beaches and heritage.",
+      "tr": "Dammam, El-Huber ve Al-Ahsa vahasını içeren Basra Körfezi kıyısındaki bölge."
+    },
+    "hotels": [
+      {
+        "name": { "ar": "فندق كمبينسكي العثمان الخبر", "en": "Kempinski Al Othman Khobar", "tr": "Kempinski Al Othman" },
+        "rating": "5",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/kempinski_khobar.jpg",
+        "url": "https://www.booking.com",
+        "desc": { "ar": "إقامة فاخرة بين مدينتي الخبر والدمام.", "en": "Luxury stay between Khobar and Dammam.", "tr": "Lüks konaklama deneyimi." }
+      }
+    ],
+    "places": [
+      {
+        "name": { "ar": "مركز الملك عبدالعزيز الثقافي العالمي (إثراء)", "en": "Ithra (King Abdulaziz Center)", "tr": "Ithra Kültür Merkezi" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ithra.jpg",
+        "location_url": "https://maps.google.com/?q=Ithra+Dhahran",
+        "desc": { "ar": "تحفة معمارية عالمية تضم متاحف ومعارض ومسارح تفاعلية.", "en": "World-class architectural icon and cultural hub.", "tr": "Dünya standartlarında kültür ve sanat merkezi." }
+      },
+      {
+        "name": { "ar": "واحة الأحساء وجبل القارة", "en": "Al Ahsa Oasis & Al Qarah Mountain", "tr": "Al Ahsa Vahası ve Al Qarah Dağı" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/qarah.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Qarah+Mountain",
+        "desc": { "ar": "أكبر واحة نخيل في العالم مسجلة باليونسكو مع كهوف جبل القارة الباردة صيفاً.", "en": "Largest palm oasis in the world with natural caves.", "tr": "Dünyanın en büyük palmiye vahası." }
+      }
+    ],
+    "beaches": [
+      {
+        "name": { "ar": "شاطئ نصف القمر (هاف مون)", "en": "Half Moon Beach", "tr": "Yarım Ay Plajı" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/halfmoon.jpg",
+        "location_url": "https://maps.google.com/?q=Half+Moon+Bay+Khobar",
+        "desc": { "ar": "أشهر شواطئ الشرقية للأنشطة البحرية وركوب الدبابات البحرية.", "en": "Popular bay for watersports and family relaxation.", "tr": "Su sporları için popüler sahil koyu." }
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "al_baha": {
+    "names": { "ar": "الباحة", "en": "Al Baha", "tr": "El-Baha" },
+    "description": {
+      "ar": "حديقة الحجاز المعلقة، تشتهر بغابات رغدان الكثيفة وقرية ذي عين الرخامية وقلاعها الحجرية المحاطة بالطبيعة الساحرة.",
+      "en": "The garden of the Hijaz, known for lush Raghadan forest and marble village of Dhee Ayn.",
+      "tr": "Raghadan ormanları ve mermer Dhee Ayn köyüyle ünlü yayla şehri."
+    },
+    "places": [
+      {
+        "name": { "ar": "قرية ذي عين الأثرية (القرية الرخامية)", "en": "Dhee Ayn Marble Village", "tr": "Dhee Ayn Mermer Köyü" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dhee_ayn.jpg",
+        "location_url": "https://maps.google.com/?q=Dhee+Ayn+Heritage+Village",
+        "desc": { "ar": "قرية حجرية مبنية على جبل من الرخام الأبيض محاطة بمزارع الموز والريحان.", "en": "Ancient stone village perched on a white marble mountain.", "tr": "Beyaz mermer tepe üzerine inşa edilmiş tarihi köy." }
+      },
+      {
+        "name": { "ar": "منتزه غابة رغدان", "en": "Raghadan Forest Park", "tr": "Raghadan Orman Parkı" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/raghadan.jpg",
+        "location_url": "https://maps.google.com/?q=Raghadan+Forest+Park",
+        "desc": { "ar": "غابات كثيفة بإطلالات جبلية وأجواء ضبابية وجسور معلقة.", "en": "Lush pine forests with misty mountain views and walkways.", "tr": "Sisli dağ manzaraları ve yürüyüş yollarıyla doğa parkı." }
+      }
+    ]
+  }
+}

@@ -1,36 +1,67 @@
 {
-  "united_states_of_america": {
-    "needs_ad": false,
-    "cities": {
-      "new_york": {
-        "names": {
-          "ar": "نيويورك",
-          "en": "New York",
-          "tr": "New York"
+  "new_york": {
+  "names": {
+  "ar": "نيويورك",
+  "en": "New York",
+  "tr": "New York"
+  },
+  "description": {
+  "ar": "التفاحة الكبيرة وعاصمة العالم، تشتهر بـ تمثال الحرية، ميدان تايمز سكوير المضيء، حديقة سنترال بارك، ومسارح برودواي.",
+  "en": "The Big Apple, world-famous for Statue of Liberty, Times Square, Central Park, and Empire State Building.",
+ "tr": "Özgürlük Heykeli, Times Meydanı, Central Park ve Empire State Binası ile ünlü dünyaca ünlü metropol."
+  },
+        "featured_apps": [
+      {
+        "name": {
+          "ar": "يمك سيبتي (طلب طعام)",
+          "en": "Yemeksepeti",
+          "tr": "Yemeksepeti"
         },
-        "description": {
-          "ar": "التفاحة الكبيرة وعاصمة العالم، تشتهر بـ تمثال الحرية، ميدان تايمز سكوير المضيء، حديقة سنترال بارك، ومسارح برودواي.",
-          "en": "The Big Apple, world-famous for Statue of Liberty, Times Square, Central Park, and Empire State Building.",
-          "tr": "Özgürlük Heykeli, Times Meydanı, Central Park ve Empire State Binası ile ünlü dünyaca ünlü metropol."
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
+        "desc": {
+          "ar": "تطبيق طلب الوجبات الأكثر شهرة في المدينة لطلب الطعام ومقاضي البقالة من المتاجر المحلية.",
+          "en": "The most popular food delivery and grocery shopping app covering all local restaurants and markets.",
+          "tr": "Rize'deki tüm yerel restoranlardan yemek ve mahalle esnafından market siparişi verme uygulaması."
         },
-        "image": "res://images/new_york_city.png",
-        "bg_image": "res://images/nyc_bg.png",
-        "image_3d": "res://images/nyc_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
+        "url": "https://www.yemeksepeti.com",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مواصلات طرابزون",
+          "en": "Trabzon Transport",
+          "tr": "Trabzon Ulaşım"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/BiTaksi.png",
+        "desc": {
+          "ar": "التطبيق الذي.",
+          "en": "The most reliable and popular taxi hailing application for getting around the city.",
+          "tr": "Şehir içi ulaşımda güvenilir ve hızlı taksi çağırma uygulaması."
+        },
+        "url": "https://www.bitaksi.com/en",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "ترينديول",
+          "en": "Trendyol",
+          "tr": "Trendyol"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/trendyol.png",
+        "desc": {
+          "ar": "التطبيق الرائد للتسوق الإلكتروني، توصيل الوجبات والمستلزمات اليومية السريعة.",
+          "en": "The leading e-commerce and rapid delivery platform in Turkey for shopping and groceries.",
+          "tr": "Online alışveriş, hızlı market ve yemek siparişinde Türkiye'nin lider platformu."
+        },
+        "url": "https://www.trendyol.com/",
+        "needs_ad": true
+      }
+    ],
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "restaurants"
         ],
         "hotels": [
           {

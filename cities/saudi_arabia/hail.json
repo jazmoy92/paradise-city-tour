@@ -1,0 +1,26 @@
+{
+  "hail": {
+    "names": { "ar": "حائل", "en": "Hail", "tr": "Ha'il" },
+    "description": {
+      "ar": "أرض الكرم وبلاد حاتم الطائي، تشتهر بجبال أجا وسلمى، ونقوش جبة والشويمس المسجلة باليونسكو، ورالي حائل الدولي.",
+      "en": "Land of ancient rock art, Aja and Salma mountains, and legendary Arabian hospitality.",
+      "tr": "UNESCO kaya resimleri, Aja ve Salma dağlarıyla ünlü tarihi şehir."
+    },
+    "places": [
+      {
+        "name": { "ar": "الفنون الصخرية في جبة والشويمس", "en": "Jubbah Rock Art", "tr": "Jubbah Kaya Sanatları" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/jubbah.jpg",
+        "location_url": "https://maps.google.com/?q=Jubbah+Rock+Art",
+        "desc": { "ar": "نقوش حجرية تعود لأكثر من 10,000 سنة مسجلة في اليونسكو.", "en": "UNESCO-listed prehistoric rock inscriptions over 10,000 years old.", "tr": "10.000 yıllık UNESCO tescilli kaya oymaları." }
+      },
+      {
+        "name": { "ar": "قلعة عيرف التاريخية", "en": "A'arif Fort", "tr": "A'arif Kalesi" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/aarif.jpg",
+        "location_url": "https://maps.google.com/?q=Aarif+Castle+Hail",
+        "desc": { "ar": "قلعة تاريخية مشيدة على قمة جبلية تطل على كامل مدينة حائل.", "en": "Historic hilltop fortress overlooking Hail city.", "tr": "Şehre hakim tepe üzerine kurulu tarihi kale." }
+      }
+    ]
+  }
+}

@@ -1,10 +1,15 @@
 {
   "cities": {
     "newyork": {
-      "names": { "ar": "نيويورك", "en": "New York City", "tr": "New York" }
+      "names": { "ar": "نيويورك", "en": "New York", "tr": "New York" }
     },
     "miami": {
       "names": { "ar": "ميامي", "en": "Miami", "tr": "Miami" }
-    }
+    },
+    "florida": {
+      "names": { "ar": "فلوريدا", "en": "Florida", "tr": "Florida" }
+    },
+    "california": {
+      "names": { "ar": "كاليفورنيا", "en": "california", "tr": "Kaliforniya" }
   }
 }

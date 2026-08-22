@@ -1,17 +1,3 @@
-{
-  "currency": {
-    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/trendyol.png",
-    "name": {
-      "ar": "الليرة التركية (TRY - ₺)",
-      "en": "Turkish Lira (TRY - ₺)",
-      "tr": "Türk Lirası (TRY - ₺)"
-    },
-    "desc": {
-      "ar": "العملة الرسمية المعتمدة في تركيا هي الليرة التركية (₺). تتوفر ماكينات الصراف الآلي ومكاتب الصرافة في جميع المدن والمطارات والأسواق، كما تقبل أغلب المحلات بطاقات الفيزا والماستركارد.",
-      "en": "The official currency of Turkey is the Turkish Lira (₺). ATMs and exchange offices are widely available across all cities.",
-      "tr": "Türkiye'nin resmi para birimi Türk Lirası'dır (₺)."
-    }
-  },
   "featured_apps": [
     {
       "name": {

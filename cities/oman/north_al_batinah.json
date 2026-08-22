@@ -1,0 +1,27 @@
+{
+  "north_al_batinah": {
+    "names": { "ar": "شمال الباطنة", "en": "North Al Batinah", "tr": "Kuzey El-Batina" },
+    "description": {
+      "ar": "مدينة السندباد البحري وصحار التاريخية، مركز التجارة البحرية والأنشطة الاقتصادية المتألقة بالحصون والقلاع الساحلية.",
+      "en": "The legendary home of Sinbad the Sailor and ancient capital Sohar, rich in maritime history and coastal fortresses.",
+      "tr": "Denizci Sinbad'ın efsanevi memleketi ve tarihi liman kenti Sohar; kaleleri ve sahil kültürüyle öne çıkar."
+    },
+    "places": [
+      {
+        "name": { "ar": "قلعة صحار ومتحفها", "en": "Sohar Fort & Museum", "tr": "Sohar Kalesi ve Müzesi" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/north_batinah/sohar_fort.jpg",
+        "location_url": "https://maps.google.com/?q=Sohar+Fort",
+        "desc": { "ar": "قلعة بيضاء ناصعة شامخة تعود للقرن الثالث عشر، تضم متحفاً يروي أمجاد الملاحة العمانية القديمة.", "en": "A majestic 13th-century white fort with underground tunnels and a maritime museum.", "tr": "13. yüzyıldan kalma beyaz görkemli hisar ve denizcilik tarihini anlatan müze." }
+      },
+      {
+        "name": { "ar": "سوق صحار التاريخي (سوق الحرفة)", "en": "Sohar Heritage Handicraft Souq", "tr": "Tarihi Sohar El Sanatları Çarşısı" },
+        "rating": "4.6",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/north_batinah/sohar_souq.jpg",
+        "location_url": "https://maps.google.com/?q=Sohar+Traditional+Souq",
+        "desc": { "ar": "سوق مبني على الطراز الإسلامي العريق لبيع المشغولات الجلدية والفضية والحلوى العمانية.", "en": "Traditional market built in Arabesque style selling leather, silver crafts, and famous Omani Halwa.", "tr": "Arap mimarisiyle inşa edilmiş deri, gümüş ve meşhur Umman helvası satılan çarşı." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

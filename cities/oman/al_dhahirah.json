@@ -1,0 +1,27 @@
+{
+  "al_dhahirah": {
+    "names": { "ar": "الظاهرة", "en": "Al Dhahirah", "tr": "Ez-Zahira" },
+    "description": {
+      "ar": "مهد الحضارات القديمة وممر القوافل التاريخية، تشتهر بآثار بات المدرجة في اليونسكو والممتدة لـ 5000 عام ووديانها الهادئة.",
+      "en": "Cradle of ancient civilizations, renowned for the 5,000-year-old UNESCO heritage sites of Bat and peaceful canyon wadis.",
+      "tr": "5000 yıllık UNESCO miras alanı Bat antik mezarları ve vadileriyle ünlü medeniyetler beşiği."
+    },
+    "places": [
+      {
+        "name": { "ar": "موقع بات والخطم والعين الأثري", "en": "Bat, Al-Khutm and Al-Ayn Archaeological Sites", "tr": "Bat, El-Hutm ve El-Ayn Arkeolojik Alanları" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dhahirah/bat_tombs.jpg",
+        "location_url": "https://maps.google.com/?q=Bat+Archaeological+Site",
+        "desc": { "ar": "مدافن أثرية أسطوانية على شكل خلايا نحل تعود للألفية الثالثة قبل الميلاد مسجلة باليونسكو.", "en": "UNESCO World Heritage Beehive tombs and stone structures dating back to the 3rd millennium BC.", "tr": "MÖ 3. binyıla ait arı kovanı şeklindeki UNESCO korumalı taş anıt mezarlar." }
+      },
+      {
+        "name": { "ar": "وادي ضم وشلالاته", "en": "Wadi Damm Pools", "tr": "Dam Vadisi Doğal Havuzları" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dhahirah/wadi_damm.jpg",
+        "location_url": "https://maps.google.com/?q=Wadi+Damm+Oman",
+        "desc": { "ar": "وادي صخري ببرك مياه زمردية عذبة وتشكيلات كهفية وصخرية مبهرة مثالية للمغامرات.", "en": "Scenic rocky canyon with emerald natural freshwater pools and caves perfect for hiking.", "tr": "Zümrüt yeşili doğal havuzları ve kaya oluşumlarıyla trekking için mükemmel kanyon vadisi." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

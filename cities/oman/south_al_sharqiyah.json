@@ -1,0 +1,34 @@
+{
+  "south_al_sharqiyah": {
+    "names": { "ar": "جنوب الشرقية", "en": "South Al Sharqiyah", "tr": "Güney Şarkiye" },
+    "description": {
+      "ar": "مدينة صور العريقة عاصمة صناعة السفن الخشبية، ومحميات السلاحف الخضراء برأس الجنز ومغامرات وادي شاب الأسطوري.",
+      "en": "Historic maritime capital of Sur, renowned for traditional Dhow shipyards, Ras Al Jinz turtle nesting, and Wadi Shab.",
+      "tr": "Geleneksel ahşap gemi tersaneleriyle ünlü Sur kenti, Ras El-Jinz kaplumbağa koruma alanı ve Şab Vadisi'ne ev sahipliği yapar."
+    },
+    "places": [
+      {
+        "name": { "ar": "وادي شاب", "en": "Wadi Shab", "tr": "Şab Vadisi" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/south_sharqiyah/wadi_shab.jpg",
+        "location_url": "https://maps.google.com/?q=Wadi+Shab+Oman",
+        "desc": { "ar": "مسار مشي جبلي بين مياه الأنهار العذبة والسباحة عبر الكهوف الصخرية نحو شلال داخلي مذهل.", "en": "An iconic hiking and swimming wadi featuring waterfalls hidden inside a secluded rock cave.", "tr": "Kaya mağarası içindeki gizli şelaleye yüzülen dünyaca ünlü doğa yürüyüşü ve kanyon vadisi." }
+      },
+      {
+        "name": { "ar": "محمية رأس الجنز للسلاحف", "en": "Ras Al Jinz Turtle Reserve", "tr": "Ras El-Jinz Kaplumbağa Koruma Alanı" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/south_sharqiyah/ras_al_jinz.jpg",
+        "location_url": "https://maps.google.com/?q=Ras+Al+Jinz+Turtle+Reserve",
+        "desc": { "ar": "أهم شواطئ العالم لمشاهدة تعشيش السلاحف الخضراء العملاقة وخروج صغارها ليلاً.", "en": "World-famous nesting ground for endangered green sea turtles with guided night and dawn tours.", "tr": "Nesli tehlikedeki yeşil deniz kaplumbağalarının gece yumurtlamasını izleme merkezi." }
+      },
+      {
+        "name": { "ar": "مصنع السفن التقليدية ومنارة العيجة بصور", "en": "Sur Dhow Factory & Al Ayjah Lighthouse", "tr": "Sur Geleneksel Gemi Tersanesi ve Al Ayjah Feneri" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/south_sharqiyah/sur_dhow.jpg",
+        "location_url": "https://maps.google.com/?q=Dhow+Factory+Sur",
+        "desc": { "ar": "آخر ورشة لصناعة السفن الخشبية التقليدية باليد في الخليج العربي والمنارة التاريخية.", "en": "The only remaining shipyard hand-building traditional wooden Omani dhows and the historic lighthouse.", "tr": "El yapımı geleneksel ahşap teknelerin üretildiği son tersane ve tarihi deniz feneri." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "north_al_sharqiyah": {
+    "names": { "ar": "شمال الشرقية", "en": "North Al Sharqiyah", "tr": "Kuzey Şarkiye" },
+    "description": {
+      "ar": "أرض الرمال الذهبية وسياحة المغامرات الصحراوية (رمال بدية)، وواحات وادي بني خالد العذبة دائمة الجريان.",
+      "en": "Land of golden sand dunes in Sharqiya (Wahiba) Sands and the perennial turquoise waters of Wadi Bani Khalid.",
+      "tr": "Uçsuz bucaksız altın kum çölleri (Wahiba Kumulları) ve turkuaz doğal havuzlu Bani Khalid Vadisi ile ünlüdür."
+    },
+    "places": [
+      {
+        "name": { "ar": "رمال الشرقية (رمال بدية / وهيبة)", "en": "Sharqiya (Wahiba) Sands", "tr": "Şarkiye (Vahibe) Çöl Kumulları" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/north_sharqiyah/wahiba_sands.jpg",
+        "location_url": "https://maps.google.com/?q=Sharqiya+Sands+Oman",
+        "desc": { "ar": "بحر من الكثبان الرملية الذهبية يمتد لآلاف الكيلومترات للتخييم وركوب الجمال وسيارات الدفع الرباعي.", "en": "Endless golden dunes offering authentic Bedouin experiences, desert camping, and dune bashing.", "tr": "Geleneksel Bedevi yaşamı, çöl kampları ve kum safarisi sunan altın kum tepeleri denizi." }
+      },
+      {
+        "name": { "ar": "وادي بني خالد", "en": "Wadi Bani Khalid", "tr": "Bani Khalid Vadisi" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/north_sharqiyah/wadi_bani_khalid.jpg",
+        "location_url": "https://maps.google.com/?q=Wadi+Bani+Khalid",
+        "desc": { "ar": "أشهر واحات عُمان المائية ببرك مياهها الفيروزية النقية وكهف مقل العجيب ومزارع النخيل.", "en": "A paradise oasis with crystal-clear turquoise pools, palm groves, and the famous Miqil Cave.", "tr": "Kristal berraklığındaki göletleri, mağarası ve hurma ağaçlarıyla Umman'ın en ünlü vaha vadisi." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

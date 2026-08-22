@@ -1,0 +1,34 @@
+{
+  "south_al_batinah": {
+    "names": { "ar": "جنوب الباطنة", "en": "South Al Batinah", "tr": "Güney El-Batina" },
+    "description": {
+      "ar": "مملكة الحصون والعيون الكبريتية الحارة، وبوابة جزر الديمانيات العذراء بمياهها الفيروزية وشعابها المرجانية الساحرة.",
+      "en": "Home to massive historic forts, soothing mineral hot springs, and the gateway to the world-famous Daymaniyat Islands.",
+      "tr": "Görkemli kaleleri, şifalı kükürtlü kaplıcaları ve dünyaca ünlü Daymaniyat Adaları mercan resifleriyle tanınır."
+    },
+    "places": [
+      {
+        "name": { "ar": "محمية جزر الديمانيات الطبيعية", "en": "Daymaniyat Islands Nature Reserve", "tr": "Daymaniyat Adaları Doğa Koruma Alanı" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/south_batinah/daymaniyat.jpg",
+        "location_url": "https://maps.google.com/?q=Daymaniyat+Islands",
+        "desc": { "ar": "أرخبيل بكر بمياه تركوازية لمشاهدة السلاحف وأسماك القرش الحوتي والشعاب المرجانية.", "en": "Pristine marine archipelago ideal for snorkeling with sea turtles, whale sharks, and vibrant coral reefs.", "tr": "Deniz kaplumbağaları ve mercan resifleri arasında şnorkelle yüzmek için birinci sınıf ada cenneti." }
+      },
+      {
+        "name": { "ar": "حصن الحزم وقلعة الرستاق", "en": "Al Hazm Castle & Rustaq Fort", "tr": "El-Hazm Şatosu ve Rustak Kalesi" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/south_batinah/al_hazm.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Hazm+Castle",
+        "desc": { "ar": "تحف هندسية عسكرية تمتاز بالمدافع البرتغالية وممرات الهروب السرية والأبراج العالية.", "en": "Architectural masterpieces featuring ancient cannons, secret escape tunnels, and grand fortified towers.", "tr": "Tarihi toplar, gizli tüneller ve heybetli kulelerle dolu askeri mimari şaheserleri." }
+      },
+      {
+        "name": { "ar": "عين الكسفة وعين الثوارة", "en": "Ayn Al Kasfah & Ayn Al Thowarah", "tr": "El-Kasıfe ve Es-Sevvâra Sıcak Su Kaynakları" },
+        "rating": "4.6",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/south_batinah/ayn_kasfah.jpg",
+        "location_url": "https://maps.google.com/?q=Ayn+Al+Kasfah",
+        "desc": { "ar": "ينابيع مياه معدنية طبيعية حارة تتدفق باستمرار للعلاج والاسترخاء وسط الطبيعة.", "en": "Natural therapeutic mineral hot springs flowing continuously through shaded palm groves.", "tr": "Hurma ağaçları arasında sürekli kaynayan doğal şifalı kükürtlü kaplıcalar." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

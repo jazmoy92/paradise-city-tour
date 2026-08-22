@@ -1,0 +1,27 @@
+{
+  "musandam": {
+    "names": { "ar": "مسندم", "en": "Musandam", "tr": "Musandam" },
+    "description": {
+      "ar": "نرويج الشرق الأوسط، تمتاز بمضايقها البحرية المهيبة (الأخوار) وجبالها التي تلتقي بمياه مضيق هرمز الصافية ومواقع الغوص العالمية.",
+      "en": "The Norway of Arabia, famous for dramatic fjords (khors), towering cliffs meeting the turquoise sea, and dolphin cruises.",
+      "tr": "Orta Doğu'nun Norveç'i; görkemli fiyortları, turkuaz suları ve yunus gözlem turlarıyla meşhur körfez yarımadası."
+    },
+    "places": [
+      {
+        "name": { "ar": "خور الشم ورحلات الدلافين البحرية", "en": "Khor Sham & Dolphin Cruise", "tr": "Khor Sham ve Yunus İzleme Turları" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/musandam/khor_sham.jpg",
+        "location_url": "https://maps.google.com/?q=Khor+Sham+Musandam",
+        "desc": { "ar": "أشهر مضيق بحري لركوب قوارب الداو التقليدية ومشاهدة الدلافين والسباحة قرب جزيرة التلغراف.", "en": "Iconic fjord cruise on traditional dhows featuring wild dolphin watching and snorkeling at Telegraph Island.", "tr": "Geleneksel ahşap teknelerle yunusları izleyip şnorkelle dalış yapılan eşsiz fiyort koyu." }
+      },
+      {
+        "name": { "ar": "قلعة خصب التاريخية", "en": "Khasab Castle", "tr": "Hasab Kalesi" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/musandam/khasab_castle.jpg",
+        "location_url": "https://maps.google.com/?q=Khasab+Castle",
+        "desc": { "ar": "حصن تاريخي بناه البرتغاليون في القرن السابع عشر يضم مقتنيات وتراث أهالي مسندم.", "en": "A 17th-century fortress built by the Portuguese containing ethnographic exhibits of Musandam culture.", "tr": "17. yüzyılda inşa edilmiş ve bölgenin tarihi yaşamını sergileyen sahil kalesi." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

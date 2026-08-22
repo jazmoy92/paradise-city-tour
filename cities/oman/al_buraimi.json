@@ -1,0 +1,27 @@
+{
+  "al_buraimi": {
+    "names": { "ar": "البريمي", "en": "Al Buraimi", "tr": "El-Bureymi" },
+    "description": {
+      "ar": "واحة الصحراء الغربية وبوابة عُمان التجارية القديمة، تتميز بحصونها التراثية المنيعة وأفلاجها العذبة وقراها الواحاتية.",
+      "en": "A historic oasis gateway known for ancient mudbrick forts, heritage souqs, and serene desert wadis.",
+      "tr": "Tarihi vaha şehri; heybetli kerpiç hisarları, geleneksel çarşıları ve çöl vadileriyle tanınır."
+    },
+    "places": [
+      {
+        "name": { "ar": "حصن الخندق", "en": "Al Khandaq Fort", "tr": "El-Handak Kalesi" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/buraimi/al_khandaq.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Khandaq+Fort+Buraimi",
+        "desc": { "ar": "حصن عسكري محاط بخندق مائي دفاعي عريض يعتبر من أهم المعالم التاريخية في البريمي.", "en": "A prominent military fort surrounded by a deep defensive moat, reflecting ancient defense architecture.", "tr": "Etrafı derin bir savunma hendeği ile çevrili El-Bureymi'nin en görkemli tarihi kalesi." }
+      },
+      {
+        "name": { "ar": "حصن الحلة", "en": "Al Hillah Fort", "tr": "El-Hille Kalesi" },
+        "rating": "4.6",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/buraimi/al_hilla.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Hillah+Fort+Buraimi",
+        "desc": { "ar": "حصن تاريخي يتميز بزخارفه الجصية البديعة وأبراجه الشامخة في قلب واحة النخيل.", "en": "Historic fort known for its intricate plasterwork carvings and high watchtowers in the palm oasis.", "tr": "Hurma vahası içinde yer alan zarif alçı süslemeleri ve gözetleme kuleleriyle ünlü hisar." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

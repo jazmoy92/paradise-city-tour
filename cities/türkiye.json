@@ -1,4 +1,47 @@
 {
+  "currency": {
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/try.png",
+    "name": {
+      "ar": "الليرة التركية (TRY - ₺)",
+      "en": "Turkish Lira (TRY - ₺)",
+      "tr": "Türk Lirası (TRY - ₺)"
+    },
+    "desc": {
+      "ar": "العملة الرسمية المعتمدة في تركيا هي الليرة التركية (₺). تتوفر ماكينات الصراف الآلي ومكاتب الصرافة في جميع المدن والمطارات والأسواق، كما تقبل أغلب المحلات بطاقات الفيزا والماستركارد.",
+      "en": "The official currency of Turkey is the Turkish Lira (₺). ATMs and exchange offices are widely available across all cities.",
+      "tr": "Türkiye'nin resmi para birimi Türk Lirası'dır (₺)."
+    }
+  },
+  "featured_apps": [
+    {
+      "name": {
+        "ar": "ترينديول",
+        "en": "Trendyol",
+        "tr": "Trendyol"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/trendyol.png",
+      "desc": {
+        "ar": "أشهر وأكبر تطبيق للتسوق الإلكتروني وشراء الملابس والمنتجات وتوصيل المطاعم في تركيا.",
+        "en": "The largest e-commerce and food delivery app in Turkey.",
+        "tr": "Türkiye'nin en popüler alışveriş ve yemek uygulaması."
+      },
+      "url": "https://www.trendyol.com"
+    },
+    {
+      "name": {
+        "ar": "هيبسيبورادا",
+        "en": "Hepsiburada",
+        "tr": "Hepsiburada"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hepsiburada.png",
+      "desc": {
+        "ar": "منصة تسوق شاملة للإلكترونيات والأجهزة وكافة المستلزمات اليومية.",
+        "en": "Comprehensive online marketplace for electronics and essentials.",
+        "tr": "Türkiye'nin lider online alışveriş platformu."
+      },
+      "url": "https://www.hepsiburada.com"
+    }
+  ],
   "cities": {
     "adana": {"names": {"ar": "أضنة", "en": "Adana", "tr": "Adana"}},
     "adiyaman": {"names": {"ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman"}},
@@ -81,4 +124,5 @@
     "yalova": {"names": {"ar": "يالوفا", "en": "Yalova", "tr": "Yalova"}},
     "yozgat": {"names": {"ar": "يوزغات", "en": "Yozgat", "tr": "Yozgat"}},
     "zonguldak": {"names": {"ar": "زونغولداك", "en": "Zonguldak", "tr": "Zonguldak"}}
- {
+  }
+}

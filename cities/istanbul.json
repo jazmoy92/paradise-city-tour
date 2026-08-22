@@ -46,10 +46,7 @@
     "bg_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul_bg.png",
     "image_3d": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul_3d.png",
     "is_soon": false,
-    "available_services": [
-      "taxi",
-      "rent_car",
-      "driver"
+    
     ],
     "available_categories": [
       "hotels",

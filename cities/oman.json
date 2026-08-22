@@ -1,5 +1,5 @@
 {
-  "recommended_apps": [
+  "featured_apps": [
     {
       "name": "Otaxi",
       "category": "Transportation / مواصلات",
@@ -9,7 +9,6 @@
         "tr": "Umman'da en popüler ve yaygın taksi çağırma uygulaması."
       },
       "android_url": "https://play.google.com/store/apps/details?id=com.otaxi.client",
-      "ios_url": "https://apps.apple.com/app/otaxi-oman/id1458925565"
     },
     {
       "name": "Talabat",

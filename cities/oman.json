@@ -1,50 +1,74 @@
+  {
   "featured_apps": [
     {
       "name": {
-        "ar": "ترينديول",
-        "en": "Trendyol",
-        "tr": "Trendyol"
+        "ar": "أوتاكسي",
+        "en": "Otaxi",
+        "tr": "Otaxi"
       },
       "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/trendyol.png",
       "desc": {
-        "ar": "أشهر وأكبر تطبيق للتسوق الإلكتروني وشراء الملابس والمنتجات وتوصيل المطاعم في تركيا.",
-        "en": "The largest e-commerce and food delivery app in Turkey.",
-        "tr": "Türkiye'nin en popüler alışveriş ve yemek uygulaması."
+        "ar": "أشهر تطبيق لطلب سيارات الأجرة والتنقل الموثوق في سلطنة عمان.",
+        "en": "The most popular taxi hailing and mobility app in Oman.",
+        "tr": "Umman'daki en popüler taksi çağırma ve ulaşım uygulaması."
       },
-      "url": "https://www.trendyol.com"
+      "url": "https://otaxi.om"
     },
     {
-      "name": "Talabat",
-      "category": "Food & Delivery / توصيل الطعام والمقاضي",
-      "desc": {
-        "ar": "التطبيق الأكثر استخداماً لطلب وجبات الطعام والبقالة في مختلف مدن السلطنة.",
-        "en": "Most popular app for food delivery and groceries across Oman.",
-        "tr": "Umman genelinde yemek ve market siparişi için en popüler uygulama."
+      "name": {
+        "ar": "طلبات عمان",
+        "en": "Talabat Oman",
+        "tr": "Talabat Oman"
       },
-      "android_url": "https://play.google.com/store/apps/details?id=com.talabat",
-      "ios_url": "https://apps.apple.com/app/talabat-food-grocery-order/id451001070"
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/talabat.png",
+      "desc": {
+        "ar": "التطبيق الرائد لطلب الطعام والبقالة وتوصيلها في جميع المحافظات.",
+        "en": "Leading food and grocery delivery service across Oman.",
+        "tr": "Umman genelinde lider yemek ve market teslimat uygulaması."
+      },
+      "url": "https://www.talabat.com/oman"
     },
     {
-      "name": "TM DONE",
-      "category": "Delivery & Logistics / توصيل وخدمات",
-      "desc": {
-        "ar": "تطبيق عُماني رائد لطلب وتوصيل الأطعمة والمشتريات من المطاعم والمتاجر المحلية.",
-        "en": "Leading Omani delivery app for local restaurants and shops.",
-        "tr": "Yerel restoran ve mağazalardan teslimat sağlayan Umman merkezli uygulama."
+      "name": {
+        "ar": "زوروا عمان",
+        "en": "Visit Oman",
+        "tr": "Visit Oman"
       },
-      "android_url": "https://play.google.com/store/apps/details?id=com.tmdone.customer",
-      "ios_url": "https://apps.apple.com/app/tm-done/id1463162772"
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/visitoman.png",
+      "desc": {
+        "ar": "المنصة الرسمية للسياحة وحجز الجولات والأنشطة السياحية والتجارب في سلطنة عمان.",
+        "en": "The official platform for booking tours, activities, and experiences in Oman.",
+        "tr": "Umman'daki turlar, aktiviteler ve deneyimler için resmi turizm platformu."
+      },
+      "url": "https://visitoman.om"
     },
     {
-      "name": "Omantel",
-      "category": "Telecom & eSIM / اتصالات وإنترنت",
-      "desc": {
-        "ar": "تطبيق المشغل الوطني لشراء باقات السياح وتفعيل شرائح eSIM ومتابعة الإنترنت.",
-        "en": "Official telecom app for buying tourist SIM/eSIM cards and data plans.",
-        "tr": "Turist eSIM/SIM kartı ve internet paketleri almak için resmi operatör uygulaması."
+      "name": {
+        "ar": "ثواني",
+        "en": "Thawani",
+        "tr": "Thawani"
       },
-      "android_url": "https://play.google.com/store/apps/details?id=om.omantel.selfcare",
-      "ios_url": "https://apps.apple.com/app/omantel/id1112480652"
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/thawani.png",
+      "desc": {
+        "ar": "أفضل محفظة رقمية وتطبيق للدفع الإلكتروني وتعبئة الرصيد في سلطنة عمان.",
+        "en": "Oman's leading digital wallet and e-payment mobile platform.",
+        "tr": "Umman'ın lider dijital cüzdanı ve mobil ödeme uygulaması."
+      },
+      "url": "https://thawani.om"
+    },
+    {
+      "name": {
+        "ar": "تم دن",
+        "en": "TM Done",
+        "tr": "TM Done"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/tmdone.png",
+      "desc": {
+        "ar": "تطبيق عماني مميز لتوصيل الوجبات والتسوق والاحتياجات اليومية بسرعة وسهولة.",
+        "en": "Local delivery platform for restaurant food, shopping, and everyday errands.",
+        "tr": "Restoran, alışveriş ve günlük ihtiyaçlar için yerel teslimat uygulaması."
+      },
+      "url": "https://tmdone.om"
     }
   ],
   "cities": {
@@ -70,7 +94,7 @@
       "names": { "ar": "جنوب الباطنة", "en": "South Al Batinah", "tr": "Güney El-Batina" }
     },
     "al_dhahirah": {
-      "names": { "ar": "الظاهرة", "en": "Al Dhahirah", "tr": "El-Zahira" }
+      "names": { "ar": "الظاهرة", "en": "Al Dhahirah", "tr": "El-Zahire" }
     },
     "al_wusta": {
       "names": { "ar": "الوسطى", "en": "Al Wusta", "tr": "El-Vusta" }

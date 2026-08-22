@@ -3,8 +3,8 @@
     "newyork": {
       "names": { "ar": "نيويورك", "en": "New York", "tr": "New York" }
     },
-    "miami": {
-      "names": { "ar": "ميامي", "en": "Miami", "tr": "Miami" }
+    "losangles": {
+      "names": { "ar": "لوس انجلوس", "en": "Los Angles", "tr": "Los Angles" }
     },
     "florida": {
       "names": { "ar": "فلوريدا", "en": "Florida", "tr": "Florida" }

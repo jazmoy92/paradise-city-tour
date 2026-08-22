@@ -1,0 +1,34 @@
+{
+  "al_wusta": {
+    "names": { "ar": "الوسطى", "en": "Al Wusta", "tr": "El-Vusta" },
+    "description": {
+      "ar": "المحمية الطبيعية الكبرى وموطن المها العربي النادر، تلتقي فيها الرمال البيضاء الساحلية بزرقة بحر العرب وحديقة صخور الدقم العجيبة.",
+      "en": "Home to the Arabian Oryx sanctuary, white coastal sand dunes of Khaluf, and the unique stone formations of Duqm Rock Garden.",
+      "tr": "Arap Antilobu koruma alanı, bembeyaz sahil kumulları ve Duqm Taş Bahçesi'nin jeolojik harikalarına ev sahipliği yapar."
+    },
+    "places": [
+      {
+        "name": { "ar": "حديقة الصخور بالدقم", "en": "Duqm Rock Garden", "tr": "Duqm Taş Bahçesi" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/wusta/rock_garden.jpg",
+        "location_url": "https://maps.google.com/?q=Rock+Garden+Duqm",
+        "desc": { "ar": "متحف جيولوجي طبيعي مفتوح يضم منحوتات صخرية غريبة نحتتها الرياح والمياه عبر ملايين السنين.", "en": "A surreal natural geological park of rare limestone and sandstone shapes carved over millions of years.", "tr": "Milyonlarca yılda rüzgarla şekillenmiş heykelsi kaya oluşumlarıyla dolu açık hava jeoloji parkı." }
+      },
+      {
+        "name": { "ar": "محمية المها العربية (كائن الحي والشارع)", "en": "Arabian Oryx Sanctuary", "tr": "Arap Antilobu (Oryx) Koruma Alanı" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/wusta/arabian_oryx.jpg",
+        "location_url": "https://maps.google.com/?q=Arabian+Oryx+Sanctuary+Haima",
+        "desc": { "ar": "موطن تكاثر وحماية حيوان المها العربي والغزلان النادرة والوعول في قلب البرية العمانية.", "en": "Vast desert sanctuary dedicated to the breeding and conservation of the endangered white Arabian Oryx.", "tr": "Soyu tükenme tehlikesindeki beyaz Arap antiloplarının korunduğu geniş çöl rezervi." }
+      },
+      {
+        "name": { "ar": "شاطئ الخلوف والرمال السكرية", "en": "Sugar Dunes of Khaluf Beach", "tr": "Khaluf Şeker Kumulları ve Sahili" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/wusta/sugar_dunes.jpg",
+        "location_url": "https://maps.google.com/?q=Sugar+Dunes+Al+Khaluf",
+        "desc": { "ar": "كثبان رملية بيضاء كالسكر تلتقي مباشرة بمياه بحر العرب في مشهد ساحر لعشاق التخييم.", "en": "Pure white sand dunes cascading directly into the azure sea, a paradise for 4x4 and camping enthusiasts.", "tr": "Masmavi denizle buluşan bembeyaz şeker gibi kumullarıyla ünlü kamp cenneti." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

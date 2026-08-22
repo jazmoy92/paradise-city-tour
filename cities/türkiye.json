@@ -1,6 +1,6 @@
 {
   "currency": {
-    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkishlira.png",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/turkishlira.png",
     "name": {
       "ar": "الليرة التركية (TRY - ₺)",
       "en": "Turkish Lira (TRY - ₺)",
@@ -19,7 +19,7 @@
         "en": "Trendyol",
         "tr": "Trendyol"
       },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/trendyol.png",
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/trendyol.png",
       "desc": {
         "ar": "أشهر وأكبر تطبيق للتسوق الإلكتروني وشراء الملابس والمنتجات وتوصيل المطاعم في تركيا.",
         "en": "The largest e-commerce and food delivery app in Turkey.",

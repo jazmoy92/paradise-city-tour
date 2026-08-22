@@ -1,0 +1,34 @@
+{
+  "al_dakhiliyah": {
+    "names": { "ar": "الداخلية", "en": "Al Dakhiliyah", "tr": "Ed-Dahiliye" },
+    "description": {
+      "ar": "القلب التراثي لعُمان وعاصمة التاريخ، موطن قلعة نزوى وجبل شمس (جراند كانيون العرب) ومدرجات الجبل الأخضر الفاتنة.",
+      "en": "The cultural heartland of Oman, home to historic Nizwa, Jabal Shams (the Grand Canyon of Arabia), and Jabal Akhdar's green terraces.",
+      "tr": "Umman'ın tarihi ve kültürel kalbi; Nizwa kalesi, Jabal Shams kanyonu ve Jabal Akhdar'ın serin dağ teraslarına ev sahipliği yapar."
+    },
+    "places": [
+      {
+        "name": { "ar": "قلعة نزوى وسوقها التراثي", "en": "Nizwa Fort & Heritage Souq", "tr": "Nizva Kalesi ve Tarihi Çarşısı" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dakhiliyah/nizwa_fort.jpg",
+        "location_url": "https://maps.google.com/?q=Nizwa+Fort",
+        "desc": { "ar": "أعظم قلاع عُمان ببرجها الأسطواني الضخم وسوق الفخار والفضيات ومزاد الأبقار الشهير.", "en": "Oman's most visited fort with an imposing circular tower, vibrant pottery souq, and Friday goat market.", "tr": "Devasa yuvarlak kulesi, gümüş-çömlek çarşısı ve cuma pazarıyla ünlü Umman'ın en görkemli kalesi." }
+      },
+      {
+        "name": { "ar": "الجبل الأخضر", "en": "Jabal Akhdar (Green Mountain)", "tr": "Yeşil Dağ (Jabal Akhdar)" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dakhiliyah/jabal_akhdar.jpg",
+        "location_url": "https://maps.google.com/?q=Jabal+Akhdar+Oman",
+        "desc": { "ar": "سلسلة جبلية باردة تشتهر بمزارع الرمان والورد وصناعة ماء الورد والمدرجات الزراعية المعلقة.", "en": "Cool mountain plateau renowned for pomegranate orchards, rose water distilleries, and cliffside villages.", "tr": "Nar bahçeleri, gül suyu damıtma atölyeleri ve uçurum kenarı köyleriyle serin dağ platosu." }
+      },
+      {
+        "name": { "ar": "جبل شمس ووادي النخر", "en": "Jabal Shams & Wadi Ghul", "tr": "Şems Dağı ve Nakhar Vadisi" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dakhiliyah/jabal_shams.jpg",
+        "location_url": "https://maps.google.com/?q=Jabal+Shams+Viewpoint",
+        "desc": { "ar": "أعلى قمة جبلية في عُمان تطل على أعمق وأروع أخدود جبلي في الشرق الأوسط.", "en": "The highest peak in Oman offering breathtaking views over the deep Arabian Grand Canyon.", "tr": "Umman'ın en yüksek zirvesi ve 'Arabistan'ın Büyük Kanyonu' olarak bilinen dev uçurum manzarası." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "muscat": {
+    "names": { "ar": "مسقط", "en": "Muscat", "tr": "Maskat" },
+    "description": {
+      "ar": "عاصمة سلطنة عُمان الساحرة، تجمع بين العمارة الإسلامية الأصيلة، الشواطئ الهادئة، والأسواق التراثية القديمة المحاطة بالجبال الشاهقة.",
+      "en": "The charming capital of Oman, blending authentic Islamic architecture, tranquil beaches, and traditional souqs nestled between jagged mountains.",
+      "tr": "Umman'ın büyüleyici başkenti; özgün İslam mimarisi, sakin plajları ve dağlarla çevrili tarihi çarşılarıyla ünlüdür."
+    },
+    "places": [
+      {
+        "name": { "ar": "جامع السلطان قابوس الأكبر", "en": "Sultan Qaboos Grand Mosque", "tr": "Sultan Kabus Ulu Camii" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/muscat/grand_mosque.jpg",
+        "location_url": "https://maps.google.com/?q=Sultan+Qaboos+Grand+Mosque+Muscat",
+        "desc": { "ar": "تحفة معمارية إسلامية فريدة تضم ثاني أكبر سجادة وثريا كريستال يدوية في العالم.", "en": "An iconic Islamic architectural masterpiece featuring one of the world's largest hand-woven carpets and crystal chandeliers.", "tr": "Dünyanın en büyük el dokuma halılarından ve kristal avizelerinden birine sahip mimari şaheser." }
+      },
+      {
+        "name": { "ar": "دار الأوبرا السلطانية مسقط", "en": "Royal Opera House Muscat", "tr": "Maskat Kraliyet Opera Binası" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/muscat/opera_house.jpg",
+        "location_url": "https://maps.google.com/?q=Royal+Opera+House+Muscat",
+        "desc": { "ar": "صرح ثقافي وفني عالمي يعكس الفن المعماري العماني المعاصر والموسيقى العالمية.", "en": "A world-class center for musical arts and culture reflecting modern Omani architectural beauty.", "tr": "Umman mimarisinin zarafetini dünya müziği ve sanatıyla buluşturan prestijli opera binası." }
+      },
+      {
+        "name": { "ar": "سوق مطرح وكورنيش مطرح", "en": "Mutrah Souq & Corniche", "tr": "Mutrah Çarşısı ve Sahil Kordonu" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/muscat/mutrah_souq.jpg",
+        "location_url": "https://maps.google.com/?q=Mutrah+Souq+Muscat",
+        "desc": { "ar": "أقدم الأسواق التقليدية في عُمان، يفوح بعبق اللبان والفضيات والتحف التراثية.", "en": "One of the oldest traditional bazaars in Oman, renowned for frankincense, silver, and antique crafts.", "tr": "Tütsü, gümüş takılar ve antika el sanatlarıyla ünlü Umman'ın en eski geleneksel çarşısı." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

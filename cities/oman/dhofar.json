@@ -1,0 +1,34 @@
+{
+  "dhofar": {
+    "names": { "ar": "ظفار", "en": "Dhofar", "tr": "Zufar" },
+    "description": {
+      "ar": "أرض اللبان والجمال الاستوائي، تتفرد بموسم الخريف الساحر حيث تكتسي الجبال بالخضرة وتتدفق الشلالات الطبيعية والضباب الكثيف.",
+      "en": "The land of frankincense and tropical beauty, famous for the Khareef monsoon season when mountains turn into lush green paradises.",
+      "tr": "Buhur diyarı ve tropikal cennet; muson yağmurlarıyla dağların yemyeşil olduğu ve şelalelerin coştuğu Khareef mevsimiyle ünlüdür."
+    },
+    "places": [
+      {
+        "name": { "ar": "وادي دربات والشلالات", "en": "Wadi Darbat & Waterfalls", "tr": "Derbat Vadisi ve Şelaleleri" },
+        "rating": "4.9",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dhofar/wadi_darbat.jpg",
+        "location_url": "https://maps.google.com/?q=Wadi+Darbat+Salalah",
+        "desc": { "ar": "أجمل أودية ظفار ببحيراته الطبيعية وشلالاته المنحدرة وقوارب الجولات الخضراء.", "en": "The most spectacular valley in Dhofar featuring natural lakes, cascading waterfalls, and boat rides.", "tr": "Doğal gölleri, çağlayan şelaleleri ve tekne turlarıyla Zufar'ın en büyüleyici vadisi." }
+      },
+      {
+        "name": { "ar": "شاطئ المغسيل والنافورات الطبيعية", "en": "Mughsail Beach & Blowholes", "tr": "Muğsayl Plajı ve Doğal Fıskiyeler" },
+        "rating": "4.8",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dhofar/mughsail.jpg",
+        "location_url": "https://maps.google.com/?q=Mughsail+Beach+Blowholes",
+        "desc": { "ar": "شاطئ رملي خلاب يشتهر بنافورات الماء الطبيعية التي تندفع بقوة من تجاويف الصخور الجيرية.", "en": "Pristine beach famous for sea blowholes that erupt seawater dramatically through rock cavities.", "tr": "Kayalık deliklerinden metrelerce havaya fışkıran deniz suyu gayzerleriyle ünlü plaj." }
+      },
+      {
+        "name": { "ar": "متحف أرض اللبان ومتنزه البليد الأثري", "en": "Land of Frankincense & Al Baleed Archaeological Park", "tr": "Buhur Diyarı ve El-Balid Arkeoloji Parkı" },
+        "rating": "4.7",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/dhofar/al_baleed.jpg",
+        "location_url": "https://maps.google.com/?q=Al+Baleed+Archaeological+Park",
+        "desc": { "ar": "موقع تاريخي مدرج في اليونسكو يستعرض تاريخ تجارة اللبان والملاحة البحرية العمانية.", "en": "A UNESCO World Heritage site showcasing the rich history of the frankincense trade route and maritime history.", "tr": "Buhur ticaret yolunu ve Umman denizcilik tarihini sergileyen UNESCO Dünya Mirası alanı." }
+      }
+    ],
+    "needs_ad": true
+  }
+}

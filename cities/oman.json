@@ -6,41 +6,41 @@
         "en": "Otaxi",
         "tr": "Otaxi"
       },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/trendyol.png",
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/apps/otaxi.png",
       "desc": {
-        "ar": "أشهر تطبيق لطلب سيارات الأجرة والتنقل الموثوق في سلطنة عمان.",
-        "en": "The most popular taxi hailing and mobility app in Oman.",
-        "tr": "Umman'daki en popüler taksi çağırma ve ulaşım uygulaması."
+        "ar": "التطبيق الأكثر أماناً وشهرة لطلب سيارات الأجرة والتنقل في جميع محافظات سلطنة عُمان.",
+        "en": "The most popular on-demand ride-hailing and taxi app in Oman.",
+        "tr": "Umman genelinde en popüler ve güvenilir taksi çağırma uygulaması."
       },
       "url": "https://otaxi.om"
     },
     {
       "name": {
-        "ar": "طلبات عمان",
+        "ar": "طلبات عُمان",
         "en": "Talabat Oman",
-        "tr": "Talabat Oman"
+        "tr": "Talabat Umman"
       },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/talabat.png",
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/apps/talabat.png",
       "desc": {
-        "ar": "التطبيق الرائد لطلب الطعام والبقالة وتوصيلها في جميع المحافظات.",
-        "en": "Leading food and grocery delivery service across Oman.",
-        "tr": "Umman genelinde lider yemek ve market teslimat uygulaması."
+        "ar": "تطبيق توصيل الطعام والمقاضي والاحتياجات اليومية الأول في سلطنة عُمان.",
+        "en": "The leading food, grocery, and essentials delivery app across Oman.",
+        "tr": "Umman'daki en büyük yemek ve market teslimatı uygulaması."
       },
       "url": "https://www.talabat.com/oman"
     },
     {
       "name": {
-        "ar": "زوروا عمان",
-        "en": "Visit Oman",
-        "tr": "Visit Oman"
+        "ar": "مواصلات عُمان",
+        "en": "Mwasalat",
+        "tr": "Mwasalat"
       },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/visitoman.png",
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/apps/mwasalat.png",
       "desc": {
-        "ar": "المنصة الرسمية للسياحة وحجز الجولات والأنشطة السياحية والتجارب في سلطنة عمان.",
-        "en": "The official platform for booking tours, activities, and experiences in Oman.",
-        "tr": "Umman'daki turlar, aktiviteler ve deneyimler için resmi turizm platformu."
+        "ar": "تطبيق النقل العام لحجز حافلات المدن والعبّارات البحرية بين الجزر والمحافظات.",
+        "en": "Official public transport app for booking city buses and passenger ferries in Oman.",
+        "tr": "Şehirlerarası otobüs ve feribot biletleri için resmi toplu taşıma uygulaması."
       },
-      "url": "https://visitoman.om"
+      "url": "https://mwasalat.om"
     },
     {
       "name": {
@@ -48,27 +48,13 @@
         "en": "Thawani",
         "tr": "Thawani"
       },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/thawani.png",
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/apps/thawani.png",
       "desc": {
-        "ar": "أفضل محفظة رقمية وتطبيق للدفع الإلكتروني وتعبئة الرصيد في سلطنة عمان.",
-        "en": "Oman's leading digital wallet and e-payment mobile platform.",
-        "tr": "Umman'ın lider dijital cüzdanı ve mobil ödeme uygulaması."
+        "ar": "المحفظة الرقمية ومنصة الدفع الإلكتروني الذكية الرائدة في عُمان لدفع الفواتير ورسوم المواقف.",
+        "en": "Oman's leading digital wallet platform for quick payments, bills, and parking.",
+        "tr": "Fatura ve otopark ödemeleri için Umman'ın lider dijital cüzdan uygulaması."
       },
       "url": "https://thawani.om"
-    },
-    {
-      "name": {
-        "ar": "تم دن",
-        "en": "TM Done",
-        "tr": "TM Done"
-      },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/tmdone.png",
-      "desc": {
-        "ar": "تطبيق عماني مميز لتوصيل الوجبات والتسوق والاحتياجات اليومية بسرعة وسهولة.",
-        "en": "Local delivery platform for restaurant food, shopping, and everyday errands.",
-        "tr": "Restoran, alışveriş ve günlük ihtiyaçlar için yerel teslimat uygulaması."
-      },
-      "url": "https://tmdone.om"
     }
   ],
   "cities": {
@@ -79,13 +65,13 @@
       "names": { "ar": "ظفار", "en": "Dhofar", "tr": "Zufar" }
     },
     "musandam": {
-      "names": { "ar": "مسندم", "en": "Musandam", "tr": "Müsendem" }
+      "names": { "ar": "مسندم", "en": "Musandam", "tr": "Musandam" }
     },
     "al_buraimi": {
       "names": { "ar": "البريمي", "en": "Al Buraimi", "tr": "El-Bureymi" }
     },
     "al_dakhiliyah": {
-      "names": { "ar": "الداخلية", "en": "Al Dakhiliyah", "tr": "El-Dahiliye" }
+      "names": { "ar": "الداخلية", "en": "Al Dakhiliyah", "tr": "Ed-Dahiliye" }
     },
     "north_al_batinah": {
       "names": { "ar": "شمال الباطنة", "en": "North Al Batinah", "tr": "Kuzey El-Batina" }
@@ -94,16 +80,16 @@
       "names": { "ar": "جنوب الباطنة", "en": "South Al Batinah", "tr": "Güney El-Batina" }
     },
     "al_dhahirah": {
-      "names": { "ar": "الظاهرة", "en": "Al Dhahirah", "tr": "El-Zahire" }
+      "names": { "ar": "الظاهرة", "en": "Al Dhahirah", "tr": "Ez-Zahira" }
     },
     "al_wusta": {
       "names": { "ar": "الوسطى", "en": "Al Wusta", "tr": "El-Vusta" }
     },
     "north_al_sharqiyah": {
-      "names": { "ar": "شمال الشرقية", "en": "North Al Sharqiyah", "tr": "Kuzey El-Şarkiye" }
+      "names": { "ar": "شمال الشرقية", "en": "North Al Sharqiyah", "tr": "Kuzey Şarkiye" }
     },
     "south_al_sharqiyah": {
-      "names": { "ar": "جنوب الشرقية", "en": "South Al Sharqiyah", "tr": "Güney El-Şarkiye" }
+      "names": { "ar": "جنوب الشرقية", "en": "South Al Sharqiyah", "tr": "Güney Şarkiye" }
     }
   }
 }

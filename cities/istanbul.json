@@ -10,43 +10,46 @@
       "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south. This metropolis boasts an ancient historical heritage deeply rooted in both the Byzantine and Ottoman eras, making it a cultural beacon and a leading commercial hub. Today, Istanbul celebrates its unique human diversity with a population exceeding 16 million, while its charm is further heightened by the five Princes' Islands open and safe for tourist visits, shimmering in the heart of the Sea of Marmara, together painting an unparalleled natural and historical masterpiece.",
       "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur. Bizans ve Osmanlı dönemlerine kadar uzanan köklü bir tarihi mirasa sahip olan bu metropol, bir kültür feneri ve öncü bir ticaret merkezi haline gelmiştir. Bugün İstanbul, 16 milyonu aşan nüfusuyla benzersiz insani çeşitliliğini kutlarken, Marmara Denizi'nin kalbinde parıldayan ve turistik ziyarete açık, güvenli beş Prens Adası da bu büyüleyici güzelliğe apayrı bir ihtişam katarak bir arada eşsiz bir doğa ve tarih tablosu çizmektedir."
     },
-     "airports": [
-    {
-      "name": {
-        "ar": "مطار إسطنبول الدولي",
-        "en": "Istanbul Airport",
-        "tr": "İstanbul Havalimanı"
+    "airports": [
+      {
+        "name": {
+          "ar": "مطار إسطنبول الدولي",
+          "en": "Istanbul Airport",
+          "tr": "İstanbul Havalimanı"
+        },
+        "code": "IST",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "المطار الدولي الرئيسي في إسطنبول، يقع في الجانب الأوروبي من المدينة (منطقة أرناؤوط كوي)، وهو أحد أكبر وأحدث مطارات العالم ويقدم خدمات نقل متكاملة بالحافلات والمترو.",
+          "en": "Main international airport of Istanbul located on the European side.",
+          "tr": "İstanbul'un Avrupa yakasında bulunan ana uluslararası havalimanı."
+        },
+        "location_url": "https://maps.google.com/?q=Istanbul+Airport"
       },
-      "code": "IST",
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
-      "desc": {
-        "ar": "المطار الدولي الرئيسي في إسطنبول، يقع في الجانب الأوروبي من المدينة (منطقة أرناؤوط كوي)، وهو أحد أكبر وأحدث مطارات العالم ويقدم خدمات نقل متكاملة بالحافلات والمترو.",
-        "en": "Main international airport of Istanbul located on the European side.",
-        "tr": "İstanbul'un Avrupa yakasında bulunan ana uluslararası havalimanı."
-      },
-      "location_url": "https://maps.google.com/?q=Istanbul+Airport"
-    },
-    {
-      "name": {
-        "ar": "مطار صبيحة كوكجن",
-        "en": "Sabiha Gokcen Airport",
-        "tr": "Sabiha Gökçen Havalimanı"
-      },
-      "code": "SAW",
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
-      "desc": {
-        "ar": "يقع في الجانب الآسيوي من مدينة إسطنبول (بندك)، ويخدم ملايين المسافرين سنوياً للرحلات الداخلية والدولية مع توفر خط مترو مباشر وحافلات هافاباص.",
-        "en": "Airport located on the Asian side of Istanbul with metro connectivity.",
-        "tr": "İstanbul'un Asya yakasında yer alan uluslararası havalimanı."
-      },
-      "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport"
-    }
-  ],
+      {
+        "name": {
+          "ar": "مطار صبيحة كوكجن",
+          "en": "Sabiha Gokcen Airport",
+          "tr": "Sabiha Gökçen Havalimanı"
+        },
+        "code": "SAW",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "يقع في الجانب الآسيوي من مدينة إسطنبول (بندك)، ويخدم ملايين المسافرين سنوياً للرحلات الداخلية والدولية مع توفر خط مترو مباشر وحافلات هافاباص.",
+          "en": "Airport located on the Asian side of Istanbul with metro connectivity.",
+          "tr": "İstanbul'un Asya yakasında yer alan uluslararası havalimanı."
+        },
+        "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport"
+      }
+    ],
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul.png",
     "bg_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul_bg.png",
     "image_3d": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul_3d.png",
     "is_soon": false,
-    
+    "available_services": [
+      "taxi",
+      "rent_car",
+      "driver"
     ],
     "available_categories": [
       "hotels",

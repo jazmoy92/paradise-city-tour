@@ -42,9 +42,9 @@
         "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport"
       }
     ],
-    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul.png",
-    "bg_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul_bg.png",
-    "image_3d": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/istanbul_3d.png",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey/istanbul.png",
+    "bg_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey/istanbul_bg.png",
+    "image_3d": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey/istanbul_3d.png",
     "is_soon": false,
     "available_services": [
       "taxi",

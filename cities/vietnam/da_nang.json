@@ -1,0 +1,87 @@
+{
+  "da_nang": {
+    "names": {
+      "ar": "دا نانغ",
+      "en": "Da Nang",
+      "tr": "Da Nang"
+    },
+    "description": {
+      "ar": "تعتبر دا نانغ جوهرة الساحل الأوسط في فيتنام وواحدة من أكثر المدن تطوراً وجذباً للسياح. تشتهر المدينة بشواطئها الرملية البيضاء المصنفة عالمياً مثل شاطئ ماي خي، وجسر التنين الشهير الذي ينفث النار والماء في عطلات نهاية الأسبوع، بالإضافة إلى منتجع تلال با نا وجسر الأيدي الذهبي المعلق في السحاب وجبال الرخام المهيبة.",
+      "en": "Da Nang is the coastal jewel of Central Vietnam and one of the country's most modern and livable cities. Renowned for its world-class beaches like My Khe Beach, the iconic Dragon Bridge that breathes fire on weekends, the Marble Mountains, and the famous Golden Bridge nestled high in the Ba Na Hills.",
+      "tr": "Da Nang, Orta Vietnam'ın sahil incisi ve ülkenin en modern şehirlerinden biridir. Dünyaca ünlü My Khe plajı, hafta sonları ateş ve su püskürten Ejderha Köprüsü, Mermer Dağları ve Ba Na Tepeleri'ndeki ikonik Altın Köprü (Golden Bridge) ile tanınır."
+    },
+    "airports": [
+      {
+        "name": {
+          "ar": "مطار دا نانغ الدولي",
+          "en": "Da Nang International Airport",
+          "tr": "Da Nang Uluslararası Havalimanı"
+        },
+        "code": "DAD",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "مطار دولي حديث يقع في قلب المدينة على بعد دقائق معدودة من الشواطئ والفنادق الرئيسية ويوفر وصولاً سهلاً إلى هوي آن وهوي.",
+          "en": "Modern international airport located centrally in Da Nang, offering quick access to city beaches and nearby Hoi An.",
+          "tr": "Da Nang şehir merkezinde yer alan, sahillere ve yakınlardaki Hoi An antik kentine hızlı ulaşım sağlayan modern havalimanı."
+        },
+        "location_url": "https://maps.google.com/?q=Da+Nang+International+Airport"
+      }
+    ],
+    "islands": [
+      {
+        "name": {
+          "ar": "جزر تشام",
+          "en": "Cham Islands",
+          "tr": "Cham Adaları"
+        },
+        "desc": {
+          "ar": "مجموعة جزر عذراء ومحمية محيط حيوي لليونسكو تشتهر بالغوص والشعاب المرجانية الساحرة.",
+          "en": "A pristine archipelago and UNESCO Biosphere Reserve famous for coral reef diving and quiet beaches.",
+          "tr": "Mercan resifleri ve dalış turlarıyla ünlü, UNESCO Biyosfer Rezervi olan bakir adalar topluluğu."
+        }
+      }
+    ],
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "cultural Places",
+      "beaches",
+      "restaurants",
+      "religious places",
+      "city transport"
+    ],
+    "featured_apps": [
+      {
+        "name": {
+          "ar": "غراب",
+          "en": "Grab",
+          "tr": "Grab"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/grab.png",
+        "website": "https://www.grab.com/vn/",
+        "needs_ad": true,
+        "description": {
+          "ar": "الحل المثالي للتنقل بين شواطئ دا نانغ وجسورها والوصول إلى بلدة هوي آن القديمة.",
+          "en": "Best transportation option for navigating Da Nang beaches, bridges, and trips to Hoi An.",
+          "tr": "Da Nang sahilleri, köprüleri ve Hoi An gezileri için en pratik ulaşım uygulaması."
+        }
+      },
+      {
+        "name": {
+          "ar": "زان إس إم",
+          "en": "Xanh SM",
+          "tr": "Xanh SM"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/xanhsm.png",
+        "website": "https://www.xanhsm.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "تاكسي كهربائي مريح للتنقل داخل دا نانغ والتوصيل من وإلى المطار بأسعار ثابتة.",
+          "en": "Clean and quiet electric taxi service for airport transfers and city tours in Da Nang.",
+          "tr": "Da Nang içinde havalimanı transferleri ve şehir turları için konforlu elektrikli taksi hizmeti."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "id": "vn_hanoi",
+    "name_ar": "هانوي",
+    "name_en": "Hanoi",
+    "type": "CENTRAL_CITY",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": true
+  },
+  {
+    "id": "vn_ho_chi_minh",
+    "name_ar": "مدينة هو تشي منه",
+    "name_en": "Ho Chi Minh City",
+    "type": "CENTRAL_CITY",
+    "region_ar": "جنوب فيتنام",
+    "region_en": "Southern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_da_nang",
+    "name_ar": "دا نانغ",
+    "name_en": "Da Nang",
+    "type": "CENTRAL_CITY",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_hai_phong",
+    "name_ar": "هاي فونغ",
+    "name_en": "Hai Phong",
+    "type": "CENTRAL_CITY",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_can_tho",
+    "name_ar": "كان ثو",
+    "name_en": "Can Tho",
+    "type": "CENTRAL_CITY",
+    "region_ar": "جنوب فيتنام",
+    "region_en": "Southern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_hue",
+    "name_ar": "هوي",
+    "name_en": "Hue",
+    "type": "CENTRAL_CITY",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_cao_bang",
+    "name_ar": "كاو بانغ",
+    "name_en": "Cao Bang",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_dien_bien",
+    "name_ar": "ديين بيان",
+    "name_en": "Dien Bien",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_lai_chau",
+    "name_ar": "لاي تشاو",
+    "name_en": "Lai Chau",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_lang_son",
+    "name_ar": "لانغ سون",
+    "name_en": "Lang Son",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_son_la",
+    "name_ar": "سون لا",
+    "name_en": "Son La",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_quang_ninh",
+    "name_ar": "كوانغ نينه",
+    "name_en": "Quang Ninh",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_lao_cai",
+    "name_ar": "لاو كاي",
+    "name_en": "Lao Cai",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_thai_nguyen",
+    "name_ar": "تاي نغوين",
+    "name_en": "Thai Nguyen",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_phy_tho",
+    "name_ar": "فو ثو",
+    "name_en": "Phu Tho",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_bac_ninh",
+    "name_ar": "باك نينه",
+    "name_en": "Bac Ninh",
+    "type": "PROVINCE",
+    "region_ar": "شمال فيتنام",
+    "region_en": "Northern Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_thanh_hoa",
+    "name_ar": "ثانه هوا",
+    "name_en": "Thanh Hoa",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_nghe_an",
+    "name_ar": "نغي آن",
+    "name_en": "Nghe An",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_ha_tinh",
+    "name_ar": "ها تينه",
+    "name_en": "Ha Tinh",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_quang_binh",
+    "name_ar": "كوانغ بينه",
+    "name_en": "Quang Binh",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_quang_tri",
+    "name_ar": "كوانغ تري",
+    "name_en": "Quang Tri",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_thua_thien_hue",
+    "name_ar": "ثوا ثين هوي",
+    "name_en": "Thua Thien Hue",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_quang_nam",
+    "name_ar": "كوانغ نام",
+    "name_en": "Quang Nam",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_quang_ngai",
+    "name_ar": "كوانغ نجاي",
+    "name_en": "Quang Ngai",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_binh_dinh",
+    "name_ar": "بينه دينه",
+    "name_en": "Binh Dinh",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_phu_yen",
+    "name_ar": "فو ين",
+    "name_en": "Phu Yen",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_khanh_hoa",
+    "name_ar": "خانه هوا",
+    "name_en": "Khanh Hoa",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_ninh_thuan",
+    "name_ar": "نينه ثوان",
+    "name_en": "Ninh Thuan",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_binh_thuan",
+    "name_ar": "بينه ثوان",
+    "name_en": "Binh Thuan",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_kon_tum",
+    "name_ar": "كون توم",
+    "name_en": "Kon Tum",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_gia_lai",
+    "name_ar": "جيا لاي",
+    "name_en": "Gia Lai",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_dak_lak",
+    "name_ar": "داك لاك",
+    "name_en": "Dak Lak",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_dak_nong",
+    "name_ar": "داك نونغ",
+    "name_en": "Dak Nong",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  },
+  {
+    "id": "vn_lam_dong",
+    "name_ar": "لام دونغ",
+    "name_en": "Lam Dong",
+    "type": "PROVINCE",
+    "region_ar": "وسط فيتنام",
+    "region_en": "Central Vietnam",
+    "is_capital": false
+  }
+]

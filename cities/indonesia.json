@@ -1,208 +1,498 @@
 {
-  "indonesia": {
-    "needs_ad": false,
-    "cities": {
-      "bali_denpasar": {
-        "names": {
-          "ar": "بالي (دنباسار وأوبود)",
-          "en": "Bali (Denpasar & Ubud)",
-          "tr": "Bali (Denpasar ve Ubud)"
-        },
-        "description": {
-          "ar": "جزيرة الآلهة الاستوائية العالمية، تشتهر بحقول أرز أوبود الخضراء، معابد أولوواتو، والشواطئ الفاخرة.",
-          "en": "Tropical paradise island, famous for Ubud rice terraces, Uluwatu cliff temple, and luxury beach clubs.",
-          "tr": "Ubud pirinç terasları, Uluwatu tapınağı ve lüks sahalarıyla ünlü tropikal cennet adası."
-        },
-        "image": "res://images/bali.png",
-        "bg_image": "res://images/bali_bg.png",
-        "image_3d": "res://images/bali_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع فورسيزونز بالاي سايان أوبود",
-              "en": "Four Seasons Resort Bali at Sayan",
-              "tr": "Four Seasons Resort Bali at Sayan"
-            },
-            "image": "res://images/four_seasons_bali.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "منتجع بولغاري بالي أولوواتو",
-              "en": "Bulgari Resort Bali",
-              "tr": "Bulgari Resort Bali"
-            },
-            "image": "res://images/bulgari_bali.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لوكافور أوبود بالي (Locavore)",
-              "en": "Locavore NXT Ubud",
-              "tr": "Locavore NXT Ubud Restoran"
-            },
-            "image": "res://images/locavore_bali.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات بالينيزية وإندونيسية معاصرة ومبتكرة",
-              "en": "Modern Indonesian Hyper-Local Gastronomy",
-              "tr": "Modern Endonezya Lüks Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "مصاطب أرز تيغالالانغ في أوبود (Tegallalang Rice Terraces)",
-              "en": "Tegallalang Rice Terraces Ubud",
-              "tr": "Tegallalang Pirinç Terasları Ubud"
-            },
-            "image": "res://images/tegallalang.png",
-            "description": {
-              "ar": "حقول أرز مدرجة خضراء ساحرة تعكس نظام الري البالينيزي التقليدي (سوباك).",
-              "en": "Iconic terraced emerald-green paddy fields using traditional Subak irrigation.",
-              "tr": "Geleneksel Subak sulama sistemini kullanan zümrüt yeşili pirinç tarlaları."
-            }
-          },
-          {
-            "name": {
-              "ar": "معبد أولوواتو المعلق على الصخر (Uluwatu Temple)",
-              "en": "Uluwatu Temple (Pura Luhur Uluwatu)",
-              "tr": "Uluwatu Tapınağı"
-            },
-            "image": "res://images/uluwatu_temple.png",
-            "description": {
-              "ar": "معبد بالينيزي جرفي يرتفع 70 متراً فوق أمواج المحيط الهندي مع عروض رقص الكيتشاك.",
-              "en": "Sea temple perched on a 70-meter cliff featuring daily Kecak fire dance shows.",
-              "tr": "70 metrelik falezde yer alan, günlük Kecak ateş dansı gösterili deniz tapınağı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "غابة القردة المقدسة في أوبود (Sacred Monkey Forest Sanctuary)",
-              "en": "Sacred Monkey Forest Sanctuary",
-              "tr": "Kutsal Maymun Ormanı Barınağı"
-            },
-            "image": "res://images/monkey_forest.png",
-            "description": {
-              "ar": "محمية غابات استوائية تضم معابد قديمة ومئات القرود الطليقة.",
-              "en": "Natural sanctuary home to over 1,000 Balinese long-tailed macaques and ancient temples.",
-              "tr": "1.000'den fazla şebek maymununa ve antik tapınaklara ev sahipliği yapan doğa koruma alanı."
-            }
-          }
-        ]
+  "featured_apps": [
+    {
+      "name": {
+        "ar": "غوجيك",
+        "en": "Gojek",
+        "tr": "Gojek"
       },
-      "jakarta": {
-        "names": {
-          "ar": "جاكرتا",
-          "en": "Jakarta",
-          "tr": "Cakarta"
-        },
-        "description": {
-          "ar": "عاصمة إندونيسيا الضخمة والمركز الاقتصادي، تشتهر بـ النصب الوطني (موناس)، مسجد الاستقلال، ومجمعات التسوق.",
-          "en": "Indonesia's sprawling capital, famous for the National Monument (Monas), Istiqlal Mosque, and malls.",
-          "tr": "Ulusal Anıt (Monas), İstiklal Camii ve alışveriş merkezleriyle ünlü Endonezya başkenti."
-        },
-        "image": "res://images/jakarta.png",
-        "bg_image": "res://images/jakarta_bg.png",
-        "image_3d": "res://images/jakarta_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق ذا ريتز كارلتون جاكرتا باترا كونينجان",
-              "en": "The Ritz-Carlton Jakarta, Mega Kuningan",
-              "tr": "The Ritz-Carlton Jakarta, Mega Kuningan"
-            },
-            "image": "res://images/ritz_jakarta.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم بينانغ بينتانغ جاكرتا (Skye Restaurant)",
-              "en": "Skye Bar & Restaurant Jakarta",
-              "tr": "Skye Bar & Restoran Cakarta"
-            },
-            "image": "res://images/skye_jakarta.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "مأكولات آسيية وعالمية مع طلة ناطحات السحاب 56 طابقاً",
-              "en": "Rooftop Asian Fusion & Skyline Views",
-              "tr": "Panoramik Şehir Manzaralı Asya Füzyon"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "مسجد الاستقلال العظيم (Istiqlal Mosque)",
-              "en": "Istiqlal Mosque",
-              "tr": "İstiklal Camii"
-            },
-            "image": "res://images/istiqlal_mosque.png",
-            "description": {
-              "ar": "أكبر مسجد في جنوب شرق آسيا يتسع لأكثر من 200,000 مصلي.",
-              "en": "The largest mosque in Southeast Asia with a capacity of over 200,000 worshippers.",
-              "tr": "200.000'den fazla cemaat kapasitesiyle Güneydoğu Asya'nın en büyük camii."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "النصب الوطني موناس (Monas - National Monument)",
-              "en": "National Monument (Monas)",
-              "tr": "Ulusal Anıt (Monas)"
-            },
-            "image": "res://images/monas_jakarta.png",
-            "description": {
-              "ar": "برج تذكاري بارتفاع 132 متراً يتوجه شعلة مغطاة بالذهب الخالص.",
-              "en": "132-meter tower in Merdeka Square topped with a gold-foil flame.",
-              "tr": "Merdeka Meydanı'nda altın kaplama alevli 132 metrelik kule."
-            }
-          }
-        ]
-      }
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/gojek.png",
+      "desc": {
+        "ar": "التطبيق الأول والأكثر شهرة في إندونيسيا لطلب سيارات ودراجات الأجرة وتوصيل الطعام والخدمات اليومية.",
+        "en": "The leading super-app in Indonesia for ride-hailing (bikes & cars), food delivery, and daily services.",
+        "tr": "Endonezya'da taksi, motosiklet çağırma ve yemek siparişi için en popüler süper uygulama."
+      },
+      "url": "https://www.gojek.com"
+    },
+    {
+      "name": {
+        "ar": "غراب",
+        "en": "Grab",
+        "tr": "Grab"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/grab.png",
+      "desc": {
+        "ar": "تطبيق شامل وموثوق للتنقل بسيارات ودراجات الأجرة وتوصيل الطعام والطرود عبر مختلف المدن الإندونيسية.",
+        "en": "Comprehensive app for car and bike ride-hailing, food delivery, and courier services across Indonesia.",
+        "tr": "Endonezya genelinde araç ve motosiklet çağırma ile yemek teslimatı sunan popüler uygulama."
+      },
+      "url": "https://www.grab.com/id/"
+    },
+    {
+      "name": {
+        "ar": "ترافيلوكا",
+        "en": "Traveloka",
+        "tr": "Traveloka"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/traveloka.png",
+      "desc": {
+        "ar": "المنصة الإندونيسية الرائدة لحجز تذاكر الطيران، الفنادق، القطارات، والفعاليات السياحية والأنشطة.",
+        "en": "Indonesia's premier platform for booking flights, hotels, trains, and tourist attractions.",
+        "tr": "Endonezya'da uçak bileti, otel, tren ve turistik aktivite rezervasyonları için lider platform."
+      },
+      "url": "https://www.traveloka.com"
+    },
+    {
+      "name": {
+        "ar": "توكوبيديا",
+        "en": "Tokopedia",
+        "tr": "Tokopedia"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/tokopedia.png",
+      "desc": {
+        "ar": "أكبر منصة للتسوق الإلكتروني في إندونيسيا لشراء كافة المنتجات والإلكترونيات ودفع الفواتير.",
+        "en": "The largest online marketplace in Indonesia for shopping, electronics, and bill payments.",
+        "tr": "Endonezya'nın her türlü alışveriş, elektronik ve fatura ödemesi için en büyük e-ticaret platformu."
+      },
+      "url": "https://www.tokopedia.com"
+    },
+    {
+      "name": {
+        "ar": "بلو بيرد تاكسي",
+        "en": "MyBluebird Taxi",
+        "tr": "MyBluebird Taksi"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/bluebird.png",
+      "desc": {
+        "ar": "التطبيق الرسمي لأسطول تاكسي بلو بيرد الشهير والموثوق بعدادات رسمية وأمان عالٍ في إندونيسيا.",
+        "en": "Official app for the trusted Bluebird taxi fleet, offering metered and safe rides throughout Indonesia.",
+        "tr": "Endonezya'nın en güvenilir taksi filosu olan Bluebird'ün resmi taksi çağırma uygulaması."
+      },
+      "url": "https://www.bluebirdgroup.com"
+    },
+    {
+      "name": {
+        "ar": "تيكيت دوت كوم",
+        "en": "Tiket.com",
+        "tr": "Tiket.com"
+      },
+      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/tiket.png",
+      "desc": {
+        "ar": "تطبيق شهير لحجز تذاكر الفعاليات الترفيهية، الفنادق، استئجار السيارات وتذاكر الطيران والقطار.",
+        "en": "Popular Indonesian app for booking event tickets, hotels, car rentals, and flights.",
+        "tr": "Endonezya'da etkinlik biletleri, otel, araç kiralama ve uçak bileti rezervasyonu için popüler uygulama."
+      },
+      "url": "https://www.tiket.com"
+    }
+  ],
+  "cities": {
+    "jakarta": {
+      "names": { "ar": "جاكرتا", "en": "Jakarta", "tr": "Cakarta" }
+    },
+    "bali": {
+      "names": { "ar": "بالي", "en": "Bali", "tr": "Bali" }
+    },
+    "surabaya": {
+      "names": { "ar": "سورابايا", "en": "Surabaya", "tr": "Surabaya" }
+    },
+    "bandung": {
+      "names": { "ar": "باندونغ", "en": "Bandung", "tr": "Bandung" }
+    },
+    "yogyakarta": {
+      "names": { "ar": "يوغياكارتا", "en": "Yogyakarta", "tr": "Yogyakarta" }
+    },
+    "bogor": {
+      "names": { "ar": "بوغور", "en": "Bogor", "tr": "Bogor" }
+    },
+    "malang": {
+      "names": { "ar": "مالانغ", "en": "Malang", "tr": "Malang" }
+    },
+    "lombok": {
+      "names": { "ar": "لومبوك", "en": "Lombok", "tr": "Lombok" }
+    },
+    "medan": {
+      "names": { "ar": "ميدان", "en": "Medan", "tr": "Medan" }
+    },
+    "makassar": {
+      "names": { "ar": "ماكاسار", "en": "Makassar", "tr": "Makassar" }
+    },
+    "semarang": {
+      "names": { "ar": "سيمارانغ", "en": "Semarang", "tr": "Semarang" }
+    },
+    "balikpapan": {
+      "names": { "ar": "باليكبابان", "en": "Balikpapan", "tr": "Balikpapan" }
+    },
+    "nusantara": {
+      "names": { "ar": "نوسانتارا", "en": "Nusantara", "tr": "Nusantara" }
+    },
+    "padang": {
+      "names": { "ar": "بادانغ", "en": "Padang", "tr": "Padang" }
+    },
+    "palembang": {
+      "names": { "ar": "فلمبان", "en": "Palembang", "tr": "Palembang" }
+    },
+    "batam": {
+      "names": { "ar": "باتام", "en": "Batam", "tr": "Batam" }
+    },
+    "manado": {
+      "names": { "ar": "مانادو", "en": "Manado", "tr": "Manado" }
+    },
+    "surakarta": {
+      "names": { "ar": "سوراكارتا", "en": "Surakarta", "tr": "Surakarta" }
+    },
+    "banda_aceh": {
+      "names": { "ar": "باندا أتشيه", "en": "Banda Aceh", "tr": "Banda Aceh" }
+    },
+    "sorong": {
+      "names": { "ar": "سورونغ", "en": "Sorong", "tr": "Sorong" }
+    },
+    "pekanbaru": {
+      "names": { "ar": "بيكانبارو", "en": "Pekanbaru", "tr": "Pekanbaru" }
+    },
+    "pontianak": {
+      "names": { "ar": "بونتياناك", "en": "Pontianak", "tr": "Pontianak" }
+    },
+    "samarinda": {
+      "names": { "ar": "ساماريندا", "en": "Samarinda", "tr": "Samarinda" }
+    },
+    "banjarmasin": {
+      "names": { "ar": "بنجرماسين", "en": "Banjarmasin", "tr": "Banjarmasin" }
+    },
+    "tangerang": {
+      "names": { "ar": "تانغيرانغ", "en": "Tangerang", "tr": "Tangerang" }
+    },
+    "bekasi": {
+      "names": { "ar": "بيكاسي", "en": "Bekasi", "tr": "Bekasi" }
+    },
+    "depok": {
+      "names": { "ar": "ديبوك", "en": "Depok", "tr": "Depok" }
+    },
+    "ambon": {
+      "names": { "ar": "أمبون", "en": "Ambon", "tr": "Ambon" }
+    },
+    "puncak": {
+      "names": { "ar": "بونشاك", "en": "Puncak", "tr": "Puncak" }
+    },
+    "kupang": {
+      "names": { "ar": "كوبانغ", "en": "Kupang", "tr": "Kupang" }
+    },
+    "cirebon": {
+      "names": { "ar": "سيربون", "en": "Cirebon", "tr": "Cirebon" }
+    },
+    "sukabumi": {
+      "names": { "ar": "سوكابومي", "en": "Sukabumi", "tr": "Sukabumi" }
+    },
+    "palu": {
+      "names": { "ar": "بالو", "en": "Palu", "tr": "Palu" }
+    },
+    "kendari": {
+      "names": { "ar": "كنداري", "en": "Kendari", "tr": "Kendari" }
+    },
+    "gorontalo": {
+      "names": { "ar": "غورونتالو", "en": "Gorontalo", "tr": "Gorontalo" }
+    },
+    "jambi": {
+      "names": { "ar": "جمبي", "en": "Jambi", "tr": "Jambi" }
+    },
+    "bengkulu": {
+      "names": { "ar": "بنغكولو", "en": "Bengkulu", "tr": "Bengkulu" }
+    },
+    "bandar_lampung": {
+      "names": { "ar": "بندر لامبونغ", "en": "Bandar Lampung", "tr": "Bandar Lampung" }
+    },
+    "tarakan": {
+      "names": { "ar": "تاراكان", "en": "Tarakan", "tr": "Tarakan" }
+    },
+    "labuan_bajo": {
+      "names": { "ar": "لابوان باجو", "en": "Labuan Bajo", "tr": "Labuan Bajo" }
+    },
+    "ubud": {
+      "names": { "ar": "أوبود", "en": "Ubud", "tr": "Ubud" }
+    },
+    "kuta": {
+      "names": { "ar": "كوتا", "en": "Kuta", "tr": "Kuta" }
+    },
+    "seminyak": {
+      "names": { "ar": "سيمينياك", "en": "Seminyak", "tr": "Seminyak" }
+    },
+    "nusa_dua": {
+      "names": { "ar": "نوسا دوا", "en": "Nusa Dua", "tr": "Nusa Dua" }
+    },
+    "jimbaran": {
+      "names": { "ar": "جيمباران", "en": "Jimbaran", "tr": "Jimbaran" }
+    },
+    "ternate": {
+      "names": { "ar": "تيرنات", "en": "Ternate", "tr": "Ternate" }
+    },
+    "jayapura": {
+      "names": { "ar": "جايابورا", "en": "Jayapura", "tr": "Jayapura" }
+    },
+    "manokwari": {
+      "names": { "ar": "مانوكواري", "en": "Manokwari", "tr": "Manokwari" }
+    },
+    "merauke": {
+      "names": { "ar": "ميراوكي", "en": "Merauke", "tr": "Merauke" }
+    },
+    "biak": {
+      "names": { "ar": "بياك", "en": "Biak", "tr": "Biak" }
+    },
+    "tomohon": {
+      "names": { "ar": "توموهون", "en": "Tomohon", "tr": "Tomohon" }
+    },
+    "tanjung_pinang": {
+      "names": { "ar": "تانجونغ بينانغ", "en": "Tanjung Pinang", "tr": "Tanjung Pinang" }
+    },
+    "pangkal_pinang": {
+      "names": { "ar": "بانغكال بينانغ", "en": "Pangkal Pinang", "tr": "Pangkal Pinang" }
+    },
+    "tanjung_pandan": {
+      "names": { "ar": "تانجونغ باندان", "en": "Tanjung Pandan", "tr": "Tanjung Pandan" }
+    },
+    "blitar": {
+      "names": { "ar": "بليتار", "en": "Blitar", "tr": "Blitar" }
+    },
+    "madiun": {
+      "names": { "ar": "ماديون", "en": "Madiun", "tr": "Madiun" }
+    },
+    "kediri": {
+      "names": { "ar": "كيديري", "en": "Kediri", "tr": "Kediri" }
+    },
+    "pasuruan": {
+      "names": { "ar": "باسوروان", "en": "Pasuruan", "tr": "Pasuruan" }
+    },
+    "probolinggo": {
+      "names": { "ar": "بروبولينغو", "en": "Probolinggo", "tr": "Probolinggo" }
+    },
+    "mojokerto": {
+      "names": { "ar": "موجوكيرتو", "en": "Mojokerto", "tr": "Mojokerto" }
+    },
+    "batu": {
+      "names": { "ar": "باتو", "en": "Batu", "tr": "Batu" }
+    },
+    "tasikmalaya": {
+      "names": { "ar": "تاسيكماﻻيا", "en": "Tasikmalaya", "tr": "Tasikmalaya" }
+    },
+    "cimahi": {
+      "names": { "ar": "سيماهي", "en": "Cimahi", "tr": "Cimahi" }
+    },
+    "banjar": {
+      "names": { "ar": "بانجار", "en": "Banjar", "tr": "Banjar" }
+    },
+    "pekalongan": {
+      "names": { "ar": "بيكالونغان", "en": "Pekalongan", "tr": "Pekalongan" }
+    },
+    "tegal": {
+      "names": { "ar": "تيغال", "en": "Tegal", "tr": "Tegal" }
+    },
+    "salatiga": {
+      "names": { "ar": "سالاتيغا", "en": "Salatiga", "tr": "Salatiga" }
+    },
+    "magelang": {
+      "names": { "ar": "ماغيلانغ", "en": "Magelang", "tr": "Magelang" }
+    },
+    "singkawang": {
+      "names": { "ar": "سينغكوانغ", "en": "Singkawang", "tr": "Singkawang" }
+    },
+    "bontang": {
+      "names": { "ar": "بونتانغ", "en": "Bontang", "tr": "Bontang" }
+    },
+    "banjarbaru": {
+      "names": { "ar": "بانجاربارو", "en": "Banjarbaru", "tr": "Banjarbaru" }
+    },
+    "palangkaraya": {
+      "names": { "ar": "بالانغكارايا", "en": "Palangkaraya", "tr": "Palangkaraya" }
+    },
+    "binjai": {
+      "names": { "ar": "بينجاي", "en": "Binjai", "tr": "Binjai" }
+    },
+    "tebing_tinggi": {
+      "names": { "ar": "تيبينغ تينغي", "en": "Tebing Tinggi", "tr": "Tebing Tinggi" }
+    },
+    "pematangsiantar": {
+      "names": { "ar": "بيماتانغ سيانتار", "en": "Pematangsiantar", "tr": "Pematangsiantar" }
+    },
+    "tanjungbalai": {
+      "names": { "ar": "تانجونغ بالاي", "en": "Tanjungbalai", "tr": "Tanjungbalai" }
+    },
+    "sibolga": {
+      "names": { "ar": "سيبولغا", "en": "Sibolga", "tr": "Sibolga" }
+    },
+    "padangsidimpuan": {
+      "names": { "ar": "بادانغ سيديمبوان", "en": "Padangsidimpuan", "tr": "Padangsidimpuan" }
+    },
+    "gunungsitoli": {
+      "names": { "ar": "غونونغ سيتولي", "en": "Gunungsitoli", "tr": "Gunungsitoli" }
+    },
+    "payakumbuh": {
+      "names": { "ar": "باياكومبوه", "en": "Payakumbuh", "tr": "Payakumbuh" }
+    },
+    "bukittinggi": {
+      "names": { "ar": "بوكيت تينغي", "en": "Bukittinggi", "tr": "Bukittinggi" }
+    },
+    "pariaman": {
+      "names": { "ar": "باريامان", "en": "Pariaman", "tr": "Pariaman" }
+    },
+    "solok": {
+      "names": { "ar": "سولوك", "en": "Solok", "tr": "Solok" }
+    },
+    "sawahlunto": {
+      "names": { "ar": "ساواهلونتو", "en": "Sawahlunto", "tr": "Sawahlunto" }
+    },
+    "padang_panjang": {
+      "names": { "ar": "بادانغ بانجانغ", "en": "Padang Panjang", "tr": "Padang Panjang" }
+    },
+    "dumai": {
+      "names": { "ar": "دوماي", "en": "Dumai", "tr": "Dumai" }
+    },
+    "lubuklinggau": {
+      "names": { "ar": "لوبوك لينغاو", "en": "Lubuklinggau", "tr": "Lubuklinggau" }
+    },
+    "pagar_alam": {
+      "names": { "ar": "باغار ألام", "en": "Pagar Alam", "tr": "Pagar Alam" }
+    },
+    "prabumulih": {
+      "names": { "ar": "برابوموليه", "en": "Prabumulih", "tr": "Prabumulih" }
+    },
+    "tanjung_balai_karimun": {
+      "names": { "ar": "تانجونغ بالاي كاريمون", "en": "Tanjung Balai Karimun", "tr": "Tanjung Balai Karimun" }
+    },
+    "garut": {
+      "names": { "ar": "غاروت", "en": "Garut", "tr": "Garut" }
+    },
+    "cianjur": {
+      "names": { "ar": "سيانجور", "en": "Cianjur", "tr": "Cianjur" }
+    },
+    "purwakarta": {
+      "names": { "ar": "بورواكارتا", "en": "Purwakarta", "tr": "Purwakarta" }
+    },
+    "subang": {
+      "names": { "ar": "سوبانغ", "en": "Subang", "tr": "Subang" }
+    },
+    "karawang": {
+      "names": { "ar": "كاراوانغ", "en": "Karawang", "tr": "Karawang" }
+    },
+    "indramayu": {
+      "names": { "ar": "إندرامايو", "en": "Indramayu", "tr": "Indramayu" }
+    },
+    "majalengka": {
+      "names": { "ar": "ماجالينغكا", "en": "Majalengka", "tr": "Majalengka" }
+    },
+    "kuningan": {
+      "names": { "ar": "كونينغان", "en": "Kuningan", "tr": "Kuningan" }
+    },
+    "sumedang": {
+      "names": { "ar": "سوميدانغ", "en": "Sumedang", "tr": "Sumedang" }
+    },
+    "ciamis": {
+      "names": { "ar": "سياميس", "en": "Ciamis", "tr": "Ciamis" }
+    },
+    "cilacap": {
+      "names": { "ar": "سيلاكاب", "en": "Cilacap", "tr": "Cilacap" }
+    },
+    "banyumas": {
+      "names": { "ar": "بانيوماس", "en": "Banyumas", "tr": "Banyumas" }
+    },
+    "purbalingga": {
+      "names": { "ar": "بوربالينغغا", "en": "Purbalingga", "tr": "Purbalingga" }
+    },
+    "banjarnegara": {
+      "names": { "ar": "بانجارنيغارا", "en": "Banjarnegara", "tr": "Banjarnegara" }
+    },
+    "kebumen": {
+      "names": { "ar": "كيبومين", "en": "Kebumen", "tr": "Kebumen" }
+    },
+    "purworejo": {
+      "names": { "ar": "بوروريجو", "en": "Purworejo", "tr": "Purworejo" }
+    },
+    "wonosobo": {
+      "names": { "ar": "وونوسوبو", "en": "Wonosobo", "tr": "Wonosobo" }
+    },
+    "boyolali": {
+      "names": { "ar": "بويولالي", "en": "Boyolali", "tr": "Boyolali" }
+    },
+    "klaten": {
+      "names": { "ar": "كلاتن", "en": "Klaten", "tr": "Klaten" }
+    },
+    "sukoharjo": {
+      "names": { "ar": "سوكوهارجو", "en": "Sukoharjo", "tr": "Sukoharjo" }
+    },
+    "wonogiri": {
+      "names": { "ar": "وونوغيري", "en": "Wonogiri", "tr": "Wonogiri" }
+    },
+    "karanganyar": {
+      "names": { "ar": "كارانغانيار", "en": "Karanganyar", "tr": "Karanganyar" }
+    },
+    "sragen": {
+      "names": { "ar": "سراغين", "en": "Sragen", "tr": "Sragen" }
+    },
+    "grobogan": {
+      "names": { "ar": "غروبوغان", "en": "Grobogan", "tr": "Grobogan" }
+    },
+    "blora": {
+      "names": { "ar": "بلورا", "en": "Blora", "tr": "Blora" }
+    },
+    "rembang": {
+      "names": { "ar": "ريمبانغ", "en": "Rembang", "tr": "Rembang" }
+    },
+    "pati": {
+      "names": { "ar": "باتي", "en": "Pati", "tr": "Pati" }
+    },
+    "kudus": {
+      "names": { "ar": "كودوس", "en": "Kudus", "tr": "Kudus" }
+    },
+    "jepara": {
+      "names": { "ar": "جيبارا", "en": "Jepara", "tr": "Jepara" }
+    },
+    "demak": {
+      "names": { "ar": "ديماك", "en": "Demak", "tr": "Demak" }
+    },
+    "temanggung": {
+      "names": { "ar": "تيمانغونغ", "en": "Temanggung", "tr": "Temanggung" }
+    },
+    "kendal": {
+      "names": { "ar": "كيندال", "en": "Kendal", "tr": "Kendal" }
+    },
+    "batang": {
+      "names": { "ar": "باتانغ", "en": "Batang", "tr": "Batang" }
+    },
+    "pekalongan_regency": {
+      "names": { "ar": "مقاطعة بيكالونغان", "en": "Pekalongan Regency", "tr": "Pekalongan Regency" }
+    },
+    "pemalang": {
+      "names": { "ar": "بيمالانغ", "en": "Pemalang", "tr": "Pemalang" }
+    },
+    "brebes": {
+      "names": { "ar": "بريبس", "en": "Brebes", "tr": "Brebes" }
+    },
+    "pacitan": {
+      "names": { "ar": "باتشيتان", "en": "Pacitan", "tr": "Pacitan" }
+    },
+    "ponorogo": {
+      "names": { "ar": "بونوروغو", "en": "Ponorogo", "tr": "Ponorogo" }
+    },
+    "trenggalek": {
+      "names": { "ar": "ترينغاليك", "en": "Trenggalek", "tr": "Trenggalek" }
+    },
+    "tulungagung": {
+      "names": { "ar": "تولونغاغونغ", "en": "Tulungagung", "tr": "Tulungagung" }
+    },
+    "nganjuk": {
+      "names": { "ar": "نغانجوك", "en": "Nganjuk", "tr": "Nganjuk" }
+    },
+    "jombang": {
+      "names": { "ar": "جومبانغ", "en": "Jombang", "tr": "Jombang" }
+    },
+    "bojonegoro": {
+      "names": { "ar": "بوجونيغورو", "en": "Bojonegoro", "tr": "Bojonegoro" }
+    },
+    "tuban": {
+      "names": { "ar": "توبان", "en": "Tuban", "tr": "Tuban" }
+    },
+    "lamongan": {
+      "names": { "ar": "لامونغان", "en": "Lamongan", "tr": "Lamongan" }
+    },
+    "gresik": {
+      "names": { "ar": "غريسيك", "en": "Gresik", "tr": "Gresik" }
     }
   }
 }

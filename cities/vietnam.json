@@ -1,308 +1,193 @@
-[
-  {
-    "id": "vn_hanoi",
-    "name_ar": "هانوي",
-    "name_en": "Hanoi",
-    "type": "CENTRAL_CITY",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": true
-  },
-  {
-    "id": "vn_ho_chi_minh",
-    "name_ar": "مدينة هو تشي منه",
-    "name_en": "Ho Chi Minh City",
-    "type": "CENTRAL_CITY",
-    "region_ar": "جنوب فيتنام",
-    "region_en": "Southern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_da_nang",
-    "name_ar": "دا نانغ",
-    "name_en": "Da Nang",
-    "type": "CENTRAL_CITY",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_hai_phong",
-    "name_ar": "هاي فونغ",
-    "name_en": "Hai Phong",
-    "type": "CENTRAL_CITY",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_can_tho",
-    "name_ar": "كان ثو",
-    "name_en": "Can Tho",
-    "type": "CENTRAL_CITY",
-    "region_ar": "جنوب فيتنام",
-    "region_en": "Southern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_hue",
-    "name_ar": "هوي",
-    "name_en": "Hue",
-    "type": "CENTRAL_CITY",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_cao_bang",
-    "name_ar": "كاو بانغ",
-    "name_en": "Cao Bang",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_dien_bien",
-    "name_ar": "ديين بيان",
-    "name_en": "Dien Bien",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_lai_chau",
-    "name_ar": "لاي تشاو",
-    "name_en": "Lai Chau",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_lang_son",
-    "name_ar": "لانغ سون",
-    "name_en": "Lang Son",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_son_la",
-    "name_ar": "سون لا",
-    "name_en": "Son La",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_quang_ninh",
-    "name_ar": "كوانغ نينه",
-    "name_en": "Quang Ninh",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_lao_cai",
-    "name_ar": "لاو كاي",
-    "name_en": "Lao Cai",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_thai_nguyen",
-    "name_ar": "تاي نغوين",
-    "name_en": "Thai Nguyen",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_phy_tho",
-    "name_ar": "فو ثو",
-    "name_en": "Phu Tho",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_bac_ninh",
-    "name_ar": "باك نينه",
-    "name_en": "Bac Ninh",
-    "type": "PROVINCE",
-    "region_ar": "شمال فيتنام",
-    "region_en": "Northern Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_thanh_hoa",
-    "name_ar": "ثانه هوا",
-    "name_en": "Thanh Hoa",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_nghe_an",
-    "name_ar": "نغي آن",
-    "name_en": "Nghe An",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_ha_tinh",
-    "name_ar": "ها تينه",
-    "name_en": "Ha Tinh",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_quang_binh",
-    "name_ar": "كوانغ بينه",
-    "name_en": "Quang Binh",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_quang_tri",
-    "name_ar": "كوانغ تري",
-    "name_en": "Quang Tri",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_thua_thien_hue",
-    "name_ar": "ثوا ثين هوي",
-    "name_en": "Thua Thien Hue",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_quang_nam",
-    "name_ar": "كوانغ نام",
-    "name_en": "Quang Nam",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_quang_ngai",
-    "name_ar": "كوانغ نجاي",
-    "name_en": "Quang Ngai",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_binh_dinh",
-    "name_ar": "بينه دينه",
-    "name_en": "Binh Dinh",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_phu_yen",
-    "name_ar": "فو ين",
-    "name_en": "Phu Yen",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_khanh_hoa",
-    "name_ar": "خانه هوا",
-    "name_en": "Khanh Hoa",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_ninh_thuan",
-    "name_ar": "نينه ثوان",
-    "name_en": "Ninh Thuan",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_binh_thuan",
-    "name_ar": "بينه ثوان",
-    "name_en": "Binh Thuan",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_kon_tum",
-    "name_ar": "كون توم",
-    "name_en": "Kon Tum",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_gia_lai",
-    "name_ar": "جيا لاي",
-    "name_en": "Gia Lai",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_dak_lak",
-    "name_ar": "داك لاك",
-    "name_en": "Dak Lak",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_dak_nong",
-    "name_ar": "داك نونغ",
-    "name_en": "Dak Nong",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
-  },
-  {
-    "id": "vn_lam_dong",
-    "name_ar": "لام دونغ",
-    "name_en": "Lam Dong",
-    "type": "PROVINCE",
-    "region_ar": "وسط فيتنام",
-    "region_en": "Central Vietnam",
-    "is_capital": false
+{
+  "cities": {
+    "hanoi": {
+      "names": { "ar": "هانوي", "en": "Hanoi", "tr": "Hanoi" }
+    },
+    "ho_chi_minh_city": {
+      "names": { "ar": "مدينة هو تشي منه", "en": "Ho Chi Minh City", "tr": "Ho Chi Minh Şehri" }
+    },
+    "hai_phong": {
+      "names": { "ar": "هاي فونغ", "en": "Hai Phong", "tr": "Hai Phong" }
+    },
+    "da_nang": {
+      "names": { "ar": "دا نانغ", "en": "Da Nang", "tr": "Da Nang" }
+    },
+    "can_tho": {
+      "names": { "ar": "كان ثو", "en": "Can Tho", "tr": "Can Tho" }
+    },
+    "dien_bien": {
+      "names": { "ar": "ديين بيين", "en": "Dien Bien", "tr": "Dien Bien" }
+    },
+    "hoa_binh": {
+      "names": { "ar": "هوا بينه", "en": "Hoa Binh", "tr": "Hoa Binh" }
+    },
+    "lai_chau": {
+      "names": { "ar": "لاي تشاو", "en": "Lai Chau", "tr": "Lai Chau" }
+    },
+    "lao_cai": {
+      "names": { "ar": "لاو كاي", "en": "Lao Cai", "tr": "Lao Cai" }
+    },
+    "son_la": {
+      "names": { "ar": "سون لا", "en": "Son La", "tr": "Son La" }
+    },
+    "yen_bai": {
+      "names": { "ar": "يين باي", "en": "Yen Bai", "tr": "Yen Bai" }
+    },
+    "bac_giang": {
+      "names": { "ar": "باك جيانغ", "en": "Bac Giang", "tr": "Bac Giang" }
+    },
+    "bac_kan": {
+      "names": { "ar": "باك كان", "en": "Bac Kan", "tr": "Bac Kan" }
+    },
+    "cao_bang": {
+      "names": { "ar": "كاو بانغ", "en": "Cao Bang", "tr": "Cao Bang" }
+    },
+    "ha_giang": {
+      "names": { "ar": "ها جيانغ", "en": "Ha Giang", "tr": "Ha Giang" }
+    },
+    "lang_son": {
+      "names": { "ar": "لانغ سون", "en": "Lang Son", "tr": "Lang Son" }
+    },
+    "phu_tho": {
+      "names": { "ar": "فو ثو", "en": "Phu Tho", "tr": "Phu Tho" }
+    },
+    "quang_ninh": {
+      "names": { "ar": "كوانغ نينه", "en": "Quang Ninh", "tr": "Quang Ninh" }
+    },
+    "thai_nguyen": {
+      "names": { "ar": "تاي نغوين", "en": "Thai Nguyen", "tr": "Thai Nguyen" }
+    },
+    "tuyen_quang": {
+      "names": { "ar": "توين كوانغ", "en": "Tuyen Quang", "tr": "Tuyen Quang" }
+    },
+    "bac_ninh": {
+      "names": { "ar": "باك نينه", "en": "Bac Ninh", "tr": "Bac Ninh" }
+    },
+    "ha_nam": {
+      "names": { "ar": "ها نام", "en": "Ha Nam", "tr": "Ha Nam" }
+    },
+    "hai_duong": {
+      "names": { "ar": "هاي دوونغ", "en": "Hai Duong", "tr": "Hai Duong" }
+    },
+    "hung_yen": {
+      "names": { "ar": "هانغ ين", "en": "Hung Yen", "tr": "Hung Yen" }
+    },
+    "nam_dinh": {
+      "names": { "ar": "نام دينه", "en": "Nam Dinh", "tr": "Nam Dinh" }
+    },
+    "ninh_binh": {
+      "names": { "ar": "نينه بينه", "en": "Ninh Binh", "tr": "Ninh Binh" }
+    },
+    "thai_binh": {
+      "names": { "ar": "تاي بينه", "en": "Thai Binh", "tr": "Thai Binh" }
+    },
+    "vinh_phuc": {
+      "names": { "ar": "فينه فوك", "en": "Vinh Phuc", "tr": "Vinh Phuc" }
+    },
+    "ha_tinh": {
+      "names": { "ar": "ها تينه", "en": "Ha Tinh", "tr": "Ha Tinh" }
+    },
+    "nghe_an": {
+      "names": { "ar": "نغي آن", "en": "Nghe An", "tr": "Nghe An" }
+    },
+    "quang_binh": {
+      "names": { "ar": "كوانغ بينه", "en": "Quang Binh", "tr": "Quang Binh" }
+    },
+    "quang_tri": {
+      "names": { "ar": "كوانغ تري", "en": "Quang Tri", "tr": "Quang Tri" }
+    },
+    "thanh_hoa": {
+      "names": { "ar": "ثانه هوا", "en": "Thanh Hoa", "tr": "Thanh Hoa" }
+    },
+    "thua_thien_hue": {
+      "names": { "ar": "ثوا ثين هوي", "en": "Thua Thien Hue", "tr": "Thua Thien Hue" }
+    },
+    "binh_dinh": {
+      "names": { "ar": "بينه دينه", "en": "Binh Dinh", "tr": "Binh Dinh" }
+    },
+    "binh_thuan": {
+      "names": { "ar": "بينه ثوان", "en": "Binh Thuan", "tr": "Binh Thuan" }
+    },
+    "khanh_hoa": {
+      "names": { "ar": "خانه هوا", "en": "Khanh Hoa", "tr": "Khanh Hoa" }
+    },
+    "ninh_thuan": {
+      "names": { "ar": "نينه ثوان", "en": "Ninh Thuan", "tr": "Ninh Thuan" }
+    },
+    "quang_nam": {
+      "names": { "ar": "كوانغ نام", "en": "Quang Nam", "tr": "Quang Nam" }
+    },
+    "quang_ngai": {
+      "names": { "ar": "كوانغ نجاي", "en": "Quang Ngai", "tr": "Quang Ngai" }
+    },
+    "phu_yen": {
+      "names": { "ar": "فو ين", "en": "Phu Yen", "tr": "Phu Yen" }
+    },
+    "dak_lak": {
+      "names": { "ar": "داك لاك", "en": "Dak Lak", "tr": "Dak Lak" }
+    },
+    "dak_nong": {
+      "names": { "ar": "داك نونغ", "en": "Dak Nong", "tr": "Dak Nong" }
+    },
+    "gia_lai": {
+      "names": { "ar": "جيا لاي", "en": "Gia Lai", "tr": "Gia Lai" }
+    },
+    "kon_tum": {
+      "names": { "ar": "كون توم", "en": "Kon Tum", "tr": "Kon Tum" }
+    },
+    "lam_dong": {
+      "names": { "ar": "لام دونغ", "en": "Lam Dong", "tr": "Lam Dong" }
+    },
+    "ba_ria_vung_tau": {
+      "names": { "ar": "با ريا - فونغ تاو", "en": "Ba Ria - Vung Tau", "tr": "Ba Ria - Vung Tau" }
+    },
+    "binh_duong": {
+      "names": { "ar": "بينه دوونغ", "en": "Binh Duong", "tr": "Binh Duong" }
+    },
+    "binh_phuoc": {
+      "names": { "ar": "بينه فوك", "en": "Binh Phuoc", "tr": "Binh Phuoc" }
+    },
+    "dong_nai": {
+      "names": { "ar": "دونغ ناي", "en": "Dong Nai", "tr": "Dong Nai" }
+    },
+    "tay_ninh": {
+      "names": { "ar": "تاي نينه", "en": "Tay Ninh", "tr": "Tay Ninh" }
+    },
+    "an_giang": {
+      "names": { "ar": "أن جيانغ", "en": "An Giang", "tr": "An Giang" }
+    },
+    "bac_lieu": {
+      "names": { "ar": "باك ليو", "en": "Bac Lieu", "tr": "Bac Lieu" }
+    },
+    "ben_tre": {
+      "names": { "ar": "بن تري", "en": "Ben Tre", "tr": "Ben Tre" }
+    },
+    "ca_mau": {
+      "names": { "ar": "كا ماو", "en": "Ca Mau", "tr": "Ca Mau" }
+    },
+    "dong_thap": {
+      "names": { "ar": "دونغ ثاب", "en": "Dong Thap", "tr": "Dong Thap" }
+    },
+    "hau_giang": {
+      "names": { "ar": "هاو جيانغ", "en": "Hau Giang", "tr": "Hau Giang" }
+    },
+    "kien_giang": {
+      "names": { "ar": "كين جيانغ", "en": "Kien Giang", "tr": "Kien Giang" }
+    },
+    "long_an": {
+      "names": { "ar": "لونغ أن", "en": "Long An", "tr": "Long An" }
+    },
+    "soc_trang": {
+      "names": { "ar": "سوك ترانغ", "en": "Soc Trang", "tr": "Soc Trang" }
+    },
+    "tien_giang": {
+      "names": { "ar": "تيان جيانغ", "en": "Tien Giang", "tr": "Tien Giang" }
+    },
+    "tra_vinh": {
+      "names": { "ar": "ترا فينه", "en": "Tra Vinh", "tr": "Tra Vinh" }
+    },
+    "vinh_long": {
+      "names": { "ar": "فينه لونغ", "en": "Vinh Long", "tr": "Vinh Long" }
+    }
   }
-]
+}

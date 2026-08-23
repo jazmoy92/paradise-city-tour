@@ -1,0 +1,73 @@
+{
+  "ho_chi_minh_city": {
+    "names": {
+      "ar": "مدينة هو تشي منه",
+      "en": "Ho Chi Minh City",
+      "tr": "Ho Chi Minh Şehri"
+    },
+    "description": {
+      "ar": "تعتبر مدينة هو تشي منه (سايغون سابقاً) العاصمة الاقتصادية والمدينة الأكبر في فيتنام، حيث تنبض بالحيوية والحداثة ليل نهار. تجمع المدينة بين ناطحات السحاب الفارهة والأسواق الشعبية الشهيرة مثل سوق بن ثانه، وتزخر بمعالم تاريخية بارزة مثل قصر الوحدة وكاتدرائية نوتردام ومتحف مخلفات الحرب، إلى جانب شبكة أنفاق كوتشي التاريخية القريبة ونهر سايغون المتدفق عبر أحيائها.",
+      "en": "Ho Chi Minh City (formerly Saigon) is the economic engine and largest metropolis of Vietnam, brimming with modern energy and non-stop vibrancy. The city seamlessly combines gleaming skyscrapers with traditional street markets like Ben Thanh Market, historic colonial landmarks such as the Saigon Central Post Office, and renowned historical sites like the Cu Chi Tunnels.",
+      "tr": "Eski adıyla Saygon olarak bilinen Ho Chi Minh Şehri, Vietnam'ın ekonomik başkenti ve en büyük metropolüdür. Modern gökdelenlerin tarihi Fransız sömürge yapıları ve Ben Thanh gibi geleneksel pazarlarla iç içe geçtiği şehir, 24 saat yaşayan dinamik atmosferiyle ülkenin ticaret ve eğlence merkezidir."
+    },
+    "airports": [
+      {
+        "name": {
+          "ar": "مطار تان سون نهات الدولي",
+          "en": "Tan Son Nhat International Airport",
+          "tr": "Tan Son Nhat Uluslararası Havalimanı"
+        },
+        "code": "SGN",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "أكبر وأكثر مطارات فيتنام ازدحاماً، يقع داخل النطاق الحضري لمدينة هو تشي منه ويستقبل ملايين المسافرين سنوياً من كافة أنحاء العالم.",
+          "en": "Vietnam's busiest airport, located within Ho Chi Minh City, serving international and domestic flights.",
+          "tr": "Vietnam'ın en yoğun uluslararası havalimanı; Ho Chi Minh Şehri içinde yer almakta ve küresel uçuşlara hizmet vermektedir."
+        },
+        "location_url": "https://maps.google.com/?q=Tan+Son+Nhat+International+Airport"
+      }
+    ],
+    "islands": [],
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "cultural Places",
+      "restaurants",
+      "religious places",
+      "city transport"
+    ],
+    "featured_apps": [
+      {
+        "name": {
+          "ar": "غراب",
+          "en": "Grab",
+          "tr": "Grab"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/grab.png",
+        "website": "https://www.grab.com/vn/",
+        "needs_ad": true,
+        "description": {
+          "ar": "التطبيق الأكثر طلباً للتنقل السريع بالدراجات والسيارات في شوارع سايغون وتوصيل الوجبات.",
+          "en": "Essential app for motorbike and car hailing, food delivery, and digital payments across Saigon.",
+          "tr": "Saygon sokaklarında taksi, motosiklet ve yemek siparişi için en popüler uygulama."
+        }
+      },
+      {
+        "name": {
+          "ar": "زان إس إم",
+          "en": "Xanh SM",
+          "tr": "Xanh SM"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/xanhsm.png",
+        "website": "https://www.xanhsm.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "أسطول سيارات تاكسي كهربائية فاخرة وصديقة للبيئة تغطي كافة مناطق مدينة هو تشي منه.",
+          "en": "VinFast's premium green electric taxi service covering all districts of Ho Chi Minh City.",
+          "tr": "Ho Chi Minh Şehri genelinde hizmet veren çevre dostu elektrikli taksi filosu."
+        }
+      }
+    ]
+  }
+}

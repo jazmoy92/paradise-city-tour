@@ -1,0 +1,73 @@
+{
+  "hanoi": {
+    "names": {
+      "ar": "هانوي",
+      "en": "Hanoi",
+      "tr": "Hanoi"
+    },
+    "description": {
+      "ar": "تعد هانوي عاصمة فيتنام العريقة ومركزها الثقافي والسياسي النابض بالحياة لأكثر من ألف عام. تحتضن المدينة مزيجاً ساحراً يجمع بين العمارة الاستعمارية الفرنسية والمعابد البوذية الأثرية والحي القديم بأزقته الـ 36 التاريخية. تلتف المدينة حول بحيراتها الشهيرة مثل بحيرة هوان كيم (السيف المستعاد) والبحيرة الغربية، مما يمنحها طابعاً هادئاً وجمالاً خلاباً وسط حياة الشوارع المفعمة برائحة القهوة الفيتنامية ومأكولات الشوارع الشهية.",
+      "en": "Hanoi, the storied capital of Vietnam, has served as the nation's cultural and political heart for over a millennium. The city boasts a captivating blend of French colonial architecture, ancient Buddhist temples, and the vibrant 36 streets of the Old Quarter. Encircling scenic lakes such as Hoan Kiem Lake and West Lake, Hanoi offers a unique atmosphere combining historical charm with bustling street life and world-famous culinary culture.",
+      "tr": "Vietnam'ın bin yılı aşkın köklü başkenti Hanoi, ülkenin kültürel ve siyasi kalbidir. Fransız sömürge mimarisi, kadim Budist tapınakları ve Eski Mahalle'nin hareketli tarihi sokaklarının büyüleyici bir harmanına ev sahipliği yapar. Hoan Kiem ve Batı Gölü gibi pitoresk göllerin etrafında şekillenen şehir, zengin mutfak kültürü ve nostaljik atmosferiyle ziyaretçilerine eşsiz bir deneyim sunar."
+    },
+    "airports": [
+      {
+        "name": {
+          "ar": "مطار نوي باي الدولي",
+          "en": "Noi Bai International Airport",
+          "tr": "Noi Bai Uluslararası Havalimanı"
+        },
+        "code": "HAN",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "المطار الدولي الرئيسي الذي يخدم العاصمة هانوي وشمال فيتنام، يقع على بعد حوالي 35 كم شمال وسط المدينة، ويوفر رحلات محلية ودولية متعددة مع خدمات نقل بالحافلات وسيارات الأجرة.",
+          "en": "The primary international gateway serving Hanoi and northern Vietnam, located 35 km north of the city center.",
+          "tr": "Hanoi ve Kuzey Vietnam'a hizmet veren ana uluslararası havalimanı; şehir merkezinin 35 km kuzeyinde yer alır."
+        },
+        "location_url": "https://maps.google.com/?q=Noi+Bai+International+Airport"
+      }
+    ],
+    "islands": [],
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "cultural Places",
+      "restaurants",
+      "religious places",
+      "city transport"
+    ],
+    "featured_apps": [
+      {
+        "name": {
+          "ar": "غراب",
+          "en": "Grab",
+          "tr": "Grab"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/grab.png",
+        "website": "https://www.grab.com/vn/",
+        "needs_ad": true,
+        "description": {
+          "ar": "التطبيق الأكثر شمولاً وشهرة في فيتنام لطلب سيارات الأجرة والدراجات النارية وتوصيل الطعام والمدفوعات الإلكترونية.",
+          "en": "The leading super-app in Vietnam for taxi and motorbike hailing, food delivery, and digital payments.",
+          "tr": "Vietnam'da taksi, motosiklet çağırma ve yemek siparişi için en yaygın süper uygulama."
+        }
+      },
+      {
+        "name": {
+          "ar": "زان إس إم",
+          "en": "Xanh SM",
+          "tr": "Xanh SM"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/xanhsm.png",
+        "website": "https://www.xanhsm.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "خدمة سيارات ودراجات الأجرة الكهربائية بنسبة 100% من شركة فين فاست الفيتنامية، توفر تنقلاً حديثاً وصديقاً للبيئة.",
+          "en": "100% electric taxi and motorbike service by VinFast, offering eco-friendly and comfortable rides across Vietnam.",
+          "tr": "VinFast'ın %100 elektrikli taksi ve motosiklet çağırma hizmeti, çevre dostu ve konforlu bir ulaşım sunar."
+        }
+      }
+    ]
+  }
+}

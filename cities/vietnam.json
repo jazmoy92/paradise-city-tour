@@ -1,9 +1,12 @@
 {
   "cities": {
     "hanoi": {
-      "names": { "ar": "هانوي", "en": "Hanoi", "tr": "Hanoi" }
-    },
-    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/ist.jpg"
+      "names": {
+        "ar": "هانوي",
+        "en": "Hanoi",
+        "tr": "Hanoi"
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/vietnam/hanoi.jpg"
     },
   
     "ho_chi_minh_city": {

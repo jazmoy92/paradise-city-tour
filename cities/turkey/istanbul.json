@@ -153,7 +153,7 @@
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق فاخر بتصنيف 5 نجوم يقع في قلب إسطنبول، على بعد دقائق مشياً من ساحة تقسيم. يتميز بغرف وأجنحة 'دوبلكس' بتصميم عصري من طابقين مع نوافذ زجاجية ممتدة من الأرض إلى السقف. يوفر إطلالات بانورامية رائعة على مدينة إسطنبول ومضيق البوسفور. يضم مطعم 'فانوس' (Fanus) الشهير الذي يقدم بوفيه إفطار غني وأطباقاً عالمية ومحلية مميزة. يحتوي على مركز صحي (سبا) متكامل يشمل مسبحاً داخلياً، حماماً تركياً، غرف ساونا، وصالة رياضية مجهزة.",
           "en": "A luxury 5-star hotel located in the heart of Istanbul, just minutes away from Taksim Square. Features modern duplex rooms and suites with contemporary designs and floor-to-ceiling windows. Offers stunning panoramic views of Istanbul city and the Bosphorus Strait. Home to the famous 'Fanus' restaurant, serving a rich breakfast buffet and exquisite international and local cuisine. Includes a full-service spa center with an indoor pool, traditional Turkish bath, saunas, and a fully equipped gym.",

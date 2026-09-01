@@ -39,6 +39,7 @@
       "tr": "Türkiye",
       "flag": "🇹🇷",
       "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "needs_ad": true,
       "trending_cities": ["Istanbul", "Trabzon", "Rize", "Bursa", "Antalya", "Mugla", "Ankara"]
     },
     {

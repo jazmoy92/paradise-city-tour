@@ -24,6 +24,8 @@
     "enable_native_ads": true,
     "enable_native_in_cities": true,
     "enable_native_in_travel": true,
+    "enable_trending_country_click_ads": true,
+    "enable_city_click_ads": true,
     "blocked_countries": [
       "RU", "SY", "UA", "IR", "CN",
       "russia", "syria", "ukraine", "iran", "china"
@@ -56,14 +58,44 @@
       "trending_cities": ["Muscat", "Dhofar", "South Al Sharqiyah"]
     },
     {
-      "key": "Syria",
-      "ar": "سوريا",
-      "en": "Syria",
-      "tr": "Suriye",
-      "flag": "🇸🇾",
-      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
-      "needs_ad": false,
-      "trending_cities": ["Damascus", "Aleppo", "Latakia"]
+      "key": "Vietnam",
+      "ar": "فيتنام",
+      "en": "Vietnam",
+      "tr": "Vietnam",
+      "flag": "🇻🇳",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Da Nang", "Hanoi", "Ho Chi Minh City", "Hai Phong"]
+    },
+    {
+      "key": "Indonesia",
+      "ar": "إندونيسيا",
+      "en": "Indonesia",
+      "tr": "Endonezya",
+      "flag": "🇮🇩",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Bali", "Jakarta", "Ubud"]
+    },
+    {
+      "key": "Egypt",
+      "ar": "مصر",
+      "en": "Egypt",
+      "tr": "Mısır",
+      "flag": "🇪🇬",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Cairo", "Sharm El-Sheikh", "Alexandria"]
+    },
+    {
+      "key": "Switzerland",
+      "ar": "سويسرا",
+      "en": "Switzerland",
+      "tr": "İsviçre",
+      "flag": "🇨🇭",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Bern", "Zermatt", "Interlaken"]
     },
     {
       "key": "China",
@@ -74,6 +106,16 @@
       "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/duuubaii.jpg",
       "needs_ad": false,
       "trending_cities": ["Beijing", "Shanghai", "Guangzhou"]
+    },
+    {
+      "key": "Syria",
+      "ar": "سوريا",
+      "en": "Syria",
+      "tr": "Suriye",
+      "flag": "🇸🇾",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false,
+      "trending_cities": ["Damascus", "Aleppo", "Latakia"]
     }
   ]
 }

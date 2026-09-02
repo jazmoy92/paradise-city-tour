@@ -1,0 +1,239 @@
+{
+  "hero_banner": {
+    "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+    "title": {
+      "ar": "يلا نسافر ✈️",
+      "en": "Let's Fly ✈️",
+      "tr": "Hadi Uçalım ✈️"
+    },
+    "subtitle": {
+      "ar": "أفضل عروض السياحة، الفنادق، الطيران والتأشيرات",
+      "en": "Best luxury tours, hotels, flights & visas",
+      "tr": "En iyi turlar, oteller ve uçak biletleri"
+    },
+    "button_text": {
+      "ar": "اكتشف العروض ❯",
+      "en": "Explore Deals ❯",
+      "tr": "Keşfet ❯"
+    },
+    "action_mode": "travel"
+  },
+  "ad_settings": {
+    "enable_banner_ads": true,
+    "enable_interstitial_ads": true,
+    "enable_native_ads": true,
+    "enable_native_in_cities": true,
+    "enable_native_in_travel": true,
+    "enable_trending_country_click_ads": true,
+    "enable_city_click_ads": true,
+    "blocked_countries": [
+      "RU", "SY", "UA", "IR", "CN",
+      "russia", "syria", "ukraine", "iran", "china"
+    ],
+    "blocked_countries_ad_rules": {
+      "enable_banner": false,
+      "enable_native": false,
+      "enable_interstitial": false
+    }
+  },
+  "travel_needs": [
+    {
+      "key": "visa",
+      "badge": "🛂",
+      "ar": "تأشيرات وفيزا",
+      "en": "Visa & Permits",
+      "tr": "Vize Hizmetleri",
+      "desc_ar": "استخراج وتخليص التأشيرات",
+      "desc_en": "Fast tourist & travel visas",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/capa.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "ins_travel",
+      "badge": "🛡️",
+      "ar": "تأمين سفر دولي",
+      "en": "Travel Insurance",
+      "tr": "Seyahat Sigortası",
+      "desc_ar": "حماية شاملة لوجهتك",
+      "desc_en": "Worldwide trip coverage",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/hallstat.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "ins_schengen",
+      "badge": "🇪🇺",
+      "ar": "تأمين شنغن المعتمد",
+      "en": "Schengen Insurance",
+      "tr": "Schengen Sigortası",
+      "desc_ar": "معتمد للسفارات الأوروبية",
+      "desc_en": "Embassy approved insurance",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/duuubaii.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "tickets",
+      "badge": "✈️",
+      "ar": "تذاكر الطيران",
+      "en": "Flight Tickets",
+      "tr": "Uçak Biletleri",
+      "desc_ar": "أفضل خطوط وأسعار الطيران",
+      "desc_en": "Best flight comparisons",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/duuubaii.jpg",
+      "needs_ad": false
+    },
+    {
+      "key": "shopping",
+      "badge": "🛍️",
+      "ar": "التسوق وحقائب السفر",
+      "en": "Shopping & Luggage",
+      "tr": "Alışveriş & Bagaj",
+      "desc_ar": "أفضل مستلزمات السفر",
+      "desc_en": "Premium travel accessories",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
+    },
+    {
+      "key": "internet",
+      "badge": "📶",
+      "ar": "إنترنت وشريحة eSIM",
+      "en": "Travel SIM & eSIM",
+      "tr": "Seyahat İnterneti",
+      "desc_ar": "إنترنت فوري لجميع الدول",
+      "desc_en": "Global high-speed roaming",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    }
+  ],
+  "experiences": [
+    {
+      "key": "honeymoon",
+      "ar": "شهر العسل 💍",
+      "en": "Honeymoon 💍",
+      "tr": "Balayı 💍",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "family",
+      "ar": "العوائل 👨‍👩‍👧‍👦",
+      "en": "Families 👨‍👩‍👧‍👦",
+      "tr": "Aileler 👨‍👩‍👧‍👦",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "adventures",
+      "ar": "مغامرات 🧗",
+      "en": "Adventures 🧗",
+      "tr": "Macera 🧗",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "cruise",
+      "ar": "الكروز 🛳️",
+      "en": "Cruise 🛳️",
+      "tr": "Gemiler 🛳️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    {
+      "key": "Entertainment",
+      "ar": "الترفيه 🎉",
+      "en": "Entertainment 🎉",
+      "tr": "Eğlence 🎉",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": false
+    },
+    {
+      "key": "hidden",
+      "ar": "أماكن مخفية 🕵️",
+      "en": "Hidden Gems 🕵️",
+      "tr": "Gizli Yerler 🕵️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": false
+    }
+  ],
+  "trending_destinations": [
+    {
+      "key": "Turkey",
+      "ar": "تركيا",
+      "en": "Turkey",
+      "tr": "Türkiye",
+      "flag": "🇹🇷",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Istanbul", "Trabzon", "Rize", "Bursa", "Antalya", "Mugla", "Ankara"]
+    },
+    {
+      "key": "Oman",
+      "ar": "سلطنة عمان",
+      "en": "Oman",
+      "tr": "Umman",
+      "flag": "🇴🇲",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Muscat", "Dhofar", "South Al Sharqiyah"]
+    },
+    {
+      "key": "Vietnam",
+      "ar": "فيتنام",
+      "en": "Vietnam",
+      "tr": "Vietnam",
+      "flag": "🇻🇳",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Da Nang", "Hanoi", "Ho Chi Minh City", "Hai Phong"]
+    },
+    {
+      "key": "Indonesia",
+      "ar": "إندونيسيا",
+      "en": "Indonesia",
+      "tr": "Endonezya",
+      "flag": "🇮🇩",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Bali", "Jakarta", "Ubud"]
+    },
+    {
+      "key": "Egypt",
+      "ar": "مصر",
+      "en": "Egypt",
+      "tr": "Mısır",
+      "flag": "🇪🇬",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Cairo", "Sharm El-Sheikh", "Alexandria"]
+    },
+    {
+      "key": "Switzerland",
+      "ar": "سويسرا",
+      "en": "Switzerland",
+      "tr": "İsviçre",
+      "flag": "🇨🇭",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true,
+      "trending_cities": ["Bern", "Zermatt", "Interlaken"]
+    },
+    {
+      "key": "China",
+      "ar": "الصين",
+      "en": "China",
+      "tr": "Çin",
+      "flag": "🇨🇳",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/duuubaii.jpg",
+      "needs_ad": false,
+      "trending_cities": ["Beijing", "Shanghai", "Guangzhou"]
+    },
+    {
+      "key": "Syria",
+      "ar": "سوريا",
+      "en": "Syria",
+      "tr": "Suriye",
+      "flag": "🇸🇾",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false,
+      "trending_cities": ["Damascus", "Aleppo", "Latakia"]
+    }
+  ]
+}

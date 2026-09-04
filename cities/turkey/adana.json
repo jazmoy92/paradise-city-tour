@@ -1,7 +1,8 @@
 {
   "adana": {
+    "needs_ad": false,
     "names": {
-      "ar": "أضنة",
+      "ar": "اضنا",
       "en": "Adana",
       "tr": "Adana"
     },
@@ -13,14 +14,15 @@
     "airports": [
       {
         "name": {
-          "ar": "مطار تشوكوروفا الدولي (أضنة - مرسين)",
+          "ar": "مطار تشوكوروفا الدولي (اضنا - مرسين)",
           "en": "Cukurova International Airport",
           "tr": "Çukurova Uluslararası Havalimanı"
         },
         "code": "COV",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "needs_ad": true,
         "desc": {
-          "ar": "المطار الدولي الإقليمي الأحدث والأضخم في جنوب تركيا، يخدم منطقة تشوكوروفا ومدينتي أضنة ومرسين معاً. يتميز بأحدث المرافق والخدمات ويرتبط مباشرة بمحطات القطار السريع وباصات المطار.",
+          "ar": "المطار الدولي الإقليمي الأحدث والأضخم في جنوب تركيا، يخدم منطقة تشوكوروفا ومدينتي اضنا ومرسين معاً. يتميز بأحدث المرافق والخدمات ويرتبط مباشرة بمحطات القطار السريع وباصات المطار.",
           "en": "The newest and largest international airport in southern Turkey, serving the Çukurova region including both Adana and Mersin with modern passenger terminals and direct shuttle connectivity.",
           "tr": "Adana ve Mersin başta olmak üzere tüm Çukurova bölgesine hizmet veren, modern terminallere ve geniş uçuş ağına sahip uluslararası ana havalimanıdır."
         },
@@ -28,12 +30,13 @@
       },
       {
         "name": {
-          "ar": "مطار أضنة شاكرباشا",
+          "ar": "مطار اضنا شاكرباشا",
           "en": "Adana Sakirpasa Airport",
           "tr": "Adana Şakirpaşa Havalimanı"
         },
         "code": "ADA",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "needs_ad": true,
         "desc": {
           "ar": "مطار أضنة التاريخي الواقع داخل مركز المدينة بالقرب من منطقة سيحان، يوفر وصولاً سريعاً لوسط المدينة خلال دقائق.",
           "en": "Historic airport located within the central Seyhan district of Adana, offering quick access to the city center.",
@@ -54,7 +57,7 @@
     "featured_apps": [
       {
         "name": {
-          "ar": "أضنة كنت كارت",
+          "ar": "اضنا كنت كارت",
           "en": "Adana KentKart",
           "tr": "Adana KentKart"
         },
@@ -69,7 +72,7 @@
       },
       {
         "name": {
-          "ar": "بي تاكسي أضنة",
+          "ar": "بي تاكسي اضنا",
           "en": "BiTaksi Adana",
           "tr": "BiTaksi Adana"
         },
@@ -77,14 +80,14 @@
         "website": "https://www.bitaksi.com",
         "needs_ad": true,
         "description": {
-          "ar": "حجز سيارات الأجرة الرسمية المرخصة في أضنة مع ميزة تتبع السائق والدفع بالبطاقة الائتمانية.",
+          "ar": "حجز سيارات الأجرة الرسمية المرخصة في اضنا مع ميزة تتبع السائق والدفع بالبطاقة الائتمانية.",
           "en": "Licensed official taxi booking app operating across Adana with live GPS tracking and digital payments.",
           "tr": "Adana genelinde resmi sarı taksi çağırma, canlı rota takibi ve kartla güvenli ödeme uygulaması."
         }
       },
       {
         "name": {
-          "ar": "يمك سيبيتي أضنة",
+          "ar": "يمك سيبيتي اضنا",
           "en": "Yemeksepeti Adana",
           "tr": "Yemeksepeti Adana"
         },
@@ -101,7 +104,7 @@
     "hotels": [
       {
         "name": {
-          "ar": "فندق ديفان أضنة",
+          "ar": "فندق ديفان اضنا",
           "en": "Divan Adana Hotel",
           "tr": "Divan Adana Oteli"
         },
@@ -121,7 +124,7 @@
       },
       {
         "name": {
-          "ar": "فندق هيلتون أضنة إس إيه",
+          "ar": "فندق هيلتون اضنا إس إيه",
           "en": "Adana HiltonSA Hotel",
           "tr": "Adana HiltonSA Otel"
         },
@@ -141,7 +144,7 @@
       },
       {
         "name": {
-          "ar": "فندق دبل تري باي هيلتون أضنة",
+          "ar": "فندق دبل تري باي هيلتون اضنا",
           "en": "DoubleTree by Hilton Adana",
           "tr": "DoubleTree by Hilton Adana"
         },
@@ -161,7 +164,7 @@
       },
       {
         "name": {
-          "ar": "فندق تركمان ريفرسايد أضنة",
+          "ar": "فندق تركمان ريفرسايد اضنا",
           "en": "Turkmen Riverside Hotel",
           "tr": "Türkmen Riverside Otel"
         },
@@ -181,7 +184,7 @@
       },
       {
         "name": {
-          "ar": "فندق تاش كوبرو أضنة",
+          "ar": "فندق تاش كوبرو اضنا",
           "en": "Taskopru Hotel Adana",
           "tr": "Taşköprü Oteli Adana"
         },
@@ -201,7 +204,7 @@
       },
       {
         "name": {
-          "ar": "فندق ماسل أضنة",
+          "ar": "فندق ماسل اضنا",
           "en": "Masel Hotel Adana",
           "tr": "Masel Otel Adana"
         },
@@ -241,7 +244,7 @@
       },
       {
         "name": {
-          "ar": "فندق آسوس بالميا أضنة",
+          "ar": "فندق آسوس بالميا اضنا",
           "en": "Asus Palmiye Hotel",
           "tr": "Asus Palmiye Otel"
         },
@@ -263,7 +266,7 @@
     "cultural Places": [
       {
         "name": {
-          "ar": "متحف أضنة الأثري والمتحف الجديد",
+          "ar": "متحف اضنا الأثري والمتحف الجديد",
           "en": "Adana Archeology & Complex Museum",
           "tr": "Adana Arkeoloji Müzesi"
         },
@@ -319,7 +322,7 @@
       },
       {
         "name": {
-          "ar": "شلالات كب الطبيعية (Küp Şelaleleri)",
+          "ar": "شلالات المكعب الطبيعية (Küp Şelaleleri)",
           "en": "Kup Waterfalls & Nature Canyon",
           "tr": "Küp Şelaleleri Tabiat Parkı"
         },
@@ -337,7 +340,7 @@
       },
       {
         "name": {
-          "ar": "جبل الثومي (ساريمساك داغي)",
+          "ar": "جبل الثومي (ساريمساك)",
           "en": "Garlic Mountain (Sarımsak Dağı)",
           "tr": "Sarımsak Dağı Zirvesi"
         },
@@ -496,6 +499,7 @@
         "line_code": "M1",
         "category": "metro",
         "color": "#00897B",
+        "needs_ad": true,
         "desc": {
           "ar": "خط المترو الرئيسي في أضنة بطول 14 كم يربط شمال المدينة بالمناطق الحيوية والجامعة ومركز المحافظة وشارع الاستقلال.",
           "en": "The main rapid transit metro line in Adana (14 km) linking residential north with city center, railway station, and Akıncılar.",
@@ -526,6 +530,7 @@
         "line_code": "TCDD",
         "category": "train",
         "color": "#D32F2F",
+        "needs_ad": true,
         "desc": {
           "ar": "قطارات سريعة ومكيفة تعمل على مدار الساعة تربط محطة قطار أضنة المركزية بمدينة طرسوس ومرسين الساحلية في 45 دقيقة فقط.",
           "en": "Fast and frequent regional trains connecting Adana Central Station with Tarsus and coastal Mersin in 45 minutes.",
@@ -548,6 +553,7 @@
         "line_code": "HAVAS",
         "category": "bus",
         "color": "#303F9F",
+        "needs_ad": true,
         "desc": {
           "ar": "حافلات المطار السياحية المكيفة والمجهزة لنقل المسافرين بين مطار تشوكوروفا الدولي ومراكز مدينة أضنة ومحطة الأوتوغار.",
           "en": "Comfortable airport coach shuttles connecting Çukurova International Airport with Adana city center and bus terminals.",

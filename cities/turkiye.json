@@ -1,86 +1,425 @@
-
-  ],
-  "cities": {
-    "adana": {"names": {"ar": "أضنة", "en": "Adana", "tr": "Adana"}},
-    "adiyaman": {"names": {"ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman"}},
-    "afyonkarahisar": {"names": {"ar": "أفيون قره حصار", "en": "Afyonkarahisar", "tr": "Afyonkarahisar"}},
-    "agri": {"names": {"ar": "أغري", "en": "Agri", "tr": "Ağrı"}},
-    "aksaray": {"names": {"ar": "أكساراي", "en": "Aksaray", "tr": "Aksaray"}},
-    "amasya": {"names": {"ar": "أماسيا", "en": "Amasya", "tr": "Amasya"}},
-    "ankara": {"names": {"ar": "أنقرة", "en": "Ankara", "tr": "Ankara"}},
-    "antalya": {"names": {"ar": "أنطاليا", "en": "Antalya", "tr": "Antalya"}},
-    "ardahan": {"names": {"ar": "أرداهان", "en": "Ardahan", "tr": "Ardahan"}},
-    "artvin": {"names": {"ar": "أرتفين", "en": "Artvin", "tr": "Artvin"}},
-    "aydin": {"names": {"ar": "أيدين", "en": "Aydin", "tr": "Aydın"}},
-    "balikesir": {"names": {"ar": "باليكسير", "en": "Balikesir", "tr": "Balıkesir"}},
-    "bartin": {"names": {"ar": "بارتين", "en": "Bartin", "tr": "Bartın"}},
-    "batman": {"names": {"ar": "باتمان", "en": "Batman", "tr": "Batman"}},
-    "bayburt": {"names": {"ar": "بايبورت", "en": "Bayburt", "tr": "Bayburt"}},
-    "bilecik": {"names": {"ar": "بيليجيك", "en": "Bilecik", "tr": "Bilecik"}},
-    "bingol": {"names": {"ar": "بينغول", "en": "Bingol", "tr": "Bingöl"}},
-    "bitlis": {"names": {"ar": "بيتليس", "en": "Bitlis", "tr": "Bitlis"}},
-    "bolu": {"names": {"ar": "بولو", "en": "Bolu", "tr": "Bolu"}},
-    "burdur": {"names": {"ar": "بوردور", "en": "Burdur", "tr": "Burdur"}},
-    "bursa": {"names": {"ar": "بورصة", "en": "Bursa", "tr": "Bursa"}},
-    "canakkale": {"names": {"ar": "جناق قلعة", "en": "Canakkale", "tr": "Çanakkale"}},
-    "cankiri": {"names": {"ar": "جانقري", "en": "Cankiri", "tr": "Çankırı"}},
-    "corum": {"names": {"ar": "جوروم", "en": "Corum", "tr": "Çorum"}},
-    "denizli": {"names": {"ar": "دنيزلي", "en": "Denizli", "tr": "Denizli"}},
-    "diyarbakir": {"names": {"ar": "ديار بكر", "en": "Diyarbakir", "tr": "Diyarbakır"}},
-    "duzce": {"names": {"ar": "دوزجة", "en": "Duzce", "tr": "Düzce"}},
-    "edirne": {"names": {"ar": "أدرنة", "en": "Edirne", "tr": "Edirne"}},
-    "elazig": {"names": {"ar": "إيلازيغ", "en": "Elazig", "tr": "Elazığ"}},
-    "erzincan": {"names": {"ar": "أرزينجان", "en": "Erzincan", "tr": "Erzincan"}},
-    "erzurum": {"names": {"ar": "أرضروم", "en": "Erzurum", "tr": "Erzurum"}},
-    "eskisehir": {"names": {"ar": "إسكيشهير", "en": "Eskisehir", "tr": "Eskişehir"}},
-    "gaziantep": {"names": {"ar": "غازي عنتاب", "en": "Gaziantep", "tr": "Gaziantep"}},
-    "giresun": {"names": {"ar": "غيرسون", "en": "Giresun", "tr": "Giresun"}},
-    "gumushane": {"names": {"ar": "كوموش خانة", "en": "Gumushane", "tr": "Gümüşhane"}},
-    "hakkari": {"names": {"ar": "هكاري", "en": "Hakkari", "tr": "Hakkâri"}},
-    "hatay": {"names": {"ar": "هاتاي", "en": "Hatay", "tr": "Hatay"}},
-    "igdir": {"names": {"ar": "إغدير", "en": "Igdir", "tr": "Iğdır"}},
-    "isparta": {"names": {"ar": "إسبرطة", "en": "Isparta", "tr": "Isparta"}},
-    "istanbul": {"names": {"ar": "إسطنبول", "en": "Istanbul", "tr": "İstanbul"}},
-    "izmir": {"names": {"ar": "إزمير", "en": "Izmir", "tr": "İzmir"}},
-    "kahramanmaras": {"names": {"ar": "كهرمان مرعش", "en": "Kahramanmaras", "tr": "Kahramanmaraş"}},
-    "karabuk": {"names": {"ar": "كارابوك", "en": "Karabuk", "tr": "Karabük"}},
-    "karaman": {"names": {"ar": "كارامان", "en": "Karaman", "tr": "Karaman"}},
-    "kars": {"names": {"ar": "قارص", "en": "Kars", "tr": "Kars"}},
-    "kastamonu": {"names": {"ar": "كاستامونو", "en": "Kastamonu", "tr": "Kastamonu"}},
-    "kayseri": {"names": {"ar": "قيصري", "en": "Kayseri", "tr": "Kayseri"}},
-    "kirikkale": {"names": {"ar": "كيركالي", "en": "Kirikkale", "tr": "Kırıkkale"}},
-    "kirklareli": {"names": {"ar": "كركلاريلي", "en": "Kirklareli", "tr": "Kırklareli"}},
-    "kirsehir": {"names": {"ar": "كيرشهر", "en": "Kirsehir", "tr": "Kırşehir"}},
-    "kilis": {"names": {"ar": "كيليس", "en": "Kilis", "tr": "Kilis"}},
-    "kocaeli": {"names": {"ar": "كوجالي", "en": "Kocaeli", "tr": "Kocaeli"}},
-    "konya": {"names": {"ar": "قونية", "en": "Konya", "tr": "Konya"}},
-    "kutahya": {"names": {"ar": "كوتاهيا", "en": "Kutahya", "tr": "Kütahya"}},
-    "malatya": {"names": {"ar": "ملطية", "en": "Malatya", "tr": "Malatya"}},
-    "manisa": {"names": {"ar": "مانيسا", "en": "Manisa", "tr": "Manisa"}},
-    "mardin": {"names": {"ar": "ماردين", "en": "Mardin", "tr": "Mardin"}},
-    "mersin": {"names": {"ar": "مرسين", "en": "Mersin", "tr": "Mersin"}},
-    "mugla": {"names": {"ar": "موغلا", "en": "Mugla", "tr": "Muğla"}},
-    "mus": {"names": {"ar": "موش", "en": "Mus", "tr": "Muş"}},
-    "nevsehir": {"names": {"ar": "نيوشهر", "en": "Nevsehir", "tr": "Nevşehir"}},
-    "nigde": {"names": {"ar": "نيغدة", "en": "Nigde", "tr": "Niğde"}},
-    "ordu": {"names": {"ar": "أوردو", "en": "Ordu", "tr": "Ordu"}},
-    "osmaniye": {"names": {"ar": "عثمانية", "en": "Osmaniye", "tr": "Osmaniye"}},
-    "rize": {"names": {"ar": "ريزة", "en": "Rize", "tr": "Rize"}},
-    "sakarya": {"names": {"ar": "صقاريا", "en": "Sakarya", "tr": "Sakarya"}},
-    "samsun": {"names": {"ar": "سامسون", "en": "Samsun", "tr": "Samsun"}},
-    "siirt": {"names": {"ar": "سييرت", "en": "Siirt", "tr": "Siirt"}},
-    "sinop": {"names": {"ar": "سينوب", "en": "Sinop", "tr": "Sinop"}},
-    "sivas": {"names": {"ar": "سيواس", "en": "Sivas", "tr": "Sivas"}},
-    "sanliurfa": {"names": {"ar": "شانلي أورفة", "en": "Sanliurfa", "tr": "Şanlıurfa"}},
-    "sirnak": {"names": {"ar": "شرناق", "en": "Sirnak", "tr": "Şırnak"}},
-    "tekirdag": {"names": {"ar": "تكيرداغ", "en": "Tekirdag", "tr": "Tekirdağ"}},
-    "tokat": {"names": {"ar": "توكات", "en": "Tokat", "tr": "Tokat"}},
-    "trabzon": {"names": {"ar": "طرابزون", "en": "Trabzon", "tr": "Trabzon"}},
-    "tunceli": {"names": {"ar": "تونجالي", "en": "Tunceli", "tr": "Tunceli"}},
-    "usak": {"names": {"ar": "أوشاك", "en": "Usak", "tr": "Uşak"}},
-    "van": {"names": {"ar": "وان", "en": "Van", "tr": "Van"}},
-    "yalova": {"names": {"ar": "يالوفا", "en": "Yalova", "tr": "Yalova"}},
-    "yozgat": {"names": {"ar": "يوزغات", "en": "Yozgat", "tr": "Yozgat"}},
-    "zonguldak": {"names": {"ar": "زونغولداك", "en": "Zonguldak", "tr": "Zonguldak"}}
+"cities": {
+    "adana": {
+      "names": {"ar": "اضنا", "en": "Adana", "tr": "Adana"},
+      "famous_for": "تشتهر بالكباب الأضني العريق وسهول تشوكوروفا الخصبة 🌾🥩",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "adiyaman": {
+      "names": {"ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "afyonkarahisar": {
+      "names": {"ar": "أفيون قره حصار", "en": "Afyonkarahisar", "tr": "Afyonkarahisar"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "agri": {
+      "names": {"ar": "أغري", "en": "Agri", "tr": "Ağrı"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "aksaray": {
+      "names": {"ar": "أكساراي", "en": "Aksaray", "tr": "Aksaray"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "amasya": {
+      "names": {"ar": "أماسيا", "en": "Amasya", "tr": "Amasya"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "ankara": {
+      "names": {"ar": "أنقرة", "en": "Ankara", "tr": "Ankara"},
+      "famous_for": "العاصمة السياسية وصروح التاريخ والمتاحف الوطنية 🏛️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "antalya": {
+      "names": {"ar": "أنطاليا", "en": "Antalya", "tr": "Antalya"},
+      "famous_for": "عروس الريفيرا التركية والشواطئ الفيروزية الساحرة 🏖️🌊",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "ardahan": {
+      "names": {"ar": "أرداهان", "en": "Ardahan", "tr": "Ardahan"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "artvin": {
+      "names": {"ar": "أرتفين", "en": "Artvin", "tr": "Artvin"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "aydin": {
+      "names": {"ar": "أيدين", "en": "Aydin", "tr": "Aydın"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "balikesir": {
+      "names": {"ar": "باليكسير", "en": "Balikesir", "tr": "Balıkesir"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bartin": {
+      "names": {"ar": "بارتين", "en": "Bartin", "tr": "Bartın"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "batman": {
+      "names": {"ar": "باتمان", "en": "Batman", "tr": "Batman"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bayburt": {
+      "names": {"ar": "بايبورت", "en": "Bayburt", "tr": "Bayburt"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bilecik": {
+      "names": {"ar": "بيليجيك", "en": "Bilecik", "tr": "Bilecik"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bingol": {
+      "names": {"ar": "بينغول", "en": "Bingol", "tr": "Bingöl"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bitlis": {
+      "names": {"ar": "بيتليس", "en": "Bitlis", "tr": "Bitlis"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bolu": {
+      "names": {"ar": "بولو", "en": "Bolu", "tr": "Bolu"},
+      "famous_for": "جنة البحيرات السبع، الطبيعة الخضراء وبحيرة أبانت 🌲🏞️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "burdur": {
+      "names": {"ar": "بوردور", "en": "Burdur", "tr": "Burdur"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "bursa": {
+      "names": {"ar": "بورصة", "en": "Bursa", "tr": "Bursa"},
+      "famous_for": "المدينة الخضراء، قمم جبل أولوداغ والتلفريك الشهير 🌲🚡",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "canakkale": {
+      "names": {"ar": "جناق قلعة", "en": "Canakkale", "tr": "Çanakkale"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "cankiri": {
+      "names": {"ar": "جانقري", "en": "Cankiri", "tr": "Çankırı"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "corum": {
+      "names": {"ar": "جوروم", "en": "Corum", "tr": "Çorum"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "denizli": {
+      "names": {"ar": "دنيزلي", "en": "Denizli", "tr": "Denizli"},
+      "famous_for": "ينابيع باموكالي البيضاء الكلسية وحمامات كليوباترا ♨️🤍",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "diyarbakir": {
+      "names": {"ar": "ديار بكر", "en": "Diyarbakir", "tr": "Diyarbakır"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "duzce": {
+      "names": {"ar": "دوزجة", "en": "Duzce", "tr": "Düzce"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "edirne": {
+      "names": {"ar": "أدرنة", "en": "Edirne", "tr": "Edirne"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "elazig": {
+      "names": {"ar": "إيلازيغ", "en": "Elazig", "tr": "Elazığ"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "erzincan": {
+      "names": {"ar": "أرزينجان", "en": "Erzincan", "tr": "Erzincan"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "erzurum": {
+      "names": {"ar": "أرضروم", "en": "Erzurum", "tr": "Erzurum"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "eskisehir": {
+      "names": {"ar": "إسكيشهير", "en": "Eskisehir", "tr": "Eskişehir"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "gaziantep": {
+      "names": {"ar": "غازي عنتاب", "en": "Gaziantep", "tr": "Gaziantep"},
+      "famous_for": "عاصمة فنون الطهي العالمي، الفستق الحلبي وألذ بقلاوة 🍯🥮",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "giresun": {
+      "names": {"ar": "غيرسون", "en": "Giresun", "tr": "Giresun"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "gumushane": {
+      "names": {"ar": "كوموش خانة", "en": "Gumushane", "tr": "Gümüşhane"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "hakkari": {
+      "names": {"ar": "هكاري", "en": "Hakkari", "tr": "Hakkâri"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "hatay": {
+      "names": {"ar": "هاتاي", "en": "Hatay", "tr": "Hatay"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "igdir": {
+      "names": {"ar": "إغدير", "en": "Igdir", "tr": "Iğdır"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "isparta": {
+      "names": {"ar": "إسبرطة", "en": "Isparta", "tr": "Isparta"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "istanbul": {
+      "names": {"ar": "إسطنبول", "en": "Istanbul", "tr": "İstanbul"},
+      "famous_for": "تشتهر بالتاريخ العريق والحضارة العثمانية 🕌✨",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "izmir": {
+      "names": {"ar": "إزمير", "en": "Izmir", "tr": "İzmir"},
+      "famous_for": "لؤلؤة بحر إيجة، الكورنيش الحيوي والآثار الإغريقية 🏛️⛵",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kahramanmaras": {
+      "names": {"ar": "كهرمان مرعش", "en": "Kahramanmaras", "tr": "Kahramanmaraş"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "karabuk": {
+      "names": {"ar": "كارابوك", "en": "Karabuk", "tr": "Karabük"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "karaman": {
+      "names": {"ar": "كارامان", "en": "Karaman", "tr": "Karaman"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kars": {
+      "names": {"ar": "قارص", "en": "Kars", "tr": "Kars"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kastamonu": {
+      "names": {"ar": "كاستامونو", "en": "Kastamonu", "tr": "Kastamonu"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kayseri": {
+      "names": {"ar": "قيصري", "en": "Kayseri", "tr": "Kayseri"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kirikkale": {
+      "names": {"ar": "كيركالي", "en": "Kirikkale", "tr": "Kırıkkale"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kirklareli": {
+      "names": {"ar": "كركلاريلي", "en": "Kirklareli", "tr": "Kırklareli"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kirsehir": {
+      "names": {"ar": "كيرشهر", "en": "Kirsehir", "tr": "Kırşehir"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kilis": {
+      "names": {"ar": "كيليس", "en": "Kilis", "tr": "Kilis"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kocaeli": {
+      "names": {"ar": "كوجالي", "en": "Kocaeli", "tr": "Kocaeli"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "konya": {
+      "names": {"ar": "قونية", "en": "Konya", "tr": "Konya"},
+      "famous_for": "مدينة جلال الدين الرومي، رقصة الدراويش والتاريخ الصوفي 🕊️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "kutahya": {
+      "names": {"ar": "كوتاهيا", "en": "Kutahya", "tr": "Kütahya"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "malatya": {
+      "names": {"ar": "ملطية", "en": "Malatya", "tr": "Malatya"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "manisa": {
+      "names": {"ar": "مانيسا", "en": "Manisa", "tr": "Manisa"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "mardin": {
+      "names": {"ar": "ماردين", "en": "Mardin", "tr": "Mardin"},
+      "famous_for": "مدينة البيوت الحجرية القديمة والإطلالة الساحرة على سهول الرافدين 🏰",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "mersin": {
+      "names": {"ar": "مرسين", "en": "Mersin", "tr": "Mersin"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "mugla": {
+      "names": {"ar": "موغلا", "en": "Mugla", "tr": "Muğla"},
+      "famous_for": "عاصمة المنتجعات الساحلية، فتحية، بودروم ومارمريس ⛵🏝️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "mus": {
+      "names": {"ar": "موش", "en": "Mus", "tr": "Muş"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "nevsehir": {
+      "names": {"ar": "نيوشهر", "en": "Nevsehir", "tr": "Nevşehir"},
+      "famous_for": "أرض كبادوكيا الساحرة، المناطيد الملونة ومداخن الجنيات 🎈🏜️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "nigde": {
+      "names": {"ar": "نيغدة", "en": "Nigde", "tr": "Niğde"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "ordu": {
+      "names": {"ar": "أوردو", "en": "Ordu", "tr": "Ordu"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "osmaniye": {
+      "names": {"ar": "عثمانية", "en": "Osmaniye", "tr": "Osmaniye"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "rize": {
+      "names": {"ar": "ريزة", "en": "Rize", "tr": "Rize"},
+      "famous_for": "عاصمة مزارع الشاي الخضراء والشلالات وغيوم أيدر الساحرة 🍵☁️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "sakarya": {
+      "names": {"ar": "صقاريا", "en": "Sakarya", "tr": "Sakarya"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "samsun": {
+      "names": {"ar": "سامسون", "en": "Samsun", "tr": "Samsun"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "siirt": {
+      "names": {"ar": "سييرت", "en": "Siirt", "tr": "Siirt"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "sinop": {
+      "names": {"ar": "سينوب", "en": "Sinop", "tr": "Sinop"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "sivas": {
+      "names": {"ar": "سيواس", "en": "Sivas", "tr": "Sivas"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "sanliurfa": {
+      "names": {"ar": "شانلي أورفة", "en": "Sanliurfa", "tr": "Şanlıurfa"},
+      "famous_for": "مدينة الأنبياء، بحيرة الأسماك وموقع غوبكلي تبه الأثري 🐟🏺",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "sirnak": {
+      "names": {"ar": "شرناق", "en": "Sirnak", "tr": "Şırnak"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "tekirdag": {
+      "names": {"ar": "تكيرداغ", "en": "Tekirdag", "tr": "Tekirdağ"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "tokat": {
+      "names": {"ar": "توكات", "en": "Tokat", "tr": "Tokat"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "trabzon": {
+      "names": {"ar": "طرابزون", "en": "Trabzon", "tr": "Trabzon"},
+      "famous_for": "لؤلؤة البحر الأسود، بحيرة أوزنجول الساحرة ودير سوميلا ⛰️🏞️",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "tunceli": {
+      "names": {"ar": "تونجالي", "en": "Tunceli", "tr": "Tunceli"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "usak": {
+      "names": {"ar": "أوشاك", "en": "Usak", "tr": "Uşak"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "van": {
+      "names": {"ar": "وان", "en": "Van", "tr": "Van"},
+      "famous_for": "بحيرة وان الكبرى، قطط وان النادرة وجزيرة أختامار 🐱🌊",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "yalova": {
+      "names": {"ar": "يالوفا", "en": "Yalova", "tr": "Yalova"},
+      "famous_for": "حمامات المياه الكبريتية المعدنية الحارة وقربها من إسطنبول ♨️🌿",
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "yozgat": {
+      "names": {"ar": "يوزغات", "en": "Yozgat", "tr": "Yozgat"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    },
+    "zonguldak": {
+      "names": {"ar": "زونغولداك", "en": "Zonguldak", "tr": "Zonguldak"},
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "needs_ad": true
+    }
   }
-}

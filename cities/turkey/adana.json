@@ -1,15 +1,19 @@
 {
   "adana": {
-    "name_ar": "اضنا",
-    "names": { "ar": "اضنا", "en": "Adana", "tr": "Adana" },
+    "name_ar": "أضنة",
+    "names": {
+      "ar": "أضنة",
+      "en": "Adana",
+      "tr": "Adana"
+    },
     "nickname": {
       "ar": "موطن الكباب العريق ومزارع الحمضيات 🍢🍊",
       "en": "Capital of Authentic Kebab & Citrus 🍢🍊",
       "tr": "Adana Kebabı ve Narenciye Diyarı 🍢🍊"
     },
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/adana.jpg",
-    "needs_ad": false
-    },
+    "hero_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/adana.jpg",
+    "needs_ad": false,
     "description": {
       "ar": "تتربع أضنة في قلب سهل تشوكوروفا الخصيب جنوب تركيا، وتعد خامس أكبر مدن البلاد ومركزاً زراعياً وصناعياً وتاريخياً عريقاً. ينبض قلب المدينة بمياه نهر سيحان الهادئة التي يقطعها جسر تاش كوبرو الحجري الروماني التاريخي وجامع سابنجي المركزي ذو المآذن الست الشاهقة. تشتهر المدينة عالمياً بمطبخها العريق وموطن كباب أضنة الشهير، وتتميز بقربها من شواطئ البحر الأبيض المتوسط وسلسلة جبال طوروس الشامخة.",
       "en": "Adana lies in the heart of the fertile Çukurova plain in southern Turkey as the country's fifth-largest city and a major historical, agricultural, and culinary hub. The Seyhan River flows through its center, spanned by the ancient Roman Stone Bridge (Taşköprü) and overlooked by the grand six-minaret Sabancı Central Mosque. World-famous for its culinary heritage and the authentic Adana Kebab, the city offers rich Roman history, lake views, and proximity to the Mediterranean coast.",
@@ -18,13 +22,15 @@
     "airports": [
       {
         "name": {
-          "ar": "مطار تشوكوروفا الدولي (اضنا - مرسين)",
+          "ar": "مطار تشوكوروفا الدولي (أضنة - مرسين)",
           "en": "Cukurova International Airport",
           "tr": "Çukurova Uluslararası Havalimanı"
         },
         "code": "COV",
+        "type": "intl",
+        "distance": "35 دقيقة للمركز",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
-        "needs_ad": true,
+        "needs_ad": false,
         "desc": {
           "ar": "المطار الدولي الإقليمي الأحدث والأضخم في جنوب تركيا، يخدم منطقة تشوكوروفا ومدينتي اضنا ومرسين معاً. يتميز بأحدث المرافق والخدمات ويرتبط مباشرة بمحطات القطار السريع وباصات المطار.",
           "en": "The newest and largest international airport in southern Turkey, serving the Çukurova region including both Adana and Mersin with modern passenger terminals and direct shuttle connectivity.",
@@ -34,13 +40,15 @@
       },
       {
         "name": {
-          "ar": "مطار اضنا شاكرباشا",
+          "ar": "مطار أضنة شاكرباشا",
           "en": "Adana Sakirpasa Airport",
           "tr": "Adana Şakirpaşa Havalimanı"
         },
         "code": "ADA",
+        "type": "dom",
+        "distance": "15 دقيقة للمركز",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
-        "needs_ad": true,
+        "needs_ad": false,
         "desc": {
           "ar": "مطار أضنة التاريخي الواقع داخل مركز المدينة بالقرب من منطقة سيحان، يوفر وصولاً سريعاً لوسط المدينة خلال دقائق.",
           "en": "Historic airport located within the central Seyhan district of Adana, offering quick access to the city center.",
@@ -61,13 +69,20 @@
     "featured_apps": [
       {
         "name": {
-          "ar": "اضنا كنت كارت",
+          "ar": "أضنة كنت كارت",
           "en": "Adana KentKart",
           "tr": "Adana KentKart"
         },
+        "tag": "★ 4.9 • رسمي",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png",
         "website": "https://www.kentkart.com",
-        "needs_ad": true,
+        "needs_ad": false,
+        "desc": {
+          "ar": "تطبيق باصات ومترو أضنة الرسمي لتعبئة الرصيد وتتبع الرحلات",
+          "en": "Official Adana transit app for live bus tracking and card top-ups",
+          "tr": "Adana toplu taşıma canlı takip ve bakiye yükleme uygulaması"
+        },
         "description": {
           "ar": "التطبيق الرسمي لإدارة وتعبئة رصيد بطاقة المواصلات في أضنة وتتبع باصات البلدية ومترو أضنة مباشرة.",
           "en": "Official public transportation app in Adana for card balance top-ups, bus arrival times, and metro routes.",
@@ -76,13 +91,20 @@
       },
       {
         "name": {
-          "ar": "بي تاكسي اضنا",
+          "ar": "بي تاكسي أضنة",
           "en": "BiTaksi Adana",
           "tr": "BiTaksi Adana"
         },
+        "tag": "★ 4.8 • تاكسي",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png",
         "website": "https://www.bitaksi.com",
-        "needs_ad": true,
+        "needs_ad": false,
+        "desc": {
+          "ar": "حجز التاكسي الرسمي المعتمد مع تتبع GPS ودفع بالفيزا",
+          "en": "Licensed taxi booking app with GPS tracking and credit card payments",
+          "tr": "Resmi sarı taksi çağırma ve güvenli kartla ödeme uygulaması"
+        },
         "description": {
           "ar": "حجز سيارات الأجرة الرسمية المرخصة في اضنا مع ميزة تتبع السائق والدفع بالبطاقة الائتمانية.",
           "en": "Licensed official taxi booking app operating across Adana with live GPS tracking and digital payments.",
@@ -91,13 +113,20 @@
       },
       {
         "name": {
-          "ar": "يمك سيبيتي اضنا",
+          "ar": "يمك سيبيتي أضنة",
           "en": "Yemeksepeti Adana",
           "tr": "Yemeksepeti Adana"
         },
+        "tag": "★ 4.7 • توصيل",
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png",
         "website": "https://www.yemeksepeti.com",
-        "needs_ad": true,
+        "needs_ad": false,
+        "desc": {
+          "ar": "توصيل كباب أضنة الأصلي والمأكولات السريعة للمقر",
+          "en": "Order authentic Adana Kebab and local dishes with fast delivery",
+          "tr": "Meşhur Adana kebapları ve yüzlerce restorandan hızlı sipariş"
+        },
         "description": {
           "ar": "طلب أشهى وجبات كباب أضنة الأصلي والمأكولات التركية والحلويات والتسوق السريع من آلاف المطاعم.",
           "en": "Order authentic Adana Kebabs, local delicacies, groceries, and desserts from hundreds of restaurants.",
@@ -108,7 +137,7 @@
     "hotels": [
       {
         "name": {
-          "ar": "فندق ديفان اضنا",
+          "ar": "فندق ديفان أضنة",
           "en": "Divan Adana Hotel",
           "tr": "Divan Adana Oteli"
         },
@@ -117,9 +146,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png"
         ],
         "rating": "5 Stars",
+        "stars": "5",
         "category": "Hotels",
         "website": "https://klook.tpx.li/KeKSgEJK",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق فاخر 5 نجوم يقع في قلب أضنة التجاري، يتميز بتصميم عصري راقٍ، مسبح داخلي دافئ، مركز سبا وحمام تركي متكامل، ومطعم ديفان الشهير بالحلويات والمأكولات العالمية.",
           "en": "A premier 5-star luxury hotel in central Adana featuring contemporary rooms, a semi-olympic indoor pool, full wellness spa & hammam, and the signature Divan fine dining restaurant.",
@@ -128,7 +158,7 @@
       },
       {
         "name": {
-          "ar": "فندق هيلتون اضنا إس إيه",
+          "ar": "فندق هيلتون أضنة إس إيه",
           "en": "Adana HiltonSA Hotel",
           "tr": "Adana HiltonSA Otel"
         },
@@ -137,9 +167,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/adana%20hilton.png"
         ],
         "rating": "5 Stars",
+        "stars": "5",
         "category": "Hotels",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=103913",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "أيقونة الضيافة الفاخرة في أضنة، يقع مباشرة على ضفاف نهر سيحان بإطلالة ساحرة على جامع سابنجي وجسر تاش كوبرو التاريخي، ويضم مسابح خارجية وحدائق خضراء واسعة.",
           "en": "An iconic 5-star riverside hotel on the banks of Seyhan River, offering scenic views of Sabancı Mosque and the Roman Stone Bridge, outdoor pools, and lush gardens.",
@@ -148,7 +179,7 @@
       },
       {
         "name": {
-          "ar": "فندق دبل تري باي هيلتون اضنا",
+          "ar": "فندق دبل تري باي هيلتون أضنة",
           "en": "DoubleTree by Hilton Adana",
           "tr": "DoubleTree by Hilton Adana"
         },
@@ -157,9 +188,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/DoubleTree_by_Hilton_Adana.png"
         ],
         "rating": "5 Stars",
+        "stars": "5",
         "category": "Hotels",
         "website": "https://klook.tpx.li/NdiAvipt",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق عصري 5 نجوم يقع في حي زيا باشا الأنيق بالقرب من أرقى المتاجر والمطاعم، يوفر غرفاً فسيحة، مسبحاً داخلياً، ومرافق للياقة البدنية ورجال الأعمال.",
           "en": "A 5-star modern hotel situated on the stylish Ziyapaşa Boulevard close to dining and shopping, featuring indoor pool, health club, and upscale suites.",
@@ -168,7 +200,7 @@
       },
       {
         "name": {
-          "ar": "فندق تركمان ريفرسايد اضنا",
+          "ar": "فندق تركمان ريفرسايد أضنة",
           "en": "Turkmen Riverside Hotel",
           "tr": "Türkmen Riverside Otel"
         },
@@ -177,9 +209,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkmen_riverside_adana.png"
         ],
         "rating": "4 Stars",
+        "stars": "4",
         "category": "Hotels",
         "website": "https://klook.tpx.li/euNZSBvw",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق 4 نجوم مميز يتربع على ضفاف نهر سيحان، يوفر إطلالات نهرية مباشرة ومطعماً بتراس واسع يقدم أشهى المأكولات التركية في أجواء هادئة.",
           "en": "A 4-star riverfront hotel set right beside the Seyhan River, offering scenic water views, terrace dining, and comfortable modern rooms.",
@@ -188,7 +221,7 @@
       },
       {
         "name": {
-          "ar": "فندق تاش كوبرو اضنا",
+          "ar": "فندق تاش كوبرو أضنة",
           "en": "Taskopru Hotel Adana",
           "tr": "Taşköprü Oteli Adana"
         },
@@ -197,9 +230,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/taskopru%20otel.png"
         ],
         "rating": "4 Stars",
+        "stars": "4",
         "category": "Hotels",
         "website": "https://klook.tpx.li/rp88Lh3i",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق 4 نجوم يقع بجوار الجسر الروماني القديم تاش كوبرو مباشرة، يتيح الوصول مشياً على الأقدام لجميع المعالم التاريخية والأسواق التقليدية.",
           "en": "A 4-star hotel located right next to the historic Roman Stone Bridge (Taşköprü), walking distance from historic bazaars and sights.",
@@ -208,7 +242,7 @@
       },
       {
         "name": {
-          "ar": "فندق ماسل اضنا",
+          "ar": "فندق ماسل أضنة",
           "en": "Masel Hotel Adana",
           "tr": "Masel Otel Adana"
         },
@@ -217,9 +251,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/masel%20otel.png"
         ],
         "rating": "4 Stars",
+        "stars": "4",
         "category": "Hotels",
         "website": "https://klook.tpx.li/ZVVlAN4R",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق بوتيك أنيق من فئة 4 نجوم يقع بالقرب من بحيرة سد سيحان، يوفر إقامة هادئة وغرفاً فاخرة ومطعماً متميزاً بتقديم المأكولات التراثية.",
           "en": "An elegant 4-star boutique hotel near Seyhan Dam Lake, offering tranquil stays, stylish accommodation, and fine local dining.",
@@ -239,7 +274,7 @@
         "rating": "9/10",
         "category": "Apartments",
         "website": "https://klook.tpx.li/LgOQV3nD",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "شقق فندقية عصرية وواسعة مجهزة بمطابخ متكاملة وغرف معيشة، مثالية للعائلات والإقامات الطويلة والمسافرين الباحثين عن الخصوصية والراحة.",
           "en": "Modern and spacious serviced suites with fully equipped kitchens, living areas, and hotel amenities, ideal for families and long-term stays.",
@@ -248,7 +283,7 @@
       },
       {
         "name": {
-          "ar": "فندق آسوس بالميا اضنا",
+          "ar": "فندق آسوس بالميا أضنة",
           "en": "Asus Palmiye Hotel",
           "tr": "Asus Palmiye Otel"
         },
@@ -257,9 +292,10 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/asus%20palmiye.png"
         ],
         "rating": "3 Stars",
+        "stars": "3",
         "category": "Hotels",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=15349881",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "فندق اقتصادي مريح يقع في موقع مركزي بالقرب من محطة المترو والأسواق والمطاعم، يوفر خدمة ممتازة وقيمة رائعة مقابل السعر.",
           "en": "A comfortable and centrally located budget hotel close to metro stations, shops, and restaurants, offering great value for travelers.",
@@ -270,7 +306,7 @@
     "cultural Places": [
       {
         "name": {
-          "ar": "متحف اضنا الأثري والمتحف الجديد",
+          "ar": "متحف أضنة الأثري والمجمع الجديد",
           "en": "Adana Archeology & Complex Museum",
           "tr": "Adana Arkeoloji Müzesi"
         },
@@ -279,7 +315,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/adana_museum.jpg"
         ],
         "website": "https://www.trip.com/t/kJYiU9lcZV2",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "أحد أقدم وأكبر المتاحف في تركيا والشرق الأوسط، يقع داخل مجمع مصنع النسيج التاريخي المرمم ويضم آلاف القطع الأثرية النادرة من الحضارات الحثية، الرومانية، والبيزنطية.",
           "en": "One of Turkey's largest museum complexes, housed in a historic textile factory showcasing ancient Hittite, Roman, and Byzantine treasures.",
@@ -297,7 +333,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Ta%C5%9Fk%C3%B6pr%C3%BC.jpg"
         ],
         "website": "https://maps.app.goo.gl/H2sBXthXLrHzatbC6",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "أقدم جسر حجري روماني لا يزال قيد الاستخدام في العالم، بناه الإمبراطور الروماني هادريان في القرن الثاني الميلادي ليربط ضفتي نهر سيحان.",
           "en": "The world's oldest functional stone bridge, built by Roman Emperor Hadrian across the Seyhan River in the 2nd century AD.",
@@ -317,7 +353,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Seyhan%20dam%20lake.png"
         ],
         "website": "https://maps.app.goo.gl/ELAKCCPNf9ZaPQbm8",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "بحيرة شاسعة خلابة محاطة بغابات الصنوبر والمطاعم المطلة على الماء، وتضم جزيرة المحبة (Sevgi Adası) الشهيرة وتوفر رحلات القوارب والتجديف ومسارات المشي.",
           "en": "A picturesque reservoir surrounded by pine woods, featuring the famous Love Island (Sevgi Adası), waterfront cafes, boat tours, and hiking trails.",
@@ -335,7 +371,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/kup-selaleleri.jpg"
         ],
         "website": "https://maps.app.goo.gl/m2fdP6hAKzuNHFka6",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "سلسلة شلالات عذبة ساحرة تتألف من 10 شلالات متدفقة بين مضائق وادي ألبادا في قضاء ألااداغ، مثالية للتخييم والاستجمام وسط الطبيعة البكر.",
           "en": "A sequence of 10 stunning natural waterfalls cascading through canyon gorges in Aladağ, perfect for trekking, swimming, and wild camping.",
@@ -353,7 +389,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/sarimsak%20dagi.png"
         ],
         "website": "https://maps.app.goo.gl/WG67TUdp21aKRxHd6",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "قمة جبلية مميزة توفر إطلالات بانورامية على سهول تشوكوروفا الخضراء، وتعد وجهة مفضلة لعشاق المشي الجبلي والطيران الشراعي والتصوير.",
           "en": "A prominent mountain peak offering sweeping panoramic views over the Çukurova plain, popular for paragliding, hiking, and sunset viewing.",
@@ -371,7 +407,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Z%C3%BCbeyde_Han%C4%B1m_Park%C4%B1_Adana.jpg"
         ],
         "website": "https://maps.app.goo.gl/KzkqYA2oRJXGLSJH6",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "منتزه عائلي هادئ في قلب أضنة يتميز بالمساحات الخضراء المورقة، النوافير المائية، مناطق ألعاب الأطفال، والمقاهي الهادئة.",
           "en": "A green urban family park in central Adana with lush gardens, water fountains, children's playgrounds, and open-air cafes.",
@@ -391,7 +427,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Ta%C5%9Fk%C3%B6pr%C3%BC.jpg"
         ],
         "website": "https://www.trip.com",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "رحلة سفاري واستكشاف لجسر فاردا السككي الألماني العملاق المعلق بين الجبال (الذي صُوّر فيه فيلم جيمس بوند) ومسار وادي كابيكايا الخلاب.",
           "en": "A scenic expedition to the monumental German Varda Railway Viaduct (featured in James Bond Skyfall) and hiking through Kapıkaya Canyon.",
@@ -409,7 +445,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png"
         ],
         "website": "https://www.trip.com",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "جولة ثقافية وغذائية في سوق النحاسين التاريخي قازانجيلار وبرج الساعة الكبير وتذوق كباب أضنة الأصلي والمشروبات التراثية مثل الشلغم.",
           "en": "A culinary and cultural walking tour in Kazancılar coppersmith bazaar, Great Clock Tower, tasting authentic Adana Kebab and Şalgam.",
@@ -429,7 +465,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png"
         ],
         "website": "https://maps.google.com/?q=Kebapci+Mesut+Adana",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "أحد أقدم وأشهر مطاعم كباب أضنة الأصلي على الفحم منذ عام 1921، يقدم كباب اللحم البلدي المفروم يدوياً مع المقبلات الطازجة وعصير الشلغم.",
           "en": "One of the most authentic and historic Adana Kebab restaurants since 1921, serving handmade minced lamb kebabs with local mezze and turnip juice.",
@@ -447,7 +483,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/Divan%20Adana.png"
         ],
         "website": "https://maps.google.com/?q=Ceyhan+Kebap+Adana",
-        "needs_ad": true,
+        "needs_ad": false,
         "description": {
           "ar": "مطعم كباب عائلي شهير يقدم أرقى أنواع المشويات التركية، اللحم بالباذنجان، والخبز الساخن الطازج من الفرن مباشرة.",
           "en": "Famous family-friendly kebab house renowned for delicious grilled specialties, eggplant kebab, and hot fresh oven bread.",
@@ -503,49 +539,41 @@
         "line_code": "M1",
         "category": "metro",
         "color": "#00897B",
-        "needs_ad": true,
+        "frequency": "كل 4-6 دقائق",
+        "needs_ad": false,
         "desc": {
           "ar": "خط المترو الرئيسي في أضنة بطول 14 كم يربط شمال المدينة بالمناطق الحيوية والجامعة ومركز المحافظة وشارع الاستقلال.",
           "en": "The main rapid transit metro line in Adana (14 km) linking residential north with city center, railway station, and Akıncılar.",
           "tr": "Kuzey Adana'dan başlayıp Valilik, tren garı ve Seyhan Nehri üzerinden Akıncılar'a kadar uzanan 14 km'lik metro hattı."
         },
         "stations": [
-          { "name": { "ar": "Hastane (محطة المستشفى)", "en": "Hastane", "tr": "Hastane" } },
-          { "name": { "ar": "Anadolu Lisesi (المدرسة الثانوية)", "en": "Anadolu Lisesi", "tr": "Anadolu Lisesi" } },
-          { "name": { "ar": "Huzurevi (دار الرعاية)", "en": "Huzurevi", "tr": "Huzurevi" } },
-          { "name": { "ar": "Mavi Bulvar (شارع مافي بولفار)", "en": "Mavi Bulvar", "tr": "Mavi Bulvar" } },
-          { "name": { "ar": "Yurtlar (المدينة الجامعية)", "en": "Yurtlar", "tr": "Yurtlar" } },
-          { "name": { "ar": "Yeşilyurt (يشيل يورت)", "en": "Yesilyurt", "tr": "Yeşilyurt" } },
-          { "name": { "ar": "Fatih (محطة فاتح)", "en": "Fatih", "tr": "Fatih" } },
-          { "name": { "ar": "Vilayet (مبنى محافظة أضنة ومحطة القطار 🚆)", "en": "Vilayet / Train Station", "tr": "Vilayet" } },
+          { "name": { "ar": "Hastane (المستشفى)", "en": "Hastane", "tr": "Hastane" } },
+          { "name": { "ar": "Anadolu Lisesi (الثانوية)", "en": "Anadolu Lisesi", "tr": "Anadolu Lisesi" } },
+          { "name": { "ar": "Vilayet (محطة القطار 🚆)", "en": "Vilayet Train Station", "tr": "Vilayet" } },
           { "name": { "ar": "İstiklal (شارع الاستقلال)", "en": "Istiklal", "tr": "İstiklal" } },
-          { "name": { "ar": "Kocavezir (سوق كوجا فيزير)", "en": "Kocavezir Bazaar", "tr": "Kocavezir" } },
-          { "name": { "ar": "Hürriyet (حريات)", "en": "Hurriyet", "tr": "Hürriyet" } },
-          { "name": { "ar": "Cumhuriyet (ميدان الجمهورية)", "en": "Cumhuriyet", "tr": "Cumhuriyet" } },
-          { "name": { "ar": "Akıncılar (أكنجيلار - محطة النهاية)", "en": "Akincilar", "tr": "Akıncılar" } }
+          { "name": { "ar": "Akıncılar (أكنجيلار - النهاية)", "en": "Akincilar", "tr": "Akıncılar" } }
         ]
       },
       {
         "name": {
-          "ar": "قطار أضنة - مرسين السريع (TCDD Regional Train)",
+          "ar": "قطار أضنة - مرسين السريع (TCDD)",
           "en": "Adana - Mersin Express Regional Train",
           "tr": "Adana - Mersin Hızlı Bölgesel Treni"
         },
         "line_code": "TCDD",
         "category": "train",
         "color": "#D32F2F",
-        "needs_ad": true,
+        "frequency": "كل 30 دقيقة",
+        "needs_ad": false,
         "desc": {
           "ar": "قطارات سريعة ومكيفة تعمل على مدار الساعة تربط محطة قطار أضنة المركزية بمدينة طرسوس ومرسين الساحلية في 45 دقيقة فقط.",
           "en": "Fast and frequent regional trains connecting Adana Central Station with Tarsus and coastal Mersin in 45 minutes.",
           "tr": "Adana Garı ile Tarsus ve Mersin Garı arasında gün boyu sık seferlerle ekonomik ve hızlı ulaşım sağlayan tren hattı."
         },
         "stations": [
-          { "name": { "ar": "Adana Garı (محطة قطار أضنة المركزية 🏛️)", "en": "Adana Central Station", "tr": "Adana Garı" } },
-          { "name": { "ar": "Şakirpaşa (شاكرباشا)", "en": "Sakirpasa", "tr": "Şakirpaşa" } },
-          { "name": { "ar": "Yenice (محطة تقاطع ينيجه)", "en": "Yenice Junction", "tr": "Yenice" } },
-          { "name": { "ar": "Tarsus (مدينة طرسوس التاريخية 🏺)", "en": "Tarsus Historic", "tr": "Tarsus" } },
-          { "name": { "ar": "Mersin Garı (ميناء وساحل مرسين ⚓)", "en": "Mersin Central Port", "tr": "Mersin Garı" } }
+          { "name": { "ar": "Adana Garı (محطة أضنة المركزية 🏛️)", "en": "Adana Central", "tr": "Adana Garı" } },
+          { "name": { "ar": "Tarsus (طرسوس التاريخية 🏺)", "en": "Tarsus", "tr": "Tarsus" } },
+          { "name": { "ar": "Mersin Garı (ميناء مرسين ⚓)", "en": "Mersin Port", "tr": "Mersin Garı" } }
         ]
       },
       {
@@ -557,7 +585,8 @@
         "line_code": "HAVAS",
         "category": "bus",
         "color": "#303F9F",
-        "needs_ad": true,
+        "frequency": "حسب مواعيد الرحلات",
+        "needs_ad": false,
         "desc": {
           "ar": "حافلات المطار السياحية المكيفة والمجهزة لنقل المسافرين بين مطار تشوكوروفا الدولي ومراكز مدينة أضنة ومحطة الأوتوغار.",
           "en": "Comfortable airport coach shuttles connecting Çukurova International Airport with Adana city center and bus terminals.",
@@ -565,8 +594,8 @@
         },
         "stations": [
           { "name": { "ar": "Çukurova Havalimanı (مطار تشوكوروفا ✈️)", "en": "Cukurova Airport", "tr": "Çukurova Havalimanı" } },
-          { "name": { "ar": "Adana Otogar (محطة الحافلات المركزية)", "en": "Adana Central Bus Terminal", "tr": "Adana Otogar" } },
-          { "name": { "ar": "Ziyapaşa / Seyhan (شارع زيا باشا ومركز سيحان)", "en": "Ziyapasa Center", "tr": "Ziyapaşa" } }
+          { "name": { "ar": "Adana Otogar (محطة الحافلات)", "en": "Adana Otogar", "tr": "Adana Otogar" } },
+          { "name": { "ar": "Ziyapaşa (شارع زيا باشا)", "en": "Ziyapasa Center", "tr": "Ziyapaşa" } }
         ]
       }
     ]

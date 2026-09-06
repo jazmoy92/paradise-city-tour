@@ -1,0 +1,62 @@
+{
+  "Turkey": {
+    "key": "Turkey",
+    "ar": "تركيا",
+    "en": "Turkey",
+    "tr": "Türkiye",
+    "flag": "🇹🇷",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+    "needs_ad": true,
+    "trending_cities": ["Istanbul", "Antalya", "Trabzon", "Rize", "Bursa", "Mugla", "Ankara"]
+  },
+  "Oman": {
+    "key": "Oman",
+    "ar": "سلطنة عمان",
+    "en": "Oman",
+    "tr": "Umman",
+    "flag": "🇴🇲",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+    "needs_ad": true,
+    "trending_cities": ["Muscat", "Dhofar", "South Al Sharqiyah"]
+  },
+  "Vietnam": {
+    "key": "Vietnam",
+    "ar": "فيتنام",
+    "en": "Vietnam",
+    "tr": "Vietnam",
+    "flag": "🇻🇳",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+    "needs_ad": true,
+    "trending_cities": ["Da Nang", "Hanoi", "Ho Chi Minh City", "Hai Phong"]
+  },
+  "Indonesia": {
+    "key": "Indonesia",
+    "ar": "إندونيسيا",
+    "en": "Indonesia",
+    "tr": "Endonezya",
+    "flag": "🇮🇩",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+    "needs_ad": true,
+    "trending_cities": ["Bali", "Jakarta", "Ubud"]
+  },
+  "Egypt": {
+    "key": "Egypt",
+    "ar": "مصر",
+    "en": "Egypt",
+    "tr": "Mısır",
+    "flag": "🇪🇬",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+    "needs_ad": true,
+    "trending_cities": ["Cairo", "Sharm El-Sheikh", "Alexandria"]
+  },
+  "Switzerland": {
+    "key": "Switzerland",
+    "ar": "سويسرا",
+    "en": "Switzerland",
+    "tr": "İsviçre",
+    "flag": "🇨🇭",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hallstat.jpg",
+    "needs_ad": true,
+    "trending_cities": ["Bern", "Zermatt", "Interlaken"]
+  }
+}

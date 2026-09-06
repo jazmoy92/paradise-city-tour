@@ -1,33 +1,4 @@
-{
-"featured_apps": [
-    {
-      "name": {
-        "ar": "ترينديول",
-        "en": "Trendyol",
-        "tr": "Trendyol"
-      },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/turkey.json/trendyol.png",
-      "desc": {
-        "ar": "أشهر وأكبر تطبيق للتسوق الإلكتروني وشراء الملابس والمنتجات وتوصيل المطاعم في تركيا.",
-        "en": "The largest e-commerce and food delivery app in Turkey.",
-        "tr": "Türkiye'nin en popüler alışveriş ve yemek uygulaması."
-      },
-      "url": "https://www.trendyol.com"
-    },
-    {
-      "name": {
-        "ar": "هيبسيبورادا",
-        "en": "yemek sepeti",
-        "tr": "yemek sepeti"
-      },
-      "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/yemeksepeti.png",
-      "desc": {
-        "ar": "منصة تسوق شاملة للإلكترونيات والأجهزة وكافة المستلزمات اليومية.",
-        "en": "Comprehensive online marketplace for electronics and essentials.",
-        "tr": "Türkiye'nin lider online alışveriş platformu."
-      },
-      "url": "https://www.hepsiburada.com"
-    }
+
   ],
   "cities": {
     "adana": {"names": {"ar": "أضنة", "en": "Adana", "tr": "Adana"}},

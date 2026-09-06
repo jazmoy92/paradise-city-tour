@@ -8,7 +8,7 @@
         "tr": "Meşhur Adana kebabı ve bereketli Çukurova ovaları 🌾🥩"
       },
       "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
-      "needs_ad": true
+      "needs_ad": false
     },
     "adiyaman": {
       "names": {"ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman"},
@@ -38,7 +38,7 @@
         "tr": "Görkemli Ağrı Dağı ve tarihi İshak Paşa Sarayı 🏔️🏰"
       },
       "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
-      "needs_ad": true
+      "needs_ad": false
     },
     "aksaray": {
       "names": {"ar": "أكساراي", "en": "Aksaray", "tr": "Aksaray"},
@@ -48,7 +48,7 @@
         "tr": "Büyüleyici Ihlara Vadisi ve tarihi kaya kiliseleri 🌿⛰️"
       },
       "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
-      "needs_ad": true
+      "needs_ad": false
     },
     "amasya": {
       "names": {"ar": "أماسيا", "en": "Amasya", "tr": "Amasya"},
@@ -58,7 +58,7 @@
         "tr": "Şehzadeler şehri, kralların kaya mezarları ve elması 🍏👑"
       },
       "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
-      "needs_ad": true
+      "needs_ad": false
     },
     "ankara": {
       "names": {"ar": "أنقرة", "en": "Ankara", "tr": "Ankara"},

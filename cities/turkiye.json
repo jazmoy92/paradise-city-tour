@@ -2,12 +2,12 @@
     "adana": {
       "names": {"ar": "اضنا", "en": "Adana", "tr": "Adana"},
       "famous_for": "تشتهر بالكباب الأضني العريق وسهول تشوكوروفا الخصبة 🌾🥩",
-      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
       "needs_ad": true
     },
     "adiyaman": {
       "names": {"ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman"},
-      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/Bali.jpg",
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
       "needs_ad": true
     },
     "afyonkarahisar": {

@@ -1,8 +1,8 @@
 {
   "adana": {
-    "name_ar": "أضنة",
+    "name_ar": "اضنا",
     "names": {
-      "ar": "أضنة",
+      "ar": "اضنا",
       "en": "Adana",
       "tr": "Adana"
     },
@@ -15,14 +15,14 @@
     "hero_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/adana.jpg",
     "needs_ad": false,
     "description": {
-      "ar": "تتربع أضنة في قلب سهل تشوكوروفا الخصيب جنوب تركيا، وتعد خامس أكبر مدن البلاد ومركزاً زراعياً وصناعياً وتاريخياً عريقاً. ينبض قلب المدينة بمياه نهر سيحان الهادئة التي يقطعها جسر تاش كوبرو الحجري الروماني التاريخي وجامع سابنجي المركزي ذو المآذن الست الشاهقة. تشتهر المدينة عالمياً بمطبخها العريق وموطن كباب أضنة الشهير، وتتميز بقربها من شواطئ البحر الأبيض المتوسط وسلسلة جبال طوروس الشامخة.",
+      "ar": "تتربع اضنا في قلب سهل تشوكوروفا الخصيب جنوب تركيا، وتعد خامس أكبر مدن البلاد ومركزاً زراعياً وصناعياً وتاريخياً عريقاً. ينبض قلب المدينة بمياه نهر سيحان الهادئة التي يقطعها جسر تاش كوبرو الحجري الروماني التاريخي وجامع سابنجي المركزي ذو المآذن الست الشاهقة. تشتهر المدينة عالمياً بمطبخها العريق وموطن كباب أضنة الشهير، وتتميز بقربها من شواطئ البحر الأبيض المتوسط وسلسلة جبال طوروس الشامخة.",
       "en": "Adana lies in the heart of the fertile Çukurova plain in southern Turkey as the country's fifth-largest city and a major historical, agricultural, and culinary hub. The Seyhan River flows through its center, spanned by the ancient Roman Stone Bridge (Taşköprü) and overlooked by the grand six-minaret Sabancı Central Mosque. World-famous for its culinary heritage and the authentic Adana Kebab, the city offers rich Roman history, lake views, and proximity to the Mediterranean coast.",
       "tr": "Türkiye'nin güneyinde, bereketli Çukurova'nın kalbinde yer alan Adana; ülkenin beşinci büyük metropolü ve köklü bir tarih, tarım ve gastronomi merkezidir. Şehrin kalbinden geçen Seyhan Nehri, tarihi Roma Taşköprü'sü ve altı minareli görkemli Sabancı Merkez Camii ile taçlanmıştır. Dünyaca ünlü tescilli Adana Kebabı, zengin lezzet kültürü, baraj gölü manzaraları ve Toros Dağları'nın eteklerindeki konumuyla eşsiz bir Akdeniz kentidir."
     },
     "airports": [
       {
         "name": {
-          "ar": "مطار تشوكوروفا الدولي (أضنة - مرسين)",
+          "ar": "مطار تشوكوروفا الدولي (اضنا - مرسين)",
           "en": "Cukurova International Airport",
           "tr": "Çukurova Uluslararası Havalimanı"
         },
@@ -40,7 +40,7 @@
       },
       {
         "name": {
-          "ar": "مطار أضنة شاكرباشا",
+          "ar": "مطار اضنا شاكرباشا",
           "en": "Adana Sakirpasa Airport",
           "tr": "Adana Şakirpaşa Havalimanı"
         },
@@ -50,7 +50,7 @@
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
         "needs_ad": false,
         "desc": {
-          "ar": "مطار أضنة التاريخي الواقع داخل مركز المدينة بالقرب من منطقة سيحان، يوفر وصولاً سريعاً لوسط المدينة خلال دقائق.",
+          "ar": "مطار اضنا التاريخي الواقع داخل مركز المدينة بالقرب من منطقة سيحان، يوفر وصولاً سريعاً لوسط المدينة خلال دقائق.",
           "en": "Historic airport located within the central Seyhan district of Adana, offering quick access to the city center.",
           "tr": "Adana şehir merkezinde Seyhan ilçesinde yer alan, şehir merkezine dakikalar içinde ulaşım sağlayan tarihi havalimanı."
         },
@@ -69,7 +69,7 @@
     "featured_apps": [
       {
         "name": {
-          "ar": "أضنة كنت كارت",
+          "ar": "اضنا كنت كارت",
           "en": "Adana KentKart",
           "tr": "Adana KentKart"
         },
@@ -91,7 +91,7 @@
       },
       {
         "name": {
-          "ar": "بي تاكسي أضنة",
+          "ar": "بي تاكسي",
           "en": "BiTaksi Adana",
           "tr": "BiTaksi Adana"
         },
@@ -113,7 +113,7 @@
       },
       {
         "name": {
-          "ar": "يمك سيبيتي أضنة",
+          "ar": "يمك سيبيتي",
           "en": "Yemeksepeti Adana",
           "tr": "Yemeksepeti Adana"
         },
@@ -123,12 +123,12 @@
         "website": "https://www.yemeksepeti.com",
         "needs_ad": false,
         "desc": {
-          "ar": "توصيل كباب أضنة الأصلي والمأكولات السريعة للمقر",
+          "ar": "توصيل كباب اضنا الأصلي والمأكولات السريعة للمقر",
           "en": "Order authentic Adana Kebab and local dishes with fast delivery",
           "tr": "Meşhur Adana kebapları ve yüzlerce restorandan hızlı sipariş"
         },
         "description": {
-          "ar": "طلب أشهى وجبات كباب أضنة الأصلي والمأكولات التركية والحلويات والتسوق السريع من آلاف المطاعم.",
+          "ar": "طلب أشهى وجبات كباب اضنا الأصلي والمأكولات التركية والحلويات والتسوق السريع من آلاف المطاعم.",
           "en": "Order authentic Adana Kebabs, local delicacies, groceries, and desserts from hundreds of restaurants.",
           "tr": "Meşhur Adana kebapları ve yüzlerce restorandan online yemek ve market siparişi uygulaması."
         }
@@ -137,7 +137,7 @@
     "hotels": [
       {
         "name": {
-          "ar": "فندق ديفان أضنة",
+          "ar": "فندق ديفان اضنا",
           "en": "Divan Adana Hotel",
           "tr": "Divan Adana Oteli"
         },
@@ -151,14 +151,14 @@
         "website": "https://klook.tpx.li/KeKSgEJK",
         "needs_ad": false,
         "description": {
-          "ar": "فندق فاخر 5 نجوم يقع في قلب أضنة التجاري، يتميز بتصميم عصري راقٍ، مسبح داخلي دافئ، مركز سبا وحمام تركي متكامل، ومطعم ديفان الشهير بالحلويات والمأكولات العالمية.",
+          "ar": "فندق فاخر 5 نجوم يقع في قلب اضنا التجاري، يتميز بتصميم عصري راقٍ، مسبح داخلي دافئ، مركز سبا وحمام تركي متكامل، ومطعم ديفان الشهير بالحلويات والمأكولات العالمية.",
           "en": "A premier 5-star luxury hotel in central Adana featuring contemporary rooms, a semi-olympic indoor pool, full wellness spa & hammam, and the signature Divan fine dining restaurant.",
           "tr": "Adana şehir merkezinde modern mimarisi, yarı olimpik kapalı yüzme havuzu, kapsamlı spa merkezi ve ünlü Divan lezzetleriyle 5 yıldızlı lüks konaklama sunar."
         }
       },
       {
         "name": {
-          "ar": "فندق هيلتون أضنة إس إيه",
+          "ar": "فندق هيلتون اضنا إس إيه",
           "en": "Adana HiltonSA Hotel",
           "tr": "Adana HiltonSA Otel"
         },
@@ -172,14 +172,14 @@
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hid=103913",
         "needs_ad": false,
         "description": {
-          "ar": "أيقونة الضيافة الفاخرة في أضنة، يقع مباشرة على ضفاف نهر سيحان بإطلالة ساحرة على جامع سابنجي وجسر تاش كوبرو التاريخي، ويضم مسابح خارجية وحدائق خضراء واسعة.",
+          "ar": "أيقونة الضيافة الفاخرة في اضنا، يقع مباشرة على ضفاف نهر سيحان بإطلالة ساحرة على جامع سابنجي وجسر تاش كوبرو التاريخي، ويضم مسابح خارجية وحدائق خضراء واسعة.",
           "en": "An iconic 5-star riverside hotel on the banks of Seyhan River, offering scenic views of Sabancı Mosque and the Roman Stone Bridge, outdoor pools, and lush gardens.",
           "tr": "Seyhan Nehri kıyısında, Taşköprü ve Sabancı Merkez Camii manzaralı, açık havuzları ve yemyeşil bahçeleriyle Adana'nın en prestijli 5 yıldızlı otellerindendir."
         }
       },
       {
         "name": {
-          "ar": "فندق دبل تري باي هيلتون أضنة",
+          "ar": "فندق دبل تري باي هيلتون اضنا",
           "en": "DoubleTree by Hilton Adana",
           "tr": "DoubleTree by Hilton Adana"
         },

@@ -48,72 +48,8 @@
       "needs_ad": true
     }
   ],
-  "travel_ins_travel": [
-    {
-      "name": {
-        "ar": "تأمين السفر الدولي الشامل",
-        "en": "Worldwide Travel Insurance",
-        "tr": "Kapsamlı Seyahat Sigortası"
-      },
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hallstat.jpg",
-      "desc": {
-        "ar": "تغطية طبية وحالات الطوارئ معتمدة عالمياً أثناء رحلتك.",
-        "en": "Comprehensive global medical & emergency cover.",
-        "tr": "Uluslararası geçerli sağlık ve kaza teminatı."
-      },
-      "url": "https://www.google.com",
-      "needs_ad": true
-    }
-  ],
-  "travel_ins_schengen": [
-    {
-      "name": {
-        "ar": "تأمين شنغن الطبي الإلزامي",
-        "en": "Schengen Visa Mandatory Insurance",
-        "tr": "Schengen Vize Sigortası"
-      },
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hallstat.jpg",
-      "desc": {
-        "ar": "وثيقة تغطية معتمدة بقيمة 30 ألف يورو لجميع السفارات الأوروبية.",
-        "en": "30,000 EUR embassy-approved Schengen health cover.",
-        "tr": "Konsolosluk onaylı 30.000 Euro teminatlı sigorta."
-      },
-      "url": "https://www.google.com",
-      "needs_ad": true
-    }
-  ],
-  "travel_shopping": [
-    {
-      "name": {
-        "ar": "حقائب ومستلزمات السفر الخفيفة",
-        "en": "Ultralight Travel Luggage",
-        "tr": "Seyahat Valizleri"
-      },
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
-      "desc": {
-        "ar": "حقائب معتمدة بمقاسات الطائرات ومقاومة للصدمات.",
-        "en": "Cabin approved durable luggage and travel accessories.",
-        "tr": "Uçak kabin boy valizler ve aksesuarlar."
-      },
-      "url": "https://www.amazon.com",
-      "needs_ad": true
-    }
-  ],
-  "travel_internet": [
-    {
-      "name": {
-        "ar": "شريحة إنترنت eSIM دولية",
-        "en": "Global eSIM Data Pack",
-        "tr": "Uluslararası eSIM"
-      },
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
-      "desc": {
-        "ar": "إنترنت سريع فور هبوط الطائرة بدون تبديل شريحتك الفعلية.",
-        "en": "Instant 4G/5G data roaming without physical SIM.",
-        "tr": "Fiziksel hat değiştirmeden anında internet."
-      },
-      "url": "https://www.airalo.com",
-      "needs_ad": true
-    }
-  ]
+  "travel_ins_travel": [],
+  "travel_ins_schengen": [],
+  "travel_shopping": [],
+  "travel_internet": []
 }

@@ -1,0 +1,209 @@
+{
+  "travel_visa": [
+    {
+      "name": {
+        "ar": "آي فيزا (iVisa)",
+        "en": "iVisa Services",
+        "tr": "iVisa Hizmetleri"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! استخراج وتسهيل تأشيرات السفر الإلكترونية الفورية لكافة دول العالم بكل سرعة وسهولة.",
+        "en": "Welcome with us! Fast and seamless electronic visa applications for destinations worldwide.",
+        "tr": "Bizimle hoş geldiniz! Dünya genelindeki ülkeler için hızlı ve sorunsuz e-vize başvuru hizmeti."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.ivisa.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "دو فيزا (Do Visa)",
+        "en": "Do Visa Platform",
+        "tr": "Do Visa Platformu"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! المنصة الشاملة للتقديم على التأشيرات والتحقق من متطلبات القنصليات والسفارات.",
+        "en": "Welcome with us! An integrated platform to apply for visas and verify consulate travel requirements.",
+        "tr": "Bizimle hoş geldiniz! Vize başvuruları ve konsolosluk seyahat gereksinimleri için kapsamlı platform."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://dovisa.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "باسبورت اندكس (Passport Index)",
+        "en": "Passport Index",
+        "tr": "Passport Index"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! دليلك التفاعلي العالمي لمعرفة قوة جواز سفرك والبلدان المتاحة لك بدون تأشيرة.",
+        "en": "Welcome with us! Discover global passport rankings and explore destinations you can visit visa-free.",
+        "tr": "Bizimle hoş geldiniz! Pasaport gücünüzü öğrenin ve vizesiz seyahat edebileceğiniz ülkeleri keşfedin."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.passportindex.org",
+      "needs_ad": false
+    },
+    {
+      "name": {
+        "ar": "فيزا هيرو (VisaHero)",
+        "en": "VisaHero",
+        "tr": "VisaHero"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! حلول وإرشادات متكاملة للحصول على تأشيرات السفر السياحية والتجارية بلا تعقيد.",
+        "en": "Welcome with us! Smart and reliable solutions for tourist and business travel visas without hassle.",
+        "tr": "Bizimle hoş geldiniz! Turistik ve ticari vizeler için zahmetsiz, akıllı ve güvenilir rehberlik."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://visahero.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "في إف إس جلوبال (VFS Global)",
+        "en": "VFS Global",
+        "tr": "VFS Global"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! الشريك الرسمي المعتمد لتنسيق مواعيد وتأشيرات شنغن ومعظم سفارات العالم.",
+        "en": "Welcome with us! The authorized official partner for Schengen visa appointments and global embassies.",
+        "tr": "Bizimle hoş geldiniz! Schengen randevuları ve dünya elçilikleri için yetkili resmi vize merkezi."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.vfsglobal.com",
+      "needs_ad": true
+    }
+  ],
+  "travel_insurance": [
+    {
+      "name": {
+        "ar": "تريد دبلر للتأمين (Tradedoubler)",
+        "en": "Tradedoubler Travel Insurance",
+        "tr": "Tradedoubler Seyahat Sigortası"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! تغطية تأمينية دولية شاملة للحالات الطارئة وتأمين الرحلات المعتمد للسفارات.",
+        "en": "Welcome with us! Comprehensive global trip insurance approved for embassy visas and medical emergencies.",
+        "tr": "Bizimle hoş geldiniz! Vize başvuruları ve acil sağlık durumları için uluslararası onaylı seyahat sigortası."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.tradedoubler.com",
+      "needs_ad": true
+    }
+  ],
+  "travel_rentcar": [
+    {
+      "name": {
+        "ar": "جيت ترانسفير (GetTransfer)",
+        "en": "GetTransfer - Car & Chauffeur",
+        "tr": "GetTransfer - Araç & Şoför"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! استأجر سيارة بسائق أو بدون، وتوصيل مريح من وإلى المطارات بأفضل الأسعار العالمية.",
+        "en": "Welcome with us! Rent cars with or without a chauffeur, plus airport transfers at competitive global rates.",
+        "tr": "Bizimle hoş geldiniz! Şoförlü veya şoförsüz araç kiralama, en uygun fiyatlarla konforlu havalimanı transferi."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://gettransfer.com",
+      "needs_ad": true
+    }
+  ],
+  "travel_tickets": [
+    {
+      "name": {
+        "ar": "الخطوط الجوية التركية (Turkish Airlines)",
+        "en": "Turkish Airlines",
+        "tr": "Türk Hava Yolları"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! احجز تذكرتك بأفضل الأسعار على متن إحدى أفضل خطوط الطيران العالمية إلى مئات الوجهات.",
+        "en": "Welcome with us! Book direct flights with world-class service to hundreds of destinations globally.",
+        "tr": "Bizimle hoş geldiniz! Dünyanın en çok ülkesine uçan Türk Hava Yolları ile konforlu ve güvenli seyahat edin."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.turkishairlines.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "حجوزات طيران عالمي (Global Flights)",
+        "en": "Global Flight Deals",
+        "tr": "Küresel Uçak Bileti Arama"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! مقارنة حية بين مئات شركات الطيران العالمية لاقتناص أرخص تذاكر الطيران المباشرة.",
+        "en": "Welcome with us! Compare hundreds of international airlines in real time to secure the cheapest tickets.",
+        "tr": "Bizimle hoş geldiniz! En uygun uçak biletini bulmak için yüzlerce hava yolunu anında karşılaştırın."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.skyscanner.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "الخطوط الجوية العراقية (Iraqi Airways)",
+        "en": "Iraqi Airways",
+        "tr": "Irak Hava Yolları"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! رحلات مباشرة ومريحة تربط مدن العراق بأبرز العواصم والوجهات الإقليمية والعالمية.",
+        "en": "Welcome with us! Direct and comfortable flights connecting Iraqi cities to major global destinations.",
+        "tr": "Bizimle hoş geldiniz! Irak şehirlerini önemli dünya merkezlerine bağlayan doğrudan ve rahat uçuşlar."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.iraqiairways.com",
+      "needs_ad": true
+    }
+  ],
+  "travel_shopping": [
+    {
+      "name": {
+        "ar": "ترينديول (Trendyol)",
+        "en": "Trendyol Travel Shop",
+        "tr": "Trendyol Seyahat Alışverişi"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! أكبر متجر لتسوق مستلزمات وحقائب السفر الخفيفة والمتينة بأحدث الموديلات وأفضل العروض.",
+        "en": "Welcome with us! The ultimate destination for travel gear, durable luggage, and comfortable travel fashion.",
+        "tr": "Bizimle hoş geldiniz! Dayanıklı valizler, seyahat ekipmanları ve aksesuarlar için lider alışveriş platformu."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.trendyol.com",
+      "needs_ad": true
+    },
+    {
+      "name": {
+        "ar": "هيبسي بورادا (Hepsiburada)",
+        "en": "Hepsiburada",
+        "tr": "Hepsiburada"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! تسوق كل ما يلزم رحلتك من إلكترونيات، محولات طاقة، وحقائب سفر أصلية بخصومات مميزة.",
+        "en": "Welcome with us! Shop travel electronics, power adapters, organizers, and authentic luggage at great prices.",
+        "tr": "Bizimle hoş geldiniz! Seyahat elektroniği, adaptörler, bavullar ve seyahat aksesuarlarında süper fırsatlar."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.hepsiburada.com",
+      "needs_ad": true
+    }
+  ],
+  "travel_internet": [
+    {
+      "name": {
+        "ar": "شريحة هولافلاي (Holafly eSIM)",
+        "en": "Holafly International eSIM",
+        "tr": "Holafly Global eSIM"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! إنترنت فوري وباقة بيانات غير محدودة في أكثر من 160 دولة حول العالم بدون تبديل شريحتك.",
+        "en": "Welcome with us! Unlimited high-speed roaming data across 160+ countries with instant digital eSIM.",
+        "tr": "Bizimle hoş geldiniz! 160'tan fazla ülkede fiziksel SIM kart değiştirmeden anında sınırsız internet erişimi."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://esim.holafly.com",
+      "needs_ad": true
+    }
+  ]
+}

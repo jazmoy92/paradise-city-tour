@@ -1,19 +1,40 @@
 {
-  "adventures": [
+  "honeymoon": [
     {
       "name": {
-        "ar": "رحلة منطاد كابادوكيا",
-        "en": "Cappadocia Balloon Tour",
-        "tr": "Kapadokya Balon Turu"
+        "ar": "منتجع جزر المالديف الفاخر",
+        "en": "Maldives Overwater Luxury Resort",
+        "tr": "Maldivler Lüks Su Üstü Villa"
       },
-      "needs_ad": true,
-      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/busan.jpg",
       "desc": {
-        "ar": "تجربة طيران ساحرة بالمنطاد الهوائي فوق وادي كابادوكيا وتكويناتها الصخرية الفريدة عند الشروق.",
-        "en": "A breathtaking hot air balloon ride over Cappadocia's valleys at sunrise.",
-        "tr": "Gündoğumunda Kapadokya vadileri üzerinde muhteşem balon turu."
+        "ar": "مرحباً بكم معنا! عروض استثنائية للعروسين مع إقامة بفيلا مائية وجولات خاصة.",
+        "en": "Welcome with us! Exclusive honeymoon packages with private pool villas.",
+        "tr": "Bizimle hoş geldiniz! Özel havuzlu su üstü villalarda unutulmaz balayı."
       },
-      "url": "https://www.getyourguide.com"
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.booking.com",
+      "needs_ad": true
     }
-  ]
+  ],
+  "family": [
+    {
+      "name": {
+        "ar": "منتجعات أنطاليا العائلية الشاملة",
+        "en": "Antalya All-Inclusive Family Resort",
+        "tr": "Antalya Her Şey Dahil Aile Oteli"
+      },
+      "desc": {
+        "ar": "مرحباً بكم معنا! أنشطة ترفيهية للأطفال، مسابح مائية وإقامة متكاملة لجميع العائلة.",
+        "en": "Welcome with us! Complete family resort with waterparks and entertainment.",
+        "tr": "Bizimle hoş geldiniz! Çocuk kulüpleri ve su parkları ile eğlenceli tatil."
+      },
+      "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+      "url": "https://www.booking.com",
+      "needs_ad": true
+    }
+  ],
+  "adventures": [],
+  "cruise": [],
+  "Entertainment": [],
+  "hidden": []
 }

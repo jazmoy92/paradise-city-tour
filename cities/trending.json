@@ -31,6 +31,18 @@
       "South Al Sharqiyah"
     ]
   },
+  "Oman": {
+    "key": "Maldives",
+    "ar": "جزر المالديف",
+    "en": "Maldives",
+    "tr": "Maldivler",
+    "flag": "🇲🇻",
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
+    "needs_ad": true,
+    "trending_cities": [
+      "Male"
+    ]
+  },
   "Vietnam": {
     "key": "Vietnam",
     "ar": "فيتنام",

@@ -7,7 +7,15 @@
     "flag": "🇹🇷",
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
     "needs_ad": true,
-    "trending_cities": ["Istanbul", "Antalya", "Trabzon", "Rize", "Bursa", "Mugla", "Ankara"]
+    "trending_cities": [
+      "Istanbul",
+      "Antalya",
+      "Trabzon",
+      "Rize",
+      "Bursa",
+      "Mugla",
+      "Ankara"
+    ]
   },
   "Oman": {
     "key": "Oman",
@@ -17,17 +25,11 @@
     "flag": "🇴🇲",
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
     "needs_ad": true,
-    "trending_cities": ["Muscat", "Dhofar", "South Al Sharqiyah"]
-  },
-  "Maldives": {
-    "key": "Maldives",
-    "ar": "جزر المالديف",
-    "en": "Maldives",
-    "tr": "Maldivler",
-    "flag": "mv",
-    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
-    "needs_ad": true,
-    "trending_cities": ["Mali"]
+    "trending_cities": [
+      "Muscat",
+      "Dhofar",
+      "South Al Sharqiyah"
+    ]
   },
   "Vietnam": {
     "key": "Vietnam",
@@ -37,7 +39,12 @@
     "flag": "🇻🇳",
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
     "needs_ad": true,
-    "trending_cities": ["Da Nang", "Hanoi", "Ho Chi Minh City", "Hai Phong"]
+    "trending_cities": [
+      "Da Nang",
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Hai Phong"
+    ]
   },
   "Indonesia": {
     "key": "Indonesia",
@@ -47,7 +54,11 @@
     "flag": "🇮🇩",
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
     "needs_ad": true,
-    "trending_cities": ["Bali", "Jakarta", "Ubud"]
+    "trending_cities": [
+      "Bali",
+      "Jakarta",
+      "Ubud"
+    ]
   },
   "Egypt": {
     "key": "Egypt",
@@ -57,7 +68,11 @@
     "flag": "🇪🇬",
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/Bali.jpg",
     "needs_ad": true,
-    "trending_cities": ["Cairo", "Sharm El-Sheikh", "Alexandria"]
+    "trending_cities": [
+      "Cairo",
+      "Sharm El-Sheikh",
+      "Alexandria"
+    ]
   },
   "Switzerland": {
     "key": "Switzerland",
@@ -67,6 +82,10 @@
     "flag": "🇨🇭",
     "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/hallstat.jpg",
     "needs_ad": true,
-    "trending_cities": ["Bern", "Zermatt", "Interlaken"]
+    "trending_cities": [
+      "Bern",
+      "Zermatt",
+      "Interlaken"
+    ]
   }
 }

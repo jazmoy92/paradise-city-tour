@@ -32,7 +32,8 @@
           "en": "Istanbul Airport (IST) is the main international airport and the primary aviation hub in the European side of Istanbul, Turkey. The airport is classified as one of the largest and most modern airports in the world in terms of area and passenger capacity, spanning a massive area of 76.5 million square meters. It is located in the Arnavutköy district on the European side, northwest of the city. The airport regularly tops the lists of the busiest airports for flights and passenger traffic in the European continent.",
           "tr": "İstanbul Havalimanı (IST), Türkiye'nin İstanbul şehrinin Avrupa yakasındaki ana uluslararası havalimanı ve temel havacılık merkezidir. Yüz ölçümü ve yolcu kapasitesi bakımından dünyanın en büyük ve en modern havalimanlarından biri olarak sınıflandırılan havalimanı, 76.5 milyon metrekarelik devasa bir alana yayılmaktadır. Şehrin kuzeybatısında, Avrupa yakasındaki Arnavutköy ilçesinde yer almaktadır. Havalimanı, Avrupa kıtasında uçuş ve yolcu trafiği açısından en yoğun havalimanları listelerinde düzenli olarak ilk sıralarda yer almaktadır."
         },
-        "location_url": "https://maps.google.com/?q=Istanbul+Airport"
+        "location_url": "https://maps.google.com/?q=Istanbul+Airport",
+        "needs_ad": true
       },
       {
         "name": {
@@ -47,7 +48,8 @@
           "en": "It is the second international airport serving the city of Istanbul and is considered the main, vibrant aviation gateway to the Asian side of Turkey. The airport is famous for being a primary hub for low-cost airlines. It is located in the Pendik district on the Asian side. The airport was named to honor the memory of Sabiha Gökçen, the adopted daughter of Mustafa Kemal Atatürk and the first female fighter pilot and military aviator in history. It ranks as the second busiest airport in Turkey and the ninth across the European continent.",
           "tr": "İstanbul şehrine hizmet veren ikinci uluslararası havalimanıdır ve Türkiye'nin Asya yakasının ana, dinamik hava kapısı olarak kabul edilir. Havalimanı, özellikle düşük maliyetli (ekonomik) havayolu şirketlerinin temel merkezi olmasıyla tanınır. Asya yakasındaki Pendik ilçesinde yer almaktadır. Havalimanı, Mustafa Kemal Atatürk'ün manevi kızı ve tarihteki ilk kadın savaş uçağı pilotu ile askeri pilot olan Sabiha Gökçen'in anısını yaşatmak amacıyla bu ismi almıştır. Türkiye'nin en yoğun ikinci havalimanı olup, Avrupa kıtası genelinde ise dokuzuncu sırada yer almaktadır."
         },
-        "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport"
+        "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport",
+        "needs_ad": true
       }
     ],
     "available_categories": [
@@ -151,7 +153,7 @@
         ],
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
-        "needs_ad": false,
+        "needs_ad": true,
         "description": {
           "ar": "قصر ملكي عثماني يعود للقرن الـ 19. الفندق الإمبراطوري الوحيد على مضيق البوسفور، ويحتوي على 317 غرفة وجناحاً. تتميز بإطلالات بانورامية ساحرة على مضيق البوسفور أو حدائق يلدز التاريخية. أجنحة القصر هي غرف ملكية بأسقف مرتفعة وأثاث كلاسيكي مع خدمة خادم شخصي على مدار الساعة. يحتوي على 3 مطاعم، ومسبح يطل على مضيق البوسفور، وأيضاً مركز صحي يضم حمامات تركية وجلسات مساج.",
           "en": "A 19th-century Ottoman royal palace. The only imperial hotel on the Bosphorus, featuring 317 rooms and suites. Offers breathtaking, panoramic views of the Bosphorus Strait or the historic Yıldız Gardens. Palace Suites are royal rooms with high ceilings, classical furniture, and 24-hour butler service. Features 3 restaurants, an infinity pool overlooking the Bosphorus, and a wellness center with traditional Turkish baths and massage services.",
@@ -179,7 +181,7 @@
         ],
         "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
-        "needs_ad": false,
+        "needs_ad": true,
         "description": {
           "ar": "فندق فاخر بتصنيف 5 نجوم يقع في قلب إسطنبول، على بعد دقائق مشياً من ساحة تقسيم. يتميز بغرف وأجنحة 'دوبلكس' بتصميم عصري من طابقين مع نوافذ زجاجية ممتدة من الأرض إلى السقف. يوفر إطلالات بانورامية رائعة على مدينة إسطنبول ومضيق البوسفور. يضم مطعم 'فانوس' (Fanus) الشهير الذي يقدم بوفيه إفطار غني وأطباقاً عالمية ومحلية مميزة. يحتوي على مركز صحي (سبا) متكامل يشمل مسبحاً داخلياً، حماماً تركياً، غرف ساونا، وصالة رياضية مجهزة.",
           "en": "A luxury 5-star hotel located in the heart of Istanbul, just minutes away from Taksim Square. Features modern duplex rooms and suites with contemporary designs and floor-to-ceiling windows. Offers stunning panoramic views of Istanbul city and the Bosphorus Strait. Home to the famous 'Fanus' restaurant, serving a rich breakfast buffet and exquisite international and local cuisine. Includes a full-service spa center with an indoor pool, traditional Turkish bath, saunas, and a fully equipped gym.",
@@ -526,7 +528,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg"
         ],
         "website": "https://maps.app.goo.gl",
-        "needs_ad": false,
+        "needs_ad": true,
         "description": {
           "ar": "أيقونة العمارة الإسلامية العثمانية يشتهر بست مآذن ومآذن السيراميك الإزنيقي الأزرق الفاخر.",
           "en": "An icon of Ottoman Islamic architecture famous for its six minarets and blue Iznik tiles.",

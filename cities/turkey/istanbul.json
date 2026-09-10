@@ -18,6 +18,161 @@
       "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south. This metropolis boasts an ancient historical heritage deeply rooted in both the Byzantine and Ottoman eras, making it a cultural beacon and a leading commercial hub. Today, Istanbul celebrates its unique human diversity with a population exceeding 16 million, while its charm is further heightened by the five Princes' Islands open and safe for tourist visits, shimmering in the heart of the Sea of Marmara, together painting an unparalleled natural and historical masterpiece.",
       "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur. Bizans ve Osmanlı dönemlerine kadar uzanan köklü bir tarihi mirasa sahip olan bu metropol, bir kültür feneri ve öncü bir ticaret merkezi haline gelmiştir. Bugün İstanbul, 16 milyonu aşan nüfusuyla benzersiz insani çeşitliliğini kutlarken, Marmara Denizi'nin kalbinde parıldayan ve turistik ziyarete açık, güvenli beş Prens Adası da bu büyüleyici güzelliğe apayrı bir ihtişam katarak bir arada eşsiz bir doğa ve tarih tablosu çizmektedir."
     },
+
+    "transit_cards": [
+      {
+        "name": {
+          "ar": "بطاقة إسطنبول كارت العادية (Anonim)",
+          "en": "Standard Istanbulkart (Anonim)",
+          "tr": "Anonim İstanbulkart"
+        },
+        "badge": "OFFICIAL RFID CARD",
+        "price": "130 TL",
+        "needs_ad": true,
+        "desc": {
+          "ar": "البطاقة الذكية الرسمية والموحدة المعتمدة في جميع وسائل النقل بإسطنبول (المترو، الترام، الباصات، العبارات، الميتروباص، والتلفريك).",
+          "en": "The official unified contactless smart card for all public transit in Istanbul (Metro, Tram, Bus, Ferry, Metrobus, Cable Car).",
+          "tr": "İstanbul'daki tüm toplu taşıma araçlarında geçerli resmi temassız akıllı kart."
+        },
+        "where_to_buy": {
+          "ar": "مكائن بيلمتاتيك الصفراء بمحطات المترو والمطار، وأكشاك بيع الصحف المنتشرة.",
+          "en": "Yellow Biletmatik kiosks at all metro stations, airports, and street kiosks.",
+          "tr": "Tüm metro istasyonlarındaki sarı Biletmatik cihazları, havalimanı ve büfeler."
+        },
+        "features": [
+          "تخفيض تلقائي عند التبديل بين الخطوط المتتابعة خلال ساعتين",
+          "يمكن استخدام نفس البطاقة لعدة أشخاص بالمسح المتكرر",
+          "إمكانية شحن الرصيد نقداً أو بنكياً أو عبر تطبيق الهاتف NFC"
+        ]
+      },
+      {
+        "name": {
+          "ar": "بطاقة السائح اللامحدودة (Istanbul City Card)",
+          "en": "Istanbul City Card (Unlimited Tourist Pass)",
+          "tr": "İstanbul Şehir Kartı (Turist)"
+        },
+        "badge": "UNLIMITED PASS",
+        "price": "1-3-5-7 Days Pass",
+        "needs_ad": true,
+        "desc": {
+          "ar": "بطاقة مخصصة حصرياً للسياح توفر ركوباً غير محدود لجميع وسائل النقل العام طوال مدة صلاحية الباقة المختارة دون الحاجة لإعادة شحن الرصيد.",
+          "en": "Exclusive tourist card providing unlimited rides on all public transit for the selected validity period without needing top-ups.",
+          "tr": "Turistler için seçilen süre boyunca sınırsız biniş imkanı sağlayan resmi ulaşım kartı."
+        },
+        "where_to_buy": {
+          "ar": "مكائن بيلمتاتيك المخصصة في مطاري إسطنبول (IST و SAW) ومراكز الاستعلامات السياحية.",
+          "en": "Designated Biletmatik kiosks at Istanbul Airport, Sabiha Airport, and tourist hubs.",
+          "tr": "Havalimanları ve turistik merkezlerdeki özel Biletmatik noktaları."
+        },
+        "features": [
+          "ركوب غير محدود ومجاني طوال مدة الباقة",
+          "تصاميم تذكارية فاخرة لمعالم إسطنبول",
+          "توصيل متاح للفنادق عند الطلب المسبق عبر الإنترنت"
+        ]
+      },
+      {
+        "name": {
+          "ar": "تذاكر الركوب المؤقتة (Geç Bilet الإلكترونية)",
+          "en": "Limited-Ride Electronic Tickets (Geç Bilet)",
+          "tr": "Sınırlı Kullanımlı Elektronik Bilet"
+        },
+        "badge": "DISPOSABLE TICKET",
+        "price": "1 - 2 - 3 - 5 - 10 Biniş",
+        "needs_ad": false,
+        "desc": {
+          "ar": "تذاكر إلكترونية ورقية مسبقة الشحن لعدد محدد من الرحلات (رحلة واحدة، رحلتان، ثلاث، خمس، أو عشر رحلات). خيار مثالي لمن لا يريد شراء بطاقة بلاستيكية.",
+          "en": "Pre-paid disposable electronic tickets for a fixed number of rides (1, 2, 3, 5, or 10 trips). Ideal for short visits.",
+          "tr": "Belirli sayıda biniş hakkı (1, 2, 3, 5, 10) içeren tek kullanımlık elektronik biletler."
+        },
+        "where_to_buy": {
+          "ar": "متوفرة مباشرة في جميع مكائن التذاكر الصفراء بمداخل المحطات.",
+          "en": "Directly available from all yellow Biletmatik ticket machines.",
+          "tr": "İstasyon girişlerindeki tüm sarı Biletmatik makinelerinden temin edilebilir."
+        },
+        "features": [
+          "لا تتطلب دفع رسوم تأمين البطاقة البلاستيكية",
+          "صالحة للاستخدام الفوري لمرة واحدة أو عدة مرات بحسب الفئة",
+          "مدعومة في بوابات المترو، الترام، والعبارات"
+        ]
+      },
+      {
+        "name": {
+          "ar": "بطاقة إسطنبول كارت الرقمية (تطبيق الهاتف NFC / QR)",
+          "en": "Digital Istanbulkart (Mobile NFC / QR)",
+          "tr": "Dijital İstanbulkart (Mobil)"
+        },
+        "badge": "MOBILE NFC / QR",
+        "price": "مجانية (Free App)",
+        "needs_ad": true,
+        "desc": {
+          "ar": "استخدام الهاتف الذكي مباشرة كبطاقة مواصلات عبر مسح كود الـ QR أو تقنية NFC دون الحاجة لحمل كرت بلاستيكي.",
+          "en": "Use your smartphone directly at turnstiles via QR code or NFC without needing a physical plastic card.",
+          "tr": "Fiziksel kart taşımadan akıllı telefonunuz ile QR veya NFC üzerinden geçiş imkanı."
+        },
+        "where_to_buy": {
+          "ar": "تحميل تطبيق Istanbulkart الرسمي من متجر App Store أو Google Play.",
+          "en": "Download the official Istanbulkart app on iOS App Store & Android Google Play.",
+          "tr": "App Store veya Google Play üzerinden resmi İstanbulkart uygulamasını indirerek."
+        },
+        "features": [
+          "شحن الرصيد فوراً عبر البطاقات الائتمانية الدولية",
+          "متابعة حية للرصيد وسجل الرحلات المتبقية",
+          "دعم الدفع السريع بمسح الكود على بوابات المترو والترام"
+        ]
+      }
+    ],
+
+    "ticket_machines": [
+      {
+        "name": {
+          "ar": "مكائن بيلمتاتيك الصفراء (Biletmatik - كاش وبنك)",
+          "en": "Yellow Biletmatik Kiosks (Cash & Card)",
+          "tr": "Sarı Biletmatik (Nakit & Kart)"
+        },
+        "icon": "🏧",
+        "needs_ad": true,
+        "desc": {
+          "ar": "المكائن الصفراء الرئيسية المتواجدة عند مداخل كل محطة مترو، ترام، وموانئ العبارات. تتيح شراء كروت المواصلات الجديدة وتعبئة الرصيد بالليرة التركية أو بالبطاقات البنكية.",
+          "en": "Main yellow vending machines at all metro, tram, and ferry entrances. Allows buying new cards and cash/card top-ups.",
+          "tr": "Tüm istasyon girişlerinde bulunan nakit ve banka kartı ile bilet alımı ve dolum noktası."
+        },
+        "supported_payments": [
+          "نقد ورقي كاش (Turkish Lira فقط)",
+          "بطاقات فيزا وماستركارد البنكية",
+          "دفع بدون تلامس Contactless / NFC"
+        ],
+        "instructions": {
+          "ar": "1. لتعبئة الرصيد: ضع بطاقتك على القارئ الشفاف الزجاجي على اليمين.\n2. أدخل العملة الورقية في فتحة النقود (لا تعيد المتبقي كاش، بل تضيفه كاملاً كرصيد).\n3. انتظر 3 ثوانٍ حتى تسمع الرنين واسحب بطاقتك.\n4. لشراء كرت جديد: اضغط على زر الشاشة لاختيار اللغة وشراء Istanbulkart وادفع القيمة المطلوبة.",
+          "en": "1. To Top-up: Place your card on the transparent glass reader on the right.\n2. Insert paper cash notes into the slot (No change is given; full amount is added to balance).\n3. Wait 3 seconds for confirmation and pick up your card.\n4. To Buy Card: Tap the screen to select language and follow prompts to buy a new card.",
+          "tr": "1. Yükleme: Kartınızı sağdaki şeffaf bölmeye yerleştirin.\n2. Banknotu para girişine yerleştirin (Para üstü verilmez, bakiye olarak yüklenir).\n3. Ekranda onay görünene kadar kartı kaldırmayın.\n4. Yeni Kart: Ekrandan dili seçip 'Yeni Kart Al' seçeneğine basarak satın alın."
+        }
+      },
+      {
+        "name": {
+          "ar": "مكائن بيلمتاتيك الزرقاء السريعة (بطاقات بنكية فقط)",
+          "en": "Blue Biletmatik Kiosks (Card & Contactless Only)",
+          "tr": "Mavi Biletmatik (Yalnızca Kredi Kartı)"
+        },
+        "icon": "💳",
+        "needs_ad": true,
+        "desc": {
+          "ar": "مكائن مخصصة للدفع الإلكتروني السريع بدون طوابير. لا تقبل النقود الورقية بل تدعم البطاقات البنكية الدولية والدفع بالهاتف عبر Apple Pay و Google Pay.",
+          "en": "Fast-lane kiosks accepting only credit/debit cards and mobile contactless payments (Apple Pay / Google Pay). No cash accepted.",
+          "tr": "Yalnızca kredi kartı ve temassız mobil ödemeleri destekleyen hızlı bilet ve dolum makinesi."
+        },
+        "supported_payments": [
+          "بطاقات الائتمان الدولية (Credit/Debit)",
+          "Apple Pay & Google Pay",
+          "NFC اللاتلامسي الفوري"
+        ],
+        "instructions": {
+          "ar": "1. ضع بطاقة إسطنبول كارت على القارئ الأيمن.\n2. اختر المبلغ المطلوب شحنه من الشاشة اللمسية.\n3. مرر بطاقتك البنكية أو جوالك المزود بـ Apple Pay أمام قارئ البطاقات.\n4. يتم تأكيد الشحن وطباعة الإيصال فوراً.",
+          "en": "1. Place Istanbulkart on the right reader.\n2. Select top-up amount on the touch screen.\n3. Tap your credit card or smartphone (Apple Pay) on the POS terminal.\n4. Transaction confirms instantly.",
+          "tr": "1. Kartınızı okuyucuya koyun.\n2. Yüklemek istediğiniz tutarı seçin.\n3. Banka kartınızı veya telefonunuzu POS cihazına yaklaştırın.\n4. İşlem anında tamamlanır."
+        }
+      }
+    ],
+
     "airports": [
       {
         "name": {

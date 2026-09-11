@@ -27,6 +27,7 @@
           "tr": "Anonim İstanbulkart"
         },
         "badge": "OFFICIAL RFID CARD",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
         "price": "130 TL",
         "needs_ad": true,
         "desc": {
@@ -52,6 +53,7 @@
           "tr": "İstanbul Şehir Kartı (Turist)"
         },
         "badge": "UNLIMITED PASS",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
         "price": "1-3-5-7 Days Pass",
         "needs_ad": true,
         "desc": {
@@ -77,6 +79,7 @@
           "tr": "Sınırlı Kullanımlı Elektronik Bilet"
         },
         "badge": "DISPOSABLE TICKET",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
         "price": "1 - 2 - 3 - 5 - 10 Biniş",
         "needs_ad": false,
         "desc": {
@@ -102,6 +105,7 @@
           "tr": "Dijital İstanbulkart (Mobil)"
         },
         "badge": "MOBILE NFC / QR",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
         "price": "مجانية (Free App)",
         "needs_ad": true,
         "desc": {
@@ -130,6 +134,7 @@
           "tr": "Sarı Biletmatik (Nakit & Kart)"
         },
         "icon": "🏧",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
         "needs_ad": true,
         "desc": {
           "ar": "المكائن الصفراء الرئيسية المتواجدة عند مداخل كل محطة مترو، ترام، وموانئ العبارات. تتيح شراء كروت المواصلات الجديدة وتعبئة الرصيد بالليرة التركية أو بالبطاقات البنكية.",
@@ -154,6 +159,7 @@
           "tr": "Mavi Biletmatik (Yalnızca Kredi Kartı)"
         },
         "icon": "💳",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
         "needs_ad": true,
         "desc": {
           "ar": "مكائن مخصصة للدفع الإلكتروني السريع بدون طوابير. لا تقبل النقود الورقية بل تدعم البطاقات البنكية الدولية والدفع بالهاتف عبر Apple Pay و Google Pay.",
@@ -230,7 +236,7 @@
         "description": {
           "ar": "هو أول تطبيق تركي محلي مخصص لحجز سيارات الأجرة عبر الهواتف الذكية. يربط التطبيق الركاب مباشرة مع سائقي التاكسي الرسميين والـمرخصين من البلدية. يتيح التطبيق خيارات متنوعة تشمل التاكسي الأصفر الاقتصادي، والتاكسي الفيروزي المريح، وفئة التاكسي الأسود الفاخر. يعمل بشكل رئيسي وقوي جداً في إسطنبول وأنقرة.",
           "en": "It is Turkey's first local application dedicated to booking taxis via smartphones. The app connects passengers directly with official, municipality-licensed taxi drivers. It offers diverse options, including the budget-friendly Yellow Taxi, the comfortable Turquoise Taxi, and the premium Black Taxi category. It operates primarily and very strongly in Istanbul and Ankara.",
-          "tr": "Akıllı telefonlar üzerinden taksi çağırmak için geliştirilmiş ilk yerli Türk uygulamasıdır. Uygulama, yolcuları doğrudan belediye lisanslı resmi taksi sürücüleri ile buluşturur. Ekonomik Sarı Taksi, konforlu Turkuaz Taksi ve lüks Siyah Taksi kategorileri dahil olmak üzere çeşitli seçenekler sunar. Ağırlıklı olarak ve oldukça güçlü bir şekilde İstanbul ve Ankara'da faaliyet göstermektedir."
+          "tr": "Akıllı telefonlar üzerinden taksi çağırmak için geliştirilmiş ilk yerli Türk uygulamasıdır. Uygulama, yolcuları doğrudan belediye lisanslı resmi taksi sürücüleri ile buluşturur. Ekonomik Sarı Taksi, konforlu Turkuaz Taksi ve lüks Siyah Taksi kategorileri dahil olmak üzere विभिन्न seçenekler sunar. Ağırlıklı olarak ve oldukça güçlü bir şekilde İstanbul ve Ankara'da faaliyet göstermektedir."
         }
       },
       {
@@ -873,7 +879,7 @@
           { "name": { "ar": "Zincirlikuyu (تقاطع زورلو سنتر ومترو M2)", "en": "Zincirlikuyu / Zorlu", "tr": "Zincirlikuyu" } },
           { "name": { "ar": "15 Temmuz Şehitler Köprüsü (جسر البوسفور 🌉)", "en": "Bosphorus Bridge", "tr": "15 Temmuz Şehitler Köprüsü" } },
           { "name": { "ar": "Altunizade (ألتوني زاده - الجانب الآسيوي)", "en": "Altunizade", "tr": "Altunizade" } },
-          { "name": { "ar": "Söğütlüçeşme (كاديكوي - نهاية الخط الآسيوي)", "en": "Sogutlucesme / Kadikoy", "tr": "Söğütlüçeşme" } }
+          { "name": { "ar": "Söğütlüçeشme (كاديكوي - نهاية الخط الآسيوي)", "en": "Sogutlucesme / Kadikoy", "tr": "Söğütlüçeşme" } }
         ]
       },
       {

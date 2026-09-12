@@ -1,16 +1,154 @@
 {
   "cities": {
+    "california": {
+      "names": { "ar": "كاليفورنيا", "en": "California", "tr": "Kaliforniya" }
+    },
     "newyork": {
       "names": { "ar": "نيويورك", "en": "New York", "tr": "New York" }
-    },
-    "losangles": {
-      "names": { "ar": "لوس انجلوس", "en": "Los Angles", "tr": "Los Angles" }
     },
     "florida": {
       "names": { "ar": "فلوريدا", "en": "Florida", "tr": "Florida" }
     },
-    "california": {
-      "names": { "ar": "كاليفورنيا", "en": "California", "tr": "Kaliforniya" }
+    "texas": {
+      "names": { "ar": "تكساس", "en": "Texas", "tr": "Teksas" }
+    },
+    "nevada": {
+      "names": { "ar": "نيفادا", "en": "Nevada", "tr": "Nevada" }
+    },
+    "hawaii": {
+      "names": { "ar": "هاواي", "en": "Hawaii", "tr": "Hawaii" }
+    },
+    "illinois": {
+      "names": { "ar": "إلينوي", "en": "Illinois", "tr": "Illinois" }
+    },
+    "washington": {
+      "names": { "ar": "واشنطن", "en": "Washington", "tr": "Washington" }
+    },
+    "massachusetts": {
+      "names": { "ar": "ماساتشوستس", "en": "Massachusetts", "tr": "Massachusetts" }
+    },
+    "alaska": {
+      "names": { "ar": "ألاسكا", "en": "Alaska", "tr": "Alaska" }
+    },
+    "pennsylvania": {
+      "names": { "ar": "بنسلفانيا", "en": "Pennsylvania", "tr": "Pensilvanya" }
+    },
+    "georgia": {
+      "names": { "ar": "جورجيا", "en": "Georgia", "tr": "Georgia" }
+    },
+    "ohio": {
+      "names": { "ar": "أوهايو", "en": "Ohio", "tr": "Ohio" }
+    },
+    "michigan": {
+      "names": { "ar": "ميشيغان", "en": "Michigan", "tr": "Michigan" }
+    },
+    "northcarolina": {
+      "names": { "ar": "كارولاينا الشمالية", "en": "North Carolina", "tr": "Kuzey Karolina" }
+    },
+    "newjersey": {
+      "names": { "ar": "نيوجيرسي", "en": "New Jersey", "tr": "New Jersey" }
+    },
+    "virginia": {
+      "names": { "ar": "فيرجينيا", "en": "Virginia", "tr": "Virjinya" }
+    },
+    "arizona": {
+      "names": { "ar": "أريزونا", "en": "Arizona", "tr": "Arizona" }
+    },
+    "tennessee": {
+      "names": { "ar": "تينيسي", "en": "Tennessee", "tr": "Tennessee" }
+    },
+    "colorado": {
+      "names": { "ar": "كولورادو", "en": "Colorado", "tr": "Colorado" }
+    },
+    "louisiana": {
+      "names": { "ar": "لويزيانا", "en": "Louisiana", "tr": "Louisiana" }
+    },
+    "indiana": {
+      "names": { "ar": "إنديانا", "en": "Indiana", "tr": "Indiana" }
+    },
+    "missouri": {
+      "names": { "ar": "ميزوري", "en": "Missouri", "tr": "Missouri" }
+    },
+    "maryland": {
+      "names": { "ar": "ماريلاند", "en": "Maryland", "tr": "Maryland" }
+    },
+    "wisconsin": {
+      "names": { "ar": "ويسكونسن", "en": "Wisconsin", "tr": "Wisconsin" }
+    },
+    "minnesota": {
+      "names": { "ar": "مينيسوتا", "en": "Minnesota", "tr": "Minnesota" }
+    },
+    "southcarolina": {
+      "names": { "ar": "كارولاينا الجنوبية", "en": "South Carolina", "tr": "Güney Karolina" }
+    },
+    "alabama": {
+      "names": { "ar": "ألاباما", "en": "Alabama", "tr": "Alabama" }
+    },
+    "kentucky": {
+      "names": { "ar": "كنتاكي", "en": "Kentucky", "tr": "Kentucky" }
+    },
+    "oregon": {
+      "names": { "ar": "أوريغون", "en": "Oregon", "tr": "Oregon" }
+    },
+    "oklahoma": {
+      "names": { "ar": "أوكلاهوما", "en": "Oklahoma", "tr": "Oklahoma" }
+    },
+    "connecticut": {
+      "names": { "ar": "كونيتيكت", "en": "Connecticut", "tr": "Connecticut" }
+    },
+    "utah": {
+      "names": { "ar": "يوتا", "en": "Utah", "tr": "Utah" }
+    },
+    "iowa": {
+      "names": { "ar": "أيوا", "en": "Iowa", "tr": "Iowa" }
+    },
+    "arkansas": {
+      "names": { "ar": "أركنساس", "en": "Arkansas", "tr": "Arkansas" }
+    },
+    "kansas": {
+      "names": { "ar": "كانساس", "en": "Kansas", "tr": "Kansas" }
+    },
+    "mississippi": {
+      "names": { "ar": "مسيسيبي", "en": "Mississippi", "tr": "Mississippi" }
+    },
+    "newmexico": {
+      "names": { "ar": "نيومكسيكو", "en": "New Mexico", "tr": "New Mexico" }
+    },
+    "nebraska": {
+      "names": { "ar": "نبراسكا", "en": "Nebraska", "tr": "Nebraska" }
+    },
+    "idaho": {
+      "names": { "ar": "أيداهو", "en": "Idaho", "tr": "Idaho" }
+    },
+    "westvirginia": {
+      "names": { "ar": "فيرجينيا الغربية", "en": "West Virginia", "tr": "Batı Virjinya" }
+    },
+    "newhampshire": {
+      "names": { "ar": "نيوهامبشير", "en": "New Hampshire", "tr": "New Hampshire" }
+    },
+    "maine": {
+      "names": { "ar": "مين", "en": "Maine", "tr": "Maine" }
+    },
+    "montana": {
+      "names": { "ar": "مونتانا", "en": "Montana", "tr": "Montana" }
+    },
+    "rhodeisland": {
+      "names": { "ar": "رود آيلاند", "en": "Rhode Island", "tr": "Rhode Island" }
+    },
+    "delaware": {
+      "names": { "ar": "ديلاوير", "en": "Delaware", "tr": "Delaware" }
+    },
+    "southdakota": {
+      "names": { "ar": "داكوتا الجنوبية", "en": "South Dakota", "tr": "Güney Dakota" }
+    },
+    "northdakota": {
+      "names": { "ar": "داكوتا الشمالية", "en": "North Dakota", "tr": "Kuzey Dakota" }
+    },
+    "vermont": {
+      "names": { "ar": "فيرمونت", "en": "Vermont", "tr": "Vermont" }
+    },
+    "wyoming": {
+      "names": { "ar": "وايومنغ", "en": "Wyoming", "tr": "Wyoming" }
     }
   }
 }

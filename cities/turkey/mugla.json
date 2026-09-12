@@ -1,1 +1,908 @@
+{
+  "istanbul": {
+    "names": {
+      "ar": "إسطنبول",
+      "en": "Istanbul",
+      "tr": "İstanbul"
+    },
+    "famous_for": {
+      "ar": "تشتهر بالتاريخ العريق والحضارة العثمانية 🕌✨",
+      "en": "Famous for ancient history and Ottoman civilization 🕌✨",
+      "tr": "Köklü tarihi ve Osmanlı medeniyetiyle tanınır 🕌✨"
+    },
+    "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/bali.jpg",
+    "hero_image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/bali.jpg",
+    "needs_ad": true,
+    "description": {
+      "ar": "تتربع إسطنبول على عرش المدن التي تربط قارات العالم، مشكّلةً جسراً حضارياً فريداً بين آسيا وأوروبا. تحتضن المدينة طبيعة مائية ساحرة؛ حيث يحدّها البحر الأسود من الشمال، وينساب عبر قلبها مضيق البوسفور ليلتقي بعمق بحر مرمرة في الجنوب. تتميز هذه الحاضرة بإرث تاريخي عريق يمتد بجذوره إلى العهدين البيزنطي والعثماني، مما جعلها منارة ثقافية ومركزاً تجارياً رائداً. واليوم، تحتفي إسطنبول بتنوعها الإنساني الفريد بتعداد سكان يتجاوز حاجز الـ 16 مليون نسمة، ويزيدها سحراً جزر الأميرات الخمسة المفتوحة والآمنة للزيارة السياحية والتي تتلألأ في قلب بحر مرمرة، لترسم معاً لوحة طبيعية وتاريخية لا مثيل لها.",
+      "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south. This metropolis boasts an ancient historical heritage deeply rooted in both the Byzantine and Ottoman eras, making it a cultural beacon and a leading commercial hub. Today, Istanbul celebrates its unique human diversity with a population exceeding 16 million, while its charm is further heightened by the five Princes' Islands open and safe for tourist visits, shimmering in the heart of the Sea of Marmara, together painting an unparalleled natural and historical masterpiece.",
+      "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur. Bizans ve Osmanlı dönemlerine kadar uzanan köklü bir tarihi mirasa sahip olan bu metropol, bir kültür feneri ve öncü bir ticaret merkezi haline gelmiştir. Bugün İstanbul, 16 milyonu aşan nüfusuyla benzersiz insani çeşitliliğini kutlarken, Marmara Denizi'nin kalbinde parıldayan ve turistik ziyarete açık, güvenli beş Prens Adası da bu büyüleyici güzelliğe apayrı bir ihtişam katarak bir arada eşsiz bir doğa ve tarih tablosu çizmektedir."
+    },
 
+    "transit_cards": [
+      {
+        "name": {
+          "ar": "بطاقة إسطنبول كارت العادية (Anonim)",
+          "en": "Standard Istanbulkart (Anonim)",
+          "tr": "Anonim İstanbulkart"
+        },
+        "badge": "OFFICIAL RFID CARD",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "price": "130 TL",
+        "needs_ad": true,
+        "desc": {
+          "ar": "البطاقة الذكية الرسمية والموحدة المعتمدة في جميع وسائل النقل بإسطنبول (المترو، الترام، الباصات، العبارات، الميتروباص، والتلفريك).",
+          "en": "The official unified contactless smart card for all public transit in Istanbul (Metro, Tram, Bus, Ferry, Metrobus, Cable Car).",
+          "tr": "İstanbul'daki tüm toplu taşıma araçlarında geçerli resmi temassız akıllı kart."
+        },
+        "where_to_buy": {
+          "ar": "مكائن بيلمتاتيك الصفراء بمحطات المترو والمطار، وأكشاك بيع الصحف المنتشرة.",
+          "en": "Yellow Biletmatik kiosks at all metro stations, airports, and street kiosks.",
+          "tr": "Tüm metro istasyonlarındaki sarı Biletmatik cihazları, havalimanı ve büfeler."
+        },
+        "features": [
+          "تخفيض تلقائي عند التبديل بين الخطوط المتتابعة خلال ساعتين",
+          "يمكن استخدام نفس البطاقة لعدة أشخاص بالمسح المتكرر",
+          "إمكانية شحن الرصيد نقداً أو بنكياً أو عبر تطبيق الهاتف NFC"
+        ]
+      },
+      {
+        "name": {
+          "ar": "بطاقة السائح اللامحدودة (Istanbul City Card)",
+          "en": "Istanbul City Card (Unlimited Tourist Pass)",
+          "tr": "İstanbul Şehir Kartı (Turist)"
+        },
+        "badge": "UNLIMITED PASS",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "price": "1-3-5-7 Days Pass",
+        "needs_ad": true,
+        "desc": {
+          "ar": "بطاقة مخصصة حصرياً للسياح توفر ركوباً غير محدود لجميع وسائل النقل العام طوال مدة صلاحية الباقة المختارة دون الحاجة لإعادة شحن الرصيد.",
+          "en": "Exclusive tourist card providing unlimited rides on all public transit for the selected validity period without needing top-ups.",
+          "tr": "Turistler için seçilen süre boyunca sınırsız biniş imkanı sağlayan resmi ulaşım kartı."
+        },
+        "where_to_buy": {
+          "ar": "مكائن بيلمتاتيك المخصصة في مطاري إسطنبول (IST و SAW) ومراكز الاستعلامات السياحية.",
+          "en": "Designated Biletmatik kiosks at Istanbul Airport, Sabiha Airport, and tourist hubs.",
+          "tr": "Havalimanları ve turistik merkezlerdeki özel Biletmatik noktaları."
+        },
+        "features": [
+          "ركوب غير محدود ومجاني طوال مدة الباقة",
+          "تصاميم تذكارية فاخرة لمعالم إسطنبول",
+          "توصيل متاح للفنادق عند الطلب المسبق عبر الإنترنت"
+        ]
+      },
+      {
+        "name": {
+          "ar": "تذاكر الركوب المؤقتة (Geç Bilet الإلكترونية)",
+          "en": "Limited-Ride Electronic Tickets (Geç Bilet)",
+          "tr": "Sınırlı Kullanımlı Elektronik Bilet"
+        },
+        "badge": "DISPOSABLE TICKET",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "price": "1 - 2 - 3 - 5 - 10 Biniş",
+        "needs_ad": false,
+        "desc": {
+          "ar": "تذاكر إلكترونية ورقية مسبقة الشحن لعدد محدد من الرحلات (رحلة واحدة، رحلتان، ثلاث، خمس، أو عشر رحلات). خيار مثالي لمن لا يريد شراء بطاقة بلاستيكية.",
+          "en": "Pre-paid disposable electronic tickets for a fixed number of rides (1, 2, 3, 5, or 10 trips). Ideal for short visits.",
+          "tr": "Belirli sayıda biniş hakkı (1, 2, 3, 5, 10) içeren tek kullanımlık elektronik biletler."
+        },
+        "where_to_buy": {
+          "ar": "متوفرة مباشرة في جميع مكائن التذاكر الصفراء بمداخل المحطات.",
+          "en": "Directly available from all yellow Biletmatik ticket machines.",
+          "tr": "İstasyon girişlerindeki tüm sarı Biletmatik makinelerinden temin edilebilir."
+        },
+        "features": [
+          "لا تتطلب دفع رسوم تأمين البطاقة البلاستيكية",
+          "صالحة للاستخدام الفوري لمرة واحدة أو عدة مرات بحسب الفئة",
+          "مدعومة في بوابات المترو، الترام، والعبارات"
+        ]
+      },
+      {
+        "name": {
+          "ar": "بطاقة إسطنبول كارت الرقمية (تطبيق الهاتف NFC / QR)",
+          "en": "Digital Istanbulkart (Mobile NFC / QR)",
+          "tr": "Dijital İstanbulkart (Mobil)"
+        },
+        "badge": "MOBILE NFC / QR",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "price": "مجانية (Free App)",
+        "needs_ad": true,
+        "desc": {
+          "ar": "استخدام الهاتف الذكي مباشرة كبطاقة مواصلات عبر مسح كود الـ QR أو تقنية NFC دون الحاجة لحمل كرت بلاستيكي.",
+          "en": "Use your smartphone directly at turnstiles via QR code or NFC without needing a physical plastic card.",
+          "tr": "Fiziksel kart taşımadan akıllı telefonunuz ile QR veya NFC üzerinden geçiş imkanı."
+        },
+        "where_to_buy": {
+          "ar": "تحميل تطبيق Istanbulkart الرسمي من متجر App Store أو Google Play.",
+          "en": "Download the official Istanbulkart app on iOS App Store & Android Google Play.",
+          "tr": "App Store veya Google Play üzerinden resmi İstanbulkart uygulamasını indirerek."
+        },
+        "features": [
+          "شحن الرصيد فوراً عبر البطاقات الائتمانية الدولية",
+          "متابعة حية للرصيد وسجل الرحلات المتبقية",
+          "دعم الدفع السريع بمسح الكود على بوابات المترو والترام"
+        ]
+      }
+    ],
+
+    "ticket_machines": [
+      {
+        "name": {
+          "ar": "مكائن بيلمتاتيك الصفراء (Biletmatik - كاش وبنك)",
+          "en": "Yellow Biletmatik Kiosks (Cash & Card)",
+          "tr": "Sarı Biletmatik (Nakit & Kart)"
+        },
+        "icon": "🏧",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "needs_ad": true,
+        "desc": {
+          "ar": "المكائن الصفراء الرئيسية المتواجدة عند مداخل كل محطة مترو، ترام، وموانئ العبارات. تتيح شراء كروت المواصلات الجديدة وتعبئة الرصيد بالليرة التركية أو بالبطاقات البنكية.",
+          "en": "Main yellow vending machines at all metro, tram, and ferry entrances. Allows buying new cards and cash/card top-ups.",
+          "tr": "Tüm istasyon girişlerinde bulunan nakit ve banka kartı ile bilet alımı ve dolum noktası."
+        },
+        "supported_payments": [
+          "نقد ورقي كاش (Turkish Lira فقط)",
+          "بطاقات فيزا وماستركارد البنكية",
+          "دفع بدون تلامس Contactless / NFC"
+        ],
+        "instructions": {
+          "ar": "1. لتعبئة الرصيد: ضع بطاقتك على القارئ الشفاف الزجاجي على اليمين.\n2. أدخل العملة الورقية في فتحة النقود (لا تعيد المتبقي كاش، بل تضيفه كاملاً كرصيد).\n3. انتظر 3 ثوانٍ حتى تسمع الرنين واسحب بطاقتك.\n4. لشراء كرت جديد: اضغط على زر الشاشة لاختيار اللغة وشراء Istanbulkart وادفع القيمة المطلوبة.",
+          "en": "1. To Top-up: Place your card on the transparent glass reader on the right.\n2. Insert paper cash notes into the slot (No change is given; full amount is added to balance).\n3. Wait 3 seconds for confirmation and pick up your card.\n4. To Buy Card: Tap the screen to select language and follow prompts to buy a new card.",
+          "tr": "1. Yükleme: Kartınızı sağdaki şeffaf bölmeye yerleştirin.\n2. Banknotu para girişine yerleştirin (Para üstü verilmez, bakiye olarak yüklenir).\n3. Ekranda onay görünene kadar kartı kaldırmayın.\n4. Yeni Kart: Ekrandan dili seçip 'Yeni Kart Al' seçeneğine basarak satın alın."
+        }
+      },
+      {
+        "name": {
+          "ar": "مكائن بيلمتاتيك الزرقاء السريعة (بطاقات بنكية فقط)",
+          "en": "Blue Biletmatik Kiosks (Card & Contactless Only)",
+          "tr": "Mavi Biletmatik (Yalnızca Kredi Kartı)"
+        },
+        "icon": "💳",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "needs_ad": true,
+        "desc": {
+          "ar": "مكائن مخصصة للدفع الإلكتروني السريع بدون طوابير. لا تقبل النقود الورقية بل تدعم البطاقات البنكية الدولية والدفع بالهاتف عبر Apple Pay و Google Pay.",
+          "en": "Fast-lane kiosks accepting only credit/debit cards and mobile contactless payments (Apple Pay / Google Pay). No cash accepted.",
+          "tr": "Yalnızca kredi kartı ve temassız mobil ödemeleri destekleyen hızlı bilet ve dolum makinesi."
+        },
+        "supported_payments": [
+          "بطاقات الائتمان الدولية (Credit/Debit)",
+          "Apple Pay & Google Pay",
+          "NFC اللاتلامسي الفوري"
+        ],
+        "instructions": {
+          "ar": "1. ضع بطاقة إسطنبول كارت على القارئ الأيمن.\n2. اختر المبلغ المطلوب شحنه من الشاشة اللمسية.\n3. مرر بطاقتك البنكية أو جوالك المزود بـ Apple Pay أمام قارئ البطاقات.\n4. يتم تأكيد الشحن وطباعة الإيصال فوراً.",
+          "en": "1. Place Istanbulkart on the right reader.\n2. Select top-up amount on the touch screen.\n3. Tap your credit card or smartphone (Apple Pay) on the POS terminal.\n4. Transaction confirms instantly.",
+          "tr": "1. Kartınızı okuyucuya koyun.\n2. Yüklemek istediğiniz tutarı seçin.\n3. Banka kartınızı veya telefonunuzu POS cihazına yaklaştırın.\n4. İşlem anında tamamlanır."
+        }
+      }
+    ],
+
+    "airports": [
+      {
+        "name": {
+          "ar": "مطار إسطنبول الدولي",
+          "en": "Istanbul Airport",
+          "tr": "İstanbul Havalimanı"
+        },
+        "code": "IST",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "هو المطار الدولي الرئيسي والمركز الأساسي لحركة الطيران في مدينة إسطنبول بالجانب الأوروبي من تركيا. يُصنف المطار كأحد أكبر وأحدث المطارات في العالم من حيث المساحة والطاقة الاستيعابية، حيث يمتد على مساحة ضخمة تصل إلى 76.5 مليون متر مربع. يقع في منطقة أرناؤوط كوي بالقسم الأوروبي شمال غرب المدينة. يتصدر المطار بانتظام قوائم المطارات الأكثر ازدحاماً وحركة للرحلات والركاب في القارة الأوروبية.",
+          "en": "Istanbul Airport (IST) is the main international airport and the primary aviation hub in the European side of Istanbul, Turkey. The airport is classified as one of the largest and most modern airports in the world in terms of area and passenger capacity, spanning a massive area of 76.5 million square meters. It is located in the Arnavutköy district on the European side, northwest of the city. The airport regularly tops the lists of the busiest airports for flights and passenger traffic in the European continent.",
+          "tr": "İstanbul Havalimanı (IST), Türkiye'nin İstanbul şehrinin Avrupa yakasındaki ana uluslararası havalimanı ve temel havacılık merkezidir. Yüz ölçümü ve yolcu kapasitesi bakımından dünyanın en büyük ve en modern havalimanlarından biri olarak sınıflandırılan havalimanı, 76.5 milyon metrekarelik devasa bir alana yayılmaktadır. Şehrin kuzeybatısında, Avrupa yakasındaki Arnavutköy ilçesinde yer almaktadır. Havalimanı, Avrupa kıtasında uçuş ve yolcu trafiği açısından en yoğun havalimanları listelerinde düzenli olarak ilk sıralarda yer almaktadır."
+        },
+        "location_url": "https://maps.google.com/?q=Istanbul+Airport",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "مطار صبيحة كوكجن",
+          "en": "Sabiha Gokcen Airport",
+          "tr": "Sabiha Gökçen Havalimanı"
+        },
+        "code": "SAW",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
+        "desc": {
+          "ar": "هو المطار الدولي الثاني الذي يخدم مدينة إسطنبول، ويعد البوابة الجوية الرئيسية والنابضة بالحياة للجانب الآسيوي من تركيا. يشتهر المطار بكونه مركزاً أساسياً لشركات الطيران الاقتصادي. يقع المطار في منطقة بندك (Pendik) بالقسم الآسيوي. سُمي المطار تخليداً لذكرى صبيحة كوكجن، وهي الابنة بالتبني لمصطفى كمال أتاتورك وأول امرأة تقود طائرة حربية ومقاتلة عسكرية في التاريخ. يُعد ثاني أكثر مطارات تركيا ازدحاماً والتاسع على مستوى القارة الأوروبية.",
+          "en": "It is the second international airport serving the city of Istanbul and is considered the main, vibrant aviation gateway to the Asian side of Turkey. The airport is famous for being a primary hub for low-cost airlines. It is located in the Pendik district on the Asian side. The airport was named to honor the memory of Sabiha Gökçen, the adopted daughter of Mustafa Kemal Atatürk and the first female fighter pilot and military aviator in history. It ranks as the second busiest airport in Turkey and the ninth across the European continent.",
+          "tr": "İstanbul şehrine hizmet veren ikinci uluslararası havalimanıdır ve Türkiye'nin Asya yakasının ana, dinamik hava kapısı olarak kabul edilir. Havalimanı, özellikle düşük maliyetli (ekonomik) havayolu şirketlerinin temel merkezi olmasıyla tanınır. Asya yakasındaki Pendik ilçesinde yer almaktadır. Havalimanı, Mustafa Kemal Atatürk'ün manevi kızı ve tarihteki ilk kadın savaş uçağı pilotu ile askeri pilot olan Sabiha Gökçen'in anısını yaşatmak amacıyla bu ismi almıştır. Türkiye'nin en yoğun ikinci havalimanı olup, Avrupa kıtası genelinde ise dokuzuncu sırada yer almaktadır."
+        },
+        "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport",
+        "needs_ad": true
+      }
+    ],
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "cultural Places",
+      "beaches",
+      "restaurants",
+      "city transport"
+    ],
+    "featured_apps": [
+      {
+        "name": {
+          "ar": "بي تاكسي",
+          "en": "BiTaksi",
+          "tr": "BiTaksi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/BiTaksi.png",
+        "website": "https://www.bitaksi.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "هو أول تطبيق تركي محلي مخصص لحجز سيارات الأجرة عبر الهواتف الذكية. يربط التطبيق الركاب مباشرة مع سائقي التاكسي الرسميين والـمرخصين من البلدية. يتيح التطبيق خيارات متنوعة تشمل التاكسي الأصفر الاقتصادي، والتاكسي الفيروزي المريح، وفئة التاكسي الأسود الفاخر. يعمل بشكل رئيسي وقوي جداً في إسطنبول وأنقرة.",
+          "en": "It is Turkey's first local application dedicated to booking taxis via smartphones. The app connects passengers directly with official, municipality-licensed taxi drivers. It offers diverse options, including the budget-friendly Yellow Taxi, the comfortable Turquoise Taxi, and the premium Black Taxi category. It operates primarily and very strongly in Istanbul and Ankara.",
+          "tr": "Akıllı telefonlar üzerinden taksi çağırmak için geliştirilmiş ilk yerli Türk uygulamasıdır. Uygulama, yolcuları doğrudan belediye lisanslı resmi taksi sürücüleri ile buluşturur. Ekonomik Sarı Taksi, konforlu Turkuaz Taksi ve lüks Siyah Taksi kategorileri dahil olmak üzere विभिन्न seçenekler sunar. Ağırlıklı olarak ve oldukça güçlü bir şekilde İstanbul ve Ankara'da faaliyet göstermektedir."
+        }
+      },
+      {
+        "name": {
+          "ar": "ياندكس جو",
+          "en": "Yandex Go",
+          "tr": "Yandex Go"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yandextaksi.png",
+        "website": "https://go.yandex/en_tr/",
+        "needs_ad": true,
+        "description": {
+          "ar": "هو تطبيق المراسلة والنقل الذكي الشهير التابع للشركة الروسية العملاقة ياندكس. يتيح التطبيق للمستخدمين في تركيا حجز سيارات الأجرة الرسمية بمختلف فئاتها بسهولة تامة. يدعم التطبيق التاكسي الأصفر الاقتصادي بالإضافة إلى فئة التاكسي الأسود الفاخر لمن يفضلون رحلات أكثر راحة ورفاهية. الميزة الأبرز للتطبيق هي تقديمه خصماً يصل إلى 50% على 6 الرحلات الأولى عند تحميله واستخدامه لأول مرة لربط الدفع عبر البطاقة الائتمانية. (يمكن الدفع نقداً لكن بدون تخفيض). يتوسع التطبيق بشكل نشط ليشمل المدن الكبرى ومنها إسطنبول، أنقرة، إزمير، أنطاليا، أضنة، ومرسين.",
+          "en": "It is the renowned smart messaging and ride-hailing application developed by the Russian tech giant Yandex. The app allows users in Turkey to seamlessly book official taxis of various categories. It supports the budget-friendly Yellow Taxi, as well as the luxury Black Taxi category for those who prefer more comfortable and premium rides. The most prominent feature of the application is that it offers a discount of up to 50% on the first 6 rides when downloaded and used for the first time by linking a credit card payment. (You can pay cash but without discount). The application is actively expanding to include major cities, including Istanbul, Ankara, Izmir, Antalya, Adana, and Mersin.",
+          "tr": "Rus teknoloji devi Yandex'e ait olan, akıllı mesajlaşma ve ulaşım özelliklerini bir arada sunan ünlü bir uygulamadır. Uygulama, Türkiye'deki kullanıcıların farklı kategorilerdeki resmi taksileri son derece kolay bir şekilde çağırmalarına olanak tanır. Ekonomik Sarı Taksi'nin yanı sıra, daha konforlu ve lüks bir yolculuk tercih edenler için üst segment Siyah Taksi kategorisini de destekler. Uygulamanın en dikkat çekici özelliği, ilk kez indirilip kredi kartı ödeme yöntemi bağlandığında, ilk 6 yolculuk için %50'ye varan bir indirim sunmasıdır. (Nakit ödeme vardır ama indirim yok). Uygulama, başta İstanbul, Ankara, İzmir, Antalya, Adana ve Mersin olmak üzere büyük şehirleri kapsayacak şekilde aktif olarak genişlemektedir."
+        }
+      },
+      {
+        "name": {
+          "ar": "يمك سيبيتي",
+          "en": "Yemeksepeti",
+          "tr": "Yemeksepeti"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
+        "website": "https://www.yemeksepeti.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "التطبيق الأول في تركيا لطلب الطعام والمستلزمات الغذائية من آلاف المطاعم والمتاجر المحلية.",
+          "en": "Turkey's leading online food and grocery delivery platform connecting thousands of local restaurants.",
+          "tr": "Binlerce restorandan yemek ve market siparişi ulaştıran Türkiye'nin lider platformu."
+        }
+      },
+      {
+        "name": {
+          "ar": "أوبر",
+          "en": "Uber",
+          "tr": "Uber"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/uber.png",
+        "website": "https://www.uber.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "يعمل كوسيط رقمي آمن وموثوق يربط الركاب بسائقي سيارات الأجرة الرسميين المرخصين. بعد تسوية الأوضاع القانونية، يتيح التطبيق للمواطنين والسياح حجز عدة فئات من السيارات تشمل التاكسي الأصفر الاقتصادي، بالإضافة إلى فئة التاكسي الأسود الكبير والفاخر المخصصة للعائلات والرحلات المميزة. يتميز التطبيق بتقديم نظام تسعير شفاف وتتبع حي لمسار الرحلة مع إمكانية الدفع الآمن عبر بطاقات الائتمان داخل التطبيق أو نقداً. كلما تستخدم أكثر تحصل على خصومات أكثر تصل إلى 80% والدفع حصراً بالبطاقة الائتمانية. يعمل التطبيق بشكل رئيسي ونشط في إسطنبول، أنقرة، إزمير، وأنطاليا.",
+          "en": "It operates as a secure and reliable digital intermediary connecting passengers with licensed, official taxi drivers. Following the settlement of legal regulations, the app allows citizens and tourists to book multiple vehicle categories, including the budget-friendly Yellow Taxi, as well as the spacious and luxury Black Taxi category dedicated to families and premium trips. The app features a transparent pricing system and live route tracking, with the option of secure payment via credit cards within the app or in cash. The more you use it, the more discounts you get, reaching up to 80%, with payment strictly restricted to credit cards. The application operates primarily and actively in Istanbul, Ankara, Izmir, and Antalya.",
+          "tr": "Yolcuları lisanslı resmi taksi sürücüleriyle buluşturan, güvenli ve tescilli bir dijital aracı olarak faaliyet göstermektedir. Yasal düzenlemelerin sağlanmasının ardından uygulama, vatandaşların ve turistlerin ekonomik Sarı Taksi'nin yanı sıra aileler ve özel yolculuklar için ayrılmış geniş ve lüks Siyah Taksi kategorisi de dahil olmak üzere birden fazla araç sınıfında rezervasyon yapmasına olanak tanır. Uygulama, şeffaf bir fiyatlandırma sistemi ve canlı rota takibi sunarken, uygulama içinden kredi kartıyla veya nakit olarak güvenli ödeme seçeneği sunar. Daha fazla kullandıkça %80'e varan daha fazla indirim kazanırsınız ve ödeme yalnızca kredi kartıyla yapılmaktadır. Uygulama ağırlıklı olarak ve aktif bir şekilde İstanbul, Ankara, İzmir ve Antalya'da hizmet vermektedir."
+        }
+      }
+    ],
+    "hotels": [
+      {
+        "name": {
+          "ar": "فندق تشيران بالاس كمبينسكي",
+          "en": "Ciragan Palace Kempinski",
+          "tr": "Çırağan Palace Kempinski"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace17.png"
+        ],
+        "rating": "5 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=50642",
+        "needs_ad": true,
+        "description": {
+          "ar": "قصر ملكي عثماني يعود للقرن الـ 19. الفندق الإمبراطوري الوحيد على مضيق البوسفور، ويحتوي على 317 غرفة وجناحاً. تتميز بإطلالات بانورامية ساحرة على مضيق البوسفور أو حدائق يلدز التاريخية. أجنحة القصر هي غرف ملكية بأسقف مرتفعة وأثاث كلاسيكي مع خدمة خادم شخصي على مدار الساعة. يحتوي على 3 مطاعم، ومسبح يطل على مضيق البوسفور، وأيضاً مركز صحي يضم حمامات تركية وجلسات مساج.",
+          "en": "A 19th-century Ottoman royal palace. The only imperial hotel on the Bosphorus, featuring 317 rooms and suites. Offers breathtaking, panoramic views of the Bosphorus Strait or the historic Yıldız Gardens. Palace Suites are royal rooms with high ceilings, classical furniture, and 24-hour butler service. Features 3 restaurants, an infinity pool overlooking the Bosphorus, and a wellness center with traditional Turkish baths and massage services.",
+          "tr": "19. yüzyıldan kalma bir Osmanlı kraliyet sarayı. Boğaz üzerindeki tek imparatorluk oteli olup, 317 oda ve süite sahiptir. İstanbul Boğazı'nın veya tarihi Yıldız Parkı'nın büyüleyici panoramik manzarasını sunar. Saray Süitleri; yüksek tavanları, klasik mobilyaları ve 24 saat uşak (butler) hizmetiyle kraliyet odalarıdır. Bünyesinde 3 restoran, Boğaz manzaralı bir havuz ve geleneksel Türk hamamları ile masaj hizmetleri sunan bir sağlık merkezi barındırır."
+        }
+      },
+      {
+        "name": {
+          "ar": "اليسيوم تقسيم",
+          "en": "The Elysium Taksim",
+          "tr": "Elysium Taksim"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim10.png"
+        ],
+        "rating": "5 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
+        "needs_ad": true,
+        "description": {
+          "ar": "فندق فاخر بتصنيف 5 نجوم يقع في قلب إسطنبول، على بعد دقائق مشياً من ساحة تقسيم. يتميز بغرف وأجنحة 'دوبلكس' بتصميم عصري من طابقين مع نوافذ زجاجية ممتدة من الأرض إلى السقف. يوفر إطلالات بانورامية رائعة على مدينة إسطنبول ومضيق البوسفور. يضم مطعم 'فانوس' (Fanus) الشهير الذي يقدم بوفيه إفطار غني وأطباقاً عالمية ومحلية مميزة. يحتوي على مركز صحي (سبا) متكامل يشمل مسبحاً داخلياً، حماماً تركياً، غرف ساونا، وصالة رياضية مجهزة.",
+          "en": "A luxury 5-star hotel located in the heart of Istanbul, just minutes away from Taksim Square. Features modern duplex rooms and suites with contemporary designs and floor-to-ceiling windows. Offers stunning panoramic views of Istanbul city and the Bosphorus Strait. Home to the famous 'Fanus' restaurant, serving a rich breakfast buffet and exquisite international and local cuisine. Includes a full-service spa center with an indoor pool, traditional Turkish bath, saunas, and a fully equipped gym.",
+          "tr": "İstanbul'un kalbinde, Taksim Meydanı'na sadece birkaç dakika yürüme mesafesinde yer alan 5 yıldızlı lüks bir otel. Yerden tavana kadar uzanan pencereleri ve modern tasarımıyla öne çıkan dubleks oda ve süitlere sahiptir. Eşsiz İstanbul şehir ve Boğaz manzarasını bir arada sunar. Zengin bir kahvaltı büfesi, seçkin uluslararası ve yerel lezzetler sunan ünlü 'Fanus' restorana ev sahipliği yapar. Bünyesinde kapalı havuz, geleneksel Türk hamamı, saunalar ve tam donanımlı bir spor salonu barındıran kapsamlı bir spa merkezi içerir."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق مطار اسطنبول هافن بريميوم",
+          "en": "Heaven Premium Airport Hotel",
+          "tr": "Heaven Premium Airport Hotel"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim5.png"
+        ],
+        "rating": "3 Stars",
+        "website": "https://expedia.com/affiliate/2nSHUuT",
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أفضل الخيارات العصرية المريحة للمسافرين عبر مطار إسطنبول الدولي (IST)، حيث يقع الفندق في منطقة 'أرناؤوط كوي' الهادئة، على بُعد 10 إلى 15 دقيقة فقط بالسيارة من المطار. يضم الفندق غرفاً وأجنحة عائلية مكيفة بالكامل، بالإضافة إلى خدمة إنترنت مجاني عالي السرعة (Wi-Fi) تغطي جميع مرافق الإقامة. مطعم عائلي متميز يقدم باقة من أشهر وأشهى أطباق المطبخ التركي التقليدي، مع توفير خيارات غذائية متنوعة تشمل المأكولات النباتية والحلال بالكامل. تنوع خيارات الإقامة لتناسب جميع المسافرين، حيث تنقسم الغرف إلى غرف مفردة، وثنائية، وثلاثية، بالإضافة إلى الأجنحة الغرف العائلية الواسعة.",
+          "en": "One of the best modern and comfortable choices for passengers traveling through Istanbul International Airport (IST). The hotel is located in the quiet area of Arnavutköy, just 10 to 15 minutes by car from the airport. The hotel features air-conditioned family rooms and suites, in addition to free high-speed Wi-Fi. An outstanding family restaurant offers a variety of the most famous traditional Turkish dishes, with fully halal and vegetarian options available. Rooms are divided into single, double, triple, and family options.",
+          "tr": "İstanbul Uluslararası Havalimanı (IST) üzerinden seyahat eden yolcular için en modern ve konforlu seçeneklerden biridir. Otel, sakin Arnavutköy bölgesinde yer almakta olup havalimanına araçla sadece 10 ila 15 dakika mesafededir. Otelde klimalı aile odaları ve süitlerin yanı sıra ücretsiz yüksek hızlı Wi-Fi internet hizmeti sunulmaktadır. Seçkin aile restoranı, tamamen helal ve vejetaryen seçeneklerle birlikte geleneksel Türk mutfağının en popüler lezzetlerini sunmaktadır."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق زازوني مطار اسطنبول",
+          "en": "Zazzoni-İstanbul Airport",
+          "tr": "Zazzoni-İstanbul Havalimanı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png"
+        ],
+        "rating": "3 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=35991201",
+        "needs_ad": true,
+        "description": {
+          "ar": "يقع في منطقة أرناؤوط كوي بإسطنبول، ويبعد حوالي 10 إلى 15 دقيقة بالسيارة عن مطار إسطنبول الدولي (IST)، ويتميز بإطلالة مباشرة على الجامع الأخضر. يسهل الوصول إليه عبر مترو المطار (محطة Taşoluk) أو الحافلات العامة. الغرف مجهزة بتدفئة أرضية، عزل صوتي، تكييف، وشاشات ذكية. تضم بعض الأجنحة الفاخرة جاكوزي خاص.",
+          "en": "Located in the Arnavutköy district of Istanbul, the hotel is approximately a 10 to 15-minute drive from Istanbul International Airport (IST) and features a direct view of the Green Mosque. It is easily accessible via the airport metro (Taşoluk station) or public buses. The rooms are equipped with underfloor heating, soundproofing, air conditioning, and smart TVs. Some luxury suites also feature a private jacuzzi.",
+          "tr": "İstanbul'un Arnavutköy ilçesinde yer alan otel, İstanbul Uluslararası Havalimanı'na (IST) arabayla yaklaşık 10-15 dakika mesafededir ve Yeşil Camii'ye doğrudan bakan bir manzaraya sahiptir. Havalimanı metrosu (Taşoluk istasyonu) veya toplu taşıma otobüsleri ile kolayca ulaşılabilir. Odalar yerden ısıtma, ses yalıtımı, klima ve akıllı televizyonlar ile donatılmıştır."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق كونتينتال مطار اسطنبول",
+          "en": "Continental IST Airport Hotel",
+          "tr": "Continental istanbul havalimanı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png"
+        ],
+        "rating": "3 Stars",
+        "website": "https://expedia.com/affiliate/5ybxIai",
+        "needs_ad": true,
+        "description": {
+          "ar": "هو فندق اقتصادي وعصري مصنف 3 نجوم، يقع في منطقة أرناؤوط كوي (Arnavutköy) في إسطنبول. يُعد خياراً مثالياً ومناسباً للمسافرين الباحثين عن مكان مريح للإقامة القصيرة أو الترانزيت بفضل سعره الاقتصادي وقربه من المطار. يبعد حوالي 10 إلى 15 دقيقة بالسيارة عن مطار إسطنبول الدولي (IST). يقدم خيارات إفطار حلال متنوعة وتتوفر خدمة النقل من وإلى المطار مقابل رسوم.",
+          "en": "It is a budget-friendly and modern 3-star hotel located in the Arnavutköy district of Istanbul. Thanks to its economical price and proximity to the airport, it is an ideal and convenient choice for travelers looking for a comfortable stay for a short visit or transit. It is approximately a 10 to 15-minute drive from Istanbul International Airport (IST). Offers a variety of halal breakfast options.",
+          "tr": "İstanbul'un Arnavutköy ilçesinde yer alan, ekonomik ve modern 3 yıldızlı bir oteldir. Ekonomik fiyatı ve havalimanına yakınlığı sayesinde kısa süreli konaklamalar veya transit geçişler için konforlu bir yer arayan yolcular için ideal ve uygun bir seçenektir. İstanbul Uluslararası Havalimanı'na (IST) arabayla yaklaşık 10 ila 15 dakika mesafededir."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق اركاديا بلو",
+          "en": "Hotel Arcadia Blue",
+          "tr": "Arcadia Blue Oteli"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png"
+        ],
+        "rating": "4 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=91063",
+        "needs_ad": true,
+        "description": {
+          "ar": "هو فندق فاخر ومميز مصنف 4 نجوم، يقع في قلب المنطقة التاريخية سلطان أحمد في إسطنبول. يشتهر الفندق بإطلالته البانورامية الساحرة والمباشرة على أشهر معالم المدينة التاريخية. يقع على بُعد خطوات قليلة سيراً على الأقدام من جامع السلطان أحمد وآيا صوفيا. يضم مطعماً شهيراً (Fine Dine Istanbul) في الطابق التاسع يقدم مأكولات تركية وعالمية مع إطلالة بانورامية.",
+          "en": "It is a luxurious and distinctive 4-star hotel located in the heart of the historic Sultanahmet district in Istanbul. The hotel is renowned for its charming and direct panoramic views of the city's most famous historic landmarks. Located just a few steps away from the Sultanahmet Mosque and Hagia Sophia. Features a restaurant on the ninth floor serving Turkish and international cuisine.",
+          "tr": "İstanbul'un tarihi Sultanahmet bölgesinin kalbinde yer alan, lüks ve seçkin 4 yıldızlı bir oteldir. Otel, şehrin en ünlü tarihi mekanlarının büyüleyici ve doğrudan panoramik manzarasıyla tanınır. Sultanahmet Camii ve Ayasofya'ya sadece birkaç adım yürüme mesafesinde yer almaktadır."
+        }
+      },
+      {
+        "name": {
+          "ar": "شقق فندقية ماريوت تيما وورلد",
+          "en": "Marriott Apartments Tema World",
+          "tr": "Marriott Apartments Tema World"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png"
+        ],
+        "rating": "10/10",
+        "category": "Apartments",
+        "website": "https://expedia.com/affiliate/HG7P9Rr",
+        "needs_ad": true,
+        "description": {
+          "ar": "تم افتتاحه في أواخر عام 2025. وهو مصمم خصيصاً للإقامات الطويلة والمريحة للعائلات ورجال الأعمال. يقع مباشرة داخل مجمع Tema World الترفيهي الضخم، مما يتيح للنزلاء الوصول سيراً على الأقدام إلى مدينة ملاهي ومجموعة متنوعة من المطاعم والمتاجر العالمية. يضم الفندق 208 شقق سكنية عصرية بتصاميم تبدأ من غرفة وصالة (1+1) وتصل إلى خمس غرف وصالة (5+1).",
+          "en": "Opened in late 2025, specially designed for long and comfortable stays for families and business travelers. Located directly inside the massive Tema World entertainment complex, allowing guests to walk to an amusement park, restaurants, and international shops. The hotel features 208 modern residential apartments, ranging from 1+1 to 5+1 layouts.",
+          "tr": "2025 yılının sonlarında açılmıştır. Aileler ve iş seyahatinde olanlar için özel olarak uzun ve konforlu konaklamalara uygun tasarlanmıştır. Doğrudan devasa Tema World eğlence kompleksinin içinde yer almakta olup, konukların bir eğlence parkına, çeşitli restoranlara ve uluslararası mağazalara yürüyerek ulaşmasını sağlar."
+        }
+      },
+      {
+        "name": {
+          "ar": "فندق كرنتون ديزاين",
+          "en": "Cronton Design Hotel",
+          "tr": "Cronton Design Oteli"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim3.png"
+        ],
+        "rating": "5 Stars",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=33687622",
+        "needs_ad": true,
+        "description": {
+          "ar": "هو فندق بوتيك فاخر وعصري، يقع في منطقة سيركجي التاريخية في قلب إسطنبول. يتميز الفندق بتصميمه المعماري الفريد التاريخي الأثري الذي يعود لبدايات القرن العشرين، ويمزج بين سحر التاريخ والفخامة الحديثة. يضم مطعماً ومقهى في الطابق العلوي يقدم مأكولات عالمية وتركية فاخرة مع إطلالة ساحرة ومباشرة على شبه الجزيرة التاريخية ومضيق البوسفور.",
+          "en": "A luxurious and modern boutique hotel located in the historic Sirkeci district in the heart of Istanbul. The hotel is characterized by its unique, historic architectural design dating back to the early 20th century, blending historical charm with modern luxury. Features a rooftop restaurant and cafe serving fine international and Turkish cuisine with views of the historic peninsula and Bosphorus.",
+          "tr": "İstanbul'un kalbinde, tarihi Sirkeci bölgesinde yer alan lüks ve modern bir butik oteldir. Otel, 20. yüzyılın başlarına dayanan tarihi benzersiz mimari tasarımıyla öne çıkmakta, tarihin büyüleyici dokusunu modern lüks ile harmanlamaktadır. Üst katında (teras), tarihi yarımada ve Boğaz manzaralı bir restoran ve kafeye sahiptir."
+        }
+      }
+    ],
+    "cultural Places": [
+      {
+        "name": {
+          "ar": "جامع آيا صوفيا",
+          "en": "Hagia Sophia Grand Mosque",
+          "tr": "Ayasofya Camii"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://gyg.me/cnFWeJBH",
+        "needs_ad": true,
+        "description": {
+          "ar": "تحفة المعمار البيزنطي والعثماني وأحد أشهر المعالم الدينية والتاريخية في العالم.",
+          "en": "A masterpiece of Byzantine and Ottoman architecture and one of the world's most famous historic sites.",
+          "tr": "Bizans ve Osmanlı mimarisinin başyapıtı, dünyanın en ünlü tarihi ve dini yapılarından biri."
+        }
+      },
+      {
+        "name": {
+          "ar": "متحف صهريج البازيليك",
+          "en": "Basilica Cistern",
+          "tr": "Yerebatan Sarnıcı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://gyg.me/M23UuHU4",
+        "needs_ad": true,
+        "description": {
+          "ar": "صهريج مائي بيزنطي قديم تحت الأرض يضم 336 عموداً أثرياً ورأس ميدوسا الشهير.",
+          "en": "An ancient Byzantine underground water reservoir featuring 336 marble columns and the famous Medusa heads.",
+          "tr": "336 mermer sütun ve ünlü Medusa başlarına ev sahipliği yapan antik Bizans yeraltı su sarnıcı."
+        }
+      },
+      {
+        "name": {
+          "ar": "برج غلاطة",
+          "en": "Galata Tower",
+          "tr": "Galata Kulesi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://gyg.me/FojiBE2k",
+        "needs_ad": true,
+        "description": {
+          "ar": "برج تاريخي من العصور الوسطى يوفر إطلالة بانورامية ساحرة 360 درجة على إسطنبول ومضيق البوسفور.",
+          "en": "A medieval stone tower offering a stunning 360-degree panoramic view of Istanbul and the Bosphorus.",
+          "tr": "İstanbul ve Boğaz'ın 360 derecelik panoramik manzarasını sunan orta çağdan kalma tarihi taş kule."
+        }
+      },
+      {
+        "name": {
+          "ar": "قصر دولما بهجة",
+          "en": "Dolmabahce Palace",
+          "tr": "Dolmabahçe Sarayı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://gyg.me/uLMlQ80Q",
+        "needs_ad": true,
+        "description": {
+          "ar": "قصر إمبراطوري عثماني فاخر يقع على ضفاف البوسفور، يشتهر بثرائه وثريات الكريستال الضخمة.",
+          "en": "A lavish Ottoman imperial palace on the Bosphorus, known for its opulent decor and giant crystal chandelier.",
+          "tr": "Boğaz kıyısında yer alan, ihtişamlı dekorasyonu ve devasa kristal avizesiyle ünlü lüks Osmanlı sarayı."
+        }
+      }
+    ],
+    "tours": [
+      {
+        "name": {
+          "ar": "بالات , مرتفع بيير لوتي , باخرة , تلفريك",
+          "en": "Istanbul Balat, Pierre Loti Hill, Bosphorus cruise Cable Car",
+          "tr": "Balat, Pierre Loti Tepesi, Gemi Turu, Telefrik"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://gyg.me/0gMnQQoy",
+        "needs_ad": true,
+        "description": {
+          "ar": "جولة شاملة تتضمن زيارة حي بالات الملون، الصعود بالتلفريك إلى مرتفع بيير لوتي ورحلة بحرية في البوسفور.",
+          "en": "A comprehensive tour including Balat colorful district, cable car ride to Pierre Loti Hill, and a Bosphorus cruise.",
+          "tr": "Renkli Balat semti, Pierre Loti Tepesi'ne teleferik çıkışı ve Boğaz turunu içeren kapsamlı bir gezi."
+        }
+      },
+      {
+        "name": {
+          "ar": "جولة عشاء البسفور و ليلة عرض تركية",
+          "en": "Bosphorus Dinner Cruise & Turkish Night Show",
+          "tr": "Boğaz Akşam Yemeği Turu & Türk Gece Şovu"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://gyg.me/0mMug4p7",
+        "needs_ad": true,
+        "description": {
+          "ar": "سهرة بحرية فاخرة تتضمن عشاءً شهياً وعروضاً فولكلورية ورقصاً شرقياً وموسيقى تركية تحت أضواء البوسفور.",
+          "en": "A luxury evening cruise with delicious dinner, folk dance performances, belly dancing, and music under Bosphorus lights.",
+          "tr": "Boğaz ışıkları altında lezzetli yemekler, halk oyunları gösterileri ve müzik içeren lüks bir akşam tekne turu."
+        }
+      }
+    ],
+    "places": [
+      {
+        "name": {
+          "ar": "فيالاند المدينة الترفيهية",
+          "en": "VIALAND Theme Park",
+          "tr": "VIALAND Tema Parkı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://klook.tpx.li/qty7qN7v",
+        "needs_ad": true,
+        "description": {
+          "ar": "أضخم مدينة ملاهي وتسلية في إسطنبول تضم ألعاباً حماسية ومولاً تجارياً مفتوحاً للعائلات.",
+          "en": "Istanbul's largest theme park featuring thrilling roller coasters, family rides, and an open-air shopping mall.",
+          "tr": "Heyecan verici hız trenleri, aile eğlenceleri ve açık hava alışveriş merkezi sunan İstanbul'un en büyük tema parkı."
+        }
+      },
+      {
+        "name": {
+          "ar": "مول اوف اسطنبول",
+          "en": "Mall Of Istanbul",
+          "tr": "Mall Of İstanbul"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim2.png"
+        ],
+        "website": "https://klook.tpx.li/qty7qN7v",
+        "needs_ad": true,
+        "description": {
+          "ar": "مركز تسوق ضخم يضم أشهر الماركات العالمية ومدينة ملاهي مغلقة (موي بارك) ومجمع سينمائي.",
+          "en": "A massive shopping mall featuring top international brands, MOİpark indoor amusement park, and cinemas.",
+          "tr": "Dünyaca ünlü markalar, MOİpark kapalı eğlence parkı ve sinema kompleksine sahip devasa bir AVM."
+        }
+      }
+    ],
+    "restaurants": [
+      {
+        "name": {
+          "ar": "مطعم السمك الشهير في كاراكوي",
+          "en": "Kilciksiz Fish Karakoy",
+          "tr": "Kılçıksız Balık Karaköy"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "مطعم مأكولات بحرية شهير في كاراكوي يشتهر بساندويتشات المأكولات البحرية الخالية من الشوك وأطباق السمك الطازجة.",
+          "en": "A famous seafood eatery in Karakoy known for boneless fish sandwiches and fresh seafood dishes.",
+          "tr": "Karaköy'de kılçıksız balık ekmek ve taze deniz ürünleri ile tanınan ünlü balık restoranı."
+        }
+      }
+    ],
+    "beaches": [
+      {
+        "name": {
+          "ar": "ساحل أيازمي شيلا",
+          "en": "Ayazma Beach Sile",
+          "tr": "Ayazma Sahil Şile"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim1.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "أشهر وأكبر الشواطئ العامة الرملية الذهبية في مدينة شيلا الساحلية على البحر الأسود.",
+          "en": "The most famous and largest golden sand public beach in the coastal town of Sile on the Black Sea.",
+          "tr": "Karadeniz kıyısındaki Şile'nin en ünlü ve en geniş altın kumsallı halk plajı."
+        }
+      }
+    ],
+    "religious places": [
+      {
+        "name": {
+          "ar": "جامع السلطان أحمد (المسجد الأزرق)",
+          "en": "Blue Mosque (Sultanahmet)",
+          "tr": "Sultanahmet Camii"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ist.jpg"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "أيقونة العمارة الإسلامية العثمانية يشتهر بست مآذن ومآذن السيراميك الإزنيقي الأزرق الفاخر.",
+          "en": "An icon of Ottoman Islamic architecture famous for its six minarets and blue Iznik tiles.",
+          "tr": "Altı minaresi ve mavi İznik çinileriyle ünlü Osmanlı İslam mimarisinin başyapıtı."
+        }
+      }
+    ],
+    "transport": [
+      {
+        "name": {
+          "ar": "مترو M11 (مطار إسطنبول الدولي السريع)",
+          "en": "Metro M11 (Istanbul Airport Express)",
+          "tr": "M11 Gayrettepe - İstanbul Havalimanı"
+        },
+        "line_code": "M11",
+        "category": "metro",
+        "color": "#9C27B0",
+        "desc": {
+          "ar": "الخط السريع المباشر الذي يربط مركز إسطنبول بمطار إسطنبول الدولي الجديد (IST).",
+          "en": "Direct express high-speed metro line connecting central Istanbul with Istanbul Airport.",
+          "tr": "Şehir merkezini İstanbul Havalimanı'na bağlayan hızlı metro hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Gayrettepe (غايريتيبي - تقاطع M2 والميتروباص)", "en": "Gayrettepe", "tr": "Gayrettepe" } },
+          { "name": { "ar": "Kağıthane (كاغيت هانه - تقاطع M7)", "en": "Kağıthane", "tr": "Kağıthane" } },
+          { "name": { "ar": "Hasdal (هاسدال)", "en": "Hasdal", "tr": "Hasdal" } },
+          { "name": { "ar": "Kemerburgaz (كيمربورغاز)", "en": "Kemerburgaz", "tr": "Kemerburgaz" } },
+          { "name": { "ar": "Göktürk (غوكتورك)", "en": "Göktürk", "tr": "Göktürk" } },
+          { "name": { "ar": "İhsaniye (إحسانية)", "en": "İhsaniye", "tr": "İhsaniye" } },
+          { "name": { "ar": "İstanbul Havalimanı (مطار إسطنبول ✈️)", "en": "Istanbul Airport", "tr": "İstanbul Havalimanı" } },
+          { "name": { "ar": "Kargo Terminali (محطة الشحن)", "en": "Cargo Terminal", "tr": "Kargo Terminali" } },
+          { "name": { "ar": "Taşoluk (تاشولوك)", "en": "Taşoluk", "tr": "Taşoluk" } },
+          { "name": { "ar": "Arnavutköy Hastane (أرناؤوط كوي)", "en": "Arnavutkoy Hospital", "tr": "Arnavutköy Hastane" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "مترو M2 (تقسيم - شيشلي - يني كابي)",
+          "en": "Metro M2 (Taksim - Yenikapi)",
+          "tr": "M2 Yenikapı - Hacıosman"
+        },
+        "line_code": "M2",
+        "category": "metro",
+        "color": "#2E7D32",
+        "desc": {
+          "ar": "أهم خط سياحي يمر بميدان تقسيم، شارع الاستقلال، مول جواهر، ومراكز التسوق الكبرى.",
+          "en": "Key tourist line connecting Taksim Square, Galata, Cevahir Mall, and major hubs.",
+          "tr": "Taksim, Şişli, Cevahir AVM ve ana merkezleri birbirine bağlayan temel turistik hat."
+        },
+        "stations": [
+          { "name": { "ar": "Yenikapı (يني كابي - محطة العبارات ومرمراي)", "en": "Yenikapi", "tr": "Yenikapı" } },
+          { "name": { "ar": "Vezneciler (البازار الكبير / السليمانية)", "en": "Vezneciler / Grand Bazaar", "tr": "Vezneciler" } },
+          { "name": { "ar": "Haliç (جسر القرن الذهبي)", "en": "Halic Golden Horn", "tr": "Haliç" } },
+          { "name": { "ar": "Şişhane (برج غلطة وشارع الاستقلال)", "en": "Sishane / Galata", "tr": "Şişhane" } },
+          { "name": { "ar": "Taksim (ميدان تقسيم الشهير 🌟)", "en": "Taksim Square", "tr": "Taksim" } },
+          { "name": { "ar": "Osmanbey (شارع نيشانتاشي للماركات)", "en": "Osmanbey / Nisantasi", "tr": "Osmanbey" } },
+          { "name": { "ar": "Şişli-Mecidiyeköy (مول جواهر Cevahir)", "en": "Sisli - Cevahir Mall", "tr": "Şişli-Mecidiyeköy" } },
+          { "name": { "ar": "Gayrettepe (مول زورلو Zorlu Center)", "en": "Gayrettepe / Zorlu", "tr": "Gayrettepe" } },
+          { "name": { "ar": "Levent (مول كانيون ومتروسيتي)", "en": "Levent Malls", "tr": "Levent" } },
+          { "name": { "ar": "İTÜ Ayazağa (مول استينيا بارك Istinye Park)", "en": "Istinye Park Area", "tr": "İTÜ Ayazağa" } },
+          { "name": { "ar": "Hacıosman (حجي عثمان)", "en": "Haciosman", "tr": "Hacıosman" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "مترو M4 الآسيوي (كاديكوي - مطار صبيحة SAW)",
+          "en": "Metro M4 Asian Side (Kadikoy - Sabiha Airport)",
+          "tr": "M4 Kadıköy - Sabiha Gökçen Havalimanı"
+        },
+        "line_code": "M4",
+        "category": "metro",
+        "color": "#E53935",
+        "desc": {
+          "ar": "يربط الجانب الآسيوي بمطار صبيحة كوكجن الدولي مباشرة عبر كاديكوي ومالتبه وبندك.",
+          "en": "Direct Asian side line to Sabiha Gokcen Airport (SAW) from Kadikoy.",
+          "tr": "Kadıköy'den Sabiha Gökçen Havalimanı'na doğrudan ulaşım sağlayan metro hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Kadıköy (ميناء كاديكوي)", "en": "Kadikoy Ferry Port", "tr": "Kadıköy" } },
+          { "name": { "ar": "Ayrılık Çeşmesi (تقاطع مرمراي)", "en": "Ayrilik Cesmesi", "tr": "Ayrılık Çeşmesi" } },
+          { "name": { "ar": "Ünalan (مول أكاسيا Akasya Mall)", "en": "Unalan / Akasya", "tr": "Ünalan" } },
+          { "name": { "ar": "Bostancı (بستانجي)", "en": "Bostanci", "tr": "Bostancı" } },
+          { "name": { "ar": "Maltepe (مالتبه)", "en": "Maltepe", "tr": "Maltepe" } },
+          { "name": { "ar": "Pendik (بنديك)", "en": "Pendik", "tr": "Pendik" } },
+          { "name": { "ar": "Sabiha Gökçen Havalimanı (مطار صبيحة ✈️)", "en": "Sabiha Gokcen Airport", "tr": "Sabiha Gökçen Havalimanı" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "ترام T1 (السلطان أحمد - إمينونو - كاباتاش)",
+          "en": "Tram T1 (Sultanahmet - Eminonu - Kabatas)",
+          "tr": "T1 Kabataş - Bağcılar"
+        },
+        "line_code": "T1",
+        "category": "tram",
+        "color": "#1E88E5",
+        "desc": {
+          "ar": "الترامواي التاريخي الأهم سياحياً، يمر بالمسجد الأزرق، آيا صوفيا، البازار الكبير، ميناء إمينونو، وغلاطة بورت.",
+          "en": "Main historic tram passing Blue Mosque, Hagia Sophia, Grand Bazaar & Galataport.",
+          "tr": "Sultanahmet, Ayasofya, Kapalıçarşı ve Galataport'tan geçen tarihi tramvay hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Kabataş (ميناء كاباتاش للعبارات)", "en": "Kabatas", "tr": "Kabataş" } },
+          { "name": { "ar": "Tophane (غلاطة بورت Galataport)", "en": "Tophane / Galataport", "tr": "Tophane" } },
+          { "name": { "ar": "Karaköy (كاراكوي)", "en": "Karakoy", "tr": "Karaköy" } },
+          { "name": { "ar": "Eminönü (إمينونو - سوق التوابل المصري)", "en": "Eminonu / Spice Bazaar", "tr": "Eminönü" } },
+          { "name": { "ar": "Sirkeci (سيركجي)", "en": "Sirkeci", "tr": "Sirkeci" } },
+          { "name": { "ar": "Gülhane (حديقة جولهانة وقصر التوبكابي)", "en": "Gulhane Park", "tr": "Gülhane" } },
+          { "name": { "ar": "Sultanahmet (جامع السلطان أحمد وآيا صوفيا 🕌)", "en": "Sultanahmet", "tr": "Sultanahmet" } },
+          { "name": { "ar": "Beyazıt (البازار الكبير Grand Bazaar)", "en": "Beyazit / Grand Bazaar", "tr": "Beyazıt" } },
+          { "name": { "ar": "Laleli (لالي لي)", "en": "Laleli", "tr": "Laleli" } },
+          { "name": { "ar": "Aksaray (أكسراي)", "en": "Aksaray", "tr": "Aksaray" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "قطار مرمراي (عابر القارات تحت البوسفور)",
+          "en": "Marmaray Undersea Train Line",
+          "tr": "Marmaray"
+        },
+        "line_code": "MARMARAY",
+        "category": "train",
+        "color": "#00838F",
+        "desc": {
+          "ar": "القطار العابر للقارات تحت مياه مضيق البوسفور بين أوروبا وآسيا في 4 دقائق فقط.",
+          "en": "Undersea train linking Europe and Asia in 4 mins under the Bosphorus Strait.",
+          "tr": "Boğaz'ın altından Avrupa ile Asya'yı 4 dakikada birbirine bağlayan kıtalararası tren."
+        },
+        "stations": [
+          { "name": { "ar": "Halkalı (هالكالي)", "en": "Halkali", "tr": "Halkalı" } },
+          { "name": { "ar": "Florya (ساحل وأكواريوم فلوريا)", "en": "Florya Aquarium", "tr": "Florya" } },
+          { "name": { "ar": "Bakırköy (بكركوي)", "en": "Bakirkoy", "tr": "Bakırköy" } },
+          { "name": { "ar": "Yenikapı (يني كابي)", "en": "Yenikapi", "tr": "Yenikapı" } },
+          { "name": { "ar": "Sirkeci (سيركجي - نفق تحت البحر 🌊)", "en": "Sirkeci Undersea", "tr": "Sirkeci" } },
+          { "name": { "ar": "Üsküdar (أوسكودار - الجانب الآسيوي)", "en": "Uskudar", "tr": "Üsküdar" } },
+          { "name": { "ar": "Ayrılık Çeşmesi (كاديكوي مول)", "en": "Ayrilik Cesmesi", "tr": "Ayrılık Çeşmesi" } },
+          { "name": { "ar": "Söğütlüçeşme (شارع بغداد)", "en": "Sogutlucesme", "tr": "Söğütlüçeşme" } },
+          { "name": { "ar": "Bostancı (بستانجي)", "en": "Bostanci", "tr": "Bostancı" } },
+          { "name": { "ar": "Pendik (بنديك)", "en": "Pendik", "tr": "Pendik" } },
+          { "name": { "ar": "Gebze (غيبزي)", "en": "Gebze", "tr": "Gebze" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "العبارات والتاكسي البحري (Şehir Hatları)",
+          "en": "Bosphorus Public Ferries & Sea Taxis",
+          "tr": "Şehir Hatları Vapurları"
+        },
+        "line_code": "FERRY",
+        "category": "sea",
+        "color": "#00ACC1",
+        "desc": {
+          "ar": "رحلات بحرية ممتعة عبر مضيق البوسفور بين الجانب الأوروبي والآسيوي وجزر الأميرات.",
+          "en": "Scenic public ferry cruises across Bosphorus between Europe, Asia & Princes' Islands.",
+          "tr": "Avrupa, Asya ve Prens Adaları arasında Boğaz vapurları ve deniz ulaşımı."
+        },
+        "stations": [
+          { "name": { "ar": "Eminönü İskelesi (ميناء إمينونو)", "en": "Eminonu Pier", "tr": "Eminönü İskelesi" } },
+          { "name": { "ar": "Karaköy İskelesi (ميناء كاراكوي)", "en": "Karakoy Pier", "tr": "Karaköy İskelesi" } },
+          { "name": { "ar": "Kabataş İskelesi (ميناء كاباتاش)", "en": "Kabatas Pier", "tr": "Kabataş İskelesi" } },
+          { "name": { "ar": "Beşiktaş İskelesi (ميناء بشكتاش)", "en": "Besiktas Pier", "tr": "Beşiktaş İskelesi" } },
+          { "name": { "ar": "Üsküdar İskelesi (ميناء أوسكودار - برج الفتاة)", "en": "Uskudar Pier", "tr": "Üsküdar İskelesi" } },
+          { "name": { "ar": "Kadıköy İskelesi (ميناء كاديكوي)", "en": "Kadikoy Pier", "tr": "Kadıköy İskelesi" } },
+          { "name": { "ar": "Büyükada İskelesi (جزيرة بيوك أضا - جزر الأميرات 🌲)", "en": "Buyukada Pier", "tr": "Büyükada İskelesi" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "خط الميتروباص السريع (Metrobus)",
+          "en": "Metrobus Express Line",
+          "tr": "Metrobüs Hattı"
+        },
+        "line_code": "METROBUS",
+        "category": "bus",
+        "color": "#D81B60",
+        "desc": {
+          "ar": "باصات سريعة تعمل على مدار 24 ساعة في مسار مخصص يربط قارتي آسيا وأوروبا عبر جسر البوسفور.",
+          "en": "24/7 dedicated express busway crossing the Bosphorus Bridge between Asia and Europe.",
+          "tr": "Boğaz Köprüsü üzerinden Asya ve Avrupa'yı 24 saat kesintisiz bağlayan ekspres otobüs hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Beylikdüzü Sondurak (بيليك دوزو)", "en": "Beylikduzu", "tr": "Beylikdüzü Sondurak" } },
+          { "name": { "ar": "Avcılar (أفجلار)", "en": "Avcilar", "tr": "Avcılar" } },
+          { "name": { "ar": "Zeytinburnu (زيتين بورنو - تقاطع T1 و M1)", "en": "Zeytinburnu", "tr": "Zeytinburnu" } },
+          { "name": { "ar": "Cevizlibağ (جيفيزلي باغ)", "en": "Cevizlibag", "tr": "Cevizlibağ" } },
+          { "name": { "ar": "Mecidiyeköy (مجيدية كوي - جواهر مول)", "en": "Mecidiyekoy", "tr": "Mecidiyeköy" } },
+          { "name": { "ar": "Zincirlikuyu (تقاطع زورلو سنتر ومترو M2)", "en": "Zincirlikuyu / Zorlu", "tr": "Zincirlikuyu" } },
+          { "name": { "ar": "15 Temmuz Şehitler Köprüsü (جسر البوسفور 🌉)", "en": "Bosphorus Bridge", "tr": "15 Temmuz Şehitler Köprüsü" } },
+          { "name": { "ar": "Altunizade (ألتوني زاده - الجانب الآسيوي)", "en": "Altunizade", "tr": "Altunizade" } },
+          { "name": { "ar": "Söğütlüçeشme (كاديكوي - نهاية الخط الآسيوي)", "en": "Sogutlucesme / Kadikoy", "tr": "Söğütlüçeşme" } }
+        ]
+      },
+      {
+        "name": {
+          "ar": "باصات المطار الفاخرة (HAVAİST & HAVABUS)",
+          "en": "Airport Luxury Shuttles (Havaist & Havabus)",
+          "tr": "Havalimanı Lüks Otobüsleri"
+        },
+        "line_code": "AIRPORT-BUS",
+        "category": "bus",
+        "color": "#3949AB",
+        "desc": {
+          "ar": "حافلات سياحية مريحة ومكيفة تنقل المسافرين من وإلى مطاري إسطنبول (IST) وصبيحة (SAW) ومراكز المدينة.",
+          "en": "Comfortable luxury shuttles linking Istanbul Airport (IST) and Sabiha Airport (SAW) with major city centers.",
+          "tr": "İstanbul ve Sabiha Gökçen Havalimanlarını şehir merkezlerine bağlayan lüks servis otobüsleri."
+        },
+        "stations": [
+          { "name": { "ar": "HVİST-16: Taksim ⇄ İstanbul Havalimanı (تقسيم - مطار إسطنبول)", "en": "Taksim ⇄ Istanbul Airport (IST)", "tr": "Taksim ⇄ İstanbul Havalimanı" } },
+          { "name": { "ar": "HVİST-12: Aksaray / Beyazıt ⇄ İstanbul Havalimanı (أكسراي - مطار إسطنبول)", "en": "Aksaray ⇄ Istanbul Airport (IST)", "tr": "Aksaray ⇄ İstanbul Havalimanı" } },
+          { "name": { "ar": "HVİST-14: Kadıköy ⇄ İstanbul Havalimanı (كاديكوي - مطار إسطنبول)", "en": "Kadikoy ⇄ Istanbul Airport (IST)", "tr": "Kadıköy ⇄ İstanbul Havalimanı" } },
+          { "name": { "ar": "HAVABUS: Taksim ⇄ Sabiha Gökçen (تقسيم - مطار صبيحة)", "en": "Taksim ⇄ Sabiha Gokcen Airport (SAW)", "tr": "Taksim ⇄ Sabiha Gökçen Havalimanı" } },
+          { "name": { "ar": "HAVABUS: Kadıköy ⇄ Sabiha Gökçen (كاديكوي - مطار صبيحة)", "en": "Kadikoy ⇄ Sabiha Gokcen Airport (SAW)", "tr": "Kadıköy ⇄ Sabiha Gökçen Havalimanı" } }
+        ]
+      }
+    ]
+  }
+}

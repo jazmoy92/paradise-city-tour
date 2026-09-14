@@ -1,120 +1,355 @@
 {
-  "united_kingdom": {
-    "needs_ad": false,
-    "cities": {
-      "london": {
-        "names": {
-          "ar": "لندن",
-          "en": "London",
-          "tr": "Londra"
-        },
-        "description": {
-          "ar": "عاصمة المملكة المتحدة والتاج الملكي، تشتهر بـ برج بيغ بن، قصر باكنغهام، عين لندن (London Eye)، والمتحف البريطاني.",
-          "en": "Global capital, famous for Big Ben, Buckingham Palace, London Eye, Tower Bridge, and British Museum.",
-          "tr": "Big Ben, Buckingham Sarayı, London Eye, Tower Bridge ve British Museum ile ünlü küresel başkent."
-        },
-        "image": "res://images/london.png",
-        "bg_image": "res://images/london_bg.png",
-        "image_3d": "res://images/london_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق ذا ريتز لندن (The Ritz London)",
-              "en": "The Ritz London",
-              "tr": "The Ritz Londra"
-            },
-            "image": "res://images/ritz_london.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق ذا كونوت لندن (The Connaught)",
-              "en": "The Connaught London",
-              "tr": "The Connaught Londra"
-            },
-            "image": "res://images/connaught_london.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم غوردون رمزي لندن (Restaurant Gordon Ramsay)",
-              "en": "Restaurant Gordon Ramsay Royal Hospital Road",
-              "tr": "Restaurant Gordon Ramsay Londra"
-            },
-            "image": "res://images/gordon_ramsay_london.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "أشهر مطعم بريطاني فرنسي فاخر بـ 3 نجوم ميشلان للشيف العالمي غوردون رمزي",
-              "en": "Three-Michelin-starred British & French Fine Dining",
-              "tr": "Üç Michelin Yıldızlı Lüks İngiliz ve Fransız Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "برج ساعة بيغ بن ومبنى البرلمان (Big Ben & Palace of Westminster)",
-              "en": "Big Ben & Elizabeth Tower",
-              "tr": "Big Ben ve Elizabeth Kulesi"
-            },
-            "image": "res://images/big_ben.png",
-            "description": {
-              "ar": "أشهر برج ساعة في العالم بني عام 1859 يعلو مبنى البرلمان البريطاني.",
-              "en": "The iconic clock tower at the north end of the Houses of Parliament.",
-              "tr": "İngiltere Parlamento Binası'nın kuzey ucundaki ikonik saat kulesi."
-            }
-          },
-          {
-            "name": {
-              "ar": "عجلة عين لندن (The London Eye)",
-              "en": "The Lastminute.com London Eye",
-              "tr": "London Eye (Londra'nın Gözü)"
-            },
-            "image": "res://images/london_eye.png",
-            "description": {
-              "ar": "أضخم عجلة مراقبة دوارة في أوروبا بارتفاع 135 متراً تطل على نهر التايمز.",
-              "en": "Europe's tallest cantilevered observation wheel situated on the South Bank of the River Thames.",
-              "tr": "Thames Nehri'nin Güney Yakasında yer alan Avrupa'nın en yüksek gözlem çarkı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "قصر باكنغهام الملكي (Buckingham Palace)",
-              "en": "Buckingham Palace",
-              "tr": "Buckingham Sarayı"
-            },
-            "image": "res://images/buckingham_palace.png",
-            "description": {
-              "ar": "المقر الرسمي والاستشاري للملك البريطاني بوسط لندن مع حراس التاج وشرفة التحية.",
-              "en": "London residence and administrative headquarters of the UK monarch.",
-              "tr": "Birleşik Krallık hükümdarının Londra'daki resmi ikametgahı ve idari merkezi."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "london": {
+      "names": { "ar": "لندن", "en": "London", "tr": "Londra" }
+    },
+    "manchester": {
+      "names": { "ar": "مانشستر", "en": "Manchester", "tr": "Manchester" }
+    },
+    "edinburgh": {
+      "names": { "ar": "إدنبرة", "en": "Edinburgh", "tr": "Edinburgh" }
+    },
+    "glasgow": {
+      "names": { "ar": "غلاسكو", "en": "Glasgow", "tr": "Glasgow" }
+    },
+    "merseyside": {
+      "names": { "ar": "ميرسيسايد (ليفربول)", "en": "Merseyside (Liverpool)", "tr": "Merseyside (Liverpool)" }
+    },
+    "west_midlands": {
+      "names": { "ar": "وست ميدلاندز (برمنغهام)", "en": "West Midlands (Birmingham)", "tr": "West Midlands (Birmingham)" }
+    },
+    "oxfordshire": {
+      "names": { "ar": "أكسفوردشير", "en": "Oxfordshire", "tr": "Oksfordshire" }
+    },
+    "cambridgeshire": {
+      "names": { "ar": "كامبريدجشير", "en": "Cambridgeshire", "tr": "Cambridgeshire" }
+    },
+    "bristol": {
+      "names": { "ar": "بريستول", "en": "Bristol", "tr": "Bristol" }
+    },
+    "tyne_and_wear": {
+      "names": { "ar": "تاين ووير (نيوكاسل)", "en": "Tyne and Wear (Newcastle)", "tr": "Tyne ve Wear (Yenikale)" }
+    },
+    "belfast": {
+      "names": { "ar": "بلفاست", "en": "Belfast", "tr": "Belfast" }
+    },
+    "cardiff": {
+      "names": { "ar": "كارديف", "en": "Cardiff", "tr": "Cardiff" }
+    },
+    "yorkshire": {
+      "names": { "ar": "يوركشير", "en": "Yorkshire", "tr": "Yorkshire" }
+    },
+    "bermuda": {
+      "names": { "ar": "جزر برمودا", "en": "Bermuda", "tr": "Bermuda" }
+    },
+    "cayman_islands": {
+      "names": { "ar": "جزر كايمان", "en": "Cayman Islands", "tr": "Cayman Adaları" }
+    },
+    "gibraltar": {
+      "names": { "ar": "جبل طارق", "en": "Gibraltar", "tr": "Cebelitarık" }
+    },
+    "british_virgin_islands": {
+      "names": { "ar": "جزر فرجين البريطانية", "en": "British Virgin Islands", "tr": "Britanya Virjin Adaları" }
+    },
+    "falkland_islands": {
+      "names": { "ar": "جزر فوكلاند", "en": "Falkland Islands", "tr": "Falkland Adaları" }
+    },
+    "isle_of_man": {
+      "names": { "ar": "جزيرة مان", "en": "Isle of Man", "tr": "Man Adası" }
+    },
+    "jersey": {
+      "names": { "ar": "جيرزي", "en": "Jersey", "tr": "Jersey" }
+    },
+    "guernsey": {
+      "names": { "ar": "غيرنزي", "en": "Guernsey", "tr": "Guernsey" }
+    },
+    "highland": {
+      "names": { "ar": "هايلاند", "en": "Highland", "tr": "Highland" }
+    },
+    "aberdeen": {
+      "names": { "ar": "أبردين", "en": "Aberdeen City", "tr": "Aberdeen" }
+    },
+    "swansea": {
+      "names": { "ar": "سوانزي", "en": "Swansea", "tr": "Swansea" }
+    },
+    "cornwall": {
+      "names": { "ar": "كورنوال", "en": "Cornwall", "tr": "Cornwall" }
+    },
+    "kent": {
+      "names": { "ar": "كينت", "en": "Kent", "tr": "Kent" }
+    },
+    "essex": {
+      "names": { "ar": "إسكس", "en": "Essex", "tr": "Essex" }
+    },
+    "surrey": {
+      "names": { "ar": "سري", "en": "Surrey", "tr": "Surrey" }
+    },
+    "hampshire": {
+      "names": { "ar": "هامبشير", "en": "Hampshire", "tr": "Hampshire" }
+    },
+    "lancashire": {
+      "names": { "ar": "لانكشير", "en": "Lancashire", "tr": "Lancashire" }
+    },
+    "nottinghamshire": {
+      "names": { "ar": "نوتنغهامشير", "en": "Nottinghamshire", "tr": "Nottinghamshire" }
+    },
+    "buckinghamshire": {
+      "names": { "ar": "باكنغهامشير", "en": "Buckinghamshire", "tr": "Buckinghamshire" }
+    },
+    "cheshire": {
+      "names": { "ar": "تشيشير", "en": "Cheshire", "tr": "Cheshire" }
+    },
+    "derbyshire": {
+      "names": { "ar": "ديربيشير", "en": "Derbyshire", "tr": "Derbyshire" }
+    },
+    "devon": {
+      "names": { "ar": "ديفون", "en": "Devon", "tr": "Devon" }
+    },
+    "dorset": {
+      "names": { "ar": "دورست", "en": "Dorset", "tr": "Dorset" }
+    },
+    "durham": {
+      "names": { "ar": "دورهام", "en": "Durham", "tr": "Durham" }
+    },
+    "east_sussex": {
+      "names": { "ar": "شرق ساسكس", "en": "East Sussex", "tr": "Doğu Sussex" }
+    },
+    "west_sussex": {
+      "names": { "ar": "غرب ساسكس", "en": "West Sussex", "tr": "Batı Sussex" }
+    },
+    "gloucestershire": {
+      "names": { "ar": "غلوسترشير", "en": "Gloucestershire", "tr": "Gloucestershire" }
+    },
+    "hertfordshire": {
+      "names": { "ar": "هيرتفوردشير", "en": "Hertfordshire", "tr": "Hertfordshire" }
+    },
+    "isle_of_wight": {
+      "names": { "ar": "جزيرة وايت", "en": "Isle of Wight", "tr": "Wight Adası" }
+    },
+    "leicestershire": {
+      "names": { "ar": "ليسترشير", "en": "Leicestershire", "tr": "Leicestershire" }
+    },
+    "lincolnshire": {
+      "names": { "ar": "لينكونشير", "en": "Lincolnshire", "tr": "Lincolnshire" }
+    },
+    "norfolk": {
+      "names": { "ar": "نورفولك", "en": "Norfolk", "tr": "Norfolk" }
+    },
+    "northamptonshire": {
+      "names": { "ar": "نورثهامبتونشير", "en": "Northamptonshire", "tr": "Northamptonshire" }
+    },
+    "northumberland": {
+      "names": { "ar": "نورثمبرلاند", "en": "Northumberland", "tr": "Northumberland" }
+    },
+    "somerset": {
+      "names": { "ar": "سومرست", "en": "Somerset", "tr": "Somerset" }
+    },
+    "staffordshire": {
+      "names": { "ar": "ستافوردشير", "en": "Staffordshire", "tr": "Staffordshire" }
+    },
+    "suffolk": {
+      "names": { "ar": "سوفولك", "en": "Suffolk", "tr": "Suffolk" }
+    },
+    "warwickshire": {
+      "names": { "ar": "وارويكشير", "en": "Warwickshire", "tr": "Warwickshire" }
+    },
+    "wiltshire": {
+      "names": { "ar": "ويلتشر", "en": "Wiltshire", "tr": "Wiltshire" }
+    },
+    "worcestershire": {
+      "names": { "ar": "وسترشير", "en": "Worcestershire", "tr": "Worcestershire" }
+    },
+    "cumbria": {
+      "names": { "ar": "كمبريا", "en": "Cumbria", "tr": "Cumbria" }
+    },
+    "herefordshire": {
+      "names": { "ar": "هيرفوردشير", "en": "Herefordshire", "tr": "Herefordshire" }
+    },
+    "shropshire": {
+      "names": { "ar": "شروبشير", "en": "Shropshire", "tr": "Shropshire" }
+    },
+    "rutland": {
+      "names": { "ar": "روتلاند", "en": "Rutland", "tr": "Rutland" }
+    },
+    "dundee": {
+      "names": { "ar": "دندي", "en": "Dundee City", "tr": "Dundee" }
+    },
+    "stirling": {
+      "names": { "ar": "ستيرلينغ", "en": "Stirling", "tr": "Stirling" }
+    },
+    "fife": {
+      "names": { "ar": "فايف", "en": "Fife", "tr": "Fife" }
+    },
+    "perth_and_kinross": {
+      "names": { "ar": "البرث وكينروس", "en": "Perth and Kinross", "tr": "Perth ve Kinross" }
+    },
+    "falkirk": {
+      "names": { "ar": "فلكيرك", "en": "Falkirk", "tr": "Falkirk" }
+    },
+    "scottish_borders": {
+      "names": { "ar": "الحدود الاسكتلندية", "en": "Scottish Borders", "tr": "Scottish Borders" }
+    },
+    "dumfries_and_galloway": {
+      "names": { "ar": "دومفريز وغالوي", "en": "Dumfries and Galloway", "tr": "Dumfries ve Galloway" }
+    },
+    "ayrshire": {
+      "names": { "ar": "آيرشير", "en": "Ayrshire", "tr": "Ayrshire" }
+    },
+    "aberdeenshire": {
+      "names": { "ar": "أبردينشير", "en": "Aberdeenshire", "tr": "Aberdeenshire" }
+    },
+    "argyll_and_bute": {
+      "names": { "ar": "أرجيل وبوت", "en": "Argyll and Bute", "tr": "Argyll ve Bute" }
+    },
+    "dunbartonshire": {
+      "names": { "ar": "دنبارتونشير", "en": "Dunbartonshire", "tr": "Dunbartonshire" }
+    },
+    "renfrewshire": {
+      "names": { "ar": "رينفروشير", "en": "Renfrewshire", "tr": "Renfrewshire" }
+    },
+    "inverclyde": {
+      "names": { "ar": "إنفركلايد", "en": "Inverclyde", "tr": "Inverclyde" }
+    },
+    "lanarkshire": {
+      "names": { "ar": "لاناركشير", "en": "Lanarkshire", "tr": "Lanarkshire" }
+    },
+    "lothian": {
+      "names": { "ar": "لوثيان", "en": "Lothian", "tr": "Lothian" }
+    },
+    "moray": {
+      "names": { "ar": "موري", "en": "Moray", "tr": "Moray" }
+    },
+    "angus": {
+      "names": { "ar": "أنغوس", "en": "Angus", "tr": "Angus" }
+    },
+    "clackmannanshire": {
+      "names": { "ar": "كلاكـمانانشير", "en": "Clackmannanshire", "tr": "Clackmannanshire" }
+    },
+    "orkney_islands": {
+      "names": { "ar": "جزر أوركني", "en": "Orkney Islands", "tr": "Orkney Adaları" }
+    },
+    "shetland_islands": {
+      "names": { "ar": "جزر شيتلاند", "en": "Shetland Islands", "tr": "Shetland Adaları" }
+    },
+    "outer_hebrides": {
+      "names": { "ar": "الجزر الغربية (هبريدس الخارجية)", "en": "Outer Hebrides (Na h-Eileanan Siar)", "tr": "Dış Hibritler (Na h-Eileanan Siar)" }
+    },
+    "newport": {
+      "names": { "ar": "نيوبورت", "en": "Newport", "tr": "Newport" }
+    },
+    "wrexham": {
+      "names": { "ar": "وركسهام", "en": "Wrexham", "tr": "Wrexham" }
+    },
+    "isle_of_anglesey": {
+      "names": { "ar": "جزيرة أنغلزي", "en": "Isle of Anglesey", "tr": "Anglesey Adası" }
+    },
+    "gwynedd": {
+      "names": { "ar": "غوينيد", "en": "Gwynedd", "tr": "Gwynedd" }
+    },
+    "conwy": {
+      "names": { "ar": "كونوي", "en": "Conwy", "tr": "Conwy" }
+    },
+    "pembrokeshire": {
+      "names": { "ar": "بيمبروكشير", "en": "Pembrokeshire", "tr": "Pembrokeshire" }
+    },
+    "carmarthenshire": {
+      "names": { "ar": "كارمارتنشير", "en": "Carmarthenshire", "tr": "Carmarthenshire" }
+    },
+    "denbighshire": {
+      "names": { "ar": "دنبيشير", "en": "Denbighshire", "tr": "Denbighshire" }
+    },
+    "flintshire": {
+      "names": { "ar": "فلينتشير", "en": "Flintshire", "tr": "Flintshire" }
+    },
+    "powys": {
+      "names": { "ar": "باويس", "en": "Powys", "tr": "Powys" }
+    },
+    "ceredigion": {
+      "names": { "ar": "سيريديغيون", "en": "Ceredigion", "tr": "Ceredigion" }
+    },
+    "neath_port_talbot": {
+      "names": { "ar": "نيث بورت تالبوت", "en": "Neath Port Talbot", "tr": "Neath Port Talbot" }
+    },
+    "bridgend": {
+      "names": { "ar": "بريدجند", "en": "Bridgend", "tr": "Bridgend" }
+    },
+    "rhondda_cynon_taf": {
+      "names": { "ar": "روندا كينون تاف", "en": "Rhondda Cynon Taf", "tr": "Rhondda Cynon Taf" }
+    },
+    "vale_of_glamorgan": {
+      "names": { "ar": "فالي أوف غلامورغان", "en": "Vale of Glamorgan", "tr": "Vale of Glamorgan" }
+    },
+    "merthyr_tydfil": {
+      "names": { "ar": "ميرثير تيدفيل", "en": "Merthyr Tydfil", "tr": "Merthyr Tydfil" }
+    },
+    "caerphilly": {
+      "names": { "ar": "كيرفيلي", "en": "Caerphilly", "tr": "Caerphilly" }
+    },
+    "blaenau_gwent": {
+      "names": { "ar": "بلايناو غوينت", "en": "Blaenau Gwent", "tr": "Blaenau Gwent" }
+    },
+    "torfaen": {
+      "names": { "ar": "تورفين", "en": "Torfaen", "tr": "Torfaen" }
+    },
+    "monmouthshire": {
+      "names": { "ar": "مونموثشير", "en": "Monmouthshire", "tr": "Monmouthshire" }
+    },
+    "derry_and_strabane": {
+      "names": { "ar": "ديري وسترابين", "en": "Derry City and Strabane", "tr": "Derry ve Strabane" }
+    },
+    "lisburn_and_castlereagh": {
+      "names": { "ar": "ليسبرن وكاسلري", "en": "Lisburn and Castlereagh", "tr": "Lisburn ve Castlereagh" }
+    },
+    "ards_and_north_down": {
+      "names": { "ar": "أردز وشمال داون", "en": "Ards and North Down", "tr": "Ards ve Kuzey Down" }
+    },
+    "antrim_and_newtownabbey": {
+      "names": { "ar": "أنترم ونيوتاون آبي", "en": "Antrim and Newtownabbey", "tr": "Antrim ve Newtownabbey" }
+    },
+    "armagh_banbridge_craigavon": {
+      "names": { "ar": "أرماه، بانبريدج وكريغافون", "en": "Armagh City, Banbridge and Craigavon", "tr": "Armagh, Banbridge ve Craigavon" }
+    },
+    "causeway_coast_and_glens": {
+      "names": { "ar": "كوزواي كوست وغليز", "en": "Causeway Coast and Glens", "tr": "Causeway Coast ve Glens" }
+    },
+    "fermanagh_and_omagh": {
+      "names": { "ar": "فيرماناغ وأوماغ", "en": "Fermanagh and Omagh", "tr": "Fermanagh ve Omagh" }
+    },
+    "mid_and_east_antrim": {
+      "names": { "ar": "وسط وشرق أنترم", "en": "Mid and East Antrim", "tr": "Orta ve Doğu Antrim" }
+    },
+    "mid_ulster": {
+      "names": { "ar": "وسط أولستر", "en": "Mid Ulster", "tr": "Orta Ulster" }
+    },
+    "newry_mourne_and_down": {
+      "names": { "ar": "نيوبري، مورن وداون", "en": "Newry, Mourne and Down", "tr": "Newry, Mourne ve Down" }
+    },
+    "turks_and_caicos": {
+      "names": { "ar": "جزر تركس وكايكوس", "en": "Turks and Caicos Islands", "tr": "Turks ve Caicos Adaları" }
+    },
+    "anguilla": {
+      "names": { "ar": "أنغويلا", "en": "Anguilla", "tr": "Anguilla" }
+    },
+    "montserrat": {
+      "names": { "ar": "مونتسرات", "en": "Montserrat", "tr": "Montserrat" }
+    },
+    "saint_helena": {
+      "names": { "ar": "سانت هيلانة وأسينشين وتريستان دا كونا", "en": "Saint Helena, Ascension and Tristan da Cunha", "tr": "Saint Helena, Ascension ve Tristan da Cunha" }
+    },
+    "pitcairn_islands": {
+      "names": { "ar": "جزر بيتكيرن", "en": "Pitcairn Islands", "tr": "Pitcairn Adaları" }
+    },
+    "british_indian_ocean_territory": {
+      "names": { "ar": "إقليم المحيط الهندي البريطاني", "en": "British Indian Ocean Territory", "tr": "Britanya Hint Okyanusu Toprakları" }
+    },
+    "south_georgia": {
+      "names": { "ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية", "en": "South Georgia and the South Sandwich Islands", "tr": "Güney Georgia ve Güney Sandwich Adaları" }
+    },
+    "akrotiri_and_dhekelia": {
+      "names": { "ar": "أكروتيري وديكيليا", "en": "Akrotiri and Dhekelia", "tr": "Ağrotur ve Dikelya" }
+    },
+    "british_antarctic_territory": {
+      "names": { "ar": "المقاطعة البريطانية بالقارة القطبية الجنوبية", "en": "British Antarctic Territory", "tr": "Britanya Antarktika Toprakları" }
     }
   }
 }

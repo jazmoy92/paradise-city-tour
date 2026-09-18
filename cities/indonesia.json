@@ -1,412 +1,1364 @@
 {
   "cities": {
     "jakarta": {
-      "names": { "ar": "جاكرتا", "en": "Jakarta", "tr": "Cakarta" }
+      "names": { "ar": "جاكرتا", "en": "Jakarta", "tr": "Cakarta" },
+      "famous_for": {
+        "ar": "العاصمة النابضة بالحياة ومركز التسوق والتاريخ الإندونيسي 🏙️🛍️",
+        "en": "Vibrant capital known for dynamic culture & premier shopping 🏙️🛍️",
+        "tr": "Dinamik şehir yaşamı ve zengin alışveriş merkezleri 🏙️🛍️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "bali": {
-      "names": { "ar": "بالي", "en": "Bali", "tr": "Bali" }
+      "names": { "ar": "بالي", "en": "Bali", "tr": "Bali" },
+      "famous_for": {
+        "ar": "جزيرة الآلهة الشهيرة بالشواطئ الاستوائية والمعابد الهندوسية 🏝️🌺",
+        "en": "Island of the Gods famous for beaches and iconic temples 🏝️🌺",
+        "tr": "Eşsiz plajları, sörf koyları ve mistik tapınakları 🏝️🌺"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "surabaya": {
-      "names": { "ar": "سورابايا", "en": "Surabaya", "tr": "Surabaya" }
+      "names": { "ar": "سورابايا", "en": "Surabaya", "tr": "Surabaya" },
+      "famous_for": {
+        "ar": "مدينة الأبطال التاريخية وثاني أكبر مركز حضري وصناعي ⚓🏙️",
+        "en": "The historic City of Heroes and bustling economic hub ⚓🏙️",
+        "tr": "Kahramanlar şehri ve tarihi liman merkezi ⚓🏙️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "bandung": {
-      "names": { "ar": "باندونغ", "en": "Bandung", "tr": "Bandung" }
+      "names": { "ar": "باندونغ", "en": "Bandung", "tr": "Bandung" },
+      "famous_for": {
+        "ar": "باريس جاوة المشهورة بأجوائها الجبلية الباردة ومزارع الشاي ☕🍃",
+        "en": "Paris of Java famous for cool climate & tea plantations ☕🍃",
+        "tr": "Serin dağ havası, çay bahçeleri ve kolonyal mimari ☕🍃"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "yogyakarta": {
-      "names": { "ar": "يوغياكارتا", "en": "Yogyakarta", "tr": "Yogyakarta" }
+      "names": { "ar": "يوغياكارتا", "en": "Yogyakarta", "tr": "Yogyakarta" },
+      "famous_for": {
+        "ar": "القلب الثقافي لإندونيسيا وبوابتك إلى معبد بوروبودور 🛕🎨",
+        "en": "Cultural heartland and gateway to ancient Borobudur temple 🛕🎨",
+        "tr": "Geleneksel sanatlar, sultan sarayı ve Borobudur Tapınağı 🛕🎨"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "bogor": {
-      "names": { "ar": "بوغور", "en": "Bogor", "tr": "Bogor" }
+      "names": { "ar": "بوغور", "en": "Bogor", "tr": "Bogor" },
+      "famous_for": {
+        "ar": "مدينة المطر الشهيرة بحدائقها النباتية الملكية وقصورها 🌿🌧️",
+        "en": "The Rain City renowned for its historic Botanical Gardens 🌿🌧️",
+        "tr": "Görkemli botanik bahçeleri ve yemyeşil doğası 🌿🌧️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "malang": {
-      "names": { "ar": "مالانغ", "en": "Malang", "tr": "Malang" }
+      "names": { "ar": "مالانغ", "en": "Malang", "tr": "Malang" },
+      "famous_for": {
+        "ar": "المدينة الهادئة بأجوائها الجبلية وبساتين التفاح الخلابة 🍏⛰️",
+        "en": "Charming highland city known for cool air and apple orchards 🍏⛰️",
+        "tr": "Serin yaylaları ve meşhur elma bahçeleri 🍏⛰️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "lombok": {
-      "names": { "ar": "لومبوك", "en": "Lombok", "tr": "Lombok" }
+      "names": { "ar": "لومبوك", "en": "Lombok", "tr": "Lombok" },
+      "famous_for": {
+        "ar": "شواطئ ساحرة، جزر جيلي الاستوائية وجبل رينجاني المهيب 🏖️🌋",
+        "en": "Pristine beaches, Gili Islands, and Mount Rinjani volcano 🏖️🌋",
+        "tr": "El değmemiş plajları, Gili adaları ve Rinjani Yanardağı 🏖️🌋"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "medan": {
-      "names": { "ar": "ميدان", "en": "Medan", "tr": "Medan" }
+      "names": { "ar": "ميدان", "en": "Medan", "tr": "Medan" },
+      "famous_for": {
+        "ar": "بوابة سومطرة المتنوعة والمشهورة بتنوع مأكولاتها وقصر ميمون 🍛🕌",
+        "en": "Sumatran culinary capital and gateway to Lake Toba 🍛🕌",
+        "tr": "Sumatra'nın zengin mutfağı ve Maimun Sarayı 🍛🕌"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "makassar": {
-      "names": { "ar": "ماكاسار", "en": "Makassar", "tr": "Makassar" }
+      "names": { "ar": "ماكاسار", "en": "Makassar", "tr": "Makassar" },
+      "famous_for": {
+        "ar": "عروس سولاويزي البحرية وحصن روتردام ومأكولاتها البحرية 🦐🌊",
+        "en": "Sulawesi's vibrant port city famous for seafood and historic forts 🦐🌊",
+        "tr": "Tarihi Rotterdam Kalesi ve enfes deniz ürünleri 🦐🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "semarang": {
-      "names": { "ar": "سيمارانغ", "en": "Semarang", "tr": "Semarang" }
+      "names": { "ar": "سيمارانغ", "en": "Semarang", "tr": "Semarang" },
+      "famous_for": {
+        "ar": "ميناء جاوة التاريخي ومبنى لاوانغ سيو العريق 🚂🏛️",
+        "en": "Historic colonial port city famous for Lawang Sewu 🚂🏛️",
+        "tr": "Tarihi Lawang Sewu binası ve çok kültürlü limanı 🚂🏛️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "balikpapan": {
-      "names": { "ar": "باليكبابان", "en": "Balikpapan", "tr": "Balikpapan" }
+      "names": { "ar": "باليكبابان", "en": "Balikpapan", "tr": "Balikpapan" },
+      "famous_for": {
+        "ar": "بوابة كاليمانتان النفطية الحديثة والغابات المطرية 🛢️🌳",
+        "en": "Clean coastal oil city and gateway to East Kalimantan 🛢️🌳",
+        "tr": "Temiz sahil kordonu ve zengin yağmur ormanları 🛢️🌳"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "nusantara": {
-      "names": { "ar": "نوسانتارا", "en": "Nusantara", "tr": "Nusantara" }
+      "names": { "ar": "نوسانتارا", "en": "Nusantara", "tr": "Nusantara" },
+      "famous_for": {
+        "ar": "العاصمة المستقبلية الخضراء في قلب غابات بورنيو 🌿🏗️",
+        "en": "Indonesia's futuristic smart and green capital city 🌿🏗️",
+        "tr": "Endonezya'nın geleceğe yön veren akıllı yeni başkenti 🌿🏗️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "padang": {
-      "names": { "ar": "بادانغ", "en": "Padang", "tr": "Padang" }
+      "names": { "ar": "بادانغ", "en": "Padang", "tr": "Padang" },
+      "famous_for": {
+        "ar": "مهد مأكولات بادانغ اللذيذة وطبق الرندانغ العالمي 🍛🌶️",
+        "en": "Culinary haven renowned worldwide for authentic Rendang curry 🍛🌶️",
+        "tr": "Dünyaca ünlü Rendang yemeği ve Minangkabau kültürü 🍛🌶️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "palembang": {
-      "names": { "ar": "فلمبان", "en": "Palembang", "tr": "Palembang" }
+      "names": { "ar": "فلمبان", "en": "Palembang", "tr": "Palembang" },
+      "famous_for": {
+        "ar": "مدينة جسر أمبيرا التاريخي ومأكولات البيمبيك الشهيرة 🌉🐟",
+        "en": "Historic city of the Ampera Bridge and Pempek delicacies 🌉🐟",
+        "tr": "Ampera Köprüsü ve lezzetli Pempek balık köftesi 🌉🐟"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "batam": {
-      "names": { "ar": "باتام", "en": "Batam", "tr": "Batam" }
+      "names": { "ar": "باتام", "en": "Batam", "tr": "Batam" },
+      "famous_for": {
+        "ar": "جزيرة التسوق والمنتجعات الحرة القريبة من سنغافورة 🛍️🚢",
+        "en": "Island resort getaway and free-trade shopping hub 🛍️🚢",
+        "tr": "Singapur'a yakın lüks tatil köyleri ve serbest ticaret 🛍️🚢"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "manado": {
-      "names": { "ar": "مانادو", "en": "Manado", "tr": "Manado" }
+      "names": { "ar": "مانادو", "en": "Manado", "tr": "Manado" },
+      "famous_for": {
+        "ar": "جنة الغوص العالمي في حديقة بوناكين البحرية 🤿🐠",
+        "en": "World-class diving paradise at Bunaken Marine Park 🤿🐠",
+        "tr": "Bunaken Milli Parkı ve dünya çapında dalış noktaları 🤿🐠"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "surakarta": {
-      "names": { "ar": "سوراكارتا", "en": "Surakarta", "tr": "Surakarta" }
+      "names": { "ar": "سوراكارتا", "en": "Surakarta", "tr": "Surakarta" },
+      "famous_for": {
+        "ar": "سولو مهد التراث الجاوي الأصيل وفن الباتيك والقصور 👘👑",
+        "en": "Cultural jewel famous for traditional Batik and royal palaces 👘👑",
+        "tr": "Geleneksel Batik sanatı ve tarihi kraliyet sarayları 👘👑"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "banda_aceh": {
-      "names": { "ar": "باندا أتشيه", "en": "Banda Aceh", "tr": "Banda Aceh" }
+      "names": { "ar": "باندا أتشيه", "en": "Banda Aceh", "tr": "Banda Aceh" },
+      "famous_for": {
+        "ar": "مسجد بيت الرحمن الكبير والتاريخ الإسلامي والبحري العريق 🕌🌊",
+        "en": "Historic Grand Baiturrahman Mosque and Islamic heritage 🕌🌊",
+        "tr": "Görkemli Beytürrahman Camii ve tarihi İslami miras 🕌🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sorong": {
-      "names": { "ar": "سورونغ", "en": "Sorong", "tr": "Sorong" }
+      "names": { "ar": "سورونغ", "en": "Sorong", "tr": "Sorong" },
+      "famous_for": {
+        "ar": "البوابة الرئيسية إلى جنة جزر راجا أمبات المرجانية 🏝️🪸",
+        "en": "The primary gateway to the paradise islands of Raja Ampat 🏝️🪸",
+        "tr": "Büyüleyici Raja Ampat adalarının ana giriş kapısı 🏝️🪸"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "pekanbaru": {
-      "names": { "ar": "بيكانبارو", "en": "Pekanbaru", "tr": "Pekanbaru" }
+      "names": { "ar": "بيكانبارو", "en": "Pekanbaru", "tr": "Pekanbaru" },
+      "famous_for": {
+        "ar": "المركز التجاري لمقاطعة رياو ومسجد النور الكبير 🕌🌴",
+        "en": "Economic heart of Riau known for An-Nur Great Mosque 🕌🌴",
+        "tr": "Riau bölgesinin ticaret merkezi ve An-Nur Camii 🕌🌴"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pontianak": {
-      "names": { "ar": "بونتياناك", "en": "Pontianak", "tr": "Pontianak" }
+      "names": { "ar": "بونتياناك", "en": "Pontianak", "tr": "Pontianak" },
+      "famous_for": {
+        "ar": "مدينة خط الاستواء الواقعة على ضفاف نهر كابواس الكبير 🧭🌊",
+        "en": "The Equatorial City located along the mighty Kapuas River 🧭🌊",
+        "tr": "Ekvator anıtı ve heybetli Kapuas Nehri kıyıları 🧭🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "samarinda": {
-      "names": { "ar": "ساماريندا", "en": "Samarinda", "tr": "Samarinda" }
+      "names": { "ar": "ساماريندا", "en": "Samarinda", "tr": "Samarinda" },
+      "famous_for": {
+        "ar": "عاصمة كاليمانتان الشرقية على نهر ماهاكام وقماش السارونغ 🧵🚢",
+        "en": "Mahakam riverfront city famous for traditional woven sarongs 🧵🚢",
+        "tr": "Mahakam Nehri ve geleneksel ipek dokuma kumaşları 🧵🚢"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "banjarmasin": {
-      "names": { "ar": "بنجرماسين", "en": "Banjarmasin", "tr": "Banjarmasin" }
+      "names": { "ar": "بنجرماسين", "en": "Banjarmasin", "tr": "Banjarmasin" },
+      "famous_for": {
+        "ar": "مدينة الألف نهر وأسواق القوارب العائمة التراثية 🛶🍉",
+        "en": "City of a Thousand Rivers and vibrant floating markets 🛶🍉",
+        "tr": "Bin Nehir Şehri ve rengarenk yüzen pazarları 🛶🍉"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tangerang": {
-      "names": { "ar": "تانغيرانغ", "en": "Tangerang", "tr": "Tangerang" }
+      "names": { "ar": "تانغيرانغ", "en": "Tangerang", "tr": "Tangerang" },
+      "famous_for": {
+        "ar": "المدينة الحديثة وبوابة مطار سوكارنو هاتا الدولي ✈️🏭",
+        "en": "Dynamic metropolis and home to Soekarno-Hatta Airport ✈️🏭",
+        "tr": "Soekarno-Hatta Havalimanı ve modern sanayi merkezi ✈️🏭"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "bekasi": {
-      "names": { "ar": "بيكاسي", "en": "Bekasi", "tr": "Bekasi" }
+      "names": { "ar": "بيكاسي", "en": "Bekasi", "tr": "Bekasi" },
+      "famous_for": {
+        "ar": "المدينة الصناعية الكبرى والمراكز الحضرية المتطورة 🏙️🚆",
+        "en": "Rapidly growing industrial hub and modern urban center 🏙️🚆",
+        "tr": "Gelişmiş sanayi bölgesi ve hareketli şehir yaşamı 🏙️🚆"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "depok": {
-      "names": { "ar": "ديبوك", "en": "Depok", "tr": "Depok" }
+      "names": { "ar": "ديبوك", "en": "Depok", "tr": "Depok" },
+      "famous_for": {
+        "ar": "مدينة التعليم وموطن جامعة إندونيسيا العريقة 🎓🌳",
+        "en": "Prominent educational hub and home to Universitas Indonesia 🎓🌳",
+        "tr": "Endonezya Üniversitesi ve hareketli öğrenci şehri 🎓🌳"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "ambon": {
-      "names": { "ar": "أمبون", "en": "Ambon", "tr": "Ambon" }
+      "names": { "ar": "أمبون", "en": "Ambon", "tr": "Ambon" },
+      "famous_for": {
+        "ar": "جزيرة التوابل التاريخية المشهورة بالموسيقى والخلجان 🎵🏝️",
+        "en": "Historic Spice Island celebrated for music and azure bays 🎵🏝️",
+        "tr": "Tarihi Baharat Adası, zengin müziği ve kristal koyları 🎵🏝️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "puncak": {
-      "names": { "ar": "بونشاك", "en": "Puncak", "tr": "Puncak" }
+      "names": { "ar": "بونشاك", "en": "Puncak", "tr": "Puncak" },
+      "famous_for": {
+        "ar": "المنتجع الجبلي الخلاب بمزارع الشاي والطقس العليل 🍃⛰️",
+        "en": "Scenic mountain pass renowned for lush tea plantations 🍃⛰️",
+        "tr": "Serin dağ havası ve sonsuz yeşil çay tarlaları 🍃⛰️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "kupang": {
-      "names": { "ar": "كوبانغ", "en": "Kupang", "tr": "Kupang" }
+      "names": { "ar": "كوبانغ", "en": "Kupang", "tr": "Kupang" },
+      "famous_for": {
+        "ar": "بوابة تيمور الغربية وإطلالات الغروب البحرية الساحرة 🌅🥥",
+        "en": "West Timor capital famous for dramatic ocean sunsets 🌅🥥"
+        ,"tr": "Batı Timor'un merkezi ve büyüleyici gün batımları 🌅🥥"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "cirebon": {
-      "names": { "ar": "سيربون", "en": "Cirebon", "tr": "Cirebon" }
+      "names": { "ar": "سيربون", "en": "Cirebon", "tr": "Cirebon" },
+      "famous_for": {
+        "ar": "مدينة الروبيان وسلاطين كاسيبوهان والباتيك الميغاميوندوغ 🦐🏰",
+        "en": "Port city famous for ancient sultanates and Mega Mendung batik 🦐🏰",
+        "tr": "Tarihi sultan sarayları ve meşhur karides lezzetleri 🦐🏰"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sukabumi": {
-      "names": { "ar": "سوكابومي", "en": "Sukabumi", "tr": "Sukabumi" }
+      "names": { "ar": "سوكابومي", "en": "Sukabumi", "tr": "Sukabumi" },
+      "famous_for": {
+        "ar": "حديقة سيليتوه الجيولوجية والينابيع الساخنة والشلالات 🌊🌲",
+        "en": "Gateway to Ciletuh Geopark, waterfalls, and nature trails 🌊🌲",
+        "tr": "Ciletuh Jeoparkı, çağlayan şelaleleri ve doğa sporları 🌊🌲"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "palu": {
-      "names": { "ar": "بالو", "en": "Palu", "tr": "Palu" }
+      "names": { "ar": "بالو", "en": "Palu", "tr": "Palu" },
+      "famous_for": {
+        "ar": "مدينة الخليج الجميل المحاطة بالسلاسل الجبلية الشاهقة 🏞️🌅",
+        "en": "Scenic coastal valley flanked by dramatic mountain ranges 🏞️🌅",
+        "tr": "Dağların çevrelediği sahil körfezi ve doğal vadileri 🏞️🌅"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "kendari": {
-      "names": { "ar": "كنداري", "en": "Kendari", "tr": "Kendari" }
+      "names": { "ar": "كنداري", "en": "Kendari", "tr": "Kendari" },
+      "famous_for": {
+        "ar": "بوابة جزر لابينغكي الساحرة والخلجان الفيروزية 🏝️✨",
+        "en": "Capital of Southeast Sulawesi and gateway to Labengki paradise 🏝️✨",
+        "tr": "Labengki adaları geçidi ve sakin koyları 🏝️✨"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "gorontalo": {
-      "names": { "ar": "غورونتالو", "en": "Gorontalo", "tr": "Gorontalo" }
+      "names": { "ar": "غورونتالو", "en": "Gorontalo", "tr": "Gorontalo" },
+      "famous_for": {
+        "ar": "موطن أسماك القرش الحوتي والحصون البرتغالية القديمة 🐋🏰",
+        "en": "Renowned for whale shark encounters and colonial forts 🐋🏰",
+        "tr": "Balina köpekbalığı gözlemleri ve tarihi kaleleri 🐋🏰"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "jambi": {
-      "names": { "ar": "جمبي", "en": "Jambi", "tr": "Jambi" }
+      "names": { "ar": "جمبي", "en": "Jambi", "tr": "Jambi" },
+      "famous_for": {
+        "ar": "أرض مجمع معابد موارو جامبي البوذية العريقة 🛕🌳",
+        "en": "Home to the vast ancient Muaro Jambi temple complex 🛕🌳",
+        "tr": "Tarihi Muaro Jambi tapınak kompleksi ve nehir kültürü 🛕🌳"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "bengkulu": {
-      "names": { "ar": "بنغكولو", "en": "Bengkulu", "tr": "Bengkulu" }
+      "names": { "ar": "بنغكولو", "en": "Bengkulu", "tr": "Bengkulu" },
+      "famous_for": {
+        "ar": "موطن زهرة الرافليسيا العملاقة وحصن مارلبورو التاريخي 🌺🏰",
+        "en": "Land of the giant Rafflesia flower and Fort Marlborough 🌺🏰",
+        "tr": "Dev Rafflesia çiçeği ve tarihi Marlborough Kalesi 🌺🏰"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "bandar_lampung": {
-      "names": { "ar": "بندر لامبونغ", "en": "Bandar Lampung", "tr": "Bandar Lampung" }
+      "names": { "ar": "بندر لامبونغ", "en": "Bandar Lampung", "tr": "Bandar Lampung" },
+      "famous_for": {
+        "ar": "بوابة سومطرة ومزارع البن وخليج مشاهدة الدلافين ☕🐬",
+        "en": "Southern Sumatra gateway famous for coffee and dolphin bays ☕🐬",
+        "tr": "Sumatra'nın giriş kapısı, kahvesi ve yunus koyları ☕🐬"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tarakan": {
-      "names": { "ar": "تاراكان", "en": "Tarakan", "tr": "Tarakan" }
+      "names": { "ar": "تاراكان", "en": "Tarakan", "tr": "Tarakan" },
+      "famous_for": {
+        "ar": "جزيرة التراث النفطي والتاريخي وغابات المانغروف 🛢️🦀",
+        "en": "Island city with WWII history and lush mangrove reserves 🛢️🦀",
+        "tr": "Tarihi petrol adası ve koruma altındaki mangrov ormanları 🛢️🦀"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "labuan_bajo": {
-      "names": { "ar": "لابوان باجو", "en": "Labuan Bajo", "tr": "Labuan Bajo" }
+      "names": { "ar": "لابوان باجو", "en": "Labuan Bajo", "tr": "Labuan Bajo" },
+      "famous_for": {
+        "ar": "موطن تنانين كومودو والخلجان الجزرية الفردوسية 🦎🏝️",
+        "en": "Gateway to Komodo National Park and majestic dragon islands 🦎🏝️",
+        "tr": "Komodo ejderi milli parkı ve masalsı adalar 🦎🏝️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "ubud": {
-      "names": { "ar": "أوبود", "en": "Ubud", "tr": "Ubud" }
+      "names": { "ar": "أوبود", "en": "Ubud", "tr": "Ubud" },
+      "famous_for": {
+        "ar": "عاصمة بالي الثقافية ومصاطب الأرز وغابات القردة 🌾🧘",
+        "en": "Bali's cultural soul famed for rice terraces and yoga 🌾🧘",
+        "tr": "Pirinç terasları, yoga merkezleri ve Bali sanatları 🌾🧘"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "kuta": {
-      "names": { "ar": "كوتا", "en": "Kuta", "tr": "Kuta" }
+      "names": { "ar": "كوتا", "en": "Kuta", "tr": "Kuta" },
+      "famous_for": {
+        "ar": "شاطئ ركوب الأمواج الشهير والأنشطة الترفيهية الساحلية 🏄‍♂️🌅",
+        "en": "Iconic surf beach and energetic coastal entertainment 🏄‍♂️🌅",
+        "tr": "Dünyaca ünlü sörf sahili ve hareketli gece hayatı 🏄‍♂️🌅"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "seminyak": {
-      "names": { "ar": "سيمينياك", "en": "Seminyak", "tr": "Seminyak" }
+      "names": { "ar": "سيمينياك", "en": "Seminyak", "tr": "Seminyak" },
+      "famous_for": {
+        "ar": "المنتجعات الشاطئية الراقية والمطاعم الفاخرة 🍸🏖️",
+        "en": "Chic beach resort hub with luxury dining and beach clubs 🍸🏖️",
+        "tr": "Lüks sahil kulüpleri, butik otelleri ve şık restoranları 🍸🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "nusa_dua": {
-      "names": { "ar": "نوسا دوا", "en": "Nusa Dua", "tr": "Nusa Dua" }
+      "names": { "ar": "نوسا دوا", "en": "Nusa Dua", "tr": "Nusa Dua" },
+      "famous_for": {
+        "ar": "واحة الفنادق العالمية الفاخرة والشواطئ الهادئة 🏝️💎",
+        "en": "Exclusive beachfront enclave with world-class luxury resorts 🏝️💎",
+        "tr": "Seçkin beş yıldızlı tatil köyleri ve sakin denizi 🏝️💎"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "jimbaran": {
-      "names": { "ar": "جيمباران", "en": "Jimbaran", "tr": "Jimbaran" }
+      "names": { "ar": "جيمباران", "en": "Jimbaran", "tr": "Jimbaran" },
+      "famous_for": {
+        "ar": "عشاء المأكولات البحرية على الشاطئ مع مشهد الغروب الأسطوري 🦐🌅",
+        "en": "Famous for beachfront sunset seafood dining on the sand 🦐🌅",
+        "tr": "Kumsalda gün batımı eşliğinde taze deniz ürünleri ziyafeti 🦐🌅"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "ternate": {
-      "names": { "ar": "تيرنات", "en": "Ternate", "tr": "Ternate" }
+      "names": { "ar": "تيرنات", "en": "Ternate", "tr": "Ternate" },
+      "famous_for": {
+        "ar": "جزيرة القرنفل البركانية وسلاطين مالوكو التاريخيين 🌋🌿",
+        "en": "Historic clove island surrounding a volcanic peak 🌋🌿",
+        "tr": "Volkanik ada manzarası ve tarihi karanfil ticareti 🌋🌿"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "jayapura": {
-      "names": { "ar": "جايابورا", "en": "Jayapura", "tr": "Jayapura" }
+      "names": { "ar": "جايابورا", "en": "Jayapura", "tr": "Jayapura" },
+      "famous_for": {
+        "ar": "عاصمة بابوا المشرفة على بحيرة سينتاني والتلال الخضراء 🏞️🛶",
+        "en": "Capital of Papua overlooking picturesque Lake Sentani 🏞️🛶",
+        "tr": "Sentani Gölü ve büyüleyici Papua dağ manzaraları 🏞️🛶"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "manokwari": {
-      "names": { "ar": "مانوكواري", "en": "Manokwari", "tr": "Manokwari" }
+      "names": { "ar": "مانوكواري", "en": "Manokwari", "tr": "Manokwari" },
+      "famous_for": {
+        "ar": "مهد التاريخ في بابوا الغربية والشواطئ الطبيعية الهادئة 🏝️🕊️",
+        "en": "Historic cradle of West Papua with tranquil coastlines 🏝️🕊️",
+        "tr": "Batı Papua'nın tarihi merkezi ve el değmemiş kıyıları 🏝️🕊️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "merauke": {
-      "names": { "ar": "ميراوكي", "en": "Merauke", "tr": "Merauke" }
+      "names": { "ar": "ميراوكي", "en": "Merauke", "tr": "Merauke" },
+      "famous_for": {
+        "ar": "أقصى نقطة شرقية في إندونيسيا وحديقة واسور الوطنية 🦌🌾",
+        "en": "Easternmost city of Indonesia known for Wasur National Park 🦌🌾",
+        "tr": "Endonezya'nın en doğu ucu ve Wasur Doğal Parkı 🦌🌾"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "biak": {
-      "names": { "ar": "بياك", "en": "Biak", "tr": "Biak" }
+      "names": { "ar": "بياك", "en": "Biak", "tr": "Biak" },
+      "famous_for": {
+        "ar": "جزيرة الشعاب المرجانية في المحيط الهادئ والكهوف الأثرية 🪸🌊",
+        "en": "Pacific coral island renowned for WWII history and diving 🪸🌊",
+        "tr": "Pasifik mercan resifleri ve tarihi mağaraları 🪸🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tomohon": {
-      "names": { "ar": "توموهون", "en": "Tomohon", "tr": "Tomohon" }
+      "names": { "ar": "توموهون", "en": "Tomohon", "tr": "Tomohon" },
+      "famous_for": {
+        "ar": "مدينة الزهور الجبلية الواقعة بين البراكين النشطة 🌸🌋",
+        "en": "City of Flowers nestled between Lokon and Mahawu volcanoes 🌸🌋",
+        "tr": "Çiçek Şehri, yanardağ manzaraları ve serin iklimi 🌸🌋"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tanjung_pinang": {
-      "names": { "ar": "تانجونغ بينانغ", "en": "Tanjung Pinang", "tr": "Tanjung Pinang" }
+      "names": { "ar": "تانجونغ بينانغ", "en": "Tanjung Pinang", "tr": "Tanjung Pinang" },
+      "famous_for": {
+        "ar": "عاصمة جزر رياو ومهد الثقافة واللغة الملاوية التاريخية 🏛️🌴",
+        "en": "Capital of Riau Islands rich in classic Malay heritage 🏛️🌴",
+        "tr": "Riau Adaları başkenti ve kadim Malay kültürü 🏛️🌴"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pangkal_pinang": {
-      "names": { "ar": "بانغكال بينانغ", "en": "Pangkal Pinang", "tr": "Pangkal Pinang" }
+      "names": { "ar": "بانغكال بينانغ", "en": "Pangkal Pinang", "tr": "Pangkal Pinang" },
+      "famous_for": {
+        "ar": "عاصمة جزيرة بانغكا المشهورة بإنتاج القصدير والمأكولات البحرية 🦀🏖️",
+        "en": "Bangka Island capital famous for tin history and fresh seafood 🦀🏖️",
+        "tr": "Bangka Adası başkenti ve meşhur deniz ürünleri 🦀🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tanjung_pandan": {
-      "names": { "ar": "تانجونغ باندان", "en": "Tanjung Pandan", "tr": "Tanjung Pandan" }
+      "names": { "ar": "تانجونغ باندان", "en": "Tanjung Pandan", "tr": "Tanjung Pandan" },
+      "famous_for": {
+        "ar": "بوابة بيليتونغ لصخور الجرانيت العملاقة والمياه النقية 🪨🌊",
+        "en": "Belitung gateway famed for white sands and giant granite rocks 🪨🌊",
+        "tr": "Belitung'un beyaz kumsalları ve dev granit kayalıkları 🪨🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "blitar": {
-      "names": { "ar": "بليتار", "en": "Blitar", "tr": "Blitar" }
+      "names": { "ar": "بليتار", "en": "Blitar", "tr": "Blitar" },
+      "famous_for": {
+        "ar": "المدينة التاريخية ومثوى أول رئيس لإندونيسيا سوكارنو 🏛️🇮🇩",
+        "en": "Historic resting place of Indonesia's founding president Sukarno 🏛️🇮🇩",
+        "tr": "Endonezya'nın kurucu lideri Sukarno'nun anıt şehri 🏛️🇮🇩"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "madiun": {
-      "names": { "ar": "ماديون", "en": "Madiun", "tr": "Madiun" }
+      "names": { "ar": "ماديون", "en": "Madiun", "tr": "Madiun" },
+      "famous_for": {
+        "ar": "مدينة صناعة القطارات وموطن طبق بيكيل بالفول السوداني 🚂🥜",
+        "en": "Railway manufacturing city famous for authentic Nasi Pecel 🚂🥜",
+        "tr": "Demiryolu sanayisi ve fıstık soslu meşhur Pecel yemeği 🚂🥜"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "kediri": {
-      "names": { "ar": "كيديري", "en": "Kediri", "tr": "Kediri" }
+      "names": { "ar": "كيديري", "en": "Kediri", "tr": "Kediri" },
+      "famous_for": {
+        "ar": "مدينة التوفو الأصفر وموقع مملكة كيديري التاريخية 🟡🛕",
+        "en": "Ancient kingdom site renowned for signature Yellow Tofu 🟡🛕",
+        "tr": "Tarihi Kediri Krallığı ve meşhur sarı tofusu 🟡🛕"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pasuruan": {
-      "names": { "ar": "باسوروان", "en": "Pasuruan", "tr": "Pasuruan" }
+      "names": { "ar": "باسوروان", "en": "Pasuruan", "tr": "Pasuruan" },
+      "famous_for": {
+        "ar": "البوابة التاريخية لجبل برومو والمزارع الجبلية الخصبة 🌋🍃",
+        "en": "Historic gateway to Mount Bromo and lush agro-tourism 🌋🍃",
+        "tr": "Bromo Yanardağı'na açılan tarihi geçit ve yaylaları 🌋🍃"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "probolinggo": {
-      "names": { "ar": "بروبولينغو", "en": "Probolinggo", "tr": "Probolinggo" }
+      "names": { "ar": "بروبولينغو", "en": "Probolinggo", "tr": "Probolinggo" },
+      "famous_for": {
+        "ar": "نقطة الانطلاق لمشاهدة شروق الشمس على فوهة جبل برومو 🌄🌋",
+        "en": "Key staging point for breathtaking Mount Bromo sunrises 🌄🌋",
+        "tr": "Bromo Yanardağı gün doğumu turlarının ana merkezi 🌄🌋"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "mojokerto": {
-      "names": { "ar": "موجوكيرتو", "en": "Mojokerto", "tr": "Mojokerto" }
+      "names": { "ar": "موجوكيرتو", "en": "Mojokerto", "tr": "Mojokerto" },
+      "famous_for": {
+        "ar": "قلب إمبراطورية ماجاباهيت القديمة والآثار الأثرية العريقة 🏺👑",
+        "en": "Ancient heartland of the legendary Majapahit Empire 🏺👑",
+        "tr": "Kadim Majapahit İmparatorluğu'nun tarihi başkenti 🏺👑"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "batu": {
-      "names": { "ar": "باتو", "en": "Batu", "tr": "Batu" }
+      "names": { "ar": "باتو", "en": "Batu", "tr": "Batu" },
+      "famous_for": {
+        "ar": "مدينة الترفيه الجبلية بحدائق الألعاب وبساتين التفاح 🎡🍏",
+        "en": "Cool highland destination famous for theme parks & apples 🎡🍏",
+        "tr": "Eğlence parkları, serin dağ havası ve elma bahçeleri 🎡🍏"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tasikmalaya": {
-      "names": { "ar": "تاسيكماﻻيا", "en": "Tasikmalaya", "tr": "Tasikmalaya" }
+      "names": { "ar": "تاسيكماﻻيا", "en": "Tasikmalaya", "tr": "Tasikmalaya" },
+      "famous_for": {
+        "ar": "عاصمة المشغولات اليدوية وحرف الخيزران والمظلات الورقية ☂️🎋",
+        "en": "City of exquisite handicrafts, woven bamboo, and umbrellas ☂️🎋",
+        "tr": "Geleneksel bambu el sanatları ve renkli şemsiyeleri ☂️🎋"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "cimahi": {
-      "names": { "ar": "سيماهي", "en": "Cimahi", "tr": "Cimahi" }
+      "names": { "ar": "سيماهي", "en": "Cimahi", "tr": "Cimahi" },
+      "famous_for": {
+        "ar": "المدينة العسكرية التاريخية ومراكز الفنون والإبداع 🎨🎖️",
+        "en": "Historic green city known for military heritage and arts 🎨🎖️",
+        "tr": "Tarihi askeri yapıları ve gelişen sanat merkezleri 🎨🎖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "banjar": {
-      "names": { "ar": "بانجار", "en": "Banjar", "tr": "Banjar" }
+      "names": { "ar": "بانجار", "en": "Banjar", "tr": "Banjar" },
+      "famous_for": {
+        "ar": "ملتقى الطرق الحيوي بين غرب جاوة ووسطها والريف الهادئ 🛤️🌿",
+        "en": "Tranquil crossroads town linking West and Central Java 🛤️🌿",
+        "tr": "Batı ve Orta Cava arasındaki huzurlu kavşak kenti 🛤️🌿"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pekalongan": {
-      "names": { "ar": "بيكالونغان", "en": "Pekalongan", "tr": "Pekalongan" }
+      "names": { "ar": "بيكالونغان", "en": "Pekalongan", "tr": "Pekalongan" },
+      "famous_for": {
+        "ar": "مدينة الباتيك العالمية المصنفة لدى منظمة اليونسكو 👘🎨",
+        "en": "UNESCO Creative City and world-renowned capital of Batik 👘🎨",
+        "tr": "UNESCO tescilli dünyaca ünlü Batik kumaş başkenti 👘🎨"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tegal": {
-      "names": { "ar": "تيغال", "en": "Tegal", "tr": "Tegal" }
+      "names": { "ar": "تيغال", "en": "Tegal", "tr": "Tegal" },
+      "famous_for": {
+        "ar": "شاي الأواني الفخارية التقليدي ومطاعم وارتيغ الشهيرة 🫖🍵",
+        "en": "Famous for aromatic claypot Poci tea and iconic Warteg diners 🫖🍵",
+        "tr": "Toprak demlik çayı ve Endonezya'nın meşhur Warteg mutfağı 🫖🍵"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "salatiga": {
-      "names": { "ar": "سالاتيغا", "en": "Salatiga", "tr": "Salatiga" }
+      "names": { "ar": "سالاتيغا", "en": "Salatiga", "tr": "Salatiga" },
+      "famous_for": {
+        "ar": "إحدى أقدم المدن الجبلية الهادئة بجوها النقي وهوائها المنعش 🏔️☕",
+        "en": "Historic highland city with cool weather and mountain vistas 🏔️☕",
+        "tr": "Merbabu Dağı eteğinde huzuruyla ünlü tarihi yayla kenti 🏔️☕"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "magelang": {
-      "names": { "ar": "ماغيلانغ", "en": "Magelang", "tr": "Magelang" }
+      "names": { "ar": "ماغيلانغ", "en": "Magelang", "tr": "Magelang" },
+      "famous_for": {
+        "ar": "موطن أكبر معبد بوذي في العالم، معبد بوروبودور العظيم 🛕🌄",
+        "en": "Home to majestic Borobudur, the world's largest Buddhist temple 🛕🌄",
+        "tr": "Dünyanın en büyük Budist tapınağı Borobudur'un evi 🛕🌄"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "singkawang": {
-      "names": { "ar": "سينغكوانغ", "en": "Singkawang", "tr": "Singkawang" }
+      "names": { "ar": "سينغكوانغ", "en": "Singkawang", "tr": "Singkawang" },
+      "famous_for": {
+        "ar": "مدينة الألف معبد واحتفالات تشاب غو ميه الاستعراضية 🏮🐉",
+        "en": "City of a Thousand Temples famous for Cap Go Meh festivals 🏮🐉",
+        "tr": "Bin Tapınak Şehri ve muhteşem Cap Go Meh festivalleri 🏮🐉"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "bontang": {
-      "names": { "ar": "بونتانغ", "en": "Bontang", "tr": "Bontang" }
+      "names": { "ar": "بونتانغ", "en": "Bontang", "tr": "Bontang" },
+      "famous_for": {
+        "ar": "مدينة الغاز الطبيعي الساحلية والقرى المائية العائمة 🏭🌊",
+        "en": "Coastal energy center known for floating water settlements 🏭🌊",
+        "tr": "Modern enerji kenti ve deniz üstü ahşap köyleri 🏭🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "banjarbaru": {
-      "names": { "ar": "بانجاربارو", "en": "Banjarbaru", "tr": "Banjarbaru" }
+      "names": { "ar": "بانجاربارو", "en": "Banjarbaru", "tr": "Banjarbaru" },
+      "famous_for": {
+        "ar": "عاصمة كاليمانتان الجنوبية وتجارة وصقل الألماس 💎🌳",
+        "en": "Provincial capital known for traditional diamond mining 💎🌳",
+        "tr": "Güney Kalimantan'ın başkenti ve elmas madenciliği 💎🌳"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "palangkaraya": {
-      "names": { "ar": "بالانغكارايا", "en": "Palangkaraya", "tr": "Palangkaraya" }
+      "names": { "ar": "بالانغكارايا", "en": "Palangkaraya", "tr": "Palangkaraya" },
+      "famous_for": {
+        "ar": "قلب الغابات الاستوائية ومحميات قردة إنسان الغاب 🦧🌲",
+        "en": "Gateway to lush peat forests and Orangutan sanctuaries 🦧🌲",
+        "tr": "Yağmur ormanları ve koruma altındaki Orangutan barınakları 🦧🌲"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "binjai": {
-      "names": { "ar": "بينجاي", "en": "Binjai", "tr": "Binjai" }
+      "names": { "ar": "بينجاي", "en": "Binjai", "tr": "Binjai" },
+      "famous_for": {
+        "ar": "مدينة فاكهة الرامبوتان الشهيرة بحلاوتها المميزة 🍈🌳",
+        "en": "Celebrated nationwide for its exceptionally sweet Rambutan 🍈🌳",
+        "tr": "Enfes tatlı Rambutan meyvesiyle ünlü bahçe şehri 🍈🌳"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tebing_tinggi": {
-      "names": { "ar": "تيبينغ تينغي", "en": "Tebing Tinggi", "tr": "Tebing Tinggi" }
+      "names": { "ar": "تيبينغ تينغي", "en": "Tebing Tinggi", "tr": "Tebing Tinggi" },
+      "famous_for": {
+        "ar": "مدينة حلوى الليمونغ التقليدية في قصب الخيزران 🌾🥥",
+        "en": "North Sumatra hub famous for traditional bamboo Lemang 🌾🥥",
+        "tr": "Bambuda pişen geleneksel Lemang pirinç lezzeti 🌾🥥"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pematangsiantar": {
-      "names": { "ar": "بيماتانغ سيانتار", "en": "Pematangsiantar", "tr": "Pematangsiantar" }
+      "names": { "ar": "بيماتانغ سيانتار", "en": "Pematangsiantar", "tr": "Pematangsiantar" },
+      "famous_for": {
+        "ar": "بوابة بحيرة توبا وثقافة دراجات بي إس إيه الكلاسيكية 🏍️☕",
+        "en": "Gateway to Lake Toba famous for vintage BSA motorcycles 🏍️☕",
+        "tr": "Toba Gölü geçidi ve klasik BSA motosiklet kültürü 🏍️☕"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tanjungbalai": {
-      "names": { "ar": "تانجونغ بالاي", "en": "Tanjungbalai", "tr": "Tanjungbalai" }
+      "names": { "ar": "تانجونغ بالاي", "en": "Tanjungbalai", "tr": "Tanjungbalai" },
+      "famous_for": {
+        "ar": "المدينة الساحلية التاريخية على نهر أسان ومأكولاتها البحرية 🦪⛵",
+        "en": "Historic port town known for fresh seafood and estuary trade 🦪⛵",
+        "tr": "Asahan Nehri ağzında tarihi balıkçı ve istiridye limanı 🦪⛵"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sibolga": {
-      "names": { "ar": "سيبولغا", "en": "Sibolga", "tr": "Sibolga" }
+      "names": { "ar": "سيبولغا", "en": "Sibolga", "tr": "Sibolga" },
+      "famous_for": {
+        "ar": "ميناء خليج تابيانولي البحري وبوابة جزيرة نياس ⛵🏖️",
+        "en": "Scenic harbor city and departure port for Nias Island ⛵🏖️",
+        "tr": "Nias Adası'na açılan pitoresk Tapanuli Körfezi limanı ⛵🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "padangsidimpuan": {
-      "names": { "ar": "بادانغ سيديمبوان", "en": "Padangsidimpuan", "tr": "Padangsidimpuan" }
+      "names": { "ar": "بادانغ سيديمبوان", "en": "Padangsidimpuan", "tr": "Padangsidimpuan" },
+      "famous_for": {
+        "ar": "مدينة فاكهة السالاك اللذيذة ومزارع التلال الخضراء 🌴⛰️",
+        "en": "Known as the Salak City for its sweet snake fruit orchards 🌴⛰️",
+        "tr": "Meşhur Salak (yılan meyvesi) bahçeleri ve yayla tepeleri 🌴⛰️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "gunungsitoli": {
-      "names": { "ar": "غونونغ سيتولي", "en": "Gunungsitoli", "tr": "Gunungsitoli" }
+      "names": { "ar": "غونونغ سيتولي", "en": "Gunungsitoli", "tr": "Gunungsitoli" },
+      "famous_for": {
+        "ar": "حاضرة جزيرة نياس وثقافتها الحجرية ومنازلها التراثية 🛖🌊",
+        "en": "Chief town of Nias Island celebrated for megalithic traditions 🛖🌊",
+        "tr": "Nias Adası'nın kadim megalit kültürü ve geleneksel evleri 🛖🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "payakumbuh": {
-      "names": { "ar": "باياكومبوه", "en": "Payakumbuh", "tr": "Payakumbuh" }
+      "names": { "ar": "باياكومبوه", "en": "Payakumbuh", "tr": "Payakumbuh" },
+      "famous_for": {
+        "ar": "وادي هاراو الخلاب بجدرانه الصخرية الشاهقة وشلالاته 🧗‍♂️🏞️",
+        "en": "Gateway to stunning Harau Valley's sheer cliffs & canyons 🧗‍♂️🏞️",
+        "tr": "Harau Vadisi'nin görkemli granit uçurumları ve kanyonları 🧗‍♂️🏞️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "bukittinggi": {
-      "names": { "ar": "بوكيت تينغي", "en": "Bukittinggi", "tr": "Bukittinggi" }
+      "names": { "ar": "بوكيت تينغي", "en": "Bukittinggi", "tr": "Bukittinggi" },
+      "famous_for": {
+        "ar": "برج الساعة جام غادانغ وأخدود سيانوك الجبلي الأخاذ 🕰️🏞️",
+        "en": "Highland jewel with Jam Gadang clock tower and Sianok Canyon 🕰️🏞️",
+        "tr": "Tarihi Jam Gadang saat kulesi ve dev Sianok Kanyonu 🕰️🏞️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": false
     },
     "pariaman": {
-      "names": { "ar": "باريامان", "en": "Pariaman", "tr": "Pariaman" }
+      "names": { "ar": "باريامان", "en": "Pariaman", "tr": "Pariaman" },
+      "famous_for": {
+        "ar": "الشواطئ الرملية ومهرجان تابويك الثقافي الساحلي السنوي 🥁🏖️",
+        "en": "Coastal cultural town famous for the traditional Tabuik festival 🥁🏖️",
+        "tr": "Geleneksel Tabuik festivali ve altın kumsalları 🥁🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "solok": {
-      "names": { "ar": "سولوك", "en": "Solok", "tr": "Solok" }
+      "names": { "ar": "سولوك", "en": "Solok", "tr": "Solok" },
+      "famous_for": {
+        "ar": "أرز سينوك الفاخر والبحيرات الجبلية الساحرة 🌾🏔️",
+        "en": "Famous for top-grade Solok rice and scenic volcanic lakes 🌾🏔️",
+        "tr": "Meşhur Solok pirinci ve dağ eteklerindeki gölleri 🌾🏔️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sawahlunto": {
-      "names": { "ar": "ساواهلونتو", "en": "Sawahlunto", "tr": "Sawahlunto" }
+      "names": { "ar": "ساواهلونتو", "en": "Sawahlunto", "tr": "Sawahlunto" },
+      "famous_for": {
+        "ar": "مدينة مناجم الفحم التراثية المسجلة في قائمة اليونسكو 🚂⛏️",
+        "en": "UNESCO-listed historic coal mining town with vintage trains 🚂⛏️",
+        "tr": "UNESCO tescilli tarihi kömür madeni mirası ve trenleri 🚂⛏️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "padang_panjang": {
-      "names": { "ar": "بادانغ بانجانغ", "en": "Padang Panjang", "tr": "Padang Panjang" }
+      "names": { "ar": "بادانغ بانجانغ", "en": "Padang Panjang", "tr": "Padang Panjang" },
+      "famous_for": {
+        "ar": "المدينة الجبلية الباردة ومركز ثقافة وفنون المينانغكاباو 🍃🏔️",
+        "en": "Cool highland hub for Minangkabau literature and arts 🍃🏔️",
+        "tr": "Serin yayla iklimi ve Minangkabau sanat geleneği 🍃🏔️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "dumai": {
-      "names": { "ar": "دوماي", "en": "Dumai", "tr": "Dumai" }
+      "names": { "ar": "دوماي", "en": "Dumai", "tr": "Dumai" },
+      "famous_for": {
+        "ar": "الميناء النفطي والصناعي الهام على مضيق ملقا 🛢️🚢",
+        "en": "Vital port city and petroleum refinery hub on Malacca Strait 🛢️🚢",
+        "tr": "Malakka Boğazı kıyısındaki stratejik petrol limanı 🛢️🚢"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "lubuklinggau": {
-      "names": { "ar": "لوبوك لينغاو", "en": "Lubuklinggau", "tr": "Lubuklinggau" }
+      "names": { "ar": "لوبوك لينغاو", "en": "Lubuklinggau", "tr": "Lubuklinggau" },
+      "famous_for": {
+        "ar": "شلال تيمام الطبيعي البديع وإطلالات تلة بوكيت سولاب 🌊⛰️",
+        "en": "Renowned for scenic Temam Waterfall and Bukit Sulap hill 🌊⛰️",
+        "tr": "Temam Şelalesi ve yemyeşil Bukit Sulap tepesi 🌊⛰️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pagar_alam": {
-      "names": { "ar": "باغار ألام", "en": "Pagar Alam", "tr": "Pagar Alam" }
+      "names": { "ar": "باغار ألام", "en": "Pagar Alam", "tr": "Pagar Alam" },
+      "famous_for": {
+        "ar": "سفوح جبل ديمبو الشاهق ومزارع الشاي والآثار الصخرية 🍵🗿",
+        "en": "Mount Dempo highland famous for tea gardens and ancient megaliths 🍵🗿",
+        "tr": "Dempo Yanardağı eteklerindeki çay bahçeleri ve antik megalitler 🍵🗿"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "prabumulih": {
-      "names": { "ar": "برابوموليه", "en": "Prabumulih", "tr": "Prabumulih" }
+      "names": { "ar": "برابوموليه", "en": "Prabumulih", "tr": "Prabumulih" },
+      "famous_for": {
+        "ar": "مدينة الأناناس الحلو وحقول الطاقة في سومطرة الجنوبية 🍍🛢️",
+        "en": "Famed for its exceptionally sweet pineapples and energy fields 🍍🛢️",
+        "tr": "Tatlı ananasları ve Güney Sumatra petrol sanayisi 🍍🛢️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tanjung_balai_karimun": {
-      "names": { "ar": "تانجونغ بالاي كاريمون", "en": "Tanjung Balai Karimun", "tr": "Tanjung Balai Karimun" }
+      "names": { "ar": "تانجونغ بالاي كاريمون", "en": "Tanjung Balai Karimun", "tr": "Tanjung Balai Karimun" },
+      "famous_for": {
+        "ar": "الجزيرة الساحلية الاستراتيجية وشواطئها الهادئة 🏖️🚢",
+        "en": "Strategic island port with coastal views and relaxed beaches 🏖️🚢",
+        "tr": "Stratejik ada limanı ve sakin kumsal manzaraları 🏖️🚢"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "garut": {
-      "names": { "ar": "غاروت", "en": "Garut", "tr": "Garut" }
+      "names": { "ar": "غاروت", "en": "Garut", "tr": "Garut" },
+      "famous_for": {
+        "ar": "سويسرا جاوة الشهيرة بحلوى الدودول والينابيع الكبريتية 🍬♨️",
+        "en": "Swiss of Java known for traditional Dodol candy and hot springs 🍬♨️",
+        "tr": "Leziz Dodol tatlısı, termal kaplıcaları ve dağ manzaraları 🍬♨️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "cianjur": {
-      "names": { "ar": "سيانجور", "en": "Cianjur", "tr": "Cianjur" }
+      "names": { "ar": "سيانجور", "en": "Cianjur", "tr": "Cianjur" },
+      "famous_for": {
+        "ar": "أرض أرز باندانوانغي العطري وقصر سيباناس الرئاسي 🌾🏛️",
+        "en": "Renowned for fragrant Pandanwangi rice and Cipanas Palace 🌾🏛️",
+        "tr": "Kokulu Pandanwangi pirinci ve tarihi Cipanas Sarayı 🌾🏛️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "purwakarta": {
-      "names": { "ar": "بورواكارتا", "en": "Purwakarta", "tr": "Purwakarta" }
+      "names": { "ar": "بورواكارتا", "en": "Purwakarta", "tr": "Purwakarta" },
+      "famous_for": {
+        "ar": "مشويات ساتيه مارانغي الشهيرة ونافورة سري باديغا 🍢⛲",
+        "en": "Famed for savory Sate Maranggi and Sri Baduga fountain park 🍢⛲",
+        "tr": "Enfes Sate Maranggi şişleri ve ışıklı fıskiye parkı 🍢⛲"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "subang": {
-      "names": { "ar": "سوبانغ", "en": "Subang", "tr": "Subang" }
+      "names": { "ar": "سوبانغ", "en": "Subang", "tr": "Subang" },
+      "famous_for": {
+        "ar": "فوهة بركان تانغكوبان براهو والأناناس العسلي الحلو 🍍🌋",
+        "en": "Tangkuban Perahu crater vistas and delicious honey pineapples 🍍🌋",
+        "tr": "Tangkuban Perahu yanardağ krateri ve tatlı bal ananası 🍍🌋"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "karawang": {
-      "names": { "ar": "كاراوانغ", "en": "Karawang", "tr": "Karawang" }
+      "names": { "ar": "كاراوانغ", "en": "Karawang", "tr": "Karawang" },
+      "famous_for": {
+        "ar": "سلة أرز إندونيسيا التاريخية والمنطقة الصناعية الكبرى 🌾🏭",
+        "en": "Historic national rice bowl and modern manufacturing hub 🌾🏭",
+        "tr": "Ülkenin tarihi pirinç ambarı ve dev otomotiv sanayisi 🌾🏭"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "indramayu": {
-      "names": { "ar": "إندرامايو", "en": "Indramayu", "tr": "Indramayu" }
+      "names": { "ar": "إندرامايو", "en": "Indramayu", "tr": "Indramayu" },
+      "famous_for": {
+        "ar": "مدينة المانجو الشهيرة بمحاصيلها اللذيذة ومصايد الأسماك 🥭🐟",
+        "en": "The Mango City celebrated for sweet varieties and fishing ports 🥭🐟",
+        "tr": "Tatlı mangoları ve zengin sahil balıkçılığı 🥭🐟"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "majalengka": {
-      "names": { "ar": "ماجالينغكا", "en": "Majalengka", "tr": "Majalengka" }
+      "names": { "ar": "ماجالينغكا", "en": "Majalengka", "tr": "Majalengka" },
+      "famous_for": {
+        "ar": "مصاطب أرجابورا الزراعية الخضراء ومطار كيرتاجاتي 🌾✈️",
+        "en": "Wind City famous for scenic Argapura stepped terraces 🌾✈️",
+        "tr": "Argapura basamaklı terasları ve Kertajati Havalimanı 🌾✈️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "kuningan": {
-      "names": { "ar": "كونينغان", "en": "Kuningan", "tr": "Kuningan" }
+      "names": { "ar": "كونينغان", "en": "Kuningan", "tr": "Kuningan" },
+      "famous_for": {
+        "ar": "سفوح جبل سيرماي وينابيع المياه العذبة وموقع لينغارجاتي ⛰️💧",
+        "en": "Foot of Mount Ciremai known for springs and historic treaty site ⛰️💧",
+        "tr": "Ciremai Dağı eteklerindeki tatlı su kaynakları ve tarihi miras ⛰️💧"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sumedang": {
-      "names": { "ar": "سوميدانغ", "en": "Sumedang", "tr": "Sumedang" }
+      "names": { "ar": "سوميدانغ", "en": "Sumedang", "tr": "Sumedang" },
+      "famous_for": {
+        "ar": "عاصمة التوفو المقرمش الأشهر على مستوى إندونيسيا 🥢🥘",
+        "en": "Indonesia's tofu capital famed for its savory Tahu Sumedang 🥢🥘",
+        "tr": "Endonezya'nın meşhur çıtır kızarmış tofusu Tahu Sumedang 🥢🥘"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "ciamis": {
-      "names": { "ar": "سياميس", "en": "Ciamis", "tr": "Ciamis" }
+      "names": { "ar": "سياميس", "en": "Ciamis", "tr": "Ciamis" },
+      "famous_for": {
+        "ar": "تاريخ مملكة غالوه القديمة والوديان الريفية الهادئة 🌿🏛️",
+        "en": "Historic seat of Galuh Kingdom surrounded by green nature 🌿🏛️",
+        "tr": "Kadim Galuh Krallığı mirası ve huzurlu doğal kanyonları 🌿🏛️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "cilacap": {
-      "names": { "ar": "سيلاكاب", "en": "Cilacap", "tr": "Cilacap" }
+      "names": { "ar": "سيلاكاب", "en": "Cilacap", "tr": "Cilacap" },
+      "famous_for": {
+        "ar": "الميناء الجنوبي وشواطئ تيلوك بينيو وحصن بينديم العريق 🏰🌊",
+        "en": "Major southern seaport, Teluk Penyu beach, and Fort Pendem 🏰🌊",
+        "tr": "Güney sahilinin en büyük limanı ve tarihi Pendem Kalesi 🏰🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "banyumas": {
-      "names": { "ar": "بانيوماس", "en": "Banyumas", "tr": "Banyumas" }
+      "names": { "ar": "بانيوماس", "en": "Banyumas", "tr": "Banyumas" },
+      "famous_for": {
+        "ar": "منتجع باتورادين الجبلي وشلالاته وينابيعه المنعشة ⛰️♨️",
+        "en": "Famous for Baturraden mountain retreat and lush waterfalls ⛰️♨️",
+        "tr": "Baturraden dağ kaplıcaları ve dinlendirici şelaleleri ⛰️♨️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "purbalingga": {
-      "names": { "ar": "بوربالينغغا", "en": "Purbalingga", "tr": "Purbalingga" }
+      "names": { "ar": "بوربالينغغا", "en": "Purbalingga", "tr": "Purbalingga" },
+      "famous_for": {
+        "ar": "صناعة الرموش والحرف ومغارة لاوا الطبيعية العجيبة 👁️🦇",
+        "en": "Global handicraft center and scenic Gua Lawa volcanic cave 👁️🦇",
+        "tr": "Dünyaca ünlü kirpik üretimi ve Lawa Mağarası 👁️🦇"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "banjarnegara": {
-      "names": { "ar": "بانجارنيغارا", "en": "Banjarnegara", "tr": "Banjarnegara" }
+      "names": { "ar": "بانجارنيغارا", "en": "Banjarnegara", "tr": "Banjarnegara" },
+      "famous_for": {
+        "ar": "هضبة دينغ البركانية بمعابدها وبحيراتها الملونة 🛕❄️",
+        "en": "Dieng Plateau gateway with colored volcanic lakes & temples 🛕❄️",
+        "tr": "Dieng Yaylası krater gölleri ve antik tapınakları 🛕❄️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "kebumen": {
-      "names": { "ar": "كيبومين", "en": "Kebumen", "tr": "Kebumen" }
+      "names": { "ar": "كيبومين", "en": "Kebumen", "tr": "Kebumen" },
+      "famous_for": {
+        "ar": "كهف جاتيجاجار الكلسي العجيب والشواطئ الصخرية الجنوبية 🦇🌊",
+        "en": "Famed for Jatijajar cave formations and rugged coastlines 🦇🌊",
+        "tr": "Jatijajar Mağarası ve kayalık güney sahilleri 🦇🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "purworejo": {
-      "names": { "ar": "بوروريجو", "en": "Purworejo", "tr": "Purworejo" }
+      "names": { "ar": "بوروريجو", "en": "Purworejo", "tr": "Purworejo" },
+      "famous_for": {
+        "ar": "شاطئ جاتيمالانغ الواسع وحلوى الكلوروت التراثية 🏖️🍯",
+        "en": "Known for Jatimalang beach and traditional sweet Clorot treats 🏖️🍯",
+        "tr": "Jatimalang sahili ve geleneksel Clorot tatlısı 🏖️🍯"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "wonosobo": {
-      "names": { "ar": "وونوسوبو", "en": "Wonosobo", "tr": "Wonosobo" }
+      "names": { "ar": "وونوسوبو", "en": "Wonosobo", "tr": "Wonosobo" },
+      "famous_for": {
+        "ar": "شروق الشمس الذهبي في سيكونير ومزارع شاي تامبي 🌄🍵",
+        "en": "Base for Golden Sunrise at Sikunir and Tambi tea estates 🌄🍵",
+        "tr": "Sikunir tepesinde altın gün doğumu ve Tambi çay yamaçları 🌄🍵"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "boyolali": {
-      "names": { "ar": "بويولالي", "en": "Boyolali", "tr": "Boyolali" }
+      "names": { "ar": "بويولالي", "en": "Boyolali", "tr": "Boyolali" },
+      "famous_for": {
+        "ar": "مدينة الحليب الطازج بين قمتي ميرابي وميربابو 🥛🌋",
+        "en": "Indonesia's Dairy City located between Merapi and Merbabu 🥛🌋",
+        "tr": "Taze süt üretimi ve heybetli yanardağ manzaraları 🥛🌋"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "klaten": {
-      "names": { "ar": "كلاتن", "en": "Klaten", "tr": "Klaten" }
+      "names": { "ar": "كلاتن", "en": "Klaten", "tr": "Klaten" },
+      "famous_for": {
+        "ar": "ينابيع أومبول بونغوك العذبة للتصوير والسباحة تحت الماء 🤿🐟",
+        "en": "Crystal-clear springs like Umbul Ponggok underwater photo park 🤿🐟",
+        "tr": "Kristal berraklığındaki Umbul Ponggok su altı kaynakları 🤿🐟"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sukoharjo": {
-      "names": { "ar": "سوكوهارجو", "en": "Sukoharjo", "tr": "Sukoharjo" }
+      "names": { "ar": "سوكوهارجو", "en": "Sukoharjo", "tr": "Sukoharjo" },
+      "famous_for": {
+        "ar": "عاصمة طب الأعشاب التقليدي جامو وحرف آلات الغاميلان 🌿🎶",
+        "en": "Center of Jamu herbal wellness and traditional Gamelan crafts 🌿🎶",
+        "tr": "Geleneksel Jamu şifalı bitkileri ve Gamelan enstrüman yapımı 🌿🎶"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "wonogiri": {
-      "names": { "ar": "وونوغيري", "en": "Wonogiri", "tr": "Wonogiri" }
+      "names": { "ar": "وونوغيري", "en": "Wonogiri", "tr": "Wonogiri" },
+      "famous_for": {
+        "ar": "بحيرة سد غاجاه مونكور الضخمة وكرات لحم باكسو اللذيذة 🍲🌊",
+        "en": "Known for Gajah Mungkur reservoir and savory Bakso meatballs 🍲🌊",
+        "tr": "Gajah Mungkur baraj gölü ve meşhur Bakso köftesi 🍲🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "karanganyar": {
-      "names": { "ar": "كارانغانيار", "en": "Karanganyar", "tr": "Karanganyar" }
+      "names": { "ar": "كارانغانيار", "en": "Karanganyar", "tr": "Karanganyar" },
+      "famous_for": {
+        "ar": "معبد تشيتو السحابي الغامض ومزارع الشاي الجبلية 🛕☁️",
+        "en": "Misty Cetho mountain temple set above sprawling tea hills 🛕☁️",
+        "tr": "Bulutların üzerindeki gizemli Cetho Tapınağı ve çay vadileri 🛕☁️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "sragen": {
-      "names": { "ar": "سراغين", "en": "Sragen", "tr": "Sragen" }
+      "names": { "ar": "سراغين", "en": "Sragen", "tr": "Sragen" },
+      "famous_for": {
+        "ar": "موقع سانغيران الأثري المصنف باليونسكو لمستحثات الإنسان القديم 🦴🏛️",
+        "en": "UNESCO Sangiran site famous for early human fossil discoveries 🦴🏛️",
+        "tr": "UNESCO tescilli Sangiran erken insan fosil arkeoparkı 🦴🏛️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "grobogan": {
-      "names": { "ar": "غروبوغان", "en": "Grobogan", "tr": "Grobogan" }
+      "names": { "ar": "غروبوغان", "en": "Grobogan", "tr": "Grobogan" },
+      "famous_for": {
+        "ar": "ظاهرة بركان الطين الطبيعي بليودوك كوفو وسهول الزراعة 🌋🌽",
+        "en": "Famous for Bledug Kuwu mud volcano and rich fertile plains 🌋🌽",
+        "tr": "Bledug Kuwu çamur volkanı doğa olayı ve tarım ovaları 🌋🌽"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "blora": {
-      "names": { "ar": "بلورا", "en": "Blora", "tr": "Blora" }
+      "names": { "ar": "بلورا", "en": "Blora", "tr": "Blora" },
+      "famous_for": {
+        "ar": "غابات خشب الساج العريقة ومذاق أسياخ ساتيه بلورا الفريد 🌲🍢",
+        "en": "Heartland of premium teak forests and savory Sate Blora 🌲🍢",
+        "tr": "Tarihi tik ağacı ormanları ve leziz Sate Blora şişleri 🌲🍢"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "rembang": {
-      "names": { "ar": "ريمبانغ", "en": "Rembang", "tr": "Rembang" }
+      "names": { "ar": "ريمبانغ", "en": "Rembang", "tr": "Rembang" },
+      "famous_for": {
+        "ar": "مدينة رائدة التنوير كارتيني والشواطئ الرملية البيضاء 🕊️🏖️",
+        "en": "Resting place of pioneer Kartini and coastal white sand beaches 🕊️🏖️",
+        "tr": "Kadın hakları öncüsü Kartini'nin mirası ve beyaz sahilleri 🕊️🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pati": {
-      "names": { "ar": "باتي", "en": "Pati", "tr": "Pati" }
+      "names": { "ar": "باتي", "en": "Pati", "tr": "Pati" },
+      "famous_for": {
+        "ar": "عاصمة دقيق الكاسافا وطبق ناسي غاندول التراثي الشهي 🍲🌾",
+        "en": "Tapioca capital celebrated for signature Nasi Gandul cuisine 🍲🌾",
+        "tr": "Tapyoka üretimi ve meşhur Nasi Gandul etli pilav yemeği 🍲🌾"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "kudus": {
-      "names": { "ar": "كودوس", "en": "Kudus", "tr": "Kudus" }
+      "names": { "ar": "كودوس", "en": "Kudus", "tr": "Kudus" },
+      "famous_for": {
+        "ar": "مئذنة مسجد قدوس التاريخية وصناعة سجائر القرنفل العطرية 🕌🏛️",
+        "en": "Historic Menara Kudus Mosque and heritage kretek tobacco hub 🕌🏛️",
+        "tr": "Tarihi Menara Kudus Camii ve karanfilli tütün sanayisi 🕌🏛️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "jepara": {
-      "names": { "ar": "جيبارا", "en": "Jepara", "tr": "Jepara" }
+      "names": { "ar": "جيبارا", "en": "Jepara", "tr": "Jepara" },
+      "famous_for": {
+        "ar": "عاصمة حفر الخشب العالمية وبوابة أرخبيل كاريمون جاوة 🪵🏝️",
+        "en": "World capital of teak carving and Karimunjawa islands gateway 🪵🏝️",
+        "tr": "Dünyaca ünlü ahşap oymacılığı ve Karimunjawa Adaları 🪵🏝️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "demak": {
-      "names": { "ar": "ديماك", "en": "Demak", "tr": "Demak" }
+      "names": { "ar": "ديماك", "en": "Demak", "tr": "Demak" },
+      "famous_for": {
+        "ar": "أول سلطنة إسلامية في جاوة ومسجد ديماك الكبير العريق 🕌👑",
+        "en": "First Islamic sultanate in Java with its historic Great Mosque 🕌👑",
+        "tr": "Cava'nın ilk İslam sultanlığı ve tarihi Demak Ulu Camii 🕌👑"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "temanggung": {
-      "names": { "ar": "تيمانغونغ", "en": "Temanggung", "tr": "Temanggung" }
+      "names": { "ar": "تيمانغونغ", "en": "Temanggung", "tr": "Temanggung" },
+      "famous_for": {
+        "ar": "وادي جبلي بين سيندورو وسومبينغ ومزارع البن والتبغ 🏔️☕",
+        "en": "Highland between Sindoro & Sumbing famed for coffee & tobacco 🏔️☕",
+        "tr": "Sindoro ve Sumbing dağları eteğinde meşhur kahve ve tütün 🏔️☕"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "kendal": {
-      "names": { "ar": "كيندال", "en": "Kendal", "tr": "Kendal" }
+      "names": { "ar": "كيندال", "en": "Kendal", "tr": "Kendal" },
+      "famous_for": {
+        "ar": "شلال كوروغ سيو المتدرج الساحر وبساتين الفواكه الساحلية 🌊🍎",
+        "en": "Famous for tiered Curug Sewu waterfalls and coastal agro-parks 🌊🍎",
+        "tr": "Görkemli Curug Sewu şelaleleri ve kıyı meyve bahçeleri 🌊🍎"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "batang": {
-      "names": { "ar": "باتانغ", "en": "Batang", "tr": "Batang" }
+      "names": { "ar": "باتانغ", "en": "Batang", "tr": "Batang" },
+      "famous_for": {
+        "ar": "مزارع شاي باغيلاران الجبلية وشواطئ سيغاندو البحرية 🍵🏖️",
+        "en": "Pagilaran mountain tea plantation and scenic Sigandu coast 🍵🏖️",
+        "tr": "Pagilaran yayla çay tarlaları ve Sigandu sahili 🍵🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pekalongan_regency": {
-      "names": { "ar": "مقاطعة بيكالونغان", "en": "Pekalongan Regency", "tr": "Pekalongan Regency" }
+      "names": { "ar": "مقاطعة بيكالونغان", "en": "Pekalongan Regency", "tr": "Pekalongan Regency" },
+      "famous_for": {
+        "ar": "غابات الصنوبر في لينغغو أسري وقرى صناعة الباتيك الريفية 🌲👘",
+        "en": "Lush Linggo Asri pine hills and scenic village batik ateliers 🌲👘",
+        "tr": "Linggo Asri çam ormanları ve geleneksel köy batik atölyeleri 🌲👘"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pemalang": {
-      "names": { "ar": "بيمالانغ", "en": "Pemalang", "tr": "Pemalang" }
+      "names": { "ar": "بيمالانغ", "en": "Pemalang", "tr": "Pemalang" },
+      "famous_for": {
+        "ar": "شاطئ ويدوري ومذاق ساتيه لوسو التقليدي بصلصة جوز الهند 🍢🏖️",
+        "en": "Widuri beach and authentic Sate Loso with coconut sauce 🍢🏖️",
+        "tr": "Widuri sahili ve kendine has hindistan cevizli Sate Loso şişleri 🍢🏖️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "brebes": {
-      "names": { "ar": "بريبس", "en": "Brebes", "tr": "Brebes" }
+      "names": { "ar": "بريبس", "en": "Brebes", "tr": "Brebes" },
+      "famous_for": {
+        "ar": "عاصمة البصل الأحمر والبيض المملح الأكثر شهرة في إندونيسيا 🧅🥚",
+        "en": "Renowned nationwide for shallots and authentic salted duck eggs 🧅🥚",
+        "tr": "Ünlü kırmızı arpacık soğanları ve tuzlu ördek yumurtası 🧅🥚"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "pacitan": {
-      "names": { "ar": "باتشيتان", "en": "Pacitan", "tr": "Pacitan" }
+      "names": { "ar": "باتشيتان", "en": "Pacitan", "tr": "Pacitan" },
+      "famous_for": {
+        "ar": "مدينة الألف كهف وشواطئ ركوب الأمواج العذراء الخلابة 🦇🏄‍♂️",
+        "en": "City of 1001 Caves and pristine secret surf beaches 🦇🏄‍♂️",
+        "tr": "1001 Mağara Şehri ve el değmemiş berrak sörf sahilleri 🦇🏄‍♂️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "ponorogo": {
-      "names": { "ar": "بونوروغو", "en": "Ponorogo", "tr": "Ponorogo" }
+      "names": { "ar": "بونوروغو", "en": "Ponorogo", "tr": "Ponorogo" },
+      "famous_for": {
+        "ar": "مهد رقصة ريوغ بونوروغو الفلكلورية ذات الأقنعة العملاقة 🦁🎭",
+        "en": "Birthplace of the dramatic Reog Ponorogo lion-peacock dance 🦁🎭",
+        "tr": "Görkemli dev maskeli Reog Ponorogo dansının anavatanı 🦁🎭"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "trenggalek": {
-      "names": { "ar": "ترينغاليك", "en": "Trenggalek", "tr": "Trenggalek" }
+      "names": { "ar": "ترينغاليك", "en": "Trenggalek", "tr": "Trenggalek" },
+      "famous_for": {
+        "ar": "خليج بريجي الهادئ ومقرمشات ألين-ألين الشهية 🏖️🍌",
+        "en": "Scenic Prigi fishing bay and famous crisp Alen-Alen snacks 🏖️🍌",
+        "tr": "Prigi Körfezi sakin limanı ve çıtır Alen-Alen atıştırmalıkları 🏖️🍌"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tulungagung": {
-      "names": { "ar": "تولونغاغونغ", "en": "Tulungagung", "tr": "Tulungagung" }
+      "names": { "ar": "تولونغاغونغ", "en": "Tulungagung", "tr": "Tulungagung" },
+      "famous_for": {
+        "ar": "عاصمة الرخام الإندونيسي وشواطئ المحيط الهندي العذراء 🏛️🌊",
+        "en": "Indonesia's marble capital and unspoiled Indian Ocean coast 🏛️🌊",
+        "tr": "Endonezya'nın mermer başkenti ve bakir okyanus koyları 🏛️🌊"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "nganjuk": {
-      "names": { "ar": "نغانجوك", "en": "Nganjuk", "tr": "Nganjuk" }
+      "names": { "ar": "نغانجوك", "en": "Nganjuk", "tr": "Nganjuk" },
+      "famous_for": {
+        "ar": "شلال سيدودو الأسطوري في أحضان جبل ويليس 🌊⛰️",
+        "en": "Home to the mythical Sedudo Waterfall on Mount Wilis slopes 🌊⛰️",
+        "tr": "Wilis Dağı eteğindeki efsanevi Sedudo Şelalesi 🌊⛰️"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "jombang": {
-      "names": { "ar": "جومبانغ", "en": "Jombang", "tr": "Jombang" }
+      "names": { "ar": "جومبانغ", "en": "Jombang", "tr": "Jombang" },
+      "famous_for": {
+        "ar": "مدينة المعاهد الدينية التراثية ومسقط رأس كبار المفكرين 🕌📚",
+        "en": "City of Santri known for historic Islamic boarding academies 🕌📚",
+        "tr": "Tarihi medreseleri ve düşünce önderlerinin yetiştiği şehir 🕌📚"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "bojonegoro": {
-      "names": { "ar": "بوجونيغورو", "en": "Bojonegoro", "tr": "Bojonegoro" }
+      "names": { "ar": "بوجونيغورو", "en": "Bojonegoro", "tr": "Bojonegoro" },
+      "famous_for": {
+        "ar": "ظاهرة شعلة النار الخالدة كايانغان أبي ومصنوعات خشب الساج 🪵🔥",
+        "en": "Kayangan Api eternal flame and artistic teak root carvings 🪵🔥",
+        "tr": "Sönmeyen Kayangan Api ateşi ve sanatsal tik ağacı oymacılığı 🪵🔥"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "tuban": {
-      "names": { "ar": "توبان", "en": "Tuban", "tr": "Tuban" }
+      "names": { "ar": "توبان", "en": "Tuban", "tr": "Tuban" },
+      "famous_for": {
+        "ar": "مدينة الأولياء الساحلية ومزارات الأولياء وكهوف الحجر الجيري 🕌🦇",
+        "en": "City of Saints known for historic shrines and limestone caves 🕌🦇",
+        "tr": "Evliyalar Şehri, tarihi türbeler ve kireçtaşı mağaraları 🕌🦇"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "lamongan": {
-      "names": { "ar": "لامونغان", "en": "Lamongan", "tr": "Lamongan" }
+      "names": { "ar": "لامونغان", "en": "Lamongan", "tr": "Lamongan" },
+      "famous_for": {
+        "ar": "حساء سوتو لامونغان اللذيذ ومنتزه ويساتا باهاري البحري 🍲🎢",
+        "en": "Famous nationwide for Soto Lamongan & Bahari Marine Park 🍲🎢",
+        "tr": "Ünlü Soto Lamongan çorbası ve Bahari sahil tema parkı 🍲🎢"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     },
     "gresik": {
-      "names": { "ar": "غريسيك", "en": "Gresik", "tr": "Gresik" }
+      "names": { "ar": "غريسيك", "en": "Gresik", "tr": "Gresik" },
+      "famous_for": {
+        "ar": "الميناء التاريخي ومقامات الأولياء وحلوى البوداك التقليدية 🕌🍬",
+        "en": "Historic Islamic port, Sunan Giri shrine, and Pudak delicacy 🕌🍬",
+        "tr": "Tarihi liman, önemli evliya türbeleri ve meşhur Pudak tatlısı 🕌🍬"
+      },
+      "image": "https://cdn.jsdelivr.net/gh/jazmoy92/paradise-city-tour@main/cities/ist.jpg",
+      "needs_ad": true
     }
   }
 }

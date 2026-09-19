@@ -67,9 +67,9 @@
     "hotels": [
       {
         "name": {
-          "ar": "قصر اكواخ جبل قاف",
-          "en": "Kaf Dagi Konak Bungalow",
-          "tr": "Kaf Dağı Konak Bungalov"
+          "ar": "اكواخ جبل قاف",
+          "en": "KafDagi Konak Bungalow",
+          "tr": "KafDağı Konak Bungalov"
         },
          "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
          "images": [

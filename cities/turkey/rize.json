@@ -62,7 +62,9 @@
       "hotels",
       "tours",
       "places",
-      "restaurants"
+      "beaches",
+      "restaurants",
+      "city transport"
     ],
     "hotels": [
       {
@@ -226,7 +228,7 @@
       },
       {
         "name": {
-          "ar": "ميجزا بنغالوف",
+          "ar": "ميجزا كوخ",
           "en": "Megza Bungalov",
           "tr": "Megza Bungalov"
         },
@@ -266,9 +268,9 @@
       },
       {
         "name": {
-          "ar": "بيت شلال الجبلي",
-          "en": "Selale Dag Evi",
-          "tr": "Şelale Dağ Evi"
+          "ar": "كوخ بيت شلال الجبلي",
+          "en": "Selale Dag Evi bungalow",
+          "tr": "Şelale Dağ Evi bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/selale1.png",
@@ -306,7 +308,7 @@
       },
       {
         "name": {
-          "ar": "ناني بنغالوف",
+          "ar": "ناني كوخ",
           "en": "Nani Bungalov",
           "tr": "Nani Bungalov"
         },
@@ -386,9 +388,9 @@
       },
       {
         "name": {
-          "ar": "آيدر إليزان داغ إيفي",
-          "en": "Ayder Elizan Mountain House",
-          "tr": "Ayder Elizan Dağ Evi"
+          "ar": "كوخ آيدر إليزان داغ إيفي",
+          "en": "Ayder Elizan bungalow",
+          "tr": "Ayder Elizan bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elizan1.png",
@@ -466,9 +468,9 @@
       },
       {
         "name": {
-          "ar": "رامادا بلازا باي ويندهام ريزة",
-          "en": "Ramada Plaza by Wyndham Rize",
-          "tr": "Ramada Plaza by Wyndham Rize"
+          "ar": "فندق رامادا بلازا باي ويندهام ريزة",
+          "en": "Ramada Plaza by Wyndham Rize hotel",
+          "tr": "Ramada Plaza by Wyndham Rize otel"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ramada1.png",
@@ -546,9 +548,9 @@
       },
       {
         "name": {
-          "ar": "منتجع أفولوت ماونتن",
-          "en": "Avulot Mountain Resort Hotel",
-          "tr": "Avulot Mountain Resort Hotel"
+          "ar": "فندق أفولوت",
+          "en": "Avulot Hotel",
+          "tr": "Avulot Hotel "
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/avulot1.png",
@@ -586,8 +588,8 @@
       },
       {
         "name": {
-          "ar": "إيليت بنغالوف",
-          "en": "Elit Bungalov",
+          "ar": "اليت كوخ",
+          "en": "Elit Bungalow",
           "tr": "Elit Bungalov"
         },
         "image": [
@@ -627,8 +629,8 @@
       {
         "name": {
           "ar": "فينيك فيلا سويت",
-          "en": "Venek Villa Suit",
-          "tr": "Venek Villa Suit"
+          "en": "Venek Villa Suite",
+          "tr": "Venek Villa Süit"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/venek1.png",
@@ -666,9 +668,9 @@
       },
       {
         "name": {
-          "ar": "سيرين يير داغ إيفي",
-          "en": "Serinyer Mountain House",
-          "tr": "Serinyer Dağ Evi"
+          "ar": "سرينير كوخ",
+          "en": "Serinyer bungalow",
+          "tr": "Serinyer bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/serinyer1.png",
@@ -706,8 +708,8 @@
       },
       {
         "name": {
-          "ar": "نيكا بانسيون",
-          "en": "Nika Pansiyon",
+          "ar": "نيكا دار ضيافة",
+          "en": "Nika Guest house",
           "tr": "Nika Pansiyon"
         },
         "image": [
@@ -739,16 +741,16 @@
         "show_location": true,
         "needs_ad": true,
         "description": {
-          "ar": "بنسيون دافئ يقدم ضيافة قروية أصيلة وأطعمة محلية طازجة في قلب منطقة آيدر.",
+          "ar": "دار ضيافة دافئ يقدم ضيافة قروية أصيلة وأطعمة محلية طازجة في قلب منطقة آيدر.",
           "en": "Homely pension in Ayder highlands serving traditional home-cooked regional meals.",
           "tr": "Ayder Yaylası'nda samimi aile ortamı ve nefis yöresel lezzetler sunan şirin pansiyon."
         }
       },
       {
         "name": {
-          "ar": "مولفا بنغالوز أوتيل",
-          "en": "MOLVA Bungalows Otel",
-          "tr": "MOLVA Bungalows Otel"
+          "ar": "مولفا اكواخ",
+          "en": "MOLVA Bungalow",
+          "tr": "MOLVA Bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/molva1.png",
@@ -786,9 +788,9 @@
       },
       {
         "name": {
-          "ar": "بارادايس فالي بنغالوف",
+          "ar": "كوخ قرية بارادايس",
           "en": "Paradise Valley Bungalow",
-          "tr": "Paradise Valley Bungalow"
+          "tr": "Paradise Köy Bungalow"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/paradise1.png",
@@ -826,9 +828,9 @@
       },
       {
         "name": {
-          "ar": "ريفر سايد تايني هاوس",
-          "en": "River Side TinyHouse",
-          "tr": "River Side TinyHouse"
+          "ar": "كوخ النهري",
+          "en": "RiverSide bungalow",
+          "tr": "RiverSide bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/riverside1.png",
@@ -866,9 +868,9 @@
       },
       {
         "name": {
-          "ar": "إمروز توين هاوس",
-          "en": "Imroz Twin House",
-          "tr": "İmroz Twin House"
+          "ar": "اكواخ امروز التوأم",
+          "en": "Imroz Twin bungalow",
+          "tr": "İmroz ikiz bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/imroz1.png",
@@ -906,9 +908,9 @@
       },
       {
         "name": {
-          "ar": "وود لايف بنغالوف",
-          "en": "Wood Life Bungalov",
-          "tr": "Wood Life Bungalov"
+          "ar": "وود لايف كوخ",
+          "en": "WoodLife Bungalow",
+          "tr": "WoodLife Bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/woodlife1.png",
@@ -946,9 +948,9 @@
       },
       {
         "name": {
-          "ar": "بوهيمي فيلا بنغالوف",
-          "en": "Bohemi Villa Bungalov",
-          "tr": "Bohemi Villa Bungalov"
+          "ar": "بوهيمي فيلا",
+          "en": "Bohemi Villa",
+          "tr": "Bohemi Villa"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/bohemi1.png",
@@ -979,15 +981,15 @@
         "show_location": true,
         "needs_ad": true,
         "description": {
-          "ar": "فلل بنغالوف مصممة بطراز بوهيمي أنيق وجذاب مع جاكوزي وإطلالة جبلية خيالية.",
+          "ar": "فلل مصممة بطراز بوهيمي أنيق وجذاب مع جاكوزي وإطلالة جبلية خيالية.",
           "en": "Bohemian style luxury villa bungalows with scenic mountain views and private amenities.",
           "tr": "Bohem tarzda dekore edilmiş, jakuzili ve büyüleyici doğa manzaralı özel villalar."
         }
       },
       {
         "name": {
-          "ar": "يروموني بنغالوف",
-          "en": "Yerumoni Bungalov",
+          "ar": "يروموني كوخ",
+          "en": "Yerumoni Bungalow",
           "tr": "Yerumoni Bungalov"
         },
         "image": [
@@ -1026,9 +1028,9 @@
       },
       {
         "name": {
-          "ar": "لازيفيلا سويت داغ إيفي",
-          "en": "Lazivilla Suit Mountain House",
-          "tr": "Lazivilla Suit Dağ Evi"
+          "ar": "لازيفيلا سويت كوخ",
+          "en": "Lazivilla Suite bungalow",
+          "tr": "Lazivilla Süit bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/lazivilla1.png",
@@ -1066,9 +1068,9 @@
       },
       {
         "name": {
-          "ar": "زيني لايف سويت أبارت وبنغالوف",
-          "en": "Zenilife Suit Apart & Bungalov",
-          "tr": "Zenilife Suit Apart & Bungalov"
+          "ar": "اكواخ زيني لايف سويت ",
+          "en": "Zenilife Suite bungalow",
+          "tr": "Zenilife Süit bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/zenilife1.png",
@@ -1099,15 +1101,15 @@
         "show_location": true,
         "needs_ad": true,
         "description": {
-          "ar": "شقق فندقية وأكواخ بنغالوف مجهزة بمطابخ وكافة سبل الراحة لإقامة عائلية مريحة.",
+          "ar": "شقق فندقية وأكواخ مجهزة بمطابخ وكافة سبل الراحة لإقامة عائلية مريحة.",
           "en": "Apartment suites and bungalows equipped with kitchen facilities ideal for family stays.",
           "tr": "Aileler için tam donanımlı mutfak ve ferah alanlar sunan apart ve ahşap bungalovlar."
         }
       },
       {
         "name": {
-          "ar": "توفا فيلا بنغالوف",
-          "en": "Tuva Villa Bungalov",
+          "ar": "اكواخ توفا فيلا ",
+          "en": "Tuva Villa Bungalow",
           "tr": "Tuva Villa Bungalov"
         },
         "image": [
@@ -1146,8 +1148,8 @@
       },
       {
         "name": {
-          "ar": "تاج محل بنغالوف",
-          "en": "Tas Mahal Bungalov",
+          "ar": "كوخ حجر محل ",
+          "en": "Tas Mahal Bungalow",
           "tr": "Taş Mahal Bungalov"
         },
         "image": [
@@ -1187,8 +1189,8 @@
       {
         "name": {
           "ar": "فندق فالي سويت",
-          "en": "VALLEY Suit OTEL",
-          "tr": "VALLEY Suit OTEL"
+          "en": "VALLEY Suit hotel",
+          "tr": "VALLEY Suit otel"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit1.png",
@@ -1213,7 +1215,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleysuit21.png"
         ],
-        "rating": "4.7",
+        "rating": "4 stars",
         "website": "https://www.booking.com",
         "location_url": "https://maps.google.com/?q=41.1611,40.9765",
         "show_location": true,
@@ -1253,7 +1255,7 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta20.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/ricosta21.png"
         ],
-        "rating": "4.8",
+        "rating": "5 stars",
         "website": "https://www.ricostahotel.com",
         "location_url": "https://maps.google.com/?q=41.0456,40.5732",
         "show_location": true,
@@ -1266,9 +1268,9 @@
       },
       {
         "name": {
-          "ar": "فالي دومز (قباب الوادي)",
-          "en": "Valley Domes",
-          "tr": "Valley Domes"
+          "ar": "اكواخ القبة",
+          "en": "Valley Domes bungalow",
+          "tr": "Valley Domes bungalov"
         },
         "image": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/valleydomes1.png",
@@ -1306,8 +1308,8 @@
       },
       {
         "name": {
-          "ar": "بولا بنغالوف",
-          "en": "Pula Bungalov",
+          "ar": "بولا كوخ",
+          "en": "Pula Bungalow",
           "tr": "Pula Bungalov"
         },
         "image": [
@@ -1346,8 +1348,8 @@
       },
       {
         "name": {
-          "ar": "دولوبي بنغالوف",
-          "en": "Dolobi Bungalov",
+          "ar": "دولوبي كوخ",
+          "en": "Dolobi Bungalow",
           "tr": "Dolobi Bungalov"
         },
         "image": [

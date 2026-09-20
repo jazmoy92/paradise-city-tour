@@ -122,7 +122,7 @@
           "en": "Ciragan Palace Kempinski",
           "tr": "Çırağan Palace Kempinski"
         },
-        "category": "hotel",
+        "category": "resort",
         "rating": "5 Stars",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
         "images": [
@@ -186,7 +186,6 @@
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim9.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim10.png"
         ],
-        "rating": "5 Stars",
         "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=303089",
         "needs_ad": true,
         "description": {
@@ -695,16 +694,24 @@
           "en": "Metro M11 (Istanbul Airport Express)",
           "tr": "M11 Gayrettepe - İstanbul Havalimanı"
         },
-        "route": {
-          "ar": "غايريتيبي ⟷ كاغيت هانه ⟷ كيمربورغاز ⟷ غوكتورك ⟷ مطار إسطنبول (IST)",
-          "en": "Gayrettepe ⟷ Kagithane ⟷ Kemerburgaz ⟷ Gokturk ⟷ Istanbul Airport",
-          "tr": "Gayrettepe ⟷ Kağıthane ⟷ Kemerburgaz ⟷ Göktürk ⟷ İstanbul Havalimanı"
+        "url": "https://www.metro.istanbul/Hatlarimiz/HatDetay?hat=M11",
+        "desc": {
+          "ar": "الخط السريع المباشر الذي يربط مركز إسطنبول بمطار إسطنبول الدولي الجديد (IST).",
+          "en": "Direct express high-speed metro line connecting central Istanbul with Istanbul Airport.",
+          "tr": "Şehir merkezini İstanbul Havalimanı'na bağlayan hızlı metro hattı."
         },
-        "schedule": {
-          "ar": "يعمل من الساعة 06:00 صباحاً حتى 00:30 بعد منتصف الليل كل 8 دقائق",
-          "en": "Operates daily from 06:00 AM to 00:30 AM every 8 minutes",
-          "tr": "Haftanın her günü 06:00 - 00:30 saatleri arasında her 8 dakikada bir"
-        }
+        "stations": [
+          { "name": { "ar": "Gayrettepe (غايريتيبي - تقاطع M2 والميتروباص)", "en": "Gayrettepe", "tr": "Gayrettepe" } },
+          { "name": { "ar": "Kağıthane (كاغيت هانه - تقاطع M7)", "en": "Kağıthane", "tr": "Kağıthane" } },
+          { "name": { "ar": "Hasdal (هاسدال)", "en": "Hasdal", "tr": "Hasdal" } },
+          { "name": { "ar": "Kemerburgaz (كيمربورغاز)", "en": "Kemerburgaz", "tr": "Kemerburgaz" } },
+          { "name": { "ar": "Göktürk (غوكتورك)", "en": "Göktürk", "tr": "Göktürk" } },
+          { "name": { "ar": "İhsaniye (إحسانية)", "en": "İhsaniye", "tr": "İhsaniye" } },
+          { "name": { "ar": "İstanbul Havalimanı (مطار إسطنبول ✈️)", "en": "Istanbul Airport", "tr": "İstanbul Havalimanı" } },
+          { "name": { "ar": "Kargo Terminali (محطة الشحن)", "en": "Cargo Terminal", "tr": "Kargo Terminali" } },
+          { "name": { "ar": "Taşoluk (تاشولوك)", "en": "Taşoluk", "tr": "Taşoluk" } },
+          { "name": { "ar": "Arnavutköy Hastane (أرناؤوط كوي)", "en": "Arnavutkoy Hospital", "tr": "Arnavutköy Hastane" } }
+        ]
       },
       {
         "type": "metro",
@@ -715,16 +722,25 @@
           "en": "Metro M2 (Taksim - Yenikapi)",
           "tr": "M2 Yenikapı - Hacıosman"
         },
-        "route": {
-          "ar": "يني كابي ⟷ خليج ⟷ شيشهانه (شارع الاستقلال) ⟷ تقسيم ⟷ شيشلي (جواهر مول) ⟷ حجي عثمان",
-          "en": "Yenikapi ⟷ Halic ⟷ Sishane ⟷ Taksim Square ⟷ Sisli Cevahir ⟷ Haciosman",
-          "tr": "Yenikapı ⟷ Haliç ⟷ Şişhane ⟷ Taksim ⟷ Şişli ⟷ Hacıosman"
+        "url": "https://www.metro.istanbul/Hatlarimiz/HatDetay?hat=M2",
+        "desc": {
+          "ar": "أهم خط سياحي يمر بميدان تقسيم، شارع الاستقلال، مول جواهر، ومراكز التسوق الكبرى.",
+          "en": "Key tourist line connecting Taksim Square, Galata, Cevahir Mall, and major hubs.",
+          "tr": "Taksim, Şişli, Cevahir AVM ve ana merkezleri birbirine bağlayan temel turistik hat."
         },
-        "schedule": {
-          "ar": "يعمل طوال الأسبوع، ومع خدمة مترو 24 ساعة ليلية في عطلة نهاية الأسبوع",
-          "en": "Runs daily with 24-hour continuous night metro service on weekends",
-          "tr": "Hafta içi 06:00-00:00, cuma ve cumartesi geceleri 24 saat kesintisiz"
-        }
+        "stations": [
+          { "name": { "ar": "Yenikapı (يني كابي - محطة العبارات ومرمراي)", "en": "Yenikapi", "tr": "Yenikapı" } },
+          { "name": { "ar": "Vezneciler (البازار الكبير / السليمانية)", "en": "Vezneciler / Grand Bazaar", "tr": "Vezneciler" } },
+          { "name": { "ar": "Haliç (جسر القرن الذهبي)", "en": "Halic Golden Horn", "tr": "Haliç" } },
+          { "name": { "ar": "Şişhane (برج غلطة وشارع الاستقلال)", "en": "Sishane / Galata", "tr": "Şişhane" } },
+          { "name": { "ar": "Taksim (ميدان تقسيم الشهير 🌟)", "en": "Taksim Square", "tr": "Taksim" } },
+          { "name": { "ar": "Osmanbey (شارع نيشانتاشي للماركات)", "en": "Osmanbey / Nisantasi", "tr": "Osmanbey" } },
+          { "name": { "ar": "Şişli-Mecidiyeköy (مول جواهر Cevahir)", "en": "Sisli - Cevahir Mall", "tr": "Şişli-Mecidiyeköy" } },
+          { "name": { "ar": "Gayrettepe (مول زورلو Zorlu Center)", "en": "Gayrettepe / Zorlu", "tr": "Gayrettepe" } },
+          { "name": { "ar": "Levent (مول كانيون ومتروسيتي)", "en": "Levent Malls", "tr": "Levent" } },
+          { "name": { "ar": "İTÜ Ayazağa (مول استينيا بارك Istinye Park)", "en": "Istinye Park Area", "tr": "İTÜ Ayazağa" } },
+          { "name": { "ar": "Hacıosman (حجي عثمان)", "en": "Haciosman", "tr": "Hacıosman" } }
+        ]
       },
       {
         "type": "metro",
@@ -735,16 +751,21 @@
           "en": "Metro M4 Asian Side (Kadikoy - Sabiha Airport)",
           "tr": "M4 Kadıköy - Sabiha Gökçen Havalimanı"
         },
-        "route": {
-          "ar": "ميناء كاديكوي ⟷ أيريلك تشيشميسي ⟷ مالتبه ⟷ بندك ⟷ مطار صبيحة كوكجن",
-          "en": "Kadikoy Ferry Port ⟷ Ayrilik Cesmesi ⟷ Maltepe ⟷ Pendik ⟷ Sabiha Airport",
-          "tr": "Kadıköy ⟷ Ayrılık Çeşmesi ⟷ Maltepe ⟷ Pendik ⟷ Sabiha Gökçen Havalimanı"
+        "url": "https://www.metro.istanbul/Hatlarimiz/HatDetay?hat=M4",
+        "desc": {
+          "ar": "يربط الجانب الآسيوي بمطار صبيحة كوكجن الدولي مباشرة عبر كاديكوي ومالتبه وبندك.",
+          "en": "Direct Asian side line to Sabiha Gokcen Airport (SAW) from Kadikoy.",
+          "tr": "Kadıköy'den Sabiha Gökçen Havalimanı'na doğrudan ulaşım sağlayan metro hattı."
         },
-        "schedule": {
-          "ar": "ينطلق قطار كل 5 دقائق من 06:00 صباحاً حتى 00:00 ليلاً، و24 ساعة في عطلة الأسبوع",
-          "en": "Every 5 minutes from 06:00 to 00:00, 24-hour service on Friday & Saturday",
-          "tr": "Hafta içi 06:00-00:00 arası her 5 dakikada bir, hafta sonu 24 saat açık"
-        }
+        "stations": [
+          { "name": { "ar": "Kadıköy (ميناء كاديكوي)", "en": "Kadikoy Ferry Port", "tr": "Kadıköy" } },
+          { "name": { "ar": "Ayrılık Çeşmesi (تقاطع مرمراي)", "en": "Ayrilik Cesmesi", "tr": "Ayrılık Çeşmesi" } },
+          { "name": { "ar": "Ünalan (مول أكاسيا Akasya Mall)", "en": "Unalan / Akasya", "tr": "Ünalan" } },
+          { "name": { "ar": "Bostancı (بستانجي)", "en": "Bostanci", "tr": "Bostancı" } },
+          { "name": { "ar": "Maltepe (مالتبه)", "en": "Maltepe", "tr": "Maltepe" } },
+          { "name": { "ar": "Pendik (بنديك)", "en": "Pendik", "tr": "Pendik" } },
+          { "name": { "ar": "Sabiha Gökçen Havalimanı (مطار صبيحة ✈️)", "en": "Sabiha Gokcen Airport", "tr": "Sabiha Gökçen Havalimanı" } }
+        ]
       },
       {
         "type": "tram",
@@ -755,16 +776,24 @@
           "en": "Tram T1 (Sultanahmet - Eminonu - Kabatas)",
           "tr": "T1 Kabataş - Bağcılar"
         },
-        "route": {
-          "ar": "كاباتاش ⟷ توبخانه (غلاطة بورت) ⟷ إمينونو ⟷ سيركجي ⟷ السلطان أحمد ⟷ بيازيت ⟷ أكسراي",
-          "en": "Kabatas ⟷ Galataport ⟷ Eminonu ⟷ Sirkeci ⟷ Sultanahmet ⟷ Grand Bazaar ⟷ Aksaray",
-          "tr": "Kabataş ⟷ Tophane ⟷ Eminönü ⟷ Sirkeci ⟷ Sultanahmet ⟷ Beyazıt ⟷ Aksaray"
+        "url": "https://www.metro.istanbul/Hatlarimiz/HatDetay?hat=T1",
+        "desc": {
+          "ar": "الترامواي التاريخي الأهم سياحياً، يمر بالمسجد الأزرق، آيا صوفيا، البازار الكبير، ميناء إمينونو، وغلاطة بورت.",
+          "en": "Main historic tram passing Blue Mosque, Hagia Sophia, Grand Bazaar & Galataport.",
+          "tr": "Sultanahmet, Ayasofya, Kapalıçarşı ve Galataport'tan geçen tarihi tramvay hattı."
         },
-        "schedule": {
-          "ar": "يعمل يومياً كل 3 إلى 5 دقائق من الساعة 06:00 صباحاً حتى منتصف الليل",
-          "en": "Runs daily every 3-5 minutes from 06:00 AM to midnight",
-          "tr": "Her gün 06:00 - 00:00 saatleri arasında her 3-5 dakikada bir sefer"
-        }
+        "stations": [
+          { "name": { "ar": "Kabataş (ميناء كاباتاش للعبارات)", "en": "Kabatas", "tr": "Kabataş" } },
+          { "name": { "ar": "Tophane (غلاطة بورت Galataport)", "en": "Tophane / Galataport", "tr": "Tophane" } },
+          { "name": { "ar": "Karaköy (كاراكوي)", "en": "Karakoy", "tr": "Karaköy" } },
+          { "name": { "ar": "Eminönü (إمينونو - سوق التوابل المصري)", "en": "Eminonu / Spice Bazaar", "tr": "Eminönü" } },
+          { "name": { "ar": "Sirkeci (سيركجي)", "en": "Sirkeci", "tr": "Sirkeci" } },
+          { "name": { "ar": "Gülhane (حديقة جولهانة وقصر التوبكابي)", "en": "Gulhane Park", "tr": "Gülhane" } },
+          { "name": { "ar": "Sultanahmet (جامع السلطان أحمد وآيا صوفيا 🕌)", "en": "Sultanahmet", "tr": "Sultanahmet" } },
+          { "name": { "ar": "Beyazıt (البازار الكبير Grand Bazaar)", "en": "Beyazit / Grand Bazaar", "tr": "Beyazıt" } },
+          { "name": { "ar": "Laleli (لالي لي)", "en": "Laleli", "tr": "Laleli" } },
+          { "name": { "ar": "Aksaray (أكسراي)", "en": "Aksaray", "tr": "Aksaray" } }
+        ]
       },
       {
         "type": "train",
@@ -775,36 +804,82 @@
           "en": "Marmaray Undersea Train Line",
           "tr": "Marmaray Kıtalararası Banliyö Treni"
         },
-        "route": {
-          "ar": "هالكالي ⟷ فلوريا ⟷ بكركوي ⟷ يني كابي ⟷ سيركجي (نفق تحت البحر) ⟷ أوسكودار ⟷ كاديكوي ⟷ غيبزي",
-          "en": "Halkali ⟷ Florya ⟷ Yenikapi ⟷ Sirkeci (Undersea Tunnel) ⟷ Uskudar ⟷ Sogutlucesme ⟷ Gebze",
-          "tr": "Halkalı ⟷ Florya ⟷ Yenikapı ⟷ Sirkeci (Denizaltı Tüneli) ⟷ Üsküdar ⟷ Söğütlüçeşme ⟷ Gebze"
+        "url": "https://www.tcddtasimacilik.gov.tr/marmaray",
+        "desc": {
+          "ar": "القطار العابر للقارات تحت مياه مضيق البوسفور بين أوروبا وآسيا في 4 دقائق فقط.",
+          "en": "Undersea train linking Europe and Asia in 4 mins under the Bosphorus Strait.",
+          "tr": "Boğaz'ın altından Avrupa ile Asya'yı 4 dakikada birbirine bağlayan kıtalararası tren."
         },
-        "schedule": {
-          "ar": "ينطلق قطار كل 7 دقائق لربط أوروبا وآسيا تحت البحر في 4 دقائق فقط",
-          "en": "Every 7 minutes linking Europe and Asia under the Bosphorus in 4 minutes",
-          "tr": "Avrupa ve Asya yakası arasında her 7 dakikada bir kesintisiz hızlı sefer"
-        }
+        "stations": [
+          { "name": { "ar": "Halkalı (هالكالي)", "en": "Halkali", "tr": "Halkalı" } },
+          { "name": { "ar": "Florya (ساحل وأكواريوم فلوريا)", "en": "Florya Aquarium", "tr": "Florya" } },
+          { "name": { "ar": "Bakırköy (بكركوي)", "en": "Bakirkoy", "tr": "Bakırköy" } },
+          { "name": { "ar": "Yenikapı (يني كابي)", "en": "Yenikapi", "tr": "Yenikapı" } },
+          { "name": { "ar": "Sirkeci (سيركجي - نفق تحت البحر 🌊)", "en": "Sirkeci Undersea", "tr": "Sirkeci" } },
+          { "name": { "ar": "Üsküdar (أوسكودار - الجانب الآسيوي)", "en": "Uskudar", "tr": "Üsküdar" } },
+          { "name": { "ar": "Ayrılık Çeşmesi (كاديكوي مول)", "en": "Ayrilik Cesmesi", "tr": "Ayrılık Çeşmesi" } },
+          { "name": { "ar": "Söğütlüçeşme (شارع بغداد)", "en": "Sogutlucesme", "tr": "Söğütlüçeşme" } },
+          { "name": { "ar": "Bostancı (بستانجي)", "en": "Bostanci", "tr": "Bostancı" } },
+          { "name": { "ar": "Pendik (بنديك)", "en": "Pendik", "tr": "Pendik" } },
+          { "name": { "ar": "Gebze (غيبزي)", "en": "Gebze", "tr": "Gebze" } }
+        ]
       },
       {
         "type": "train",
         "line_code": "EUROPE",
         "color": "#455A64",
         "name": {
-          "ar": "قطار إسطنبول - صوفيا وبلغاريا الدولي",
-          "en": "Istanbul - Sofia Express Train",
-          "tr": "İstanbul - Sofya Ekspresi"
+          "ar": "قطار إسطنبول - بلغاريا الدولي",
+          "en": "Istanbul - Bulgaria Train Line",
+          "tr": "İstanbul - Bulgaristan Tren Hattı"
         },
-        "route": {
-          "ar": "محطة هالكالي (إسطنبول) ⟷ أدرنة ⟷ كابيكوليه (الحدود التركية) ⟷ بلوفديف ⟷ صوفيا (بلغاريا)",
-          "en": "Halkali (Istanbul) ⟷ Edirne ⟷ Kapikule (Border) ⟷ Plovdiv ⟷ Sofia (Bulgaria)",
-          "tr": "Halkalı (İstanbul) ⟷ Edirne ⟷ Kapıkule ⟷ Filibe ⟷ Sofya"
+        "url": "https://www.tcddtasimacilik.gov.tr/tren/istanbul-sofya-ekspresi",
+        "desc": {
+          "ar": "الخط الدولي الأكثر كفاءة وشهرة، يعمل يومياً ليربط إسطنبول بالعاصمة البلغارية صوفيا.",
+          "en": "Daily international express train connecting Istanbul with Sofia, Bulgaria.",
+          "tr": "İstanbul'u Bulgaristan'ın başkenti Sofya'ya bağlayan günlük uluslararası ekspres tren."
         },
-        "schedule": {
-          "ar": "ينطلق يومياً برحلة مسائية مريحة مع مقصورات نوم مكيفة",
-          "en": "Daily overnight train with private sleeper cabins and couchette cars",
-          "tr": "Her gün akşam saatlerinde yataklı ve kuşetli vagonlarla kalkan uluslararası tren"
-        }
+        "stations": [
+          { "name": { "ar": "Halkalı (هالكالي)", "en": "Halkali", "tr": "Halkalı" } },
+          { "name": { "ar": "Çerkezköy (شركس كوي)", "en": "Cerkezkoy", "tr": "Çerkezköy" } },
+          { "name": { "ar": "Alpullu (البولو)", "en": "Alpullu", "tr": "Alpullu" } },
+          { "name": { "ar": "Edirne (أدرنة)", "en": "Edirne", "tr": "Edirne" } },
+          { "name": { "ar": "Kapıkule (الحدود التركية - ختم الخروج)", "en": "Kapikule (Turkey Border)", "tr": "Kapıkule (Türkiye Sınırı)" } },
+          { "name": { "ar": "Svilengrad (الحدود البلغارية)", "en": "Svilengrad (Bulgaria Border)", "tr": "Svilengrad (Bulgaristan)" } },
+          { "name": { "ar": "Dimitrovgrad (ديميتروفغراد)", "en": "Dimitrovgrad", "tr": "Dimitrovgrad" } },
+          { "name": { "ar": "Plovdiv (بلوفديف)", "en": "Plovdiv", "tr": "Filibe (Plovdiv)" } },
+          { "name": { "ar": "Sofia (صوفيا - العاصمة البلغارية 🇧🇬)", "en": "Sofia Central", "tr": "Sofya" } }
+        ]
+      },
+      {
+        "type": "train",
+        "line_code": "BUCHAREST",
+        "color": "#C2185B",
+        "name": {
+          "ar": "قطار بوخارست (Bosphorus Express)",
+          "en": "Bucharest Bosphorus Express",
+          "tr": "Bükreş Bosphor Ekspresi"
+        },
+        "url": "https://www.tcddtasimacilik.gov.tr",
+        "desc": {
+          "ar": "قطار دولي يربط إسطنبول بالعاصمة الرومانية بوخارست عبر صوفيا وبلغاريا مع مقصورات نوم مريحة.",
+          "en": "International sleeper train departing Istanbul and traveling northwards across Bulgaria to Bucharest, Romania.",
+          "tr": "İstanbul'dan kalkıp Bulgaristan üzerinden Romanya'nın başkenti Bükreş'e giden uluslararası tren."
+        },
+        "stations": [
+          { "name": { "ar": "Halkalı (محطة هالكالي المركزية)", "en": "Halkali Terminal", "tr": "Halkalı İstasyonu" } },
+          { "name": { "ar": "Çerkezköy (شركس كوي)", "en": "Cerkezkoy", "tr": "Çerkezköy" } },
+          { "name": { "ar": "Alpullu (البولو)", "en": "Alpullu", "tr": "Alpullu" } },
+          { "name": { "ar": "Edirne (أدرنة التاريخية)", "en": "Edirne", "tr": "Edirne" } },
+          { "name": { "ar": "Kapıkule (الحدود التركية - الجوازات)", "en": "Kapikule (Customs Check)", "tr": "Kapıkule" } },
+          { "name": { "ar": "Svilengrad (سفيلينغراد)", "en": "Svilengrad", "tr": "Svilengrad" } },
+          { "name": { "ar": "Dimitrovgrad (نقطة التفرع الرومانية)", "en": "Dimitrovgrad Junction", "tr": "Dimitrovgrad" } },
+          { "name": { "ar": "Gorna Oryahovitsa (غورنا)", "en": "Gorna Oryahovitsa", "tr": "Gorna Oryahovitsa" } },
+          { "name": { "ar": "Veliko Tarnovo (فيليكو تارنوفو)", "en": "Veliko Tarnovo", "tr": "Veliko Tırnovo" } },
+          { "name": { "ar": "Ruse (روسه - معبر نهر الدانوب)", "en": "Ruse (Danube Border)", "tr": "Rusçuk (Ruse)" } },
+          { "name": { "ar": "Videle (فيديلي)", "en": "Videle", "tr": "Videle" } },
+          { "name": { "ar": "Bucharest Nord (محطة بوخارست الشمالية 🇷🇴)", "en": "Bucharest Nord Terminal", "tr": "Bükreş Kuzey Garı" } }
+        ]
       },
       {
         "type": "sea",
@@ -815,16 +890,21 @@
           "en": "Bosphorus Public Ferries & Sea Taxis",
           "tr": "Şehir Hatları Vapurları"
         },
-        "route": {
-          "ar": "إمينونو ⟷ كاراكوي ⟷ كاباتاش ⟷ بشكتاش ⟷ أوسكودار ⟷ كاديكوي ⟷ جزر الأميرات",
-          "en": "Eminonu ⟷ Karakoy ⟷ Kabatas ⟷ Besiktas ⟷ Uskudar ⟷ Kadikoy ⟷ Princes' Islands",
-          "tr": "Eminönü ⟷ Karaköy ⟷ Kabataş ⟷ Beşiktaş ⟷ Üsküdar ⟷ Kadıköy ⟷ Adalar"
+        "url": "https://www.sehirhatlari.istanbul",
+        "desc": {
+          "ar": "رحلات بحرية ممتعة عبر مضيق البوسفور بين الجانب الأوروبي والآسيوي وجزر الأميرات.",
+          "en": "Scenic public ferry cruises across Bosphorus between Europe, Asia & Princes' Islands.",
+          "tr": "Avrupa, Asya ve Prens Adaları arasında Boğaz vapurları ve deniz ulaşımı."
         },
-        "schedule": {
-          "ar": "رحلات منتظمة طوال اليوم عبر البوسفور كل 15 إلى 20 دقيقة",
-          "en": "Regular scenic cruises across the Bosphorus every 15 to 20 minutes",
-          "tr": "Tüm gün boyunca Boğaz hatlarında her 15-20 dakikada bir vapur seferleri"
-        }
+        "stations": [
+          { "name": { "ar": "Eminönü İskelesi (ميناء إمينونو)", "en": "Eminonu Pier", "tr": "Eminönü İskelesi" } },
+          { "name": { "ar": "Karaköy İskelesi (ميناء كاراكوي)", "en": "Karakoy Pier", "tr": "Karaköy İskelesi" } },
+          { "name": { "ar": "Kabataş İskelesi (ميناء كاباتاش)", "en": "Kabatas Pier", "tr": "Kabataş İskelesi" } },
+          { "name": { "ar": "Beşiktaş İskelesi (ميناء بشكتاش)", "en": "Besiktas Pier", "tr": "Beşiktaş İskelesi" } },
+          { "name": { "ar": "Üsküdar İskelesi (ميناء أوسكودار - برج الفتاة)", "en": "Uskudar Pier", "tr": "Üsküdar İskelesi" } },
+          { "name": { "ar": "Kadıköy İskelesi (ميناء كاديكوي)", "en": "Kadikoy Pier", "tr": "Kadıköy İskelesi" } },
+          { "name": { "ar": "Büyükada İskelesi (جزيرة بيوك أضا - جزر الأميرات 🌲)", "en": "Buyukada Pier", "tr": "Büyükada İskelesi" } }
+        ]
       },
       {
         "type": "bus",
@@ -835,16 +915,23 @@
           "en": "Metrobus Express Line",
           "tr": "Metrobüs Hattı"
         },
-        "route": {
-          "ar": "بيليك دوزو ⟷ أفجلار ⟷ زيتين بورنو ⟷ مجيدية كوي ⟷ جسر البوسفور ⟷ كاديكوي",
-          "en": "Beylikduzu ⟷ Avcilar ⟷ Zeytinburnu ⟷ Mecidiyekoy ⟷ Bosphorus Bridge ⟷ Kadikoy",
-          "tr": "Beylikdüzü ⟷ Avcılar ⟷ Zeytinburnu ⟷ Mecidiyeköy ⟷ 15 Temmuz Köprüsü ⟷ Söğütlüçeşme"
+        "url": "https://iett.istanbul/icerik/metrobus-hatlari",
+        "desc": {
+          "ar": "باصات سريعة تعمل على مدار 24 ساعة في مسار مخصص يربط قارتي آسيا وأوروبا عبر جسر البوسفور.",
+          "en": "24/7 dedicated express busway crossing the Bosphorus Bridge between Asia and Europe.",
+          "tr": "Boğaz Köprüsü üzerinden Asya ve Avrupa'yı 24 saat kesintisiz bağlayan ekspres otobüs hattı."
         },
-        "schedule": {
-          "ar": "يعمل على مدار 24 ساعة دون توقف في مسار خاص معزول عن زحام السيارات",
-          "en": "Operates 24/7 non-stop in a dedicated traffic-free express busway",
-          "tr": "Özel ayrılmış şeridinde 24 saat kesintisiz ve yoğun sefer sıklığıyla hizmet verir"
-        }
+        "stations": [
+          { "name": { "ar": "Beylikdüzü Sondurak (بيليك دوزو)", "en": "Beylikduzu", "tr": "Beylikdüzü Sondurak" } },
+          { "name": { "ar": "Avcılar (أفجلار)", "en": "Avcilar", "tr": "Avcılar" } },
+          { "name": { "ar": "Zeytinburnu (زيتين بورنو - تقاطع T1 و M1)", "en": "Zeytinburnu", "tr": "Zeytinburnu" } },
+          { "name": { "ar": "Cevizlibağ (جيفيزلي باغ)", "en": "Cevizlibag", "tr": "Cevizlibağ" } },
+          { "name": { "ar": "Mecidiyeköy (مجيدية كوي - جواهر مول)", "en": "Mecidiyekoy", "tr": "Mecidiyeköy" } },
+          { "name": { "ar": "Zincirlikuyu (تقاطع زورلو سنتر ومترو M2)", "en": "Zincirlikuyu / Zorlu", "tr": "Zincirlikuyu" } },
+          { "name": { "ar": "15 Temmuz Şehitler Köprüsü (جسر البوسفور 🌉)", "en": "Bosphorus Bridge", "tr": "15 Temmuz Şehitler Köprüsü" } },
+          { "name": { "ar": "Altunizade (ألتوني زاده - الجانب الآسيوي)", "en": "Altunizade", "tr": "Altunizade" } },
+          { "name": { "ar": "Söğütlüçeşme (كاديكوي - نهاية الخط الآسيوي)", "en": "Sogutlucesme / Kadikoy", "tr": "Söğütlüçeşme" } }
+        ]
       },
       {
         "type": "airport_bus",
@@ -855,16 +942,19 @@
           "en": "Airport Luxury Shuttles (Havaist & Havabus)",
           "tr": "Havalimanı Lüks Otobüsleri"
         },
-        "route": {
-          "ar": "تقسيم / أكسراي / كاديكوي ⟷ مطار إسطنبول (IST) ومطار صبيحة (SAW)",
-          "en": "Taksim / Aksaray / Kadikoy ⟷ Istanbul Airport (IST) & Sabiha Airport (SAW)",
-          "tr": "Taksim / Aksaray / Kadıköy ⟷ İstanbul Havalimanı ve Sabiha Gökçen"
+        "url": "https://www.hava.ist",
+        "desc": {
+          "ar": "حافلات سياحية مريحة ومكيفة تنقل المسافرين من وإلى مطاري إسطنبول (IST) وصبيحة (SAW) ومراكز المدينة.",
+          "en": "Comfortable luxury shuttles linking Istanbul Airport (IST) and Sabiha Airport (SAW) with major city centers.",
+          "tr": "İstanbul ve Sabiha Gökçen Havalimanlarını şehir merkezlerine bağlayan lüks servis otobüsleri."
         },
-        "schedule": {
-          "ar": "تنطلق كل 30 دقيقة على مدار الساعة مع مقاعد مريحة ومساحات للأمتعة",
-          "en": "Departs every 30 minutes 24/7 with spacious seating and luggage space",
-          "tr": "Günün 24 saati her yarım saatte bir konforlu ve bagajlı ekspres seferler"
-        }
+        "stations": [
+          { "name": { "ar": "HVİST-16: Taksim ⇄ İstanbul Havalimanı (تقسيم - مطار إسطنبول)", "en": "Taksim ⇄ Istanbul Airport (IST)", "tr": "Taksim ⇄ İstanbul Havalimanı" } },
+          { "name": { "ar": "HVİST-12: Aksaray / Beyazıt ⇄ İstanbul Havalimanı (أكسراي - مطار إسطنبول)", "en": "Aksaray ⇄ Istanbul Airport (IST)", "tr": "Aksaray ⇄ İstanbul Havalimanı" } },
+          { "name": { "ar": "HVİST-14: Kadıköy ⇄ İstanbul Havalimanı (كاديكوي - مطار إسطنبول)", "en": "Kadikoy ⇄ Istanbul Airport (IST)", "tr": "Kadıköy ⇄ İstanbul Havalimanı" } },
+          { "name": { "ar": "HAVABUS: Taksim ⇄ Sabiha Gökçen (تقسيم - مطار صبيحة)", "en": "Taksim ⇄ Sabiha Gokcen Airport (SAW)", "tr": "Taksim ⇄ Sabiha Gökçen Havalimanı" } },
+          { "name": { "ar": "HAVABUS: Kadıköy ⇄ Sabiha Gökçen (كاديكوي - مطار صبيحة)", "en": "Kadikoy ⇄ Sabiha Gokcen Airport (SAW)", "tr": "Kadıköy ⇄ Sabiha Gökçen Havalimanı" } }
+        ]
       }
     ],
     "bus_apps": [

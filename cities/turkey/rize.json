@@ -73,8 +73,8 @@
           "en": "KafDagi Konak Bungalow",
           "tr": "KafDağı Konak Bungalov"
         },
-         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
-         "images": [
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi1.png",
+        "images": [
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi2.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi3.png",
           "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kafdagi4.png",
@@ -1748,6 +1748,92 @@
         }
       }
     ],
+    "beaches": [
+      {
+        "name": {
+          "ar": "شاطئ قييجيك في فندكلي",
+          "en": "Kiyicik Beach Findikli",
+          "tr": "Kıyıcık Plajı Fındıklı"
+        },
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kiyicik1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kiyicik2.png"
+        ],
+        "rating": "4.6",
+        "website": "https://rize.ktb.gov.tr",
+        "location_url": "https://maps.google.com/?q=41.2789,41.1456",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أنقى وأجمل شواطئ السباحة الطبيعية في ريزة، يتميز بمياهه الصافية وأشجار الغابات المحيطة بالساحل.",
+          "en": "One of the cleanest and most scenic natural swimming beaches in Rize surrounded by lush greenery.",
+          "tr": "Rize'nin en temiz ve doğal yüzme plajlarından biri; berrak denizi ve orman manzarasıyla ünlüdür."
+        }
+      },
+      {
+        "name": {
+          "ar": "شاطئ علي باشا العام",
+          "en": "Alipasa Public Beach",
+          "tr": "Alipaşa Halk Plajı"
+        },
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/alipasa1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/alipasa2.png"
+        ],
+        "rating": "4.4",
+        "website": "https://rize.bel.tr",
+        "location_url": "https://maps.google.com/?q=41.0489,40.4812",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "الشاطئ الأقرب لمركز مدينة ريزة، مجهز بمظلات ومقاهٍ عائلية ومنطقة مخصصة للسيدات.",
+          "en": "The most accessible beach near Rize city center equipped with parasols, cafes, and ladies section.",
+          "tr": "Rize merkezine en yakın, şezlong, kafeterya ve kadınlar plajı bölümü bulunan popüler halk plajı."
+        }
+      },
+      {
+        "name": {
+          "ar": "شاطئ جاي إلي العام",
+          "en": "Cayeli Public Beach",
+          "tr": "Çayeli Halk Plajı"
+        },
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cayeliplaj1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cayeliplaj2.png"
+        ],
+        "rating": "4.5",
+        "website": "https://cayeli.bel.tr",
+        "location_url": "https://maps.google.com/?q=41.0934,40.7321",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "شاطئ رملي وحصوي واسع يمتد بمحاذاة كورنيش جاي إلي، مناسب للمشي والسباحة صيفاً.",
+          "en": "Long coastline beach stretching along Çayeli promenade, perfect for swimming and coastal strolls.",
+          "tr": "Çayeli sahil kordonu boyunca uzanan geniş kumsal ve çakıl karışımı dinlendirici sahil şeridi."
+        }
+      },
+      {
+        "name": {
+          "ar": "شاطئ سارايسوت إييديره",
+          "en": "Saraysut Iyidere Beach",
+          "tr": "Saraysüt İyidere Plajı"
+        },
+        "image": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/saraysut1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/saraysut2.png"
+        ],
+        "rating": "4.5",
+        "website": "https://iyidere.bel.tr",
+        "location_url": "https://maps.google.com/?q=41.0214,40.3621",
+        "show_location": true,
+        "needs_ad": true,
+        "description": {
+          "ar": "شاطئ سياحي مرتب عند المدخل الغربي لمدينة ريزة مع جلسات عائلية ومطاعم أسماك طازجة.",
+          "en": "Organized resort beach at the western gateway of Rize featuring family seating and seaside restaurants.",
+          "tr": "Rize'nin batı girişinde yer alan, aile dinlenme alanları ve restoranları olan düzenli sahil tesisi."
+        }
+      }
+    ],
     "restaurants": [
       {
         "name": {
@@ -1938,6 +2024,191 @@
           "tr": "Taze Karadeniz balıkları ve enfes deniz ürünleri mezeleri sunan sahil balık restoranı."
         }
       }
-    ]
+    ],
+    "transit_cards": [
+      {
+        "name": {
+          "ar": "بطاقة ريزة كارت الذكية (Rize Kart)",
+          "en": "Rize Kart Smart Transit Card",
+          "tr": "Rize Kart Akıllı Ulaşım Kartı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "price": "60 TL",
+        "url": "https://rize.bel.tr/sayfa/rize-kart",
+        "desc": {
+          "ar": "البطاقة الذكية الرسمية والموحدة المعتمدة في باصات بلدية ريزة وحافلات النقل العام بالمدينة.",
+          "en": "The official contactless transit smart card for all Rize municipality public buses.",
+          "tr": "Rize Belediyesi şehir içi tüm toplu taşıma otobüslerinde geçerli resmi akıllı kart."
+        }
+      },
+      {
+        "name": {
+          "ar": "الدفع المباشر بالبطاقات البنكية",
+          "en": "Contactless Bank Card Transit",
+          "tr": "Temassız Banka Kartı ile Biniş"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "price": "Standard Fare",
+        "url": "https://rize.bel.tr",
+        "desc": {
+          "ar": "إمكانية الصعود مباشرة في كافة حافلات المدينة بتمرير فيزا أو ماستركارد دون الحاجة لشراء بطاقة.",
+          "en": "Direct tap-to-ride using contactless Visa or Mastercard without buying a transit card.",
+          "tr": "Kart satın almadan temassız Visa ve Mastercard ile otobüslerde doğrudan biniş imkanı."
+        }
+      }
+    ],
+    "ticket_machines": [
+      {
+        "name": {
+          "ar": "أجهزة تعبئة ريزة كارت في ميدان الجمهورية",
+          "en": "Meydan Rize Kart Top-up Kiosks",
+          "tr": "Meydan Rize Kart Yükleme Otomatı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "أجهزة الخدمة الذاتية في ميدان ريزة ومواقف الباصات المركزية لتعبئة الرصيد نقداً وبالبطاقات البنكية.",
+          "en": "Automated self-service kiosks at central squares and stations accepting cash and bank cards.",
+          "tr": "Şehir meydanında nakit ve kredi kartıyla 7/24 bakiye yükleme imkanı sunan resmi otomat."
+        }
+      },
+      {
+        "name": {
+          "ar": "نقاط تذاكر وباصات مطار ريزة-أرتفين",
+          "en": "Airport Shuttle Transit Kiosks",
+          "tr": "Havalimanı Havaş Bilet Noktaları"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "أكشاك حجز تذاكر باصات المطار السريعة (Havaş) في صالة الوصول بمطار ريزة-أرتفين.",
+          "en": "Official ticket booths located at arrivals hall for direct airport express buses across Rize.",
+          "tr": "Rize-Artvin Havalimanı gelen yolcu çıkışında tüm ilçelere giden Havaş servis bilet gişesi."
+        }
+      }
+    ],
+    "transport_lines": [
+      {
+        "type": "airport_bus",
+        "line_code": "HAVAŞ",
+        "color": "#0055A5",
+        "name": {
+          "ar": "باصات مطار ريزة-أرتفين السريعة (Havaş)",
+          "en": "Rize-Artvin Airport Express Shuttles",
+          "tr": "Rize-Artvin Havalimanı Havaş Servisi"
+        },
+        "route": {
+          "ar": "مطار ريزة ⟷ بازار ⟷ تشايليه ⟷ مركز ريزة ⟷ إييديره",
+          "en": "Airport ⟷ Pazar ⟷ Cayeli ⟷ Rize Center ⟷ Iyidere",
+          "tr": "Havalimanı ⟷ Pazar ⟷ Çayeli ⟷ Rize Merkez ⟷ İyidere"
+        },
+        "schedule": {
+          "ar": "منسقة على مدار 24 ساعة ومربوطة بمواعيد وصول وإقلاع كافة الرحلات الجوية",
+          "en": "24/7 synchronized directly with all incoming and departing flight arrivals",
+          "tr": "Tüm uçak iniş ve kalkış saatlerine göre 24 saat koordineli seferler"
+        }
+      },
+      {
+        "type": "bus",
+        "line_code": "R-101",
+        "color": "#1E88E5",
+        "name": {
+          "ar": "باص كورنيش وشاطئ ريزة الدائري",
+          "en": "Rize Coastal & City Center Loop",
+          "tr": "Rize Sahil & Şehir Merkezi Hattı"
+        },
+        "route": {
+          "ar": "ميدان ريزة ⟷ الميناء ⟷ شمال مول ⟷ شاطئ علي باشا ⟷ المستشفى التخصصي",
+          "en": "Rize Meydan ⟷ Port ⟷ Simal Mall ⟷ Alipasa Beach ⟷ City Hospital",
+          "tr": "Meydan ⟷ Liman ⟷ Şimal AVM ⟷ Alipaşa Plajı ⟷ Araştırma Hastanesi"
+        },
+        "schedule": {
+          "ar": "تنطلق حافلة كل 15 دقيقة من الساعة 06:30 صباحاً حتى 23:00 مساءً",
+          "en": "Every 15 minutes daily from 06:30 AM until 11:00 PM",
+          "tr": "Haftanın her günü 06:30 - 23:00 saatleri arasında her 15 dakikada bir"
+        }
+      },
+      {
+        "type": "bus",
+        "line_code": "AYDER",
+        "color": "#43A047",
+        "name": {
+          "ar": "دولموش هضبة آيدر ووادي فورتينا",
+          "en": "Ayder Highlands & Firtina Dolmus",
+          "tr": "Ayder Yaylası & Fırtına Vadisi Dolmuşları"
+        },
+        "route": {
+          "ar": "بازار ⟷ أرديشين ⟷ تشاملي همشين ⟷ شلال إسكيت أوغلو ⟷ هضبة آيدر",
+          "en": "Pazar ⟷ Ardesen ⟷ Camlihemsin ⟷ Waterfall ⟷ Ayder Plateau",
+          "tr": "Pazar ⟷ Ardeşen ⟷ Çamlıhemşin ⟷ Şelale ⟷ Ayder Yaylası"
+        },
+        "schedule": {
+          "ar": "رحلات منتظمة كل نصف ساعة صباحاً وكل ساعة مساءً حتى مغيب الشمس",
+          "en": "Departures every 30 minutes in peak hours and hourly until dusk",
+          "tr": "Gündüz her yarım saatte bir, akşam saatlerinde saat başı seferler"
+        }
+      }
+    ],
+    "bus_apps": [
+      {
+        "name": {
+          "ar": "تطبيق بي تاكسي ريزة",
+          "en": "BiTaksi Rize",
+          "tr": "BiTaksi Rize"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "طلب التاكسي الأصفر الرسمي المعتمد في ريزة مع تحديد الموقع وحساب العداد الإلكتروني.",
+          "en": "Official licensed city taxi hailing with GPS tracking and verified digital meter fares.",
+          "tr": "Rize genelinde resmi taksi çağırma, canlı konum takibi ve güvenli taksimetre tarifesi."
+        },
+        "url": "https://www.bitaksi.com",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "تطبيق هافاش لباصات المطار",
+          "en": "Havas Airport Mobile",
+          "tr": "Havaş Otobüs Mobil"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "دليل مواعيد وأسعار باصات مطار ريزة-أرتفين لجميع المناطق ومتابعة الرحلات الحية.",
+          "en": "Live schedules, route maps, and fares for Rize-Artvin Airport express shuttle buses.",
+          "tr": "Rize-Artvin Havalimanı Havaş servis saatleri, güzergahları ve canlı otobüs takibi."
+        },
+        "url": "https://havas.net",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "تطبيق موفيت للمسارات",
+          "en": "Moovit Transit Navigation",
+          "tr": "Moovit Ulaşım Rehberi"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "تخطيط مسارات الباصات والدولموش في ريزة بالدقيقة والتنبيهات المباشرة للمحطات.",
+          "en": "Real-time navigation, bus schedules, and dolmus routes across Rize highlands and coast.",
+          "tr": "Rize ve yaylalar için canlı otobüs ve dolmuş kalkış saatleri, rota planlama rehberi."
+        },
+        "url": "https://moovitapp.com",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "تطبيق أوبر (Uber)",
+          "en": "Uber Rides",
+          "tr": "Uber Taksi"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "طلب سيارات الأجرة والتنقل بين الفنادق والأكواخ والمطار بأمان وسرعة.",
+          "en": "Reliable ride-hailing for transfers between mountain bungalows, hotels, and airport.",
+          "tr": "Yaylalar, oteller ve havalimanı arasında hızlı ve konforlu taksi yolculukları."
+        },
+        "url": "https://www.uber.com",
+        "needs_ad": true
+      }
+    ],
+    "official_transit_portal": "https://rize.bel.tr/sayfa/ulasim-rehberi"
   }
 }

@@ -686,7 +686,7 @@
     ],
     "transport_lines": [
       {
-        "type": "metro",
+        "type": "trans",
         "line_code": "M11",
         "color": "#9C27B0",
         "name": {
@@ -714,7 +714,7 @@
         ]
       },
       {
-        "type": "metro",
+        "type": "trans",
         "line_code": "M2",
         "color": "#2E7D32",
         "name": {
@@ -743,7 +743,7 @@
         ]
       },
       {
-        "type": "metro",
+        "type": "trans",
         "line_code": "M4",
         "color": "#E53935",
         "name": {
@@ -768,7 +768,7 @@
         ]
       },
       {
-        "type": "tram",
+        "type": "trans",
         "line_code": "T1",
         "color": "#1E88E5",
         "name": {

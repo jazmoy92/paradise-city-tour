@@ -853,34 +853,6 @@
       },
       {
         "type": "train",
-        "line_code": "VIENNA",
-        "color": "#C2185B",
-        "name": {
-          "ar": "قطار أوبتيما السريع",
-          "en": "Optima Express",
-          "tr": "Optima Ekspresi"
-        },
-        "url": "https://www.tcddtasimacilik.gov.tr",
-        "desc": {
-          "ar": "قطار خاص ومميز جداً ينطلق من مدينة أدرنة التركية ويصل إلى النمسا. يتيح للمسافرين شحن سياراتهم الخاصة في عربات مغلقة ملحقة بالقطار، وهو قطار موسمي (يعمل من من أبريل إلى أكتوبر) ويمر عبر 5 دول أوروبية كـ "ترانزيت" سريع دون توقف لتحميل ركاب جدد.",
-          "en": "A unique, special train departs from the Turkish city of Edirne and travels to Austria. It allows passengers to transport their private vehicles in enclosed carriages attached to the train. Operating seasonally (from April to October), it passes through five European countries as a rapid transit service, without stopping to pick up new passengers.",
-          "tr": "Türkiye'nin Edirne şehrinden Avusturya'ya doğru eşsiz ve özel bir tren yola çıkıyor. Bu tren, yolcuların şahsi araçlarını trene bağlı kapalı vagonlarda taşıyabilmelerine olanak tanıyor. Nisan'dan Ekim'e kadar sezonluk olarak hizmet veren tren, yeni yolcu almak için durmaksızın, hızlı bir ulaşım seferiyle beş Avrupa ülkesinden geçiyor."
-        },
-        "stations": [
-    { "name": { "ar": "Edirne (أدرنة - محطة الانطلاق)", "en": "Edirne (Departure)", "tr": "Edirne (Kalkış)" } },
-    { "name": { "ar": "Kapıkule (كابيكولي - الحدود التركية)", "en": "Kapıkule (Turkey border)", "tr": "Kapıkule (Türkiye sınırı)" } },
-    { "name": { "ar": "Svilengrad (سفيلينغراد - الحدود البلغارية)", "en": "Svilengrad (Bulgaria border)", "tr": "Svilengrad (Bulgaristan sınırı)" } },
-    { "name": { "ar": "Dimitrovgrad (ديميتروفغراد - الحدود البلغارية الصربية)", "en": "Dimitrovgrad (Serbia border)", "tr": "Dimitrovgrad (Sırbistan sınırı)" } },
-    { "name": { "ar": "Niš (نيش - صربيا)", "en": "Niš", "tr": "Niš" } },
-    { "name": { "ar": "Šid (شيد - صربيا)", "en": "Šid", "tr": "Šid" } },
-    { "name": { "ar": "Tovarnik (توفارنيك - الحدود الصربية الكرواتية)", "en": "Tovarnik (Croatia border)", "tr": "Tovarnik (Hırvatistan sınırı)" } },
-    { "name": { "ar": "Dobova (دوبوفا - الحدود الكرواتية السلوفينية)", "en": "Dobova (Slovenia border)", "tr": "Dobova (Slovenya sınırı)" } },
-    { "name": { "ar": "Jesenice (ييسينيتسه - سلوفينيا)", "en": "Jesenice", "tr": "Jesenice" } },
-    { "name": { "ar": "Villach Autoreisezug (محطة فيلاخ - النمسا)", "en": "Villach Autoreisezug (Austria)", "tr": "Villach Autoreisezug (Avusturya)" } }
-        ]
-      },
-      {
-        "type": "train",
         "line_code": "BUCHAREST",
         "color": "#C2185B",
         "name": {

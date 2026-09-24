@@ -907,8 +907,8 @@
         ]
       },
       {
-        "type": "metrobus",
-        "line_code": "METROBUS",
+        "type": "bus",
+        "line_code": "BUS",
         "color": "#D81B60",
         "name": {
           "ar": "خط الميتروباص السريع (Metrobus)",

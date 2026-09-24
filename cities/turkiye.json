@@ -3,7 +3,7 @@
     "adana": {
       "names": {"ar": "اضنا", "en": "Adana", "tr": "Adana"},
       "famous_for": {
-        "ar": "تشتهر بالكباب الأضني العريق وسهول تشوكوروفا الخصبة 🌾🥩",
+        "ar": "تشتهر بالكباب الاضني العريق وسهول تشوكوروفا الخصبة 🌾🥩",
         "en": "Famous for authentic Adana kebab & rich Çukurova plains 🌾🥩",
         "tr": "Meşhur Adana kebabı ve bereketli Çukurova ovaları 🌾🥩"
       },
@@ -11,7 +11,7 @@
       "needs_ad": false
     },
     "adiyaman": {
-      "names": {"ar": "أديامان", "en": "Adiyaman", "tr": "Adıyaman"},
+      "names": {"ar": "اديامان", "en": "Adiyaman", "tr": "Adıyaman"},
       "famous_for": {
         "ar": "أرض جبل نمرود وتماثيل الملوك القديمة الخالدة 🗿🌄",
         "en": "Land of Mount Nemrut and ancient monumental statues 🗿🌄",
@@ -21,7 +21,7 @@
       "needs_ad": true
     },
     "afyonkarahisar": {
-      "names": {"ar": "أفيون قره حصار", "en": "Afyonkarahisar", "tr": "Afyonkarahisar"},
+      "names": {"ar": "افيون قره حصار", "en": "Afyonkarahisar", "tr": "Afyonkarahisar"},
       "famous_for": {
         "ar": "عاصمة الينابيع الكبريتية الحارة والقشطة والحلقوم التركي ♨️🍯",
         "en": "Capital of thermal springs, clotted cream & Turkish delight ♨️🍯",
@@ -31,7 +31,7 @@
       "needs_ad": true
     },
     "agri": {
-      "names": {"ar": "أغري", "en": "Agri", "tr": "Ağrı"},
+      "names": {"ar": "اغري", "en": "Agri", "tr": "Ağrı"},
       "famous_for": {
         "ar": "موطن قمة جبل أرارات الشاهق وقصر إسحاق باشا التاريخي 🏔️🏰",
         "en": "Home to majestic Mount Ararat and Ishak Pasha Palace 🏔️🏰",
@@ -41,7 +41,7 @@
       "needs_ad": false
     },
     "aksaray": {
-      "names": {"ar": "أكساراي", "en": "Aksaray", "tr": "Aksaray"},
+      "names": {"ar": "اكساراي", "en": "Aksaray", "tr": "Aksaray"},
       "famous_for": {
         "ar": "وادي إهلارا الخلاب وكنائس الصخور والخوانق النهرية 🌿⛰️",
         "en": "Stunning Ihlara Valley, canyon hikes & rock-cut churches 🌿⛰️",
@@ -51,7 +51,7 @@
       "needs_ad": false
     },
     "amasya": {
-      "names": {"ar": "أماسيا", "en": "Amasya", "tr": "Amasya"},
+      "names": {"ar": "اماسيا", "en": "Amasya", "tr": "Amasya"},
       "famous_for": {
         "ar": "مدينة الأمراء العثمانيين، قبور الملوك والتفاح الشهير 🍏👑",
         "en": "City of Ottoman princes, rock tombs & crisp apples 🍏👑",
@@ -61,7 +61,7 @@
       "needs_ad": false
     },
     "ankara": {
-      "names": {"ar": "أنقرة", "en": "Ankara", "tr": "Ankara"},
+      "names": {"ar": "انقرة", "en": "Ankara", "tr": "Ankara"},
       "famous_for": {
         "ar": "العاصمة السياسية وصروح التاريخ والمتاحف الوطنية 🏛️",
         "en": "The vibrant political capital, historic citadel & museums 🏛️",
@@ -71,7 +71,7 @@
       "needs_ad": true
     },
     "antalya": {
-      "names": {"ar": "أنطاليا", "en": "Antalya", "tr": "Antalya"},
+      "names": {"ar": "انطاليا", "en": "Antalya", "tr": "Antalya"},
       "famous_for": {
         "ar": "عروس الريفيرا التركية والشواطئ الفيروزية الساحرة 🏖️🌊",
         "en": "The pearl of the Turkish Riviera & turquoise beaches 🏖️🌊",
@@ -81,7 +81,7 @@
       "needs_ad": true
     },
     "ardahan": {
-      "names": {"ar": "أرداهان", "en": "Ardahan", "tr": "Ardahan"},
+      "names": {"ar": "ارداهان", "en": "Ardahan", "tr": "Ardahan"},
       "famous_for": {
         "ar": "بحيرة تشيلدير الجليدية، قلاع القوقاز والطبيعة العذراء ❄️🐴",
         "en": "Frozen Lake Çıldır, horse sledges & pristine border nature ❄️🐴",
@@ -91,7 +91,7 @@
       "needs_ad": true
     },
     "artvin": {
-      "names": {"ar": "أرتفين", "en": "Artvin", "tr": "Artvin"},
+      "names": {"ar": "ارتفين", "en": "Artvin", "tr": "Artvin"},
       "famous_for": {
         "ar": "جنة الغابات البكر، بحيرة كاراغول والوديان الشاهقة 🌲🚣‍♂️",
         "en": "Paradise of virgin rainforests, Karagöl lake & deep gorges 🌲🚣‍♂️",
@@ -101,7 +101,7 @@
       "needs_ad": true
     },
     "aydin": {
-      "names": {"ar": "أيدين", "en": "Aydin", "tr": "Aydın"},
+      "names": {"ar": "ايدين", "en": "Aydin", "tr": "Aydın"},
       "famous_for": {
         "ar": "بساتين التين الشهيرة وشواطئ ديديم وكوشاداسي الذهبية 🏖️🍈",
         "en": "World-renowned figs & sun-drenched Aegean coastal resorts 🏖️🍈",
@@ -271,7 +271,7 @@
       "needs_ad": true
     },
     "edirne": {
-      "names": {"ar": "أدرنة", "en": "Edirne", "tr": "Edirne"},
+      "names": {"ar": "ادرنة", "en": "Edirne", "tr": "Edirne"},
       "famous_for": {
         "ar": "جامع السليمية الخالد للمعمار سنان، التراث العثماني ومهرجان المصارعة 🕌🤼",
         "en": "Imperial Ottoman capital, Selimiye Mosque & Kırkpınar oil wrestling 🕌🤼",
@@ -281,7 +281,7 @@
       "needs_ad": true
     },
     "elazig": {
-      "names": {"ar": "إيلازيغ", "en": "Elazig", "tr": "Elazığ"},
+      "names": {"ar": "ايلازيغ", "en": "Elazig", "tr": "Elazığ"},
       "famous_for": {
         "ar": "قلعة هارPUT التاريخية المعلقة وبحيرة هازار الزرقاء 🏰⛵",
         "en": "Ancient hilltop fortress of Harput & sparkling Lake Hazar 🏰⛵",
@@ -291,7 +291,7 @@
       "needs_ad": true
     },
     "erzincan": {
-      "names": {"ar": "أرزينجان", "en": "Erzincan", "tr": "Erzincan"},
+      "names": {"ar": "ارزينجان", "en": "Erzincan", "tr": "Erzincan"},
       "famous_for": {
         "ar": "شلالات جيرليفيك الباردة، رياضة التجديف والجبن التولوم الشهير 🏞️🧀",
         "en": "Stunning Girlevik waterfall, rafting adventures & Erzincan cheese 🏞️🧀",
@@ -301,7 +301,7 @@
       "needs_ad": true
     },
     "erzurum": {
-      "names": {"ar": "أرضروم", "en": "Erzurum", "tr": "Erzurum"},
+      "names": {"ar": "ارضروم", "en": "Erzurum", "tr": "Erzurum"},
       "famous_for": {
         "ar": "منتجع بالاندوكين للتزلج والمدارس السلجوقية ذات المآذن المزدوجة 🎿🕌",
         "en": "Palandöken world-class ski resort & historic Seljuk architecture 🎿🕌",
@@ -311,7 +311,7 @@
       "needs_ad": true
     },
     "eskisehir": {
-      "names": {"ar": "إسكيشهير", "en": "Eskisehir", "tr": "Eskişehir"},
+      "names": {"ar": "اسكيشهير", "en": "Eskisehir", "tr": "Eskişehir"},
       "famous_for": {
         "ar": "مدينة الجسور النهرية والزوارق الإيطالية والحدائق الثقافية 🛶🌺",
         "en": "City of vibrant canals, Porsuk river gondolas & modern arts 🛶🌺",
@@ -371,7 +371,7 @@
       "needs_ad": true
     },
     "igdir": {
-      "names": {"ar": "إغدير", "en": "Igdir", "tr": "Iğdır"},
+      "names": {"ar": "اغدير", "en": "Igdir", "tr": "Iğdır"},
       "famous_for": {
         "ar": "بوابة الحدود الشرقية وبساتين المشمش الخصبة تحت ظلال جبل أرارات 🍑🏔️",
         "en": "Land of golden apricot orchards under the backdrop of Ararat 🍑🏔️",
@@ -381,7 +381,7 @@
       "needs_ad": true
     },
     "isparta": {
-      "names": {"ar": "إسبرطة", "en": "Isparta", "tr": "Isparta"},
+      "names": {"ar": "اسبرطة", "en": "Isparta", "tr": "Isparta"},
       "famous_for": {
         "ar": "عاصمة الورود والخزامى وعطور الورد النقية في الأناضول 🌹💜",
         "en": "The City of Roses, vibrant purple lavender fields & lakes 🌹💜",
@@ -391,7 +391,7 @@
       "needs_ad": true
     },
     "istanbul": {
-      "names": {"ar": "إسطنبول", "en": "Istanbul", "tr": "İstanbul"},
+      "names": {"ar": "اسطنبول", "en": "Istanbul", "tr": "İstanbul"},
       "famous_for": {
         "ar": "تشتهر بالتاريخ العريق والحضارة العثمانية ومضيق البوسفور 🕌✨",
         "en": "Famous for Ottoman heritage, Bosphorus Strait & historic splendor 🕌✨",
@@ -401,7 +401,7 @@
       "needs_ad": true
     },
     "izmir": {
-      "names": {"ar": "إزمير", "en": "Izmir", "tr": "İzmir"},
+      "names": {"ar": "ازمير", "en": "Izmir", "tr": "İzmir"},
       "famous_for": {
         "ar": "لؤلؤة بحر إيجة، الكورنيش الحيوي والآثار الإغريقية 🏛️⛵",
         "en": "Pearl of the Aegean, vibrant seafront Kordon & Ephesus ruins 🏛️⛵",
@@ -621,7 +621,7 @@
       "needs_ad": true
     },
     "ordu": {
-      "names": {"ar": "أوردو", "en": "Ordu", "tr": "Ordu"},
+      "names": {"ar": "اوردو", "en": "Ordu", "tr": "Ordu"},
       "famous_for": {
         "ar": "قمة بوزتبي الساحرة، تلفريك البحر وتلال الغيوم الخضراء 🚡☁️",
         "en": "Breathtaking Boztepe cable car view & lush green coastal plateaus 🚡☁️",
@@ -761,7 +761,7 @@
       "needs_ad": true
     },
     "usak": {
-      "names": {"ar": "أوشاك", "en": "Usak", "tr": "Uşak"},
+      "names": {"ar": "اوشاك", "en": "Usak", "tr": "Uşak"},
       "famous_for": {
         "ar": "أخدود أولوبي (ثاني أطول أخدود بالعالم) وسجاد أوشاك التاريخي 🏜️🧶",
         "en": "Canyon of Ulubey (world's 2nd largest) & historical woven rugs 🏜️🧶",
@@ -773,7 +773,7 @@
     "van": {
       "names": {"ar": "وان", "en": "Van", "tr": "Van"},
       "famous_for": {
-        "ar": "بحيرة وان الكبرى، قطط وان النادرة وجزيرة أختامار 🐱🌊",
+        "ar": "بحيرة وان الكبرى، قطط وان النادرة وجزيرة اكدمار 🐱🌊",
         "en": "Gigantic Lake Van, unique white swimming cats & Akdamar Island 🐱🌊",
         "tr": "Van Gölü ve Akdamar Kilisesi, meşhur Van kedisi ve kahvaltısı 🐱🌊"
       },

@@ -882,7 +882,7 @@
         ]
       },
       {
-        "type": "sea",
+        "type": "ferry",
         "line_code": "FERRY",
         "color": "#00ACC1",
         "name": {
@@ -907,7 +907,7 @@
         ]
       },
       {
-        "type": "bus",
+        "type": "metrobus",
         "line_code": "METROBUS",
         "color": "#D81B60",
         "name": {
@@ -934,7 +934,7 @@
         ]
       },
       {
-        "type": "airport_bus",
+        "type": "bus",
         "line_code": "AIRPORT-BUS",
         "color": "#3949AB",
         "name": {

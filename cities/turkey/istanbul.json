@@ -6,9 +6,9 @@
       "tr": "İstanbul"
     },
     "description": {
-      "ar": "تتربع إسطنبول على عرش المدن التي تربط قارات العالم، مشكّلةً جسراً حضارياً فريداً بين آسيا وأوروبا. تحتضن المدينة طبيعة مائية ساحرة؛ حيث يحدّها البحر الأسود من الشمال، وينساب عبر قلبها مضيق البوسفور ليلتقي بعمق بحر مرمرة في الجنوب. تتميز هذه الحاضرة بإرث تاريخي عريق يمتد بجذوره إلى العهدين البيزنطي والعثماني، مما جعلها منارة ثقافية ومركزاً تجارياً رائداً.",
-      "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south.",
-      "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur."
+      "ar": "تتربع إسطنبول على عرش المدن التي تربط قارات العالم، مشكّلةً جسراً حضارياً فريداً بين آسيا وأوروبا. تحتضن المدينة طبيعة مائية ساحرة؛ حيث يحدّها البحر الأسود من الشمال، وينساب عبر قلبها مضيق البوسفور ليلتقي بعمق بحر مرمرة في الجنوب. تتميز هذه الحاضرة بإرث تاريخي عريق يمتد بجذوره إلى العهدين البيزنطي والعثماني، مما جعلها منارة ثقافية ومركزاً تجارياً رائداً. واليوم، تحتفي إسطنبول بتنوعها الإنساني الفريد بتعداد سكان يتجاوز حاجز الـ 16 مليون نسمة، ويزيدها سحراً جزر الأميرات الخمسة المفتوحة والآمنة للزيارة السياحية والتي تتلألأ في قلب بحر مرمرة، لترسم معاً لوحة طبيعية وتاريخية لا مثيل لها.",
+      "en": "Istanbul reigns supreme among the world's cross-continental cities, forming a unique cultural bridge between Asia and Europe. The city embraces a breathtaking aquatic nature; bounded by the Black Sea to the north, while the Bosphorus Strait flows through its heart to meet the depths of the Sea of Marmara in the south. This metropolis boasts an ancient historical heritage deeply rooted in both the Byzantine and Ottoman eras, making it a cultural beacon and a leading commercial hub. Today, Istanbul celebrates its unique human diversity with a population exceeding 16 million, while its charm is further heightened by the five Princes' Islands open and safe for tourist visits, shimmering in the heart of the Sea of Marmara, together painting an unparalleled natural and historical masterpiece.",
+      "tr": "İstanbul, Asya ile Avrupa arasında eşsiz bir kültür köprüsü oluşturarak dünyanın kıtaları birbirine bağlayan şehirlerinin zirvesinde yer alır. Şehir, göz alıcı bir su doğasıyla sarmalanmıştır; kuzeyinde Karadeniz uzanırken, kalbinden akan İstanbul Boğazı güneyde Marmara Denizi'nin derinlikleriyle buluşur. Bizans ve Osmanlı dönemlerine kadar uzanan köklü bir tarihi mirasa sahip olan bu metropol, bir kültür feneri ve öncü bir ticaret merkezi haline gelmiştir. Bugün İstanbul, 16 milyonu aşan nüfusuyla benzersiz insani çeşitliliğini kutlarken, Marmara Denizi'nin kalbinde parıldayan ve turistik ziyarete açık, güvenli beş Prens Adası da bu büyüleyici güzelliğe apayrı bir ihtişam katarak bir arada eşsiz bir doğa ve tarih tablosu çizmektedir."
     },
     "available_categories": [
       "hotels",
@@ -29,9 +29,9 @@
         "code": "IST",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
         "desc": {
-          "ar": "المطار الدولي الرئيسي والمركز الأساسي لحركة الطيران في الجانب الأوروبي من إسطنبول، وأحد أكبر وأحدث مطارات العالم.",
-          "en": "The main international airport and primary aviation hub on the European side of Istanbul, one of the world's largest airports.",
-          "tr": "İstanbul'un Avrupa yakasındaki ana uluslararası havalimanı ve dünyanın en modern havacılık merkezlerinden biri."
+          "ar": "هو المطار الدولي الرئيسي والمركز الأساسي لحركة الطيران في مدينة إسطنبول بالجانب الأوروبي من تركيا. يُصنف المطار كأحد أكبر وأحدث المطارات في العالم من حيث المساحة والطاقة الاستيعابية، حيث يمتد على مساحة ضخمة تصل إلى 76.5 مليون متر مربع. يقع في منطقة أرناؤوط كوي بالقسم الأوروبي شمال غرب المدينة. يتصدر المطار بانتظام قوائم المطارات الأكثر ازدحاماً وحركة للرحلات والركاب في القارة الأوروبية.",
+          "en": "Istanbul Airport (IST) is the main international airport and the primary aviation hub in the European side of Istanbul, Turkey. The airport is classified as one of the largest and most modern airports in the world in terms of area and passenger capacity, spanning a massive area of 76.5 million square meters. It is located in the Arnavutköy district on the European side, northwest of the city. The airport regularly tops the lists of the busiest airports for flights and passenger traffic in the European continent.",
+          "tr": "İstanbul Havalimanı (IST), Türkiye'nin İstanbul şehrinin Avrupa yakasındaki ana uluslararası havalimanı ve temel havacılık merkezidir. Yüz ölçümü ve yolcu kapasitesi bakımından dünyanın en büyük ve en modern havalimanlarından biri olarak sınıflandırılan havalimanı, 76.5 milyon metrekarelik devasa bir alana yayılmaktadır. Şehrin kuzeybatısında, Avrupa yakasındaki Arnavutköy ilçesinde yer almaktadır. Havalimanı, Avrupa kıtasında uçuş ve yolcu trafiği açısından en yoğun havalimanları listelerinde düzenli olarak ilk sıralarda yer almaktadır."
         },
         "location_url": "https://maps.google.com/?q=Istanbul+Airport",
         "needs_ad": true
@@ -45,9 +45,9 @@
         "code": "SAW",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
         "desc": {
-          "ar": "البوابة الجوية الدولية الرئيسية للجانب الآسيوي من إسطنبول، والمركز الأساسي لرحلات الطيران الاقتصادي.",
-          "en": "The main international air gateway for Istanbul's Asian side, serving as a hub for budget and regional carriers.",
-          "tr": "İstanbul'un Asya yakasının ana havalimanı olup özellikle ekonomik uçuşların en yoğun merkezidir."
+          "ar": "هو المطار الدولي الثاني الذي يخدم مدينة إسطنبول، ويعد البوابة الجوية الرئيسية والنابضة بالحياة للجانب الآسيوي من تركيا. يشتهر المطار بكونه مركزاً أساسياً لشركات الطيران الاقتصادي. يقع المطار في منطقة بندك (Pendik) بالقسم الآسيوي. سُمي المطار تخليداً لذكرى صبيحة كوكجن، وهي الابنة بالتبني لمصطفى كمال أتاتورك وأول امرأة تقود طائرة حربية ومقاتلة عسكرية في التاريخ. يُعد ثاني أكثر مطارات تركيا ازدحاماً والتاسع على مستوى القارة الأوروبية.",
+          "en": "It is the second international airport serving the city of Istanbul and is considered the main, vibrant aviation gateway to the Asian side of Turkey. The airport is famous for being a primary hub for low-cost airlines. It is located in the Pendik district on the Asian side. The airport was named to honor the memory of Sabiha Gökçen, the adopted daughter of Mustafa Kemal Atatürk and the first female fighter pilot and military aviator in history. It ranks as the second busiest airport in Turkey and the ninth across the European continent.",
+          "tr": "İstanbul şehrine hizmet veren ikinci uluslararası havalimanıdır ve Türkiye'nin Asya yakasının ana, dinamik hava kapısı olarak kabul edilir. Havalimanı, özellikle düşük maliyetli (ekonomik) havayolu şirketlerinin temel merkezi olmasıyla tanınır. Asya yakasındaki Pendik ilçesinde yer almaktadır. Havalimanı, Mustafa Kemal Atatürk'ün manevi kızı ve tarihteki ilk kadın savaş uçağı pilotu ile askeri pilot olan Sabiha Gökçen'in anısını yaşatmak amacıyla bu ismi almıştır. Türkiye'nin en yoğun ikinci havalimanı olup, Avrupa kıtası genelinde ise dokuzuncu sırada yer almaktadır."
         },
         "location_url": "https://maps.google.com/?q=Sabiha+Gokcen+Airport",
         "needs_ad": true
@@ -64,9 +64,9 @@
         "website": "https://www.bitaksi.com",
         "needs_ad": true,
         "description": {
-          "ar": "التطبيق التركي الأول لحجز سيارات الأجرة الرسمية والتاكسي الأصفر والأسود بالعداد المعتمد.",
-          "en": "Turkey's leading app connecting passengers directly with official, licensed yellow and black taxis.",
-          "tr": "Yolcuları lisanslı resmi sarı ve turkuaz taksilerle buluşturan ilk yerli taksi uygulaması."
+          "ar": "هو أول تطبيق تركي محلي مخصص لحجز سيارات الأجرة عبر الهواتف الذكية. يربط التطبيق الركاب مباشرة مع سائقي التاكسي الرسميين والـمرخصين من البلدية. يتيح التطبيق خيارات متنوعة تشمل التاكسي الأصفر الاقتصادي، والتاكسي الفيروزي المريح، وفئة التاكسي الأسود الفاخر. يعمل بشكل رئيسي وقوي جداً في إسطنبول وأنقرة.",
+          "en": "It is Turkey's first local application dedicated to booking taxis via smartphones. The app connects passengers directly with official, municipality-licensed taxi drivers. It offers diverse options, including the budget-friendly Yellow Taxi, the comfortable Turquoise Taxi, and the premium Black Taxi category. It operates primarily and very strongly in Istanbul and Ankara.",
+          "tr": "Akıllı telefonlar üzerinden taksi çağırmak için geliştirilmiş ilk yerli Türk uygulamasıdır. Uygulama, yolcuları doğrudan belediye lisanslı resmi taksi sürücüleri ile buluşturur. Ekonomik Sarı Taksi, konforlu Turkuaz Taksi ve lüks Siyah Taksi kategorileri dahil olmak üzere विभिन्न seçenekler sunar. Ağırlıklı olarak ve oldukça güçlü bir şekilde İstanbul ve Ankara'da faaliyet göstermektedir."
         }
       },
       {
@@ -79,9 +79,9 @@
         "website": "https://go.yandex/en_tr/",
         "needs_ad": true,
         "description": {
-          "ar": "تطبيق التنقل الذكي لحجز سيارات الأجرة وتتبع المسار المباشر ودعم الدفع الإلكتروني والنقدي.",
-          "en": "Smart navigation and ride-hailing app for booking official taxis with live GPS tracking.",
-          "tr": "Canlı rota takibi ve taksi çağırma imkanı sunan popüler ulaşım uygulaması."
+          "ar": "هو تطبيق المراسلة والنقل الذكي الشهير التابع للشركة الروسية العملاقة ياندكس. يتيح التطبيق للمستخدمين في تركيا حجز سيارات الأجرة الرسمية بمختلف فئاتها بسهولة تامة. يدعم التطبيق التاكسي الأصفر الاقتصادي بالإضافة إلى فئة التاكسي الأسود الفاخر لمن يفضلون رحلات أكثر راحة ورفاهية. الميزة الأبرز للتطبيق هي تقديمه خصماً يصل إلى 50% على 6 الرحلات الأولى عند تحميله واستخدامه لأول مرة لربط الدفع عبر البطاقة الائتمانية. (يمكن الدفع نقداً لكن بدون تخفيض). يتوسع التطبيق بشكل نشط ليشمل المدن الكبرى ومنها إسطنبول، أنقرة، إزمير، أنطاليا، اضنا، ومرسين.",
+          "en": "It is the renowned smart messaging and ride-hailing application developed by the Russian tech giant Yandex. The app allows users in Turkey to seamlessly book official taxis of various categories. It supports the budget-friendly Yellow Taxi, as well as the luxury Black Taxi category for those who prefer more comfortable and premium rides. The most prominent feature of the application is that it offers a discount of up to 50% on the first 6 rides when downloaded and used for the first time by linking a credit card payment. (You can pay cash but without discount). The application is actively expanding to include major cities, including Istanbul, Ankara, Izmir, Antalya, Adana, and Mersin.",
+          "tr": "Rus teknoloji devi Yandex'e ait olan, akıllı mesajlaşma ve ulaşım özelliklerini bir arada sunan ünlü bir uygulamadır. Uygulama, Türkiye'deki kullanıcıların farklı kategorilerdeki resmi taksileri son derece kolay bir şekilde çağırmalarına olanak tanır. Ekonomik Sarı Taksi'nin yanı sıra, daha konforlu ve lüks bir yolculuk tercih edenler için üst segment Siyah Taksi kategorisini de destekler. Uygulamanın en dikkat çekici özelliği, ilk kez indirilip kredi kartı ödeme yöntemi bağlandığında, ilk 6 yolculuk için %50'ye varan bir indirim sunmasıdır. (Nakit ödeme vardır ama indirim yok). Uygulama, başta İstanbul, Ankara, İzmir, Antalya, Adana ve Mersin olmak üzere büyük şehirleri kapsayacak şekilde aktif olarak genişlemektedir."
         }
       },
       {
@@ -94,9 +94,9 @@
         "website": "https://www.yemeksepeti.com",
         "needs_ad": true,
         "description": {
-          "ar": "التطبيق الأول في تركيا لطلب وجبات الطعام ومقاضي البقالة السريعة حتى باب الفندق.",
-          "en": "Turkey's premier food delivery platform connecting thousands of local restaurants.",
-          "tr": "Binlerce restorandan yemek ve market siparişini kapıya getiren lider platform."
+          "ar": "التطبيق الأول في تركيا لطلب الطعام والمستلزمات الغذائية من آلاف المطاعم والمتاجر المحلية.",
+          "en": "Turkey's leading online food and grocery delivery platform connecting thousands of local restaurants.",
+          "tr": "Binlerce restorandan yemek ve market siparişi ulaştıran Türkiye'nin lider platformu."
         }
       },
       {
@@ -109,9 +109,9 @@
         "website": "https://www.uber.com",
         "needs_ad": true,
         "description": {
-          "ar": "حجز سيارات التاكسي الأصفر والتاكسي العائلي الكبير والفاخر بأسعار محددة وشفافة.",
-          "en": "Reliable ride-hailing for official yellow and large family van taxis in Istanbul.",
-          "tr": "İstanbul'da sarı taksi ve geniş siyah VIP taksi çağırma hizmeti sunan küresel uygulama."
+          "ar": "يعمل كوسيط رقمي آمن وموثوق يربط الركاب بسائقي سيارات الأجرة الرسميين المرخصين. بعد تسوية الأوضاع القانونية، يتيح التطبيق للمواطنين والسياح حجز عدة فئات من السيارات تشمل التاكسي الأصفر الاقتصادي، بالإضافة إلى فئة التاكسي الأسود الكبير والفاخر المخصصة للعائلات والرحلات المميزة. يتميز التطبيق بتقديم نظام تسعير شفاف وتتبع حي لمسار الرحلة مع إمكانية الدفع الآمن عبر بطاقات الائتمان داخل التطبيق أو نقداً. كلما تستخدم أكثر تحصل على خصومات أكثر تصل إلى 80% والدفع حصراً بالبطاقة الائتمانية. يعمل التطبيق بشكل رئيسي ونشط في إسطنبول، أنقرة، إزمير، وأنطاليا.",
+          "en": "It operates as a secure and reliable digital intermediary connecting passengers with licensed, official taxi drivers. Following the settlement of legal regulations, the app allows citizens and tourists to book multiple vehicle categories, including the budget-friendly Yellow Taxi, as well as the spacious and luxury Black Taxi category dedicated to families and premium trips. The app features a transparent pricing system and live route tracking, with the option of secure payment via credit cards within the app or in cash. The more you use it, the more discounts you get, reaching up to 80%, with payment strictly restricted to credit cards. The application operates primarily and actively in Istanbul, Ankara, Izmir, and Antalya.",
+          "tr": "Yolcuları lisanslı resmi taksi sürücüleriyle buluşturan, güvenli ve tescilli bir dijital aracı olarak faaliyet göstermektedir. Yasal düzenlemelerin sağlanmasının ardından uygulama, vatandaşların ve turistlerin ekonomik Sarı Taksi'nin yanı sıra aileler ve özel yolculuklar için ayrılmış geniş ve lüks Siyah Taksi kategorisi de dahil olmak üzere birden fazla araç sınıfında rezervasyon yapmasına olanak tanır. Uygulama, şeffaf bir fiyatlandırma sistemi ve canlı rota takibi sunarken, uygulama içinden kredi kartıyla veya nakit olarak güvenli ödeme seçeneği sunar. Daha fazla kullandıkça %80'e varan daha fazla indirim kazanırsınız ve ödeme yalnızca kredi kartıyla yapılmaktadır. Uygulama ağırlıklı olarak ve aktif bir şekilde İstanbul, Ankara, İzmir ve Antalya'da hizmet vermektedir."
         }
       }
     ],
@@ -122,7 +122,7 @@
           "en": "Ciragan Palace Kempinski",
           "tr": "Çırağan Palace Kempinski"
         },
-        "category": "resort",
+        "category": "5 stars",
         "rating": "5 Stars",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/cigaranpalace.png",
         "images": [

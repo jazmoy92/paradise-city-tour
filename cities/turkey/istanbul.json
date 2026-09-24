@@ -935,7 +935,7 @@
       },
       {
         "type": "bus",
-        "line_code": "AIRPORT-BUS",
+        "line_code": "BUS",
         "color": "#3949AB",
         "name": {
           "ar": "باصات المطار الفاخرة (HAVAİST & HAVABUS)",

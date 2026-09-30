@@ -1,5 +1,5 @@
 {
-  "countries": [
+  "countries": {
         "Afghanistan": {"flag": "🇦🇫", "ar": "أفغانستان", "en": "Afghanistan", "tr": "Afganistan"},
 	"Albania": {"flag": "🇦🇱", "ar": "ألبانيا", "en": "Albania", "tr": "Arnavutluk"},
 	"Algeria": {"flag": "🇩🇿", "ar": "الجزائر", "en": "Algeria", "tr": "Cezayir"},

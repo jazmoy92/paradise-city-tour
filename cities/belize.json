@@ -3,77 +3,29 @@
     "san_pedro": {
       "names": { "ar": "سان بيدرو", "en": "San Pedro", "tr": "San Pedro" }
     },
-    "caye_caulker": {
-      "names": { "ar": "كاي كولكر", "en": "Caye Caulker", "tr": "Caye Caulker" }
-    },
     "belize_city": {
-      "names": { "ar": "بليز سيتي", "en": "Belize City", "tr": "Belize City" }
-    },
-    "placencia": {
-      "names": { "ar": "بلنسية (بلاسينسيا)", "en": "Placencia", "tr": "Placencia" }
-    },
-    "san_ignacio": {
-      "names": { "ar": "سان إغناسيو", "en": "San Ignacio", "tr": "San Ignacio" }
+      "names": { "ar": "مدينة بيليز", "en": "Belize City", "tr": "Belize City" }
     },
     "belmopan": {
       "names": { "ar": "بلموبان", "en": "Belmopan", "tr": "Belmopan" }
     },
-    "hopkins": {
-      "names": { "ar": "هوبكينز", "en": "Hopkins", "tr": "Hopkins" }
-    },
-    "mountain_pine_ridge": {
-      "names": { "ar": "ماونتن باين ريدج", "en": "Mountain Pine Ridge", "tr": "Mountain Pine Ridge" }
-    },
-    "belize_district": {
-      "names": { "ar": "مقاطعة بليز", "en": "Belize District", "tr": "Belize İlçesi" }
-    },
-    "cayo_district": {
-      "names": { "ar": "مقاطعة كايو", "en": "Cayo District", "tr": "Cayo İlçesi" }
+    "san_ignacio_and_santa_elena": {
+      "names": { "ar": "سان إغناسيو وسانتا إلينا", "en": "San Ignacio & Santa Elena", "tr": "San Ignacio ve Santa Elena" }
     },
     "orange_walk": {
-      "names": { "ar": "أورانج والك (مدينة)", "en": "Orange Walk", "tr": "Orange Walk" }
+      "names": { "ar": "أورانج ووك", "en": "Orange Walk", "tr": "Orange Walk" }
     },
     "dangriga": {
       "names": { "ar": "دانغريغا", "en": "Dangriga", "tr": "Dangriga" }
     },
-    "stann_creek_district": {
-      "names": { "ar": "مقاطعة ستان كريك", "en": "Stann Creek District", "tr": "Stann Creek İlçesi" }
-    },
-    "corozal_town": {
-      "names": { "ar": "كوروزال تاون", "en": "Corozal Town", "tr": "Corozal Town" }
-    },
-    "maya_beach": {
-      "names": { "ar": "مايا بيتش", "en": "Maya Beach", "tr": "Maya Beach" }
+    "corozal": {
+      "names": { "ar": "كوروزال", "en": "Corozal", "tr": "Corozal" }
     },
     "punta_gorda": {
       "names": { "ar": "بونتا غوردا", "en": "Punta Gorda", "tr": "Punta Gorda" }
     },
-    "orange_walk_district": {
-      "names": { "ar": "مقاطعة أورانج والك", "en": "Orange Walk District", "tr": "Orange Walk İlçesi" }
-    },
-    "corozal_district": {
-      "names": { "ar": "مقاطعة كوروزال", "en": "Corozal District", "tr": "Corozal İlçesi" }
-    },
-    "toledo_district": {
-      "names": { "ar": "مقاطعة توليدو", "en": "Toledo District", "tr": "Toledo İlçesi" }
-    },
-    "santa_elena": {
-      "names": { "ar": "سانتا إيلينا", "en": "Santa Elena", "tr": "Santa Elena" }
-    },
     "benque_viejo_del_carmen": {
-      "names": { "ar": "بنكي فيجو ديل كارمن", "en": "Benque Viejo del Carmen", "tr": "Benque Viejo del Carmen" }
-    },
-    "sarteneja": {
-      "names": { "ar": "سارتينيخا", "en": "Sarteneja", "tr": "Sarteneja" }
-    },
-    "bullet_tree_falls": {
-      "names": { "ar": "بوليت تري فولز", "en": "Bullet Tree Falls", "tr": "Bullet Tree Falls" }
-    },
-    "cristo_rey": {
-      "names": { "ar": "كريستو ري", "en": "Cristo Rey", "tr": "Cristo Rey" }
-    },
-    "gallon_jug": {
-      "names": { "ar": "غالون جوغ", "en": "Gallon Jug", "tr": "Gallon Jug" }
+      "names": { "ar": "بينكي فييجو ديل كارمن", "en": "Benque Viejo del Carmen", "tr": "Benque Viejo del Carmen" }
     }
   }
 }

@@ -1,181 +1,535 @@
 {
-  "iran": {
-    "needs_ad": false,
-    "cities": {
-      "isfahan": {
-        "names": {
-          "ar": "أصفهان",
-          "en": "Isfahan",
-          "tr": "İsfahan"
-        },
-        "description": {
-          "ar": "تسمى 'نصف العالم'، تشتهر بـ ساحة نقش جهان العظيمة، مساجد الفسيفساء الزرقاء، وجسور نهر زاينده.",
-          "en": "Famous for Naqsh-e Jahan Square, breathtaking turquoise-tiled mosques, and historic vaulted bridges.",
-          "tr": "Nakş-ı Cihan Meydanı, turkuaz çinili camileri ve tarihi köprüleriyle ünlüdür."
-        },
-        "image": "res://images/isfahan.png",
-        "bg_image": "res://images/isfahan_bg.png",
-        "image_3d": "res://images/isfahan_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق عباسي أصفهان التراثي (Abbasi Hotel)",
-              "en": "Abbasi Hotel Isfahan",
-              "tr": "Abbasi Otel İsfahan"
-            },
-            "image": "res://images/abbasi_hotel.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم شهرزاد أصفهان (Shahrzad Restaurant)",
-              "en": "Shahrzad Restaurant Isfahan",
-              "tr": "Şehrazad Restoran İsfahan"
-            },
-            "image": "res://images/shahrzad_isfahan.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "كباب وبيرياني أصفهاني وأرز بالزعفران",
-              "en": "Traditional Persian Beryani & saffron Kebabs",
-              "tr": "Geleneksel İran Beryani ve Safranlı Kebap"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ساحة نقش جهان (Naqsh-e Jahan Square - UNESCO)",
-              "en": "Naqsh-e Jahan Square",
-              "tr": "Nakş-ı Cihan Meydanı"
-            },
-            "image": "res://images/naqsh_e_jahan.png",
-            "description": {
-              "ar": "إحدى أضخم الساحات التاريخية في العالم وتحيط بها المساجد وقصر ألي قابو والسوق.",
-              "en": "One of the largest city squares in the world framed by Safavid-era monuments.",
-              "tr": "Safavi dönemi anıtlarıyla çevrili dünyanın en büyük şehir meydanlarından biri."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "جسر سي أوه سيه بول (Si-o-se-pol Bridge)",
-              "en": "Si-o-se-pol (Bridge of 33 Arches)",
-              "tr": "Si-o-se-pol (33 Gözlü Köprü)"
-            },
-            "image": "res://images/sio_se_pol.png",
-            "description": {
-              "ar": "جسر قناطر صفوي بني عام 1602 بـ 33 قنطرة مضاءة فوق النهر.",
-              "en": "17th-century double-deck stone arch bridge spanning Zayanderud River.",
-              "tr": "17. yüzyıldan kalma Zayanderud Nehri üzerindeki iki katlı taş kemer köprü."
-            }
-          }
-        ]
-      },
-      "shiraz": {
-        "names": {
-          "ar": "شيراز",
-          "en": "Shiraz",
-          "tr": "Şiraz"
-        },
-        "description": {
-          "ar": "مدينة الشعراء والحدائق الوردية، تشتهر بـ مسجد نصیر الملك الملون (المسجد الوردي) وآثار تخت جمشيد (برسبوليس).",
-          "en": "City of poets, gardens, and flowers, famous for Nasir al-Mulk (Pink Mosque) and Persepolis.",
-          "tr": "Şairler ve bahçeler şehri; Pembe Cami (Nasir el-Mülk) ve Persepolis ile tanınır."
-        },
-        "image": "res://images/shiraz.png",
-        "bg_image": "res://images/shiraz_bg.png",
-        "image_3d": "res://images/shiraz_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق هما شيراز (Homa Hotel Shiraz)",
-              "en": "Homa Hotel Shiraz",
-              "tr": "Homa Otel Şiraz"
-            },
-            "image": "res://images/homa_shiraz.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم هفت خوان شيراز (Haft Khan)",
-              "en": "Haft Khan Restaurant Complex",
-              "tr": "Haft Khan Restoran Kompleksi Şiraz"
-            },
-            "image": "res://images/haft_khan.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "أطباق فارشية وشوربة كلام بولوف شيرازي",
-              "en": "Persian Kalam Polow & Traditional Kebabs",
-              "tr": "Geleneksel İran Kalam Polow ve Kebaplar"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "المسجد الوردي (Nasir al-Mulk Mosque)",
-              "en": "Nasir al-Mulk Mosque (Pink Mosque)",
-              "tr": "Nasir el-Mülk Camii (Pembe Cami)"
-            },
-            "image": "res://images/pink_mosque.png",
-            "description": {
-              "ar": "مسجد ساحر ينعكس نوره صباحاً عبر نوافذه الزجاجية الملونة والفسيفساء الوردية.",
-              "en": "Famous Qajar-era mosque filling with kaleidoscope sunlight filtered through stained glass.",
-              "tr": "Vitray camlarından süzülen kaleydoskopik güneş ışığıyla ünlü Kaçar dönemi camii."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "آثار مدينة تخت جمشيد (Persepolis - UNESCO)",
-              "en": "Persepolis Ancient City Ruins",
-              "tr": "Persepolis Antik Kenti Kalıntıları"
-            },
-            "image": "res://images/persepolis.png",
-            "description": {
-              "ar": "عاصمة الإمبراطورية الأخمينية القديمة التي يعود تاريخها لعام 518 قبل الميلاد.",
-              "en": "Ceremonial capital of the Achaemenid Empire showcasing monumental stone staircases.",
-              "tr": "Akamenış İmparatorluğu'nun anıtsal taş merdivenleriyle ünlü törensel başkenti."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "tehran": {
+      "names": { "ar": "طهران", "en": "Tehran", "tr": "Tahran" }
+    },
+    "isfahan": {
+      "names": { "ar": "أصفهان", "en": "Isfahan", "tr": "İsfahan" }
+    },
+    "shiraz": {
+      "names": { "ar": "شيراز", "en": "Shiraz", "tr": "Şiraz" }
+    },
+    "mashhad": {
+      "names": { "ar": "مشهد", "en": "Mashhad", "tr": "Meşhed" }
+    },
+    "yazd": {
+      "names": { "ar": "يزد", "en": "Yazd", "tr": "Yezd" }
+    },
+    "tabriz": {
+      "names": { "ar": "تبريز", "en": "Tabriz", "tr": "Tebriz" }
+    },
+    "kish_island": {
+      "names": { "ar": "جزيرة كيش", "en": "Kish Island", "tr": "Kiş Adası" }
+    },
+    "qeshm_island": {
+      "names": { "ar": "جزيرة قشم", "en": "Qeshm Island", "tr": "Keşm Adası" }
+    },
+    "kashan": {
+      "names": { "ar": "كاشان", "en": "Kashan", "tr": "Kaşan" }
+    },
+    "qom": {
+      "names": { "ar": "قم", "en": "Qom", "tr": "Kum" }
+    },
+    "ahvaz": {
+      "names": { "ar": "أهواز", "en": "Ahvaz", "tr": "Ahvaz" }
+    },
+    "karaj": {
+      "names": { "ar": "كرج", "en": "Karaj", "tr": "Kerec" }
+    },
+    "kermanshah": {
+      "names": { "ar": "كرمانشاه", "en": "Kermanshah", "tr": "Kirmanşah" }
+    },
+    "hamadan": {
+      "names": { "ar": "همدان", "en": "Hamadan", "tr": "Hemedan" }
+    },
+    "kerman": {
+      "names": { "ar": "كرمان", "en": "Kerman", "tr": "Kirman" }
+    },
+    "rasht": {
+      "names": { "ar": "رشت", "en": "Rasht", "tr": "Reşt" }
+    },
+    "urmia": {
+      "names": { "ar": "أورمية", "en": "Urmia", "tr": "Urmiye" }
+    },
+    "bandar_abbas": {
+      "names": { "ar": "بندر عباس", "en": "Bandar Abbas", "tr": "Bender Abbas" }
+    },
+    "hormuz_island": {
+      "names": { "ar": "جزيرة هرمز", "en": "Hormuz Island", "tr": "Hürmüz Adası" }
+    },
+    "marvdasht": {
+      "names": { "ar": "مرودشت (برسيبوليس)", "en": "Marvdasht (Persepolis)", "tr": "Mervdeşt (Persepolis)" }
+    },
+    "shush": {
+      "names": { "ar": "شوش (سوسة)", "en": "Shush (Susa)", "tr": "Şuş (Susa)" }
+    },
+    "shushtar": {
+      "names": { "ar": "شوشتر", "en": "Shushtar", "tr": "Şüşter" }
+    },
+    "masuleh": {
+      "names": { "ar": "ماسوله", "en": "Masuleh", "tr": "Masule" }
+    },
+    "ardabil": {
+      "names": { "ar": "أردبيل", "en": "Ardabil", "tr": "Erdebil" }
+    },
+    "ramsar": {
+      "names": { "ar": "رامسر", "en": "Ramsar", "tr": "Ramsar" }
+    },
+    "abadan": {
+      "names": { "ar": "آبادان", "en": "Abadan", "tr": "Abadan" }
+    },
+    "khorramshahr": {
+      "names": { "ar": "خرمشهر", "en": "Khorramshahr", "tr": "Hürremşehr" }
+    },
+    "sanandaj": {
+      "names": { "ar": "سنندج", "en": "Sanandaj", "tr": "Senendec" }
+    },
+    "qazvin": {
+      "names": { "ar": "قزوين", "en": "Qazvin", "tr": "Kazvin" }
+    },
+    "zanjan": {
+      "names": { "ar": "زنجان", "en": "Zanjan", "tr": "Zencan" }
+    },
+    "soltaniyeh": {
+      "names": { "ar": "سلطانية", "en": "Soltaniyeh", "tr": "Sultaniye" }
+    },
+    "neyshabur": {
+      "names": { "ar": "نيشابور", "en": "Neyshabur", "tr": "Nişabur" }
+    },
+    "chalus": {
+      "names": { "ar": "چالوس", "en": "Chalus", "tr": "Çalus" }
+    },
+    "sarein": {
+      "names": { "ar": "سرعين", "en": "Sarein", "tr": "Sarein" }
+    },
+    "khorramabad": {
+      "names": { "ar": "خرم آباد", "en": "Khorramabad", "tr": "Hürremabad" }
+    },
+    "bushehr": {
+      "names": { "ar": "بوشهر", "en": "Bushehr", "tr": "Buşehr" }
+    },
+    "bandar_anzali": {
+      "names": { "ar": "بندر أنزلي", "en": "Bandar Anzali", "tr": "Enzeli" }
+    },
+    "dezful": {
+      "names": { "ar": "دزفول", "en": "Dezful", "tr": "Dezful" }
+    },
+    "lahijan": {
+      "names": { "ar": "لاهيجان", "en": "Lahijan", "tr": "Lahican" }
+    },
+    "gorgan": {
+      "names": { "ar": "گرگان", "en": "Gorgan", "tr": "Gürgan" }
+    },
+    "gonbad_e_kavus": {
+      "names": { "ar": "گنبد كاووس", "en": "Gonbad-e Kavus", "tr": "Kümbet-i Kavus" }
+    },
+    "nain": {
+      "names": { "ar": "نائين", "en": "Na'in", "tr": "Nain" }
+    },
+    "meybod": {
+      "names": { "ar": "ميبد", "en": "Meybod", "tr": "Meybod" }
+    },
+    "mahan": {
+      "names": { "ar": "ماهان", "en": "Mahan", "tr": "Mahan" }
+    },
+    "rayen": {
+      "names": { "ar": "راين", "en": "Rayen", "tr": "Rayen" }
+    },
+    "shahdad": {
+      "names": { "ar": "شهداد", "en": "Shahdad", "tr": "Şehdad" }
+    },
+    "takab": {
+      "names": { "ar": "تكاب", "en": "Takab", "tr": "Tekab" }
+    },
+    "jolfa": {
+      "names": { "ar": "جلفا", "en": "Jolfa", "tr": "Culfa" }
+    },
+    "tus": {
+      "names": { "ar": "طوس", "en": "Tus", "tr": "Tus" }
+    },
+    "arak": {
+      "names": { "ar": "أراك", "en": "Arak", "tr": "Erak" }
+    },
+    "sari": {
+      "names": { "ar": "ساري", "en": "Sari", "tr": "Sari" }
+    },
+    "amol": {
+      "names": { "ar": "آمل", "en": "Amol", "tr": "Amol" }
+    },
+    "babol": {
+      "names": { "ar": "بابل", "en": "Babol", "tr": "Babul" }
+    },
+    "babolsar": {
+      "names": { "ar": "بابلسر", "en": "Babolsar", "tr": "Babulsar" }
+    },
+    "nowshahr": {
+      "names": { "ar": "نوشهر", "en": "Nowshahr", "tr": "Nevşehr" }
+    },
+    "tonekabon": {
+      "names": { "ar": "تنكابن", "en": "Tonekabon", "tr": "Tonekabon" }
+    },
+    "kelardasht": {
+      "names": { "ar": "كلاردشت", "en": "Kelardasht", "tr": "Kelardeşt" }
+    },
+    "natanz": {
+      "names": { "ar": "نطنز", "en": "Natanz", "tr": "Natanz" }
+    },
+    "aran_va_bidgol": {
+      "names": { "ar": "آران وبيدگل", "en": "Aran va Bidgol", "tr": "Aran ve Bidgol" }
+    },
+    "abarkuh": {
+      "names": { "ar": "ابركوه", "en": "Abarkuh", "tr": "Eberkuh" }
+    },
+    "firuzabad": {
+      "names": { "ar": "فيروزآباد", "en": "Firuzabad", "tr": "Firuzabad" }
+    },
+    "maragheh": {
+      "names": { "ar": "مراغة", "en": "Maragheh", "tr": "Marağa" }
+    },
+    "khoy": {
+      "names": { "ar": "خوي", "en": "Khoy", "tr": "Hoy" }
+    },
+    "borujerd": {
+      "names": { "ar": "بروجرد", "en": "Borujerd", "tr": "Burucerd" }
+    },
+    "shahrekord": {
+      "names": { "ar": "شهركرد", "en": "Shahrekord", "tr": "Şehrikürd" }
+    },
+    "yasuj": {
+      "names": { "ar": "ياسوج", "en": "Yasuj", "tr": "Yasuc" }
+    },
+    "semnan": {
+      "names": { "ar": "سمنان", "en": "Semnan", "tr": "Semnan" }
+    },
+    "shahrud": {
+      "names": { "ar": "شاهرود", "en": "Shahrud", "tr": "Şahrud" }
+    },
+    "bastam": {
+      "names": { "ar": "بسطام", "en": "Bastam", "tr": "Bistam" }
+    },
+    "damghan": {
+      "names": { "ar": "دامغان", "en": "Damghan", "tr": "Damğan" }
+    },
+    "saveh": {
+      "names": { "ar": "ساوه", "en": "Saveh", "tr": "Save" }
+    },
+    "mahallat": {
+      "names": { "ar": "محلات", "en": "Mahallat", "tr": "Mahallat" }
+    },
+    "hengam_island": {
+      "names": { "ar": "جزيرة هنگام", "en": "Hengam Island", "tr": "Hengam Adası" }
+    },
+    "larak_island": {
+      "names": { "ar": "جزيرة لارك", "en": "Larak Island", "tr": "Larak Adası" }
+    },
+    "hendorabi_island": {
+      "names": { "ar": "جزيرة هندورابي", "en": "Hendorabi Island", "tr": "Hendorabi Adası" }
+    },
+    "marivan": {
+      "names": { "ar": "مريوان", "en": "Marivan", "tr": "Merivan" }
+    },
+    "mahabad": {
+      "names": { "ar": "مهاباد", "en": "Mahabad", "tr": "Mahabad" }
+    },
+    "rafsanjan": {
+      "names": { "ar": "رفسنجان", "en": "Rafsanjan", "tr": "Rafsancan" }
+    },
+    "sirjan": {
+      "names": { "ar": "سيرجان", "en": "Sirjan", "tr": "Sircan" }
+    },
+    "jiroft": {
+      "names": { "ar": "جيرفت", "en": "Jiroft", "tr": "Ciroft" }
+    },
+    "birjand": {
+      "names": { "ar": "بيرجند", "en": "Birjand", "tr": "Bircand" }
+    },
+    "bojnord": {
+      "names": { "ar": "بجنورد", "en": "Bojnord", "tr": "Bocnurd" }
+    },
+    "astara": {
+      "names": { "ar": "آستارا", "en": "Astara", "tr": "Astara" }
+    },
+    "talesh": {
+      "names": { "ar": "تالش", "en": "Talesh", "tr": "Taliş" }
+    },
+    "fuman": {
+      "names": { "ar": "فومن", "en": "Fuman", "tr": "Fuman" }
+    },
+    "bandar_torkaman": {
+      "names": { "ar": "بندر تركمن", "en": "Bandar Torkaman", "tr": "Bender Türkmen" }
+    },
+    "izeh": {
+      "names": { "ar": "إيذه", "en": "Izeh", "tr": "İze" }
+    },
+    "behbahan": {
+      "names": { "ar": "بهبهان", "en": "Behbahan", "tr": "Behbehan" }
+    },
+    "masjed_soleyman": {
+      "names": { "ar": "مسجد سليمان", "en": "Masjed Soleyman", "tr": "Mescid-i Süleyman" }
+    },
+    "andimeshk": {
+      "names": { "ar": "أنديمشك", "en": "Andimeshk", "tr": "Endimeşk" }
+    },
+    "genaveh": {
+      "names": { "ar": "گناوه", "en": "Genaveh", "tr": "Genave" }
+    },
+    "kazerun": {
+      "names": { "ar": "كازرون", "en": "Kazerun", "tr": "Kazerun" }
+    },
+    "jahrom": {
+      "names": { "ar": "جهرم", "en": "Jahrom", "tr": "Cehrom" }
+    },
+    "lar": {
+      "names": { "ar": "لار", "en": "Lar", "tr": "Lar" }
+    },
+    "malayer": {
+      "names": { "ar": "ملایر", "en": "Malayer", "tr": "Melayer" }
+    },
+    "kangavar": {
+      "names": { "ar": "كنگاور", "en": "Kangavar", "tr": "Kengaver" }
+    },
+    "meshginshahr": {
+      "names": { "ar": "مشگين شهر", "en": "Meshginshahr", "tr": "Meşkinşehr" }
+    },
+    "khalkhal": {
+      "names": { "ar": "خلخال", "en": "Khalkhal", "tr": "Halhal" }
+    },
+    "kaleybar": {
+      "names": { "ar": "كليبر", "en": "Kaleybar", "tr": "Kleyber" }
+    },
+    "osku": {
+      "names": { "ar": "أوسكو (كندوان)", "en": "Osku (Kandovan)", "tr": "Üskü" }
+    },
+    "bonab": {
+      "names": { "ar": "بناب", "en": "Bonab", "tr": "Binab" }
+    },
+    "ahar": {
+      "names": { "ar": "أهر", "en": "Ahar", "tr": "Eher" }
+    },
+    "tuyserkan": {
+      "names": { "ar": "تويسركان", "en": "Tuyserkan", "tr": "Tuyserkan" }
+    },
+    "nahavand": {
+      "names": { "ar": "نهاوند", "en": "Nahavand", "tr": "Nihavend" }
+    },
+    "sahneh": {
+      "names": { "ar": "صحنه", "en": "Sahneh", "tr": "Sahne" }
+    },
+    "dorud": {
+      "names": { "ar": "دورود", "en": "Dorud", "tr": "Durud" }
+    },
+    "aligudarz": {
+      "names": { "ar": "أليگودرز", "en": "Aligudarz", "tr": "Aligudarz" }
+    },
+    "azna": {
+      "names": { "ar": "أزنا", "en": "Azna", "tr": "Ezna" }
+    },
+    "saman": {
+      "names": { "ar": "سامان", "en": "Saman", "tr": "Saman" }
+    },
+    "borujen": {
+      "names": { "ar": "بروجن", "en": "Borujen", "tr": "Burucen" }
+    },
+    "sisakht": {
+      "names": { "ar": "سيسخت", "en": "Sisakht", "tr": "Sisaht" }
+    },
+    "dehdasht": {
+      "names": { "ar": "دهدشت", "en": "Dehdasht", "tr": "Dihdeşt" }
+    },
+    "garmsar": {
+      "names": { "ar": "گرمسار", "en": "Garmsar", "tr": "Germsar" }
+    },
+    "nur": {
+      "names": { "ar": "نور", "en": "Nur", "tr": "Nur" }
+    },
+    "mahmudabad": {
+      "names": { "ar": "محمودآباد", "en": "Mahmudabad", "tr": "Mahmutabad" }
+    },
+    "qaem_shahr": {
+      "names": { "ar": "قائم شهر", "en": "Qaem Shahr", "tr": "Kaimşehr" }
+    },
+    "behshahr": {
+      "names": { "ar": "بهشهر", "en": "Behshahr", "tr": "Behşehr" }
+    },
+    "neka": {
+      "names": { "ar": "نكا", "en": "Neka", "tr": "Neka" }
+    },
+    "abbasabad": {
+      "names": { "ar": "عباس آباد", "en": "Abbasabad", "tr": "Abbasabad" }
+    },
+    "rudbar": {
+      "names": { "ar": "رودبار", "en": "Rudbar", "tr": "Rudbar" }
+    },
+    "rudsar": {
+      "names": { "ar": "رودسر", "en": "Rudsar", "tr": "Rudsar" }
+    },
+    "langarud": {
+      "names": { "ar": "لنگرود", "en": "Langarud", "tr": "Lengerud" }
+    },
+    "siahkal": {
+      "names": { "ar": "سياكل", "en": "Siahkal", "tr": "Siyahkel" }
+    },
+    "masal": {
+      "names": { "ar": "ماسال", "en": "Masal", "tr": "Masal" }
+    },
+    "rezvanshahr": {
+      "names": { "ar": "رضوانشهر", "en": "Rezvanshahr", "tr": "Rızvanşehr" }
+    },
+    "astaneh_ye_ashrafiyeh": {
+      "names": { "ar": "آستانه أشرفية", "en": "Astaneh-ye Ashrafiyeh", "tr": "Astane Eşrefiye" }
+    },
+    "sowme_eh_sara": {
+      "names": { "ar": "صومعه سرا", "en": "Sowme'eh Sara", "tr": "Sovme-e Sera" }
+    },
+    "aliabad_e_katul": {
+      "names": { "ar": "علي آباد كتول", "en": "Aliabad-e Katul", "tr": "Aliabad-ı Katul" }
+    },
+    "bandar_gaz": {
+      "names": { "ar": "بندر گز", "en": "Bandar Gaz", "tr": "Bender Gez" }
+    },
+    "minudasht": {
+      "names": { "ar": "مينودشت", "en": "Minudasht", "tr": "Minudeşt" }
+    },
+    "sabzevar": {
+      "names": { "ar": "سبزوار", "en": "Sabzevar", "tr": "Sebzevar" }
+    },
+    "torbat_e_heydarieh": {
+      "names": { "ar": "تربت حيدريه", "en": "Torbat-e Heydarieh", "tr": "Türbet-i Haydariye" }
+    },
+    "kashmar": {
+      "names": { "ar": "كاشمر", "en": "Kashmar", "tr": "Kaşmer" }
+    },
+    "quchan": {
+      "names": { "ar": "قوچان", "en": "Quchan", "tr": "Koçan" }
+    },
+    "shirvan": {
+      "names": { "ar": "شيروان", "en": "Shirvan", "tr": "Şirvan" }
+    },
+    "esfarayen": {
+      "names": { "ar": "إسفراين", "en": "Esfarayen", "tr": "İsfarayen" }
+    },
+    "ferdows": {
+      "names": { "ar": "فردوس", "en": "Ferdows", "tr": "Firdevs" }
+    },
+    "qaen": {
+      "names": { "ar": "قائن", "en": "Qaen", "tr": "Kain" }
+    },
+    "fasa": {
+      "names": { "ar": "فسا", "en": "Fasa", "tr": "Fesa" }
+    },
+    "darab": {
+      "names": { "ar": "داراب", "en": "Darab", "tr": "Darab" }
+    },
+    "sepidan": {
+      "names": { "ar": "سپيدان", "en": "Sepidan", "tr": "Sepidan" }
+    },
+    "eqlid": {
+      "names": { "ar": "إقليد", "en": "Eqlid", "tr": "Eklid" }
+    },
+    "ardakan": {
+      "names": { "ar": "أردكان", "en": "Ardakan", "tr": "Erdekan" }
+    },
+    "mehriz": {
+      "names": { "ar": "مهريز", "en": "Mehriz", "tr": "Mehriz" }
+    },
+    "taft": {
+      "names": { "ar": "تفت", "en": "Taft", "tr": "Teft" }
+    },
+    "ashkezar": {
+      "names": { "ar": "أشكذر", "en": "Ashkezar", "tr": "Eşkezer" }
+    },
+    "bafq": {
+      "names": { "ar": "بافق", "en": "Bafq", "tr": "Bafk" }
+    },
+    "ramhormoz": {
+      "names": { "ar": "رامهرمز", "en": "Ramhormoz", "tr": "Ramhürmüz" }
+    },
+    "bandar_lengeh": {
+      "names": { "ar": "بندر لنجة", "en": "Bandar Lengeh", "tr": "Bender Lenge" }
+    },
+    "borazjan": {
+      "names": { "ar": "برازجان", "en": "Borazjan", "tr": "Borazcan" }
+    },
+    "saqqez": {
+      "names": { "ar": "سقز", "en": "Saqqez", "tr": "Sakkız" }
+    },
+    "baneh": {
+      "names": { "ar": "بانه", "en": "Baneh", "tr": "Bane" }
+    },
+    "bijar": {
+      "names": { "ar": "بيجار", "en": "Bijar", "tr": "Bicar" }
+    },
+    "qorveh": {
+      "names": { "ar": "قروه", "en": "Qorveh", "tr": "Kürve" }
+    },
+    "kamyaran": {
+      "names": { "ar": "كامياران", "en": "Kamyaran", "tr": "Kamyaran" }
+    },
+    "divandarreh": {
+      "names": { "ar": "ديواندره", "en": "Divandarreh", "tr": "Divandere" }
+    },
+    "dehgolan": {
+      "names": { "ar": "دهگلان", "en": "Dehgolan", "tr": "Dehgolan" }
+    },
+    "sarvabad": {
+      "names": { "ar": "سروآباد", "en": "Sarvabad", "tr": "Servabad" }
+    },
+    "bukan": {
+      "names": { "ar": "بوكان", "en": "Bukan", "tr": "Bukan" }
+    },
+    "sardasht": {
+      "names": { "ar": "سردشت", "en": "Sardasht", "tr": "Serdeşt" }
+    },
+    "piranshahr": {
+      "names": { "ar": "پيرانشهر", "en": "Piranshahr", "tr": "Piranşehr" }
+    },
+    "miandoab": {
+      "names": { "ar": "مياندوآب", "en": "Miandoab", "tr": "Miyandoab" }
+    },
+    "naghadeh": {
+      "names": { "ar": "نقده", "en": "Naghadeh", "tr": "Nekede" }
+    },
+    "oshnavieh": {
+      "names": { "ar": "أشنويه", "en": "Oshnavieh", "tr": "Uşnu" }
+    },
+    "shahin_dezh": {
+      "names": { "ar": "شاهين دژ", "en": "Shahin Dezh", "tr": "Şahindej" }
+    },
+    "najafabad": {
+      "names": { "ar": "نجف آباد", "en": "Najafabad", "tr": "Necefabad" }
+    },
+    "shahreza": {
+      "names": { "ar": "شهرضا", "en": "Shahreza", "tr": "Şehreza" }
+    },
+    "khansar": {
+      "names": { "ar": "خوانسار", "en": "Khansar", "tr": "Hansar" }
+    },
+    "golpayegan": {
+      "names": { "ar": "غولبايگان", "en": "Golpayegan", "tr": "Gülpayegan" }
+    },
+    "delijan": {
+      "names": { "ar": "دليجان", "en": "Delijan", "tr": "Delican" }
+    },
+    "tafresh": {
+      "names": { "ar": "تفرش", "en": "Tafresh", "tr": "Tefreş" }
+    },
+    "parsabad": {
+      "names": { "ar": "پارس آباد", "en": "Parsabad", "tr": "Parsabad" }
+    },
+    "abhar": {
+      "names": { "ar": "أبهر", "en": "Abhar", "tr": "Ebher" }
+    },
+    "mahneshan": {
+      "names": { "ar": "ماه نشان", "en": "Mahneshan", "tr": "Mahnişan" }
+    },
+    "salmas": {
+      "names": { "ar": "سلماس", "en": "Salmas", "tr": "Salmas" }
+    },
+    "farsan": {
+      "names": { "ar": "فارسان", "en": "Farsan", "tr": "Farsan" }
+    },
+    "lordegan": {
+      "names": { "ar": "لردگان", "en": "Lordegan", "tr": "Lordegan" }
     }
   }
 }

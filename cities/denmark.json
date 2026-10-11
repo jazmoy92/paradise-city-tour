@@ -1,204 +1,511 @@
 {
-  "denmark": {
-    "needs_ad": false,
-    "cities": {
-      "copenhagen": {
-        "names": {
-          "ar": "كوبنهاغن",
-          "en": "Copenhagen",
-          "tr": "Kopenhag"
-        },
-        "description": {
-          "ar": "عاصمة الدانمرك النابضة بالحياة، تشتهر بميناء نيه his الملون، تمثال حورية البحر الصغير، وحدائق تيفولي الترفيهية.",
-          "en": "The vibrant Danish capital, famous for colorful Nyhavn harbor, Tivoli Gardens, and cycling culture.",
-          "tr": "Renkli Nyhavn limanı, Tivoli Bahçeleri ve bisiklet kültürüyle ünlü Danimarka başkenti."
-        },
-        "image": "res://images/copenhagen.png",
-        "bg_image": "res://images/copenhagen_bg.png",
-        "image_3d": "res://images/copenhagen_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق دالانغلتر كوبنهاغن",
-              "en": "Hotel d'Angleterre Copenhagen",
-              "tr": "Hotel d'Angleterre Kopenhag"
-            },
-            "image": "res://images/dangleterre.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق نيمب كوبنهاغن",
-              "en": "Nimb Hotel Copenhagen",
-              "tr": "Nimb Hotel Kopenhag"
-            },
-            "image": "res://images/nimb_hotel.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم نوما العالمي (Noma)",
-              "en": "Noma Restaurant",
-              "tr": "Noma Restoran"
-            },
-            "image": "res://images/noma_copenhagen.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "مأكولات الشمال الأوروبي المبتكرة الحائزة على النجوم العالمية",
-              "en": "New Nordic World-class Gastronomy",
-              "tr": "Dünyaca Ünlü Yeni İskandinav Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ميناء نيهـافن التاريخي (Nyhavn)",
-              "en": "Nyhavn Waterfront",
-              "tr": "Nyhavn Limanı"
-            },
-            "image": "res://images/nyhavn.png",
-            "description": {
-              "ar": "أشهر ميناء تاريخي بالمباني الملونة والسفن الخشبية القديمة والمقاهي.",
-              "en": "17th-century waterfront canal district with brightly colored townhouses.",
-              "tr": "Parlak renkli evleriyle 17. yüzyıldan kalma sahil kanalı bölgesi."
-            }
-          },
-          {
-            "name": {
-              "ar": "حدائق تيفولي الترفيهية (Tivoli Gardens)",
-              "en": "Tivoli Gardens",
-              "tr": "Tivoli Bahçeleri"
-            },
-            "image": "res://images/tivoli_gardens.png",
-            "description": {
-              "ar": "ثاني أقدم ملاهي ترفيهية في العالم افتتحت عام 1843 بوسط كوبنهاغن.",
-              "en": "World's second-oldest operating amusement park with historic rides and gardens.",
-              "tr": "Tarihi oyuncakları ve bahçeleriyle dünyanın en eski ikinci eğlence parkı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "تمثال حورية البحر الصغيرة (The Little Mermaid)",
-              "en": "The Little Mermaid Statue",
-              "tr": "Küçük Deniz Kızı Heykeli"
-            },
-            "image": "res://images/little_mermaid.png",
-            "description": {
-              "ar": "تمثال برونزي أيقوني مستوحى من قصة الكاتب الدانمركي هانز أندرسون.",
-              "en": "Iconic bronze statue based on Hans Christian Andersen's fairy tale.",
-              "tr": "Hans Christian Andersen'in masalından esinlenilen ikonik bronz heykel."
-            }
-          }
-        ]
-      },
-      "aarhus": {
-        "names": {
-          "ar": "أورهوس",
-          "en": "Aarhus",
-          "tr": "Aarhus"
-        },
-        "description": {
-          "ar": "ثاني أكبر مدن الدانمرك والعاصمة الثقافية، تشتهر بمتنزه المتحف الحي ومتحف آروش الفني مع ممشى قوس قزح.",
-          "en": "Denmark's second-largest city, famous for ARoS Art Museum's rainbow panorama and Den Gamle By.",
-          "tr": "ARoS Sanat Müzesi'nin gökkuşağı panoraması ve Den Gamle By ile ünlü ikinci büyük şehir."
-        },
-        "image": "res://images/aarhus.png",
-        "bg_image": "res://images/aarhus_bg.png",
-        "image_3d": "res://images/aarhus_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق رويال أورهوس",
-              "en": "Hotel Royal Aarhus",
-              "tr": "Hotel Royal Aarhus"
-            },
-            "image": "res://images/hotel_royal_aarhus.png",
-            "rating": "4 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم فريديريكشوف أورهوس",
-              "en": "Frederikshøj Restaurant",
-              "tr": "Frederikshøj Restoran"
-            },
-            "image": "res://images/frederikshoj.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات دنمركية حديثة معتمدة على نجمة ميشلان",
-              "en": "Michelin-starred Scandinavian Dining",
-              "tr": "Michelin Yıldızlı İskandinav Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "متحف آروش الفني وممشى قوس قزح (ARoS Art Museum)",
-              "en": "ARoS Aarhus Art Museum",
-              "tr": "ARoS Aarhus Sanat Müzesi"
-            },
-            "image": "res://images/aros_aarhus.png",
-            "description": {
-              "ar": "متحف فني بجمال دائري ملون على السطح يمنحك رؤية المدينة بألوان قوس قزح.",
-              "en": "Modern art museum topped with Olafur Eliasson's 'Your Rainbow Panorama'.",
-              "tr": "Olafur Eliasson'un 'Your Rainbow Panorama' eseriyle taçlandırılmış modern sanat müzesi."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "البلدة القديمة المفتوحة (Den Gamle By)",
-              "en": "Den Gamle By (The Old Town Open-air Museum)",
-              "tr": "Den Gamle By Açık Hava Müzesi"
-            },
-            "image": "res://images/den_gamle_by.png",
-            "description": {
-              "ar": "متحف حي مفتوح يضم 75 بيتاً أثرياً خشبياً يمثل الحياة في الدانمرك القديمة.",
-              "en": "National open-air museum of urban history and timbered historic houses.",
-              "tr": "Ahşap tarihi evlerden oluşan ulusal açık hava şehir tarihi müzesi."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "copenhagen": {
+      "names": { "ar": "كوبنهاغن", "en": "Copenhagen (København)", "tr": "Kopenhag" }
+    },
+    "greenland": {
+      "names": { "ar": "جرينلاند", "en": "Greenland", "tr": "Grönland" }
+    },
+    "faroe_islands": {
+      "names": { "ar": "جزر فارو", "en": "Faroe Islands", "tr": "Faroe Adaları" }
+    },
+    "aarhus": {
+      "names": { "ar": "آرهوس", "en": "Aarhus", "tr": "Aarhus" }
+    },
+    "odense": {
+      "names": { "ar": "أودنسه", "en": "Odense", "tr": "Odense" }
+    },
+    "aalborg": {
+      "names": { "ar": "أولبورغ", "en": "Aalborg", "tr": "Aalborg" }
+    },
+    "billund": {
+      "names": { "ar": "بيلوند (ليغولاند)", "en": "Billund", "tr": "Billund" }
+    },
+    "roskilde": {
+      "names": { "ar": "روسكيله", "en": "Roskilde", "tr": "Roskilde" }
+    },
+    "helsingor": {
+      "names": { "ar": "هيلسينغور (قلعة هاملت)", "en": "Helsingør", "tr": "Helsingør" }
+    },
+    "skagen": {
+      "names": { "ar": "سكاين (سكاغن)", "en": "Skagen", "tr": "Skagen" }
+    },
+    "frederiksberg": {
+      "names": { "ar": "فريدريكسبيرغ", "en": "Frederiksberg", "tr": "Frederiksberg" }
+    },
+    "nyhavn": {
+      "names": { "ar": "نيهافن", "en": "Nyhavn", "tr": "Nyhavn" }
+    },
+    "christianshavn": {
+      "names": { "ar": "كريستيانيا (كريستيانزهافن)", "en": "Christianshavn", "tr": "Christianshavn" }
+    },
+    "esbjerg": {
+      "names": { "ar": "إسبيرغ", "en": "Esbjerg", "tr": "Esbjerg" }
+    },
+    "vejle": {
+      "names": { "ar": "فيله", "en": "Vejle", "tr": "Vejle" }
+    },
+    "kolding": {
+      "names": { "ar": "كولدينغ", "en": "Kolding", "tr": "Kolding" }
+    },
+    "horsens": {
+      "names": { "ar": "هورسنز", "en": "Horsens", "tr": "Horsens" }
+    },
+    "randers": {
+      "names": { "ar": "راندرس", "en": "Randers", "tr": "Randers" }
+    },
+    "silkeborg": {
+      "names": { "ar": "سيلكبورغ", "en": "Silkeborg", "tr": "Silkeborg" }
+    },
+    "hillerod": {
+      "names": { "ar": "هيليرود", "en": "Hillerød", "tr": "Hillerød" }
+    },
+    "ribe": {
+      "names": { "ar": "ريبه", "en": "Ribe", "tr": "Ribe" }
+    },
+    "ronne": {
+      "names": { "ar": "رونه (بورنهولم)", "en": "Rønne", "tr": "Rønne" }
+    },
+    "svendborg": {
+      "names": { "ar": "سفينبورغ", "en": "Svendborg", "tr": "Svendborg" }
+    },
+    "sonderborg": {
+      "names": { "ar": "سوندربورغ", "en": "Sønderborg", "tr": "Sønderborg" }
+    },
+    "dragor": {
+      "names": { "ar": "دراغور", "en": "Dragør", "tr": "Dragør" }
+    },
+    "tisvildeleje": {
+      "names": { "ar": "تيسفيلديليه", "en": "Tisvildeleje", "tr": "Tisvildeleje" }
+    },
+    "gilleleje": {
+      "names": { "ar": "غيليلييه", "en": "Gilleleje", "tr": "Gilleleje" }
+    },
+    "hornbaek": {
+      "names": { "ar": "هورنبيك", "en": "Hornbæk", "tr": "Hornbæk" }
+    },
+    "ebeltoft": {
+      "names": { "ar": "إيبيلتوفت", "en": "Ebeltoft", "tr": "Ebeltoft" }
+    },
+    "borre_mon": {
+      "names": { "ar": "بوره، مون (منحدرات مون)", "en": "Borre, Møn", "tr": "Borre (Møn)" }
+    },
+    "christiansfeld": {
+      "names": { "ar": "كريستيانسفيلد", "en": "Christiansfeld", "tr": "Christiansfeld" }
+    },
+    "hirtshals": {
+      "names": { "ar": "هيرتسهالس", "en": "Hirtshals", "tr": "Hirtshals" }
+    },
+    "frederikshavn": {
+      "names": { "ar": "فريدريكسهاون", "en": "Frederikshavn", "tr": "Frederikshavn" }
+    },
+    "klitmoller": {
+      "names": { "ar": "كليتمولر (هاواي الباردة)", "en": "Klitmøller", "tr": "Klitmøller" }
+    },
+    "blokhus": {
+      "names": { "ar": "بلوخوس", "en": "Blokhus", "tr": "Blokhus" }
+    },
+    "lokken": {
+      "names": { "ar": "لوكن", "en": "Løkken", "tr": "Løkken" }
+    },
+    "lonstrup": {
+      "names": { "ar": "لونستروب", "en": "Lønstrup", "tr": "Lønstrup" }
+    },
+    "hvide_sande": {
+      "names": { "ar": "هفيديه سانده", "en": "Hvide Sande", "tr": "Hvide Sande" }
+    },
+    "sondervig": {
+      "names": { "ar": "سونديرفيغ", "en": "Søndervig", "tr": "Søndervig" }
+    },
+    "thyboron": {
+      "names": { "ar": "تيبورون", "en": "Thyborøn", "tr": "Thyborøn" }
+    },
+    "stege": {
+      "names": { "ar": "ستيغه", "en": "Stege", "tr": "Stege" }
+    },
+    "maribo": {
+      "names": { "ar": "ماريبو", "en": "Maribo", "tr": "Maribo" }
+    },
+    "aeroskobing": {
+      "names": { "ar": "إيروكسكوبينغ", "en": "Ærøskøbing", "tr": "Ærøskøbing" }
+    },
+    "gudhjem": {
+      "names": { "ar": "غودهيم", "en": "Gudhjem", "tr": "Gudhjem" }
+    },
+    "svaneke": {
+      "names": { "ar": "سفانيكه", "en": "Svaneke", "tr": "Svaneke" }
+    },
+    "allinge": {
+      "names": { "ar": "ألينغه", "en": "Allinge", "tr": "Allinge" }
+    },
+    "fano": {
+      "names": { "ar": "فانو (نوربي)", "en": "Fanø (Nordby)", "tr": "Fanø" }
+    },
+    "sonderho": {
+      "names": { "ar": "سونديرهو", "en": "Sønderho", "tr": "Sønderho" }
+    },
+    "christianso": {
+      "names": { "ar": "كريستيانسو", "en": "Christiansø", "tr": "Christiansø" }
+    },
+    "viborg": {
+      "names": { "ar": "فيبورغ", "en": "Viborg", "tr": "Viborg" }
+    },
+    "fredericia": {
+      "names": { "ar": "فريدريشيا", "en": "Fredericia", "tr": "Fredericia" }
+    },
+    "herning": {
+      "names": { "ar": "هيرنينغ", "en": "Herning", "tr": "Herning" }
+    },
+    "naestved": {
+      "names": { "ar": "نيستفيد", "en": "Næstved", "tr": "Næstved" }
+    },
+    "koge": {
+      "names": { "ar": "كوجه", "en": "Køge", "tr": "Køge" }
+    },
+    "slagelse": {
+      "names": { "ar": "سلاجلسه", "en": "Slagelse", "tr": "Slagelse" }
+    },
+    "holbaek": {
+      "names": { "ar": "هولبيك", "en": "Holbæk", "tr": "Holbæk" }
+    },
+    "hjorring": {
+      "names": { "ar": "هيورينغ", "en": "Hjørring", "tr": "Hjørring" }
+    },
+    "ringsted": {
+      "names": { "ar": "رينغستيد", "en": "Ringsted", "tr": "Ringsted" }
+    },
+    "haderslev": {
+      "names": { "ar": "هادرسليف", "en": "Haderslev", "tr": "Haderslev" }
+    },
+    "skanderborg": {
+      "names": { "ar": "سكايندربورغ", "en": "Skanderborg", "tr": "Skanderborg" }
+    },
+    "skive": {
+      "names": { "ar": "سكيفه", "en": "Skive", "tr": "Skive" }
+    },
+    "nyborg": {
+      "names": { "ar": "نيبورغ", "en": "Nyborg", "tr": "Nyborg" }
+    },
+    "middelfart": {
+      "names": { "ar": "ميدلفارت", "en": "Middelfart", "tr": "Middelfart" }
+    },
+    "nykobing_falster": {
+      "names": { "ar": "نيكوبينغ فالستر", "en": "Nykøbing Falster", "tr": "Nykøbing Falster" }
+    },
+    "aabenraa": {
+      "names": { "ar": "أوبنرا", "en": "Aabenraa", "tr": "Aabenraa" }
+    },
+    "kalundborg": {
+      "names": { "ar": "كالوندبورغ", "en": "Kalundborg", "tr": "Kalundborg" }
+    },
+    "varde": {
+      "names": { "ar": "فارده", "en": "Varde", "tr": "Varde" }
+    },
+    "korsor": {
+      "names": { "ar": "كورسور", "en": "Korsør", "tr": "Korsør" }
+    },
+    "grenaa": {
+      "names": { "ar": "غريناه", "en": "Grenaa", "tr": "Grenaa" }
+    },
+    "thisted": {
+      "names": { "ar": "تيستيد", "en": "Thisted", "tr": "Thisted" }
+    },
+    "hobro": {
+      "names": { "ar": "هوبرو", "en": "Hobro", "tr": "Hobro" }
+    },
+    "nakskov": {
+      "names": { "ar": "ناكسكوف", "en": "Nakskov", "tr": "Nakskov" }
+    },
+    "vordingborg": {
+      "names": { "ar": "فوردينغبورغ", "en": "Vordingborg", "tr": "Vordingborg" }
+    },
+    "ringkobing": {
+      "names": { "ar": "رينغكوبينغ", "en": "Ringkøbing", "tr": "Ringkøbing" }
+    },
+    "fredensborg": {
+      "names": { "ar": "فريدنسبورغ", "en": "Fredensborg", "tr": "Fredensborg" }
+    },
+    "humlebaek": {
+      "names": { "ar": "هومليبيك", "en": "Humlebæk", "tr": "Humlebæk" }
+    },
+    "horsholm": {
+      "names": { "ar": "هورسهولم", "en": "Hørsholm", "tr": "Hørsholm" }
+    },
+    "birkerod": {
+      "names": { "ar": "بيركيرود", "en": "Birkerød", "tr": "Birkerød" }
+    },
+    "farum": {
+      "names": { "ar": "فاروم", "en": "Farum", "tr": "Farum" }
+    },
+    "taastrup": {
+      "names": { "ar": "تاستروب", "en": "Taastrup", "tr": "Taastrup" }
+    },
+    "holstebro": {
+      "names": { "ar": "هولستيبرو", "en": "Holstebro", "tr": "Holstebro" }
+    },
+    "norresundby": {
+      "names": { "ar": "نوريسوندبي", "en": "Nørresundby", "tr": "Nørresundby" }
+    },
+    "frederikssund": {
+      "names": { "ar": "فريدريكسوند", "en": "Frederikssund", "tr": "Frederikssund" }
+    },
+    "ikast": {
+      "names": { "ar": "إيكاست", "en": "Ikast", "tr": "Ikast" }
+    },
+    "lillerod": {
+      "names": { "ar": "ليليرود", "en": "Lillerød", "tr": "Lillerød" }
+    },
+    "odder": {
+      "names": { "ar": "أودر", "en": "Odder", "tr": "Odder" }
+    },
+    "hedensted": {
+      "names": { "ar": "هيدنستيد", "en": "Hedensted", "tr": "Hedensted" }
+    },
+    "vaerlose": {
+      "names": { "ar": "فاريليسه", "en": "Værløse", "tr": "Værløse" }
+    },
+    "haslev": {
+      "names": { "ar": "هاسليف", "en": "Haslev", "tr": "Haslev" }
+    },
+    "frederiksvaerk": {
+      "names": { "ar": "فريدريكسفيرك", "en": "Frederiksværk", "tr": "Frederiksværk" }
+    },
+    "bronderslev": {
+      "names": { "ar": "بروندرزليف", "en": "Brønderslev", "tr": "Brønderslev" }
+    },
+    "jyllinge": {
+      "names": { "ar": "يلينغه", "en": "Jyllinge", "tr": "Jyllinge" }
+    },
+    "vejen": {
+      "names": { "ar": "فاين", "en": "Vejen", "tr": "Vejen" }
+    },
+    "lystrup": {
+      "names": { "ar": "ليوستروب", "en": "Lystrup", "tr": "Lystrup" }
+    },
+    "helsinge": {
+      "names": { "ar": "هيلسينغه", "en": "Helsinge", "tr": "Helsinge" }
+    },
+    "struer": {
+      "names": { "ar": "ستروير", "en": "Struer", "tr": "Struer" }
+    },
+    "stovring": {
+      "names": { "ar": "ستوفرينغ", "en": "Støvring", "tr": "Støvring" }
+    },
+    "grindsted": {
+      "names": { "ar": "غريندستيد", "en": "Grindsted", "tr": "Grindsted" }
+    },
+    "galten": {
+      "names": { "ar": "غالتن", "en": "Galten", "tr": "Galten" }
+    },
+    "saeby": {
+      "names": { "ar": "سايبي", "en": "Sæby", "tr": "Sæby" }
+    },
+    "nykobing_mors": {
+      "names": { "ar": "نيكوبينغ مورس", "en": "Nykøbing Mors", "tr": "Nykøbing Mors" }
+    },
+    "aars": {
+      "names": { "ar": "آرس", "en": "Aars", "tr": "Aars" }
+    },
+    "hinnerup": {
+      "names": { "ar": "هينيروب", "en": "Hinnerup", "tr": "Hinnerup" }
+    },
+    "logten": {
+      "names": { "ar": "لوغتن", "en": "Løgten", "tr": "Løgten" }
+    },
+    "hundested": {
+      "names": { "ar": "هونديستيد", "en": "Hundested", "tr": "Hundested" }
+    },
+    "horning": {
+      "names": { "ar": "هورنينغ", "en": "Hørning", "tr": "Hørning" }
+    },
+    "hadsten": {
+      "names": { "ar": "هادستين", "en": "Hadsten", "tr": "Hadsten" }
+    },
+    "soro": {
+      "names": { "ar": "سورو", "en": "Sorø", "tr": "Sorø" }
+    },
+    "svenstrup": {
+      "names": { "ar": "سفينستروب", "en": "Svenstrup", "tr": "Svenstrup" }
+    },
+    "skjern": {
+      "names": { "ar": "سكيرن", "en": "Skjern", "tr": "Skjern" }
+    },
+    "ry": {
+      "names": { "ar": "ري", "en": "Ry", "tr": "Ry" }
+    },
+    "tonder": {
+      "names": { "ar": "توندر", "en": "Tønder", "tr": "Tønder" }
+    },
+    "bjerringbro": {
+      "names": { "ar": "بيرينغبرو", "en": "Bjerringbro", "tr": "Bjerringbro" }
+    },
+    "vojens": {
+      "names": { "ar": "فوينس", "en": "Vojens", "tr": "Vojens" }
+    },
+    "hammel": {
+      "names": { "ar": "هاميل", "en": "Hammel", "tr": "Hammel" }
+    },
+    "brande": {
+      "names": { "ar": "برانده", "en": "Brande", "tr": "Brande" }
+    },
+    "bramming": {
+      "names": { "ar": "برامينغ", "en": "Bramming", "tr": "Bramming" }
+    },
+    "slangerup": {
+      "names": { "ar": "سلانغيروب", "en": "Slangerup", "tr": "Slangerup" }
+    },
+    "ringe": {
+      "names": { "ar": "رينغه", "en": "Ringe", "tr": "Ringe" }
+    },
+    "faaborg": {
+      "names": { "ar": "فابورغ", "en": "Faaborg", "tr": "Faaborg" }
+    },
+    "aabybro": {
+      "names": { "ar": "أبيبرو", "en": "Aabybro", "tr": "Aabybro" }
+    },
+    "rudkobing": {
+      "names": { "ar": "رودكوبينغ", "en": "Rudkøbing", "tr": "Rudkøbing" }
+    },
+    "praesto": {
+      "names": { "ar": "بريستو", "en": "Præstø", "tr": "Præstø" }
+    },
+    "lemvig": {
+      "names": { "ar": "ليمفي", "en": "Lemvig", "tr": "Lemvig" }
+    },
+    "nykobing_sjaelland": {
+      "names": { "ar": "نيكوبينغ شيلاند", "en": "Nykøbing Sjælland", "tr": "Nykøbing Sjælland" }
+    },
+    "rorvig": {
+      "names": { "ar": "رورفيغ", "en": "Rørvig", "tr": "Rørvig" }
+    },
+    "sakskobing": {
+      "names": { "ar": "ساكسبينغ", "en": "Sakskøbing", "tr": "Sakskøbing" }
+    },
+    "nysted": {
+      "names": { "ar": "نيستيد", "en": "Nysted", "tr": "Nysted" }
+    },
+    "gedser": {
+      "names": { "ar": "غيدسر", "en": "Gedser", "tr": "Gedser" }
+    },
+    "stubbekobing": {
+      "names": { "ar": "ستوبينغ", "en": "Stubbekøbing", "tr": "Stubbekøbing" }
+    },
+    "jaegerspris": {
+      "names": { "ar": "ياغرسبرس", "en": "Jægerspris", "tr": "Jægerspris" }
+    },
+    "kerteminde": {
+      "names": { "ar": "كيرتيمينده", "en": "Kerteminde", "tr": "Kerteminde" }
+    },
+    "assens": {
+      "names": { "ar": "أسّنس", "en": "Assens", "tr": "Assens" }
+    },
+    "bogense": {
+      "names": { "ar": "بوغينسه", "en": "Bogense", "tr": "Bogense" }
+    },
+    "marstal": {
+      "names": { "ar": "مارستال", "en": "Marstal", "tr": "Marstal" }
+    },
+    "soby": {
+      "names": { "ar": "سوبي", "en": "Søby", "tr": "Søby" }
+    },
+    "tranekaer": {
+      "names": { "ar": "ترانيكير", "en": "Tranekær", "tr": "Tranekær" }
+    },
+    "bagenkop": {
+      "names": { "ar": "باغينكوب", "en": "Bagenkop", "tr": "Bagenkop" }
+    },
+    "nexo": {
+      "names": { "ar": "نكسو", "en": "Nexø", "tr": "Nexø" }
+    },
+    "aakirkeby": {
+      "names": { "ar": "آكيركيبي", "en": "Aakirkeby", "tr": "Aakirkeby" }
+    },
+    "hasle": {
+      "names": { "ar": "هاسله", "en": "Hasle", "tr": "Hasle" }
+    },
+    "grasten": {
+      "names": { "ar": "غرستن", "en": "Gråsten", "tr": "Gråsten" }
+    },
+    "tinglev": {
+      "names": { "ar": "تينغليف", "en": "Tinglev", "tr": "Tinglev" }
+    },
+    "padborg": {
+      "names": { "ar": "بادبورغ", "en": "Padborg", "tr": "Padborg" }
+    },
+    "toftlund": {
+      "names": { "ar": "توفتلوند", "en": "Toftlund", "tr": "Toftlund" }
+    },
+    "gram": {
+      "names": { "ar": "غرام", "en": "Gram", "tr": "Gram" }
+    },
+    "jyderup": {
+      "names": { "ar": "يوديروب", "en": "Jyderup", "tr": "Jyderup" }
+    },
+    "asnaes": {
+      "names": { "ar": "أوسناس", "en": "Asnæs", "tr": "Asnæs" }
+    },
+    "hong": {
+      "names": { "ar": "هونغ", "en": "Høng", "tr": "Høng" }
+    },
+    "dianalund": {
+      "names": { "ar": "ديانولوند", "en": "Dianalund", "tr": "Dianalund" }
+    },
+    "faxe": {
+      "names": { "ar": "فاكسه", "en": "Faxe", "tr": "Faxe" }
+    },
+    "dronningmolle": {
+      "names": { "ar": "درونينغموليه", "en": "Dronningmølle", "tr": "Dronningmølle" }
+    },
+    "gorlev": {
+      "names": { "ar": "غورليف", "en": "Gørlev", "tr": "Gørlev" }
+    },
+    "horve": {
+      "names": { "ar": "هورفي", "en": "Hørve", "tr": "Hørve" }
+    },
+    "thorsminde": {
+      "names": { "ar": "ثورسمينده", "en": "Thorsminde", "tr": "Thorsminde" }
+    },
+    "henne_strand": {
+      "names": { "ar": "هينه ستراند", "en": "Henne Strand", "tr": "Henne Strand" }
+    },
+    "byrum_laeso": {
+      "names": { "ar": "بيروم، لوسو", "en": "Byrum, Læsø", "tr": "Byrum (Læsø)" }
+    },
+    "nordby_samso": {
+      "names": { "ar": "نوربي، سامسو", "en": "Nordby, Samsø", "tr": "Nordby (Samsø)" }
+    },
+    "tranebjerg": {
+      "names": { "ar": "ترانيبييرغ", "en": "Tranebjerg", "tr": "Tranebjerg" }
+    },
+    "skaelskor": {
+      "names": { "ar": "سكيلسكور", "en": "Skælskør", "tr": "Skælskør" }
+    },
+    "greve_strand": {
+      "names": { "ar": "غريفي ستراند", "en": "Greve Strand", "tr": "Greve Strand" }
+    },
+    "hedehusene": {
+      "names": { "ar": "هيدهوسينه", "en": "Hedehusene", "tr": "Hedehusene" }
+    },
+    "solrod_strand": {
+      "names": { "ar": "سولرود ستراند", "en": "Solrød Strand", "tr": "Solrød Strand" }
+    },
+    "olstykke": {
+      "names": { "ar": "أولستيكه", "en": "Ølstykke", "tr": "Ølstykke" }
+    },
+    "stenlose": {
+      "names": { "ar": "ستينلوسه", "en": "Stenløse", "tr": "Stenløse" }
+    },
+    "allerod": {
+      "names": { "ar": "أليرود", "en": "Allerød", "tr": "Allerød" }
+    },
+    "niva": {
+      "names": { "ar": "نيفو", "en": "Nivå", "tr": "Nivå" }
+    },
+    "thy": {
+      "names": { "ar": "تين (منتزه ثاي الوطني)", "en": "Thy", "tr": "Thy" }
+    },
+    "orestad": {
+      "names": { "ar": "أورستاد", "en": "Ørestad", "tr": "Ørestad" }
     }
   }
 }

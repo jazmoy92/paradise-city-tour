@@ -1,281 +1,358 @@
 {
-  "cyprus": {
-    "needs_ad": false,
-    "cities": {
-      "nicosia": {
-        "names": {
-          "ar": "نيقوسيا",
-          "en": "Nicosia",
-          "tr": "Lefkoşa"
-        },
-        "description": {
-          "ar": "عاصمة قبرص التاريخية والمقسمة الفريدة، تشتهر بأسوارها البندقية النجمية والبلدة القديمة النابضة.",
-          "en": "The divided capital city of Cyprus, encircled by Venetian stone walls and filled with museums.",
-          "tr": "Kıbrıs'ın Venedik surlarıyla çevrili, müzelerle dolu tarihi başkenti."
-        },
-        "image": "res://images/nicosia.png",
-        "bg_image": "res://images/nicosia_bg.png",
-        "image_3d": "res://images/nicosia_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق ذا كابيتال كوست نيقوسيا",
-              "en": "The Landmark Nicosia",
-              "tr": "The Landmark Lefkoşa"
-            },
-            "image": "res://images/landmark_nicosia.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم زانيتوس المازة القبرصية",
-              "en": "Zanettos Taverna",
-              "tr": "Zanettos Taverna"
-            },
-            "image": "res://images/zanettos.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "مازة قبرصية يونانية وشرقية تقليدية",
-              "en": "Traditional Cypriot Meze",
-              "tr": "Geleneksel Kıbrıs Mezesi"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "أسوار نيقوسيا البندقية (Venetian Walls)",
-              "en": "Venetian Walls of Nicosia",
-              "tr": "Lefkoşa Venedik Surları"
-            },
-            "image": "res://images/venetian_walls_nicosia.png",
-            "description": {
-              "ar": "أسوار حصينة تعود للقرن السادس عشر مصممة على شكل نجمة بـ 11 حصناً.",
-              "en": "16th-century star-shaped stone fortification with 11 bastions.",
-              "tr": "11 tabyalı yıldız şeklinde 16. yüzyıl taş tahkimatı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "شارع ليدرا للمشاة (Ledra Street)",
-              "en": "Ledra Street Pedestrian Way",
-              "tr": "Uzun Yol (Ledra) Yürüyüş Caddesi"
-            },
-            "image": "res://images/ledra_street.png",
-            "description": {
-              "ar": "شارع للتسوق والمقاهي يقطع قلب المدينة القديمة.",
-              "en": "Lively commercial pedestrian street passing through historical Nicosia.",
-              "tr": "Tarihi Lefkoşa'dan geçen canlı alışveriş yaya caddesi."
-            }
-          }
-        ]
-      },
-      "limassol": {
-        "names": {
-          "ar": "ليماسول",
-          "en": "Limassol",
-          "tr": "Limasol"
-        },
-        "description": {
-          "ar": "العاصمة البحرية والترفيهية لقبرص، تشتهر بميناء اليخوت الحديث، الشواطئ الممتازة، والمهرجانات السنوية.",
-          "en": "Cyprus's vibrant coastal hub, famous for Limassol Marina, seaside promenade, and luxury beach resorts.",
-          "tr": "Kıbrıs'ın sahil kordonu, marinası ve lüks resortlarıyla ünlü canlı sahil şehri."
-        },
-        "image": "res://images/limassol.png",
-        "bg_image": "res://images/limassol_bg.png",
-        "image_3d": "res://images/limassol_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أمارا ليماسول",
-              "en": "AMARA Hotel Limassol",
-              "tr": "AMARA Hotel Limasol"
-            },
-            "image": "res://images/amara_limassol.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "منتجع فورسيزونز ليماسول",
-              "en": "Four Seasons Hotel Limassol",
-              "tr": "Four Seasons Hotel Limasol"
-            },
-            "image": "res://images/four_seasons_limassol.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم ماتسوهيسا ليماسول",
-              "en": "Matsuhisa Limassol",
-              "tr": "Matsuhisa Limasol"
-            },
-            "image": "res://images/matsuhisa_limassol.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "ياباني وبحري فاخر بإشراف الشيف نوبو",
-              "en": "Japanese-Peruvian Nobu Seafood",
-              "tr": "Japon-Peru Lüks Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ميناء مارينا ليماسول اليخوتي (Limassol Marina)",
-              "en": "Limassol Marina",
-              "tr": "Limasol Marinası"
-            },
-            "image": "res://images/limassol_marina.png",
-            "description": {
-              "ar": "مرسى يخوت عالمي محاط بالمطاعم المطلة والمحلات الفاخرة.",
-              "en": "State-of-the-art superyacht marina lined with waterfront dining and boutiques.",
-              "tr": "Sahil restoranları ve butiklerle çevrili modern lüks yat marinası."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "قلعة ليماسول القروسطية (Limassol Castle)",
-              "en": "Limassol Medieval Castle",
-              "tr": "Limasol Ortaçağ Kalesi"
-            },
-            "image": "res://images/limassol_castle.png",
-            "description": {
-              "ar": "قلعة تاريخية شهدت زفاف الملك ريتشارد قلب الأسد وتضم متحفاً للآثار.",
-              "en": "12th-century castle where Richard the Lionheart married Berengaria of Navarre.",
-              "tr": "12. yüzyıldan kalma, Aslan Yürekli Richard'ın evlendiği tarihi kale."
-            }
-          }
-        ]
-      },
-      "paphos": {
-        "names": {
-          "ar": "بافوس",
-          "en": "Paphos",
-          "tr": "Baf"
-        },
-        "description": {
-          "ar": "عاصمة قبرص الثقافية والمصنفة بكاملها لدى اليونيسكو، تشتهر بصخرة أفروديت الفسيفساء الرومانية والمقابر الأثرية.",
-          "en": "Entire UNESCO World Heritage city, mythic birthplace of Aphrodite with ancient Roman mosaics.",
-          "tr": "Afrodit'in doğduğu yer olarak bilinen, antik Roma mozaiklerine sahip UNESCO şehri."
-        },
-        "image": "res://images/paphos.png",
-        "bg_image": "res://images/paphos_bg.png",
-        "image_3d": "res://images/paphos_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع أنابيل بافوس",
-              "en": "Annabelle Hotel Paphos",
-              "tr": "Annabelle Hotel Baf"
-            },
-            "image": "res://images/annabelle_paphos.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم أوشن باسكيت بافوس",
-              "en": "Ocean Basket Paphos",
-              "tr": "Ocean Basket Baf"
-            },
-            "image": "res://images/ocean_basket_paphos.png",
-            "rating": "4.7",
-            "cuisine": {
-              "ar": "أسماك ومأكولات بحرية طازجة",
-              "en": "Fresh Seafood & Mediterranean",
-              "tr": "Taze Deniz Ürünleri ve Akdeniz"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "صخرة أفروديت (Petra tou Romiou)",
-              "en": "Aphrodite's Rock",
-              "tr": "Afrodit Kayalığı"
-            },
-            "image": "res://images/aphrodite_rock.png",
-            "description": {
-              "ar": "تشكيل صخري أسطوري على الشاطئ يعتبر مسقط رأس آلهة الجمال أفروديت.",
-              "en": "Sea stack geological formation legendarily known as the birthplace of Aphrodite.",
-              "tr": "Efsaneye göre Afrodit'in denizden doğduğu sahil kayalığı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "مقابر الملوك الأثرية (Tombs of the Kings)",
-              "en": "Tombs of the Kings",
-              "tr": "Kral Mezarları"
-            },
-            "image": "res://images/tombs_of_the_kings.png",
-            "description": {
-              "ar": "مقابر منحوتة في الصخور الصلبة تعود للقرن الرابع قبل الميلاد.",
-              "en": "Monumental underground tombs carved out of solid rock dating to 4th century BC.",
-              "tr": "MÖ 4. yüzyıla tarihlenen, kayalara oyulmuş anıtsal yeraltı mezarları."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "ayia_napa": {
+      "names": { "ar": "أيا نابا", "en": "Ayia Napa", "tr": "Ayia Napa" }
+    },
+    "limassol": {
+      "names": { "ar": "ليماسول", "en": "Limassol", "tr": "Limasol" }
+    },
+    "paphos": {
+      "names": { "ar": "بافوس", "en": "Paphos", "tr": "Baf" }
+    },
+    "nicosia_lefkosa": {
+      "names": { "ar": "نيقوسيا (ليفكوشا)", "en": "Nicosia (Lefkoşa)", "tr": "Lefkoşa" }
+    },
+    "larnaca": {
+      "names": { "ar": "لارنكا", "en": "Larnaca", "tr": "Larnaka" }
+    },
+    "kyrenia": {
+      "names": { "ar": "كيرينيا", "en": "Kyrenia", "tr": "Girne" }
+    },
+    "protaras": {
+      "names": { "ar": "بروتاراس", "en": "Protaras", "tr": "Protaras" }
+    },
+    "famagusta": {
+      "names": { "ar": "فاماغوستا", "en": "Famagusta", "tr": "Gazimağusa" }
+    },
+    "kato_paphos": {
+      "names": { "ar": "كاتو بافوس", "en": "Kato Paphos", "tr": "Aşağı Baf (Kato Paphos)" }
+    },
+    "paralimni": {
+      "names": { "ar": "باراليمني", "en": "Paralimni", "tr": "Paralimni" }
+    },
+    "kyrenia_harbour": {
+      "names": { "ar": "كيرينيا هاربور (ميناء كيرينيا التاريخي)", "en": "Kyrenia Harbour", "tr": "Girne Yat Limanı" }
+    },
+    "bellapais": {
+      "names": { "ar": "بيلابايس", "en": "Bellapais", "tr": "Beylerbeyi (Bellapais)" }
+    },
+    "polis_chrysochous": {
+      "names": { "ar": "بوليس خريسوخوس", "en": "Polis Chrysochous", "tr": "Poli (Polis)" }
+    },
+    "latsi": {
+      "names": { "ar": "لاسي", "en": "Latsi", "tr": "Laçi (Latsi)" }
+    },
+    "karpaz": {
+      "names": { "ar": "كارباز (شبه جزيرة كارباز)", "en": "Karpaz", "tr": "Karpaz" }
+    },
+    "lefkara": {
+      "names": { "ar": "ليفكارا", "en": "Lefkara", "tr": "Lefkara" }
+    },
+    "omodos": {
+      "names": { "ar": "أومودوس", "en": "Omodos", "tr": "Omodos" }
+    },
+    "kakopetria": {
+      "names": { "ar": "كاكوبيتريا", "en": "Kakopetria", "tr": "Kakopetria" }
+    },
+    "platres": {
+      "names": { "ar": "بلاتريس", "en": "Platres", "tr": "Platres" }
+    },
+    "finikoudes": {
+      "names": { "ar": "فينيكوديس (ممشى لارنكا)", "en": "Finikoudes", "tr": "Finikoudes Sahili" }
+    },
+    "mackenzie": {
+      "names": { "ar": "مَكِنزي (شاطئ ماكنزي)", "en": "Mackenzie", "tr": "Mackenzie Plajı" }
+    },
+    "ayia_napa_marina": {
+      "names": { "ar": "أغيا نابا مارينا", "en": "Ayia Napa Marina", "tr": "Ayia Napa Marina" }
+    },
+    "pegeia": {
+      "names": { "ar": "بييا (خليج كورال)", "en": "Pegeia", "tr": "Peyia" }
+    },
+    "geroskipou": {
+      "names": { "ar": "غيراسكيبو", "en": "Geroskipou", "tr": "Yeroşibu" }
+    },
+    "kolossi": {
+      "names": { "ar": "كولوسي (قلعة كولوسي)", "en": "Kolossi", "tr": "Kolossi" }
+    },
+    "pissouri": {
+      "names": { "ar": "بيسوري", "en": "Pissouri", "tr": "Pissouri" }
+    },
+    "iskele": {
+      "names": { "ar": "إيسكيلي", "en": "İskele", "tr": "İskele" }
+    },
+    "guzelyurt_morphou": {
+      "names": { "ar": "غوزليورت (مورفو)", "en": "Güzelyurt (Morphou)", "tr": "Güzelyurt (Omorfo)" }
+    },
+    "lefke": {
+      "names": { "ar": "ليفكه", "en": "Lefke", "tr": "Lefke" }
+    },
+    "strovolos": {
+      "names": { "ar": "ستروفولوس", "en": "Strovolos", "tr": "Strovolos" }
+    },
+    "old_limassol": {
+      "names": { "ar": "ليماسول القديمة", "en": "Old Limassol", "tr": "Tarihi Limasol" }
+    },
+    "old_larnaca": {
+      "names": { "ar": "لارنكا القديمة", "en": "Old Larnaca", "tr": "Tarihi Larnaka" }
+    },
+    "old_kyrenia": {
+      "names": { "ar": "كيرينيا القديمة", "en": "Old Kyrenia", "tr": "Tarihi Girne" }
+    },
+    "kalopanayiotis": {
+      "names": { "ar": "كالوبانايوتيس", "en": "Kalopanayiotis", "tr": "Kalopanayiotis" }
+    },
+    "agios_tychonas": {
+      "names": { "ar": "أغيوس تيخوناس", "en": "Agios Tychonas", "tr": "Agios Tychonas" }
+    },
+    "germasogeia": {
+      "names": { "ar": "غيرماسوجيا", "en": "Germasogeia", "tr": "Yermasoyia" }
+    },
+    "pedoulas": {
+      "names": { "ar": "بيدولاس", "en": "Pedoulas", "tr": "Pedoulas" }
+    },
+    "agros": {
+      "names": { "ar": "أغروس", "en": "Agros", "tr": "Agros" }
+    },
+    "fikardou": {
+      "names": { "ar": "فيكارْدو", "en": "Fikardou", "tr": "Fikardou" }
+    },
+    "deryneia": {
+      "names": { "ar": "ديرينيا", "en": "Deryneia", "tr": "Derinya" }
+    },
+    "sotira": {
+      "names": { "ar": "سوتيرا", "en": "Sotira", "tr": "Sotira" }
+    },
+    "kappari": {
+      "names": { "ar": "كاباري", "en": "Kappari", "tr": "Kapparis" }
+    },
+    "pernera": {
+      "names": { "ar": "بارايميني (بيرنيرا)", "en": "Pernera", "tr": "Pernera" }
+    },
+    "oroklini": {
+      "names": { "ar": "أوروكليني", "en": "Oroklini", "tr": "Oroklini" }
+    },
+    "aradippou": {
+      "names": { "ar": "أراديبو", "en": "Aradippou", "tr": "Aradippou" }
+    },
+    "kiti": {
+      "names": { "ar": "كيتي", "en": "Kiti", "tr": "Kiti" }
+    },
+    "pervolia": {
+      "names": { "ar": "بيرفوليا", "en": "Pervolia", "tr": "Pervolia" }
+    },
+    "episkopi": {
+      "names": { "ar": "إبيسكوبي (كوريون)", "en": "Episkopi", "tr": "Yalova (Piskobu)" }
+    },
+    "erimi": {
+      "names": { "ar": "إيريمي", "en": "Erimi", "tr": "Erimi" }
+    },
+    "ypsonas": {
+      "names": { "ar": "يبسوناس", "en": "Ypsonas", "tr": "Ypsonas" }
+    },
+    "tala": {
+      "names": { "ar": "تالا", "en": "Tala", "tr": "Tala" }
+    },
+    "kissonerga": {
+      "names": { "ar": "كيسونيرغا", "en": "Kissonerga", "tr": "Kissonerga" }
+    },
+    "kathikas": {
+      "names": { "ar": "كاثيكاس", "en": "Kathikas", "tr": "Kathikas" }
+    },
+    "pomos": {
+      "names": { "ar": "بوموس", "en": "Pomos", "tr": "Pomos" }
+    },
+    "drouseia": {
+      "names": { "ar": "دروسيا", "en": "Drouseia", "tr": "Droushia" }
+    },
+    "neo_chorio": {
+      "names": { "ar": "نيـو خوريـو", "en": "Neo Chorio", "tr": "Neo Chorio" }
+    },
+    "argaka": {
+      "names": { "ar": "أرجاكا", "en": "Argaka", "tr": "Argaka" }
+    },
+    "zygi": {
+      "names": { "ar": "زاكيا (زيغي)", "en": "Zygi", "tr": "Terazi (Zygi)" }
+    },
+    "tochni": {
+      "names": { "ar": "توخني", "en": "Tochni", "tr": "Dohni (Taşkent)" }
+    },
+    "kalavasos": {
+      "names": { "ar": "كالافاسوس", "en": "Kalavasos", "tr": "Kalavasos" }
+    },
+    "kato_lefkara": {
+      "names": { "ar": "كاتو ليفكارا", "en": "Kato Lefkara", "tr": "Aşağı Lefkara" }
+    },
+    "vavla": {
+      "names": { "ar": "فافلا", "en": "Vavla", "tr": "Vavla" }
+    },
+    "skarinou": {
+      "names": { "ar": "سكارينو", "en": "Skarinou", "tr": "Skarinou" }
+    },
+    "kornos": {
+      "names": { "ar": "كورنوس", "en": "Kornos", "tr": "Kornos" }
+    },
+    "kofinou": {
+      "names": { "ar": "كوفينو", "en": "Kofinou", "tr": "Geçitkale (Köfünye)" }
+    },
+    "kyperounta": {
+      "names": { "ar": "كيبيرونتا", "en": "Kyperounta", "tr": "Kyperounta" }
+    },
+    "laneia": {
+      "names": { "ar": "لانيا", "en": "Laneia", "tr": "Laneia" }
+    },
+    "palaichori": {
+      "names": { "ar": "بالايخوري", "en": "Palaichori", "tr": "Palaichori" }
+    },
+    "lapithos": {
+      "names": { "ar": "لابيثوس", "en": "Lapithos", "tr": "Lapta" }
+    },
+    "karavas": {
+      "names": { "ar": "كاراڤاس", "en": "Karavas", "tr": "Alsancak (Karavas)" }
+    },
+    "rizokarpaso": {
+      "names": { "ar": "ريزوكارباسو", "en": "Rizokarpaso", "tr": "Dipkarpaz" }
+    },
+    "akanthou": {
+      "names": { "ar": "أكانثو", "en": "Akanthou", "tr": "Tatlısu (Akatu)" }
+    },
+    "lefkoniko": {
+      "names": { "ar": "ليفكونيكو", "en": "Lefkoniko", "tr": "Geçitkale (Lefkonuk)" }
+    },
+    "kythrea": {
+      "names": { "ar": "كيثريا", "en": "Kythrea", "tr": "Değirmenlik" }
+    },
+    "dromolaxia": {
+      "names": { "ar": "درومولاكسيا", "en": "Dromolaxia", "tr": "Dromolaxia" }
+    },
+    "athienou": {
+      "names": { "ar": "أثينو", "en": "Athienou", "tr": "Kiracıköy (Athienou)" }
+    },
+    "dali": {
+      "names": { "ar": "دالي", "en": "Dali", "tr": "Dali" }
+    },
+    "latsia": {
+      "names": { "ar": "لِتسيا", "en": "Latsia", "tr": "Latsia" }
+    },
+    "lakatamia": {
+      "names": { "ar": "لافاتاميا", "en": "Lakatamia", "tr": "Lakatamia" }
+    },
+    "engomi": {
+      "names": { "ar": "إنغومي", "en": "Engomi", "tr": "Engomi" }
+    },
+    "agios_dometios": {
+      "names": { "ar": "أجيوس دوميتيوس", "en": "Agios Dometios", "tr": "Aydomet" }
+    },
+    "aglantzia": {
+      "names": { "ar": "أغلانجيا", "en": "Aglantzia", "tr": "Eğlence (Aglantzia)" }
+    },
+    "livadia": {
+      "names": { "ar": "ليفاديا", "en": "Livadia", "tr": "Livadia" }
+    },
+    "tseri": {
+      "names": { "ar": "تْسيري", "en": "Tseri", "tr": "Tseri" }
+    },
+    "geri": {
+      "names": { "ar": "غيري", "en": "Geri", "tr": "Yeri (Geri)" }
+    },
+    "liopetri": {
+      "names": { "ar": "ليوبتري", "en": "Liopetri", "tr": "Liopetri" }
+    },
+    "frenaros": {
+      "names": { "ar": "فريناروس", "en": "Frenaros", "tr": "Frenaros" }
+    },
+    "avgorou": {
+      "names": { "ar": "أفغورو", "en": "Avgorou", "tr": "Avgorou" }
+    },
+    "achna": {
+      "names": { "ar": "أشنـا", "en": "Achna", "tr": "Düzce (Ahna)" }
+    },
+    "idalion": {
+      "names": { "ar": "إيداليون", "en": "Idalion", "tr": "İdalion" }
+    },
+    "akaki": {
+      "names": { "ar": "أكاكي", "en": "Akaki", "tr": "Akaki" }
+    },
+    "astromeritis": {
+      "names": { "ar": "أستروميريتيس", "en": "Astromeritis", "tr": "Astromerit" }
+    },
+    "peristerona": {
+      "names": { "ar": "بيرستيرونا", "en": "Peristerona", "tr": "Peristerona" }
+    },
+    "kaimakli": {
+      "names": { "ar": "كايمكلي", "en": "Kaimakli", "tr": "Kaymaklı" }
+    },
+    "kato_deftera": {
+      "names": { "ar": "كاتو ديفتيرا", "en": "Kato Deftera", "tr": "Aşağı Deftera" }
+    },
+    "pera_chorio": {
+      "names": { "ar": "بيرى خوريـو", "en": "Pera Chorio", "tr": "Pera Chorio" }
+    },
+    "pera_orinis": {
+      "names": { "ar": "بيرا أورينيس", "en": "Pera Orinis", "tr": "Pera Orinis" }
+    },
+    "kampia": {
+      "names": { "ar": "كامبيا", "en": "Kampia", "tr": "Kampia" }
+    },
+    "kapedes": {
+      "names": { "ar": "كابيديس", "en": "Kapedes", "tr": "Kapedes" }
+    },
+    "kampos": {
+      "names": { "ar": "كامبوس", "en": "Kampos", "tr": "Kampos" }
+    },
+    "polystypos": {
+      "names": { "ar": "بوليستيبو", "en": "Polystypos", "tr": "Polystypos" }
+    },
+    "platanistasa": {
+      "names": { "ar": "بلاتانيستاسا", "en": "Platanistasa", "tr": "Platanistasa" }
+    },
+    "silikou": {
+      "names": { "ar": "سيلكو", "en": "Silikou", "tr": "Silikou" }
+    },
+    "giolou": {
+      "names": { "ar": "غيولو", "en": "Giolou", "tr": "Giolou" }
+    },
+    "anarita": {
+      "names": { "ar": "أناريتا", "en": "Anarita", "tr": "Anarita" }
+    },
+    "amargeti": {
+      "names": { "ar": "أمارجيتي", "en": "Amargeti", "tr": "Amargeti" }
+    },
+    "arminou": {
+      "names": { "ar": "آرمينـو", "en": "Arminou", "tr": "Arminou" }
+    },
+    "kelokedara": {
+      "names": { "ar": "كيلوكيدارا", "en": "Kelokedara", "tr": "Kelokedara" }
+    },
+    "pano_arodes": {
+      "names": { "ar": "بانو آروذيس", "en": "Pano Arodes", "tr": "Yukarı Arodes" }
+    },
+    "kato_arodes": {
+      "names": { "ar": "كاتو آروذيس", "en": "Kato Arodes", "tr": "Aşağı Arodes" }
+    },
+    "nea_dimmata": {
+      "names": { "ar": "نيا ديماتا", "en": "Nea Dimmata", "tr": "Nea Dimmata" }
+    },
+    "yialia": {
+      "names": { "ar": "ياليا", "en": "Yialia", "tr": "Yayla (Yialia)" }
+    },
+    "androlikou": {
+      "names": { "ar": "أندروليكو", "en": "Androlikou", "tr": "Gündoğdu (Androlikou)" }
+    },
+    "inia": {
+      "names": { "ar": "إينيا", "en": "Inia", "tr": "İnia" }
+    },
+    "akoursos": {
+      "names": { "ar": "أكورْسوس", "en": "Akoursos", "tr": "Akoursos" }
+    },
+    "ayia_marina": {
+      "names": { "ar": "أيا مارينا", "en": "Ayia Marina", "tr": "Ayia Marina" }
+    },
+    "kato_zodeia": {
+      "names": { "ar": "كاتو زوديا", "en": "Kato Zodeia", "tr": "Aşağı Bostancı (Zodya)" }
+    },
+    "potamos_tou_kampou": {
+      "names": { "ar": "بوتاموس كامبو", "en": "Potamos tou Kampou", "tr": "Yedidalga" }
     }
   }
 }

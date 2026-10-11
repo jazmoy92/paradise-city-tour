@@ -1,107 +1,70 @@
 {
-  "taiwan": {
-    "needs_ad": false,
-    "cities": {
-      "taipei": {
-        "names": {
-          "ar": "تايبيه",
-          "en": "Taipei",
-          "tr": "Taipei"
-        },
-        "description": {
-          "ar": "عاصمة تايوان الفائقة التطور، تشتهر ببرج تايبيه 101 الأيقوني، متحف القصر القومي، وأسواق الطعام الليلية.",
-          "en": "Taiwan's modern capital, famous for Taipei 101 skyscraper, National Palace Museum, and Shilin Night Market.",
-          "tr": "Taipei 101 gökdeleni, Ulusal Saray Müzesi ve Shilin Gece Pazarı ile ünlü modern başkent."
-        },
-        "image": "res://images/taipei.png",
-        "bg_image": "res://images/taipei_bg.png",
-        "image_3d": "res://images/taipei_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق الماندارين أورينتال تايبيه (Mandarin Oriental)",
-              "en": "Mandarin Oriental, Taipei",
-              "tr": "Mandarin Oriental, Taipei"
-            },
-            "image": "res://images/mandarin_taipei.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوتيل جران هايات تايبيه 101 (Grand Hyatt Taipei)",
-              "en": "Grand Hyatt Taipei",
-              "tr": "Grand Hyatt Taipei"
-            },
-            "image": "res://images/grand_hyatt_taipei.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم دين تاي فونغ الأسطوري (Din Tai Fung 101)",
-              "en": "Din Tai Fung Taipei 101",
-              "tr": "Din Tai Fung Taipei 101"
-            },
-            "image": "res://images/din_tai_fung.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "أشهر مطعم لديم سام الشياولونغباو المطهو بالبشار في العالم",
-              "en": "World-famous Michelin Xiao Long Bao Steamed Dumplings",
-              "tr": "Dünyaca Ünlü Michelin Xiao Long Bao Mantısı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "برج تايبيه 101 الشاهق (Taipei 101)",
-              "en": "Taipei 101 Observatory",
-              "tr": "Taipei 101 Gözlem Kulesi"
-            },
-            "image": "res://images/taipei_101.png",
-            "description": {
-              "ar": "كان أطول ناطحة سحاب في العالم بارتفاع 508 متراً مصمم على شكل زهرة الخيزران الصينية.",
-              "en": "Iconic 508-meter bamboo-shaped skyscraper featuring a massive tuned mass damper ball.",
-              "tr": "Devasa ağırlık dengeleyicisine sahip 508 metrelik bambu şeklinde gökdelen."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "سوق شيلين الليلي الشهير (Shilin Night Market)",
-              "en": "Shilin Night Market",
-              "tr": "Shilin Gece Pazarı"
-            },
-            "image": "res://images/shilin_night_market.png",
-            "description": {
-              "ar": "أضخم وأشهر سوق ليلي للأطعمة السريعة، العصيرات، والملابس بقلب تايبيه.",
-              "en": "Taipei's largest night market packed with Taiwanese street food stalls and games.",
-              "tr": "Sokak yemekleri tezgahlarıyla dolu Taipei'nin en büyük gece pazarı."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "taipei_city": {
+      "names": { "ar": "تايبيه (المدينة)", "en": "Taipei City", "tr": "Taipei" }
+    },
+    "kaohsiung_city": {
+      "names": { "ar": "كاوهسيونغ", "en": "Kaohsiung City", "tr": "Kaohsiung" }
+    },
+    "taichung_city": {
+      "names": { "ar": "تانتشونغ (تايتشونغ)", "en": "Taichung City", "tr": "Taichung" }
+    },
+    "tainan_city": {
+      "names": { "ar": "تاينان", "en": "Tainan City", "tr": "Tainan" }
+    },
+    "new_taipei_city": {
+      "names": { "ar": "تايبيه الجديدة", "en": "New Taipei City", "tr": "Yeni Taipei (New Taipei)" }
+    },
+    "hualien_county": {
+      "names": { "ar": "هواليين", "en": "Hualien County", "tr": "Hualien" }
+    },
+    "nantou_county": {
+      "names": { "ar": "نانتو", "en": "Nantou County", "tr": "Nantou" }
+    },
+    "taoyuan_city": {
+      "names": { "ar": "تاوتشوانغ (تاويوان)", "en": "Taoyuan City", "tr": "Taoyuan" }
+    },
+    "pingtung_county": {
+      "names": { "ar": "بينغتونغ", "en": "Pingtung County", "tr": "Pingtung" }
+    },
+    "keelung_city": {
+      "names": { "ar": "كيلونغ", "en": "Keelung City", "tr": "Keelung" }
+    },
+    "yilan_county": {
+      "names": { "ar": "يلان", "en": "Yilan County", "tr": "Yilan" }
+    },
+    "chiayi_county": {
+      "names": { "ar": "شيايي (المقاطعة)", "en": "Chiayi County", "tr": "Chiayi (İlçe)" }
+    },
+    "hsinchu_city": {
+      "names": { "ar": "هسينتشو (المدينة)", "en": "Hsinchu City", "tr": "Hsinchu (Şehir)" }
+    },
+    "taitung_county": {
+      "names": { "ar": "تيتونغ", "en": "Taitung County", "tr": "Taitung" }
+    },
+    "penghu_county": {
+      "names": { "ar": "بينهو", "en": "Penghu County", "tr": "Penghu" }
+    },
+    "chiayi_city": {
+      "names": { "ar": "شيايي (المدينة)", "en": "Chiayi City", "tr": "Chiayi (Şehir)" }
+    },
+    "changhua_county": {
+      "names": { "ar": "تشانغوا", "en": "Changhua County", "tr": "Changhua" }
+    },
+    "miaoli_county": {
+      "names": { "ar": "مياولي", "en": "Miaoli County", "tr": "Miaoli" }
+    },
+    "hsinchu_county": {
+      "names": { "ar": "هسينتشو (المقاطعة)", "en": "Hsinchu County", "tr": "Hsinchu (İlçe)" }
+    },
+    "kinmen_county": {
+      "names": { "ar": "كينمن", "en": "Kinmen County", "tr": "Kinmen" }
+    },
+    "yunlin_county": {
+      "names": { "ar": "يونلين", "en": "Yunlin County", "tr": "Yunlin" }
+    },
+    "lienchiang_county": {
+      "names": { "ar": "ليانتشيانغ (جزر ماتسو)", "en": "Lienchiang County", "tr": "Lienchiang (Matsu Adaları)" }
     }
   }
 }

@@ -1,206 +1,538 @@
 {
-  "czech_republic": {
-    "needs_ad": false,
-    "cities": {
-      "prague": {
-        "names": {
-          "ar": "براغ",
-          "en": "Prague",
-          "tr": "Prag"
-        },
-        "description": {
-          "ar": "مدينة المائة برج الساحرة، تشتهر بقلعة براغ العظيمة، جسر تشارلز التاريخي، وساعة براغ الفلكية العريقة.",
-          "en": "The City of a Hundred Spires, famous for Prague Castle, Charles Bridge, and Old Town Astronomical Clock.",
-          "tr": "Yüz Kuleli Şehir; Prag Kalesi, Karl Köprüsü ve Astronomik Saat ile dünyaca ünlüdür."
-        },
-        "image": "res://images/prague.png",
-        "bg_image": "res://images/prague_bg.png",
-        "image_3d": "res://images/prague_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق فورسيزونز براغ",
-              "en": "Four Seasons Hotel Prague",
-              "tr": "Four Seasons Hotel Prag"
-            },
-            "image": "res://images/four_seasons_prague.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوقسطين براغ luxury Collection",
-              "en": "Augustine, a Luxury Collection Hotel, Prague",
-              "tr": "Augustine Hotel Prag"
-            },
-            "image": "res://images/augustine_prague.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم كولكوفنا شيلنيتس براغ",
-              "en": "Kolkovna Celnice",
-              "tr": "Kolkovna Celnice Restoran"
-            },
-            "image": "res://images/kolkovna_prague.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أطباق تشيكية تقليدية مثل لحم البقر والدمبلنغ",
-              "en": "Traditional Czech Cuisine & Roasts",
-              "tr": "Geleneksel Çek Mutfağı ve Izgaralar"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "قلعة براغ التاريخية (Prague Castle)",
-              "en": "Prague Castle (Pražský hrad)",
-              "tr": "Prag Kalesi"
-            },
-            "image": "res://images/prague_castle.png",
-            "description": {
-              "ar": "أضخم مجمع قلاع قديم في العالم ويحتوي كاتدرائية القديس فيتوس والقصر الملكي.",
-              "en": "The largest coherent castle complex in the world according to Guinness Records.",
-              "tr": "Guinness Rekorlar Kitabı'na göre dünyanın en büyük antik kale kompleksi."
-            }
-          },
-          {
-            "name": {
-              "ar": "جسر تشارلز (Charles Bridge)",
-              "en": "Charles Bridge (Karlův most)",
-              "tr": "Karl Köprüsü (Karlův most)"
-            },
-            "image": "res://images/charles_bridge.png",
-            "description": {
-              "ar": "جسر حجري بني عام 1357 يعبر نهر فلتافا ومزين بـ 30 تمثالاً قوطياً.",
-              "en": "14th-century Gothic stone bridge lined with 30 Baroque saint statues.",
-              "tr": "30 Barok aziz heykeliyle süslenmiş 14. yüzyıl Gotik taş köprüsü."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "ساعة براغ الفلكية (Prague Astronomical Clock)",
-              "en": "Prague Astronomical Clock",
-              "tr": "Prag Astronomik Saati"
-            },
-            "image": "res://images/astronomical_clock.png",
-            "description": {
-              "ar": "أقدم ساعة فلكية تعمل في العالم بنيت عام 1410 في الساحة القديمة.",
-              "en": "World's oldest operating astronomical clock installed in 1410.",
-              "tr": "1410 yılında kurulan dünyanın çalışan en eski astronomik saati."
-            }
-          }
-        ]
-      },
-      "karlovy_vary": {
-        "names": {
-          "ar": "كارلوفي فاري",
-          "en": "Karlovy Vary",
-          "tr": "Karlovy Vary"
-        },
-        "description": {
-          "ar": "مدينة الينابيع والمنتجعات العلاجية الاستشفائية، تشتهر بأروقة الينابيع الحارة والزجاج الكريستالي الفاخر.",
-          "en": "Famous spa town blessed with thermal mineral springs, colonnades, and Moser crystal.",
-          "tr": "Termal kaplıcaları, sütunlu galerileri ve Moser kristaliyle ünlü kaplıca şehri."
-        },
-        "image": "res://images/karlovy_vary.png",
-        "bg_image": "res://images/karlovy_vary_bg.png",
-        "image_3d": "res://images/karlovy_vary_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق غراند أوتيل بوب كارلوفي فاري",
-              "en": "Grandhotel Pupp",
-              "tr": "Grandhotel Pupp"
-            },
-            "image": "res://images/grandhotel_pupp.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم برومينادا كارلوفي فاري",
-              "en": "Promenáda Restaurant",
-              "tr": "Promenáda Restoran"
-            },
-            "image": "res://images/promenada_kv.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أطباق أوروبية وتكشية استشفائية",
-              "en": "Gourmet Czech & European Dining",
-              "tr": "Gurme Çek ve Avrupa Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "أروقة الينابيع الحارة (Mill Colonnade)",
-              "en": "Mill Colonnade (Mlýnská kolonáda)",
-              "tr": "Mill Colonnade Sütunlu Galerisi"
-            },
-            "image": "res://images/mill_colonnade.png",
-            "description": {
-              "ar": "رواق نيو باروكي يضم 5 ينابيع معدنية حارة يشرب السياح منها بمطارات فخارية.",
-              "en": "Neo-Renaissance colonnade with 124 Corinthian columns housing mineral springs.",
-              "tr": "Termal kaynaklara ev sahipliği yapan 124 Korint sütunlu Neo-Rönesans galeri."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "متحف ومصنع زجاج موزر (Moser Glass Museum)",
-              "en": "Moser Glass Museum",
-              "tr": "Moser Kristal Müzesi"
-            },
-            "image": "res://images/moser_glass.png",
-            "description": {
-              "ar": "متحف يعرض تاريخ صناعة الكريستال والزجاج الفاخر الذي يستخدمه الملوك.",
-              "en": "Showcases 160 years of luxury Bohemian crystal craftsmanship.",
-              "tr": "Lüks Bohemya kristal işçiliğinin 160 yıllık tarihini sergiler."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "praha": {
+      "names": { "ar": "براغ", "en": "Prague (Praha)", "tr": "Prag" }
+    },
+    "cesky_krumlov": {
+      "names": { "ar": "تشيسكي كروملوف", "en": "Český Krumlov", "tr": "Český Krumlov" }
+    },
+    "karlovy_vary": {
+      "names": { "ar": "كارلوفي فاري", "en": "Karlovy Vary", "tr": "Karlovy Vary" }
+    },
+    "brno": {
+      "names": { "ar": "برنو", "en": "Brno", "tr": "Brno" }
+    },
+    "kutna_hora": {
+      "names": { "ar": "كوتنا هورا (كنيسة العظام)", "en": "Kutná Hora", "tr": "Kutná Hora" }
+    },
+    "plzen": {
+      "names": { "ar": "بلزن", "en": "Plzeň", "tr": "Plzeň (Pilsen)" }
+    },
+    "olomouc": {
+      "names": { "ar": "أولوموتس", "en": "Olomouc", "tr": "Olomouc" }
+    },
+    "ostrava": {
+      "names": { "ar": "أوسترافا", "en": "Ostrava", "tr": "Ostrava" }
+    },
+    "marianske_lazne": {
+      "names": { "ar": "ماريانسكي لازنيه", "en": "Mariánské Lázně", "tr": "Mariánské Lázně" }
+    },
+    "ceske_budejovice": {
+      "names": { "ar": "تشيسكي بوديوفيتسه", "en": "České Budějovice", "tr": "České Budějovice" }
+    },
+    "lednice": {
+      "names": { "ar": "ليدنيتسه", "en": "Lednice", "tr": "Lednice" }
+    },
+    "valtice": {
+      "names": { "ar": "ڤالتيسه", "en": "Valtice", "tr": "Valtice" }
+    },
+    "telc": {
+      "names": { "ar": "تيلتش", "en": "Telč", "tr": "Telč" }
+    },
+    "liberec": {
+      "names": { "ar": "ليبيريتس", "en": "Liberec", "tr": "Liberec" }
+    },
+    "mikulov": {
+      "names": { "ar": "ميكولوف", "en": "Mikulov", "tr": "Mikulov" }
+    },
+    "znojmo": {
+      "names": { "ar": "زنويمو", "en": "Znojmo", "tr": "Znojmo" }
+    },
+    "hradec_kralove": {
+      "names": { "ar": "هرادتس كرالوفه", "en": "Hradec Králové", "tr": "Hradec Králové" }
+    },
+    "pardubice": {
+      "names": { "ar": "باردوبيتسه", "en": "Pardubice", "tr": "Pardubice" }
+    },
+    "tabor": {
+      "names": { "ar": "تابور", "en": "Tábor", "tr": "Tábor" }
+    },
+    "kromeriz": {
+      "names": { "ar": "كروميريج", "en": "Kroměříž", "tr": "Kroměříž" }
+    },
+    "frantiskovy_lazne": {
+      "names": { "ar": "فرانتيشكوفي لازنيه", "en": "Františkovy Lázně", "tr": "Františkovy Lázně" }
+    },
+    "decin": {
+      "names": { "ar": "ديتشين", "en": "Děčín", "tr": "Děčín" }
+    },
+    "trebic": {
+      "names": { "ar": "تريبِيتش", "en": "Třebíč", "tr": "Třebíč" }
+    },
+    "spindleruv_mlyn": {
+      "names": { "ar": "شپيندلروڤ ملين", "en": "Špindlerův Mlýn", "tr": "Špindlerův Mlýn" }
+    },
+    "litomysl": {
+      "names": { "ar": "ليتوميشل", "en": "Litomyšl", "tr": "Litomyšl" }
+    },
+    "trebon": {
+      "names": { "ar": "تريبون", "en": "Třeboň", "tr": "Třeboň" }
+    },
+    "zlin": {
+      "names": { "ar": "زلين", "en": "Zlín", "tr": "Zlín" }
+    },
+    "harrachov": {
+      "names": { "ar": "هاراخوڤ", "en": "Harrachov", "tr": "Harrachov" }
+    },
+    "loket": {
+      "names": { "ar": "لوكيت", "en": "Loket", "tr": "Loket" }
+    },
+    "teplice": {
+      "names": { "ar": "تيبليتسه", "en": "Teplice", "tr": "Teplice" }
+    },
+    "usti_nad_labem": {
+      "names": { "ar": "أوستي ناد لابم", "en": "Ústí nad Labem", "tr": "Ústí nad Labem" }
+    },
+    "melnik": {
+      "names": { "ar": "ميلنيك", "en": "Mělník", "tr": "Mělník" }
+    },
+    "jindrichuv_hradec": {
+      "names": { "ar": "يندريخوف هرادتس", "en": "Jindřichův Hradec", "tr": "Jindřichův Hradec" }
+    },
+    "cheb": {
+      "names": { "ar": "خيب", "en": "Cheb", "tr": "Cheb" }
+    },
+    "pisek": {
+      "names": { "ar": "بيسيك", "en": "Písek", "tr": "Písek" }
+    },
+    "pec_pod_snezkou": {
+      "names": { "ar": "بيتس بود سنيجكو", "en": "Pec pod Sněžkou", "tr": "Pec pod Sněžkou" }
+    },
+    "lipno_nad_vltavou": {
+      "names": { "ar": "ليپنو ناد ڤلتاڤو", "en": "Lipno nad Vltavou", "tr": "Lipno nad Vltavou" }
+    },
+    "zdar_nad_sazavou": {
+      "names": { "ar": "جار ناد سازافو", "en": "Žďár nad Sázavou", "tr": "Žďár nad Sázavou" }
+    },
+    "jihlava": {
+      "names": { "ar": "ييهلافا", "en": "Jihlava", "tr": "Jihlava" }
+    },
+    "mlada_boleslav": {
+      "names": { "ar": "ملادا بوليسلاف", "en": "Mladá Boleslav", "tr": "Mladá Boleslav" }
+    },
+    "jachymov": {
+      "names": { "ar": "ياخيموف", "en": "Jáchymov", "tr": "Jáchymov" }
+    },
+    "zatec": {
+      "names": { "ar": "جاتيتس", "en": "Žatec", "tr": "Žatec" }
+    },
+    "slavkov_u_brna": {
+      "names": { "ar": "سلافكوڤ أو برنا (أوسترليتز)", "en": "Slavkov u Brna (Austerlitz)", "tr": "Slavkov u Brna (Austerlitz)" }
+    },
+    "luhacovice": {
+      "names": { "ar": "لوهاچوفيتسه", "en": "Luhačovice", "tr": "Luhačovice" }
+    },
+    "roznov_pod_radhostem": {
+      "names": { "ar": "روزنوڤ بود رادهوشتيم", "en": "Rožnov pod Radhoštěm", "tr": "Rožnov pod Radhoštěm" }
+    },
+    "stramberk": {
+      "names": { "ar": "شترامبيرك", "en": "Štramberk", "tr": "Štramberk" }
+    },
+    "litomerice": {
+      "names": { "ar": "ليتوميريتسه", "en": "Litoměřice", "tr": "Litoměřice" }
+    },
+    "ceska_lipa": {
+      "names": { "ar": "تشيسكا ليبا", "en": "Česká Lípa", "tr": "Česká Lípa" }
+    },
+    "jablonec_nad_nisou": {
+      "names": { "ar": "يابلونيتس ناد نيسو", "en": "Jablonec nad Nisou", "tr": "Jablonec nad Nisou" }
+    },
+    "opava": {
+      "names": { "ar": "أوباڤا", "en": "Opava", "tr": "Opava" }
+    },
+    "uherske_hradiste": {
+      "names": { "ar": "أوهيرسكي هراديشته", "en": "Uherské Hradiště", "tr": "Uherské Hradiště" }
+    },
+    "pribram": {
+      "names": { "ar": "بريبرام", "en": "Příbram", "tr": "Příbram" }
+    },
+    "breclav": {
+      "names": { "ar": "بريتسلاف", "en": "Břeclav", "tr": "Břeclav" }
+    },
+    "hodonin": {
+      "names": { "ar": "هودونين", "en": "Hodonín", "tr": "Hodonín" }
+    },
+    "domazlice": {
+      "names": { "ar": "دوماشليتسه", "en": "Domažlice", "tr": "Domažlice" }
+    },
+    "klatovy": {
+      "names": { "ar": "كلاتوفي", "en": "Klatovy", "tr": "Klatovy" }
+    },
+    "beroun": {
+      "names": { "ar": "بيرون", "en": "Beroun", "tr": "Beroun" }
+    },
+    "benesov": {
+      "names": { "ar": "بينيشوف (كونوبيشتيه)", "en": "Benešov", "tr": "Benešov" }
+    },
+    "brandys_nad_labem_stara_boleslav": {
+      "names": { "ar": "برانديس ناد لابم – ستارا بوليسلاف", "en": "Brandýs nad Labem–Stará Boleslav", "tr": "Brandýs nad Labem–Stará Boleslav" }
+    },
+    "nachod": {
+      "names": { "ar": "ناخود", "en": "Náchod", "tr": "Náchod" }
+    },
+    "dvur_kralove_nad_labem": {
+      "names": { "ar": "دفور كرالوڤه ناد لابم", "en": "Dvůr Králové nad Labem", "tr": "Dvůr Králové nad Labem" }
+    },
+    "trutnov": {
+      "names": { "ar": "ترونوف", "en": "Trutnov", "tr": "Trutnov" }
+    },
+    "janske_lazne": {
+      "names": { "ar": "يانسكي لازنيه", "en": "Janské Lázně", "tr": "Janské Lázně" }
+    },
+    "prachatice": {
+      "names": { "ar": "براتشاتيتسه", "en": "Prachatice", "tr": "Prachatice" }
+    },
+    "strakonice": {
+      "names": { "ar": "سترّاكونيتسه", "en": "Strakonice", "tr": "Strakonice" }
+    },
+    "koprivnice": {
+      "names": { "ar": "كوپريڤنيتسه", "en": "Kopřivnice", "tr": "Kopřivnice" }
+    },
+    "pribor": {
+      "names": { "ar": "بريبو‌ر", "en": "Příbor", "tr": "Příbor" }
+    },
+    "frydek_mistek": {
+      "names": { "ar": "فريدك ميستك", "en": "Frýdek-Místek", "tr": "Frýdek-Místek" }
+    },
+    "prostejov": {
+      "names": { "ar": "بروستيوف", "en": "Prostějov", "tr": "Prostějov" }
+    },
+    "prerov": {
+      "names": { "ar": "بريجيروف", "en": "Přerov", "tr": "Přerov" }
+    },
+    "kolin": {
+      "names": { "ar": "كولين", "en": "Kolín", "tr": "Kolín" }
+    },
+    "kladno": {
+      "names": { "ar": "كلادنو", "en": "Kladno", "tr": "Kladno" }
+    },
+    "most": {
+      "names": { "ar": "موست", "en": "Most", "tr": "Most" }
+    },
+    "chomutov": {
+      "names": { "ar": "تشوموتوف", "en": "Chomutov", "tr": "Chomutov" }
+    },
+    "broumov": {
+      "names": { "ar": "برووموڤ", "en": "Broumov", "tr": "Broumov" }
+    },
+    "nove_mesto_na_morave": {
+      "names": { "ar": "نوڤيه ميستو نا مورافيه", "en": "Nové Město na Moravě", "tr": "Nové Město na Moravě" }
+    },
+    "slavonice": {
+      "names": { "ar": "سلاڤونيتسه", "en": "Slavonice", "tr": "Slavonice" }
+    },
+    "bechyne": {
+      "names": { "ar": "بيخينيه", "en": "Bechyně", "tr": "Bechyně" }
+    },
+    "vyssi_brod": {
+      "names": { "ar": "ڤيشي برود", "en": "Vyšší Brod", "tr": "Vyšší Brod" }
+    },
+    "frymburk": {
+      "names": { "ar": "فريمبورك", "en": "Frymburk", "tr": "Frymburk" }
+    },
+    "susice": {
+      "names": { "ar": "سوشيتسه", "en": "Sušice", "tr": "Sušice" }
+    },
+    "vimperk": {
+      "names": { "ar": "فيمبرك", "en": "Vimperk", "tr": "Vimperk" }
+    },
+    "zelezna_ruda": {
+      "names": { "ar": "جيليزنا رودا", "en": "Železná Ruda", "tr": "Železná Ruda" }
+    },
+    "rokytnice_nad_jizerou": {
+      "names": { "ar": "روكيتنيتسه ناد ييزيرو", "en": "Rokytnice nad Jizerou", "tr": "Rokytnice nad Jizerou" }
+    },
+    "vrchlabi": {
+      "names": { "ar": "ڤرخ لابي", "en": "Vrchlabí", "tr": "Vrchlabí" }
+    },
+    "kouty_nad_desnou": {
+      "names": { "ar": "كوتي ناد ديسنو", "en": "Kouty nad Desnou", "tr": "Kouty nad Desnou" }
+    },
+    "jesenik": {
+      "names": { "ar": "ييسينيك", "en": "Jeseník", "tr": "Jeseník" }
+    },
+    "frydlant": {
+      "names": { "ar": "فريدلانت", "en": "Frýdlant", "tr": "Frýdlant" }
+    },
+    "novy_bor": {
+      "names": { "ar": "نوڤي بور", "en": "Nový Bor", "tr": "Nový Bor" }
+    },
+    "cesky_tesin": {
+      "names": { "ar": "تشيسكي تيشين", "en": "Český Těšín", "tr": "Český Těšín" }
+    },
+    "havirov": {
+      "names": { "ar": "هافيرجوف", "en": "Havířov", "tr": "Havířov" }
+    },
+    "karvina": {
+      "names": { "ar": "كارفينا", "en": "Karviná", "tr": "Karviná" }
+    },
+    "trinec": {
+      "names": { "ar": "ترشينيتس", "en": "Třinec", "tr": "Třinec" }
+    },
+    "vsetin": {
+      "names": { "ar": "فيسيتين", "en": "Vsetín", "tr": "Vsetín" }
+    },
+    "valasske_mezirici": {
+      "names": { "ar": "ڤالاشسكي ميزيريتشي", "en": "Valašské Meziříčí", "tr": "Valašské Meziříčí" }
+    },
+    "novy_jicin": {
+      "names": { "ar": "نوڤي يتشين", "en": "Nový Jičín", "tr": "Nový Jičín" }
+    },
+    "krnov": {
+      "names": { "ar": "كرنوڤ", "en": "Krnov", "tr": "Krnov" }
+    },
+    "bruntal": {
+      "names": { "ar": "برونتال", "en": "Bruntál", "tr": "Bruntál" }
+    },
+    "sumperk": {
+      "names": { "ar": "شومبيرك", "en": "Šumperk", "tr": "Šumperk" }
+    },
+    "havlickuv_brod": {
+      "names": { "ar": "هافليتشكوڤ برود", "en": "Havlíčkův Brod", "tr": "Havlíčkův Brod" }
+    },
+    "pelhrimov": {
+      "names": { "ar": "بيليهريموڤ", "en": "Pelhřimov", "tr": "Pelhřimov" }
+    },
+    "chrudim": {
+      "names": { "ar": "خروديم", "en": "Chrudim", "tr": "Chrudim" }
+    },
+    "nymburk": {
+      "names": { "ar": "نيمبورك", "en": "Nymburk", "tr": "Nymburk" }
+    },
+    "rakovnik": {
+      "names": { "ar": "راكوڤنيك", "en": "Rakovník", "tr": "Rakovník" }
+    },
+    "slany": {
+      "names": { "ar": "سلانِي", "en": "Slaný", "tr": "Slaný" }
+    },
+    "ricany": {
+      "names": { "ar": "ريتشاني", "en": "Říčany", "tr": "Říčany" }
+    },
+    "kralupy_nad_vltavou": {
+      "names": { "ar": "كرالوفي ناد ڤلتاڤو", "en": "Kralupy nad Vltavou", "tr": "Kralupy nad Vltavou" }
+    },
+    "neratovice": {
+      "names": { "ar": "نيراتوفيتسه", "en": "Neratovice", "tr": "Neratovice" }
+    },
+    "caslav": {
+      "names": { "ar": "تشاسلاڤ", "en": "Čáslav", "tr": "Čáslav" }
+    },
+    "dobris": {
+      "names": { "ar": "دوبريش", "en": "Dobříš", "tr": "Dobříš" }
+    },
+    "cesky_brod": {
+      "names": { "ar": "تشيسكي برود", "en": "Český Brod", "tr": "Český Brod" }
+    },
+    "humpolec": {
+      "names": { "ar": "هومپوليتس", "en": "Humpolec", "tr": "Humpolec" }
+    },
+    "straznice": {
+      "names": { "ar": "سترّاجنيتسه", "en": "Strážnice", "tr": "Strážnice" }
+    },
+    "kyjov": {
+      "names": { "ar": "كيوفوڤ", "en": "Kyjov", "tr": "Kyjov" }
+    },
+    "hustopece": {
+      "names": { "ar": "هوستوپيتسه", "en": "Hustopeče", "tr": "Hustopeče" }
+    },
+    "bzenec": {
+      "names": { "ar": "بزينيتس", "en": "Bzenec", "tr": "Bzenec" }
+    },
+    "veseli_nad_moravou": {
+      "names": { "ar": "ڤيسيلي ناد مورافو", "en": "Veselí nad Moravou", "tr": "Veselí nad Moravou" }
+    },
+    "uhersky_brod": {
+      "names": { "ar": "أوهيرسكي برود", "en": "Uherský Brod", "tr": "Uherský Brod" }
+    },
+    "vizovice": {
+      "names": { "ar": "ڤيزوفيتسه", "en": "Vizovice", "tr": "Vizovice" }
+    },
+    "holesov": {
+      "names": { "ar": "هوليشوڤ", "en": "Holešov", "tr": "Holešov" }
+    },
+    "valasske_klobouky": {
+      "names": { "ar": "ڤالاشسكي كلوبوكي (فالا)", "en": "Valašské Klobouky", "tr": "Valašské Klobouky" }
+    },
+    "bystrice_pod_hostynem": {
+      "names": { "ar": "بيستريتسه بود هوستينيم", "en": "Bystřice pod Hostýnem", "tr": "Bystřice pod Hostýnem" }
+    },
+    "boskovice": {
+      "names": { "ar": "بوسكوفيتسه", "en": "Boskovice", "tr": "Boskovice" }
+    },
+    "blansko": {
+      "names": { "ar": "بلانسكو (كهوف موراڤيا)", "en": "Blansko", "tr": "Blansko" }
+    },
+    "vyskov": {
+      "names": { "ar": "فيشكوڤ", "en": "Vyškov", "tr": "Vyškov" }
+    },
+    "tisnov": {
+      "names": { "ar": "تيشونوڤ", "en": "Tišnov", "tr": "Tišnov" }
+    },
+    "kurim": {
+      "names": { "ar": "كويرجيم", "en": "Kuřim", "tr": "Kuřim" }
+    },
+    "ivancice": {
+      "names": { "ar": "إيفانتشيتسه", "en": "Ivančice", "tr": "Ivančice" }
+    },
+    "moravsky_krumlov": {
+      "names": { "ar": "مورافسكي كروملوف", "en": "Moravský Krumlov", "tr": "Moravský Krumlov" }
+    },
+    "hlucin": {
+      "names": { "ar": "هلوچين", "en": "Hlučín", "tr": "Hlučín" }
+    },
+    "bohumin": {
+      "names": { "ar": "بوهومين", "en": "Bohumín", "tr": "Bohumín" }
+    },
+    "orlova": {
+      "names": { "ar": "أورلوڤا", "en": "Orlová", "tr": "Orlová" }
+    },
+    "hranice": {
+      "names": { "ar": "هرانيتسه", "en": "Hranice", "tr": "Hranice" }
+    },
+    "sternberk": {
+      "names": { "ar": "شتيرنبيرك", "en": "Šternberk", "tr": "Šternberk" }
+    },
+    "unicov": {
+      "names": { "ar": "أونيتشوڤ", "en": "Uničov", "tr": "Uničov" }
+    },
+    "litovel": {
+      "names": { "ar": "ليتوڤل", "en": "Litovel", "tr": "Litovel" }
+    },
+    "mohelnice": {
+      "names": { "ar": "موهِلنيتسه", "en": "Mohelnice", "tr": "Mohelnice" }
+    },
+    "zabreh": {
+      "names": { "ar": "زابريج", "en": "Zábřeh", "tr": "Zábřeh" }
+    },
+    "nove_mesto_nad_metuji": {
+      "names": { "ar": "نوڤيه ميستو ناد ميتوي", "en": "Nové Město nad Metují", "tr": "Nové Město nad Metují" }
+    },
+    "rychnov_nad_kneznou": {
+      "names": { "ar": "ريخنوڤ ناد كنيجنو", "en": "Rychnov nad Kněžnou", "tr": "Rychnov nad Kněžnou" }
+    },
+    "policka": {
+      "names": { "ar": "پوليتشكا", "en": "Polička", "tr": "Polička" }
+    },
+    "svitavy": {
+      "names": { "ar": "سڤيتاڤي", "en": "Svitavy", "tr": "Svitavy" }
+    },
+    "vysoke_myto": {
+      "names": { "ar": "ڤيسوكي ميتو", "en": "Vysoké Mýto", "tr": "Vysoké Mýto" }
+    },
+    "usti_nad_orlici": {
+      "names": { "ar": "أوستي ناد أورليتسي", "en": "Ústí nad Orlicí", "tr": "Ústí nad Orlicí" }
+    },
+    "lanskroun": {
+      "names": { "ar": "لانشكروون", "en": "Lanškroun", "tr": "Lanškroun" }
+    },
+    "chocen": {
+      "names": { "ar": "خوخين", "en": "Choceň", "tr": "Choceň" }
+    },
+    "moravska_trebova": {
+      "names": { "ar": "مورافسكا تريبوفا", "en": "Moravská Třebová", "tr": "Moravská Třebová" }
+    },
+    "letohrad": {
+      "names": { "ar": "ليتيس ناد أورليتسي (ليتوهراد)", "en": "Letohrad", "tr": "Letohrad" }
+    },
+    "holice": {
+      "names": { "ar": "هوليتسه", "en": "Holice", "tr": "Holice" }
+    },
+    "dacice": {
+      "names": { "ar": "داچيتسه", "en": "Dačice", "tr": "Dačice" }
+    },
+    "sobeslav": {
+      "names": { "ar": "سوبيسلاڤ", "en": "Soběslav", "tr": "Soběslav" }
+    },
+    "milevsko": {
+      "names": { "ar": "ميليڤسكو", "en": "Milevsko", "tr": "Milevsko" }
+    },
+    "tyn_nad_vltavou": {
+      "names": { "ar": "تين ناد ڤلتاڤو", "en": "Týn nad Vltavou", "tr": "Týn nad Vltavou" }
+    },
+    "blatna": {
+      "names": { "ar": "بلاتنا", "en": "Blatná", "tr": "Blatná" }
+    },
+    "horazdovice": {
+      "names": { "ar": "هوراجوفيتسه", "en": "Horažďovice", "tr": "Horažďovice" }
+    },
+    "kdyne": {
+      "names": { "ar": "كدينيه", "en": "Kdyně", "tr": "Kdyně" }
+    },
+    "prestice": {
+      "names": { "ar": "بريشتسه", "en": "Přeštice", "tr": "Přeštice" }
+    },
+    "dobrany": {
+      "names": { "ar": "دوبرياني", "en": "Dobřany", "tr": "Dobřany" }
+    },
+    "rokycany": {
+      "names": { "ar": "روكيتساني", "en": "Rokycany", "tr": "Rokycany" }
+    },
+    "nepomuk": {
+      "names": { "ar": "نيپوموك", "en": "Nepomuk", "tr": "Nepomuk" }
+    },
+    "kralovice": {
+      "names": { "ar": "كرالوڤيتسه", "en": "Kralovice", "tr": "Kralovice" }
+    },
+    "tachov": {
+      "names": { "ar": "تاخوڤ", "en": "Tachov", "tr": "Tachov" }
+    },
+    "as": {
+      "names": { "ar": "آش", "en": "Aš", "tr": "Aš" }
+    },
+    "ostrov": {
+      "names": { "ar": "أوستروڤ", "en": "Ostrov", "tr": "Ostrov" }
+    },
+    "kadan": {
+      "names": { "ar": "كادان", "en": "Kadaň", "tr": "Kadaň" }
+    },
+    "louny": {
+      "names": { "ar": "لاوني", "en": "Louny", "tr": "Louny" }
+    },
+    "litvinov": {
+      "names": { "ar": "ليتڤينوڤ", "en": "Litvínov", "tr": "Litvínov" }
+    },
+    "bilina": {
+      "names": { "ar": "بيلينا", "en": "Bílina", "tr": "Bílina" }
+    },
+    "roudnice_nad_labem": {
+      "names": { "ar": "رودنيتسه ناد لابم", "en": "Roudnice nad Labem", "tr": "Roudnice nad Labem" }
+    },
+    "varnsdorf": {
+      "names": { "ar": "ڤارنزدورف", "en": "Varnsdorf", "tr": "Varnsdorf" }
+    },
+    "tanvald": {
+      "names": { "ar": "تانڤالد", "en": "Tanvald", "tr": "Tanvald" }
+    },
+    "semily": {
+      "names": { "ar": "سيمِلي", "en": "Semily", "tr": "Semily" }
+    },
+    "lomnice_nad_popelkou": {
+      "names": { "ar": "لومنيتسه ناد پوپلكو", "en": "Lomnice nad Popelkou", "tr": "Lomnice nad Popelkou" }
+    },
+    "chrastava": {
+      "names": { "ar": "خراستاڤا", "en": "Chrastava", "tr": "Chrastava" }
+    },
+    "jilemnice": {
+      "names": { "ar": "ييلمنيتسه", "en": "Jilemnice", "tr": "Jilemnice" }
+    },
+    "cesky_dub": {
+      "names": { "ar": "تشيسكي دوب", "en": "Český Dub", "tr": "Český Dub" }
+    },
+    "holin": {
+      "names": { "ar": "هولين (الجنة التشيكية)", "en": "Holín", "tr": "Holín" }
+    },
+    "pernov": {
+      "names": { "ar": "بيرنوڤ", "en": "Pernov", "tr": "Pernov" }
     }
   }
 }

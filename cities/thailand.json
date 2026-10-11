@@ -1,218 +1,229 @@
 {
-  "thailand": {
-    "needs_ad": false,
-    "cities": {
-      "bangkok": {
-        "names": {
-          "ar": "بانكوك",
-          "en": "Bangkok",
-          "tr": "Bangkok"
-        },
-        "description": {
-          "ar": "عاصمة تايلاند الأسطورية، تشتهر بـ القصر الكبير، معبد أورون المذهب على النهر، وأسواق الشوارع النابضة.",
-          "en": "Thailand's energetic capital, famous for the Grand Palace, Wat Arun, floating markets, and street food.",
-          "tr": "Büyük Saray, Wat Arun, yüzen pazarlar ve sokak yemekleriyle ünlü Tayland başkenti."
-        },
-        "image": "res://images/bangkok.png",
-        "bg_image": "res://images/bangkok_bg.png",
-        "image_3d": "res://images/bangkok_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق الماندارين أورينتال بانكوك",
-              "en": "Mandarin Oriental, Bangkok",
-              "tr": "Mandarin Oriental, Bangkok"
-            },
-            "image": "res://images/mandarin_bangkok.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوتيل كابيلا بانكوك (Capella Bangkok)",
-              "en": "Capella Bangkok",
-              "tr": "Capella Bangkok"
-            },
-            "image": "res://images/capella_bangkok.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم غاغان أناند بانكوك (Gaggan Anand)",
-              "en": "Gaggan Anand Bangkok",
-              "tr": "Gaggan Anand Restoran Bangkok"
-            },
-            "image": "res://images/gaggan_bangkok.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "أشهر مطعم هندي وآسيوي مبتكر صنف الأفضل في آسيا مراراً",
-              "en": "Progressive Asian Fine Dining repeatedly named Asia's #1 Restaurant",
-              "tr": "Asya'nın 1 Numaralı Restoranı Seçilen Lüks Yenilikçi Asya Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "القصر الكبير والمعبد الملكي (Grand Palace & Wat Phra Kaew)",
-              "en": "The Grand Palace & Temple of Emerald Buddha",
-              "tr": "Büyük Saray ve Zümrüt Buda Tapınağı"
-            },
-            "image": "res://images/grand_palace_bangkok.png",
-            "description": {
-              "ar": "مجمع القصر الإمبراطوري بأسقفه الذهبية الملتفة ومعبد الزمرد الملكي الأقدس.",
-              "en": "Dazzling complex of gold-spired royal halls and sacred 14th-century Emerald Buddha.",
-              "tr": "Altın kuleli kraliyet salonları ve 14. yüzyıldan kalma Zümrüt Buda tapınağı."
-            }
-          },
-          {
-            "name": {
-              "ar": "معبد الفجر على النهر (Wat Arun / Temple of Dawn)",
-              "en": "Wat Arun (Temple of Dawn)",
-              "tr": "Wat Arun (Şafak Tapınağı)"
-            },
-            "image": "res://images/wat_arun.png",
-            "description": {
-              "ar": "معبد خزفي شاهق بارتفاع 70 متراً يلمع مع شروق وغروب الشمس على نهر تشاو برايا.",
-              "en": "Porcelain-encrusted Buddhist pagoda soaring on the banks of the Chao Phraya River.",
-              "tr": "Chao Phraya Nehri kıyısında yükselen porselen kaplı Budist pagoda."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "السوق العائم التايلاندي (Damnoen Saduak Floating Market)",
-              "en": "Damnoen Saduak Floating Market",
-              "tr": "Damnoen Saduak Yüzen Pazarı"
-            },
-            "image": "res://images/floating_market.png",
-            "description": {
-              "ar": "سوق القوارب الخشبية التاريخي لبيع الفواكه والمأكولات التايلاندية بين القنوات.",
-              "en": "Famous canal market where vendors sell tropical fruits and noodles directly from boats.",
-              "tr": "Satıcıların doğrudan teknelerden tropikal meyve ve erişte sattığı kanal pazarı."
-            }
-          }
-        ]
-      },
-      "phuket": {
-        "names": {
-          "ar": "بوكيت (لؤلؤة بحر أندامان)",
-          "en": "Phuket",
-          "tr": "Phuket"
-        },
-        "description": {
-          "ar": "أكبر جزر تايلاند الاستوائية، تشتهر بـ خليج فانغ نغا، تمثال بودا العظيم الجبلي، وشواطئ باتونغ ولانغ بين القمم الصخرية.",
-          "en": "Thailand's largest tropical island, famous for Phang Nga Bay, Big Buddha, and Patong Beach.",
-          "tr": "Phang Nga Körfezi, Büyük Buda heykeli ve Patong Plajı ile ünlü Tayland'ın en büyük adası."
-        },
-        "image": "res://images/phuket.png",
-        "bg_image": "res://images/phuket_bg.png",
-        "image_3d": "res://images/phuket_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع أمانبوري بوكيت (Amanpuri Phuket)",
-              "en": "Amanpuri Resort Phuket",
-              "tr": "Amanpuri Resort Phuket"
-            },
-            "image": "res://images/amanpuri_phuket.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "منتجع وسبا كييمالا بوكيت الأكواخ (Keemala Resort)",
-              "en": "Keemala Resort Phuket",
-              "tr": "Keemala Resort Phuket"
-            },
-            "image": "res://images/keemala_phuket.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم برون باني بوكيت (PRU Restaurant)",
-              "en": "PRU Restaurant Phuket",
-              "tr": "PRU Restoran Phuket"
-            },
-            "image": "res://images/pru_phuket.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "أول مطعم حائز نجمة ميشلان في بوكيت للمأكولات البحرية العضوية",
-              "en": "Phuket's first Michelin-starred Organic Ocean Fine Dining",
-              "tr": "Phuket'in İlk Michelin Yıldızlı Organik Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "رحلة خليج جيمس بوند وفانغ نغا (Phang Nga Bay / James Bond Island)",
-              "en": "Phang Nga Bay & James Bond Island",
-              "tr": "Phang Nga Körfezi ve James Bond Adası"
-            },
-            "image": "res://images/james_bond_island.png",
-            "description": {
-              "ar": "خليج هائل يضم صخوراً جيرية عمودية تعلو البحر صُور فيها فيلم جيمس بوند.",
-              "en": "Emerald-green waters with towering limestone karsts, famous for Khao Phing Kan.",
-              "tr": "Khao Phing Kan ile ünlü, dik kireçtaşı kayalıklarıyla dolu zümrüt yeşili sular."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "تمثال بودا العملاق فوق القمة (Big Buddha Phuket)",
-              "en": "Big Buddha Phuket",
-              "tr": "Phuket Büyük Buda Heykeli"
-            },
-            "image": "res://images/big_buddha_phuket.png",
-            "description": {
-              "ar": "تمثال رخامي أبيض مغطى بالكامل بارتفاع 45 متراً فوق جبل ناكيرد يوفر طلة 360 درجة على بوكيت.",
-              "en": "45-meter tall white Burmese marble statue seated atop Nakkerd Hill.",
-              "tr": "Nakkerd Tepesi'nde oturan 45 metre yüksekliğinde beyaz mermer heykel."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "bangkok": {
+      "names": { "ar": "بانكوك", "en": "Bangkok", "tr": "Bangkok" }
+    },
+    "phuket": {
+      "names": { "ar": "بوكيت", "en": "Phuket", "tr": "Phuket" }
+    },
+    "chiang_mai": {
+      "names": { "ar": "شيانغ ماي", "en": "Chiang Mai", "tr": "Chiang Mai" }
+    },
+    "chonburi": {
+      "names": { "ar": "تشونبوري (باتايا)", "en": "Chonburi (Pattaya)", "tr": "Chonburi (Pattaya)" }
+    },
+    "krabi": {
+      "names": { "ar": "كرابي", "en": "Krabi", "tr": "Krabi" }
+    },
+    "surat_thani": {
+      "names": { "ar": "سورات ثاني (كوه ساموي)", "en": "Surat Thani (Koh Samui)", "tr": "Surat Thani (Koh Samui)" }
+    },
+    "phang_nga": {
+      "names": { "ar": "فانغ نغا", "en": "Phang Nga", "tr": "Phang Nga" }
+    },
+    "prachuap_khiri_khan": {
+      "names": { "ar": "بورتشواب خيري خان (هوا هين)", "en": "Prachuap Khiri Khan (Hua Hin)", "tr": "Prachuap Khiri Khan (Hua Hin)" }
+    },
+    "chiang_rai": {
+      "names": { "ar": "شيانغ راي", "en": "Chiang Rai", "tr": "Chiang Rai" }
+    },
+    "phra_nakhon_si_ayutthaya": {
+      "names": { "ar": "أيوتايا", "en": "Phra Nakhon Si Ayutthaya", "tr": "Ayutthaya" }
+    },
+    "kanchanaburi": {
+      "names": { "ar": "كانتشانابوري", "en": "Kanchanaburi", "tr": "Kanchanaburi" }
+    },
+    "trat": {
+      "names": { "ar": "ترات (كوه تشانغ)", "en": "Trat", "tr": "Trat" }
+    },
+    "mae_hong_son": {
+      "names": { "ar": "ماي هونغ سون (باي)", "en": "Mae Hong Son", "tr": "Mae Hong Son" }
+    },
+    "rayong": {
+      "names": { "ar": "رايونغ (كوه ساميت)", "en": "Rayong", "tr": "Rayong" }
+    },
+    "sukhothai": {
+      "names": { "ar": "سوكوثاي", "en": "Sukhothai", "tr": "Sukhothai" }
+    },
+    "songkhla": {
+      "names": { "ar": "سونغكلا (هات ياي)", "en": "Songkhla", "tr": "Songkhla" }
+    },
+    "nakhon_ratchasima": {
+      "names": { "ar": "ناخون راتشاسيما (خاو ياي)", "en": "Nakhon Ratchasima", "tr": "Nakhon Ratchasima" }
+    },
+    "nonthaburi": {
+      "names": { "ar": "نونثابوري", "en": "Nonthaburi", "tr": "Nonthaburi" }
+    },
+    "samut_prakan": {
+      "names": { "ar": "ساموت براكان", "en": "Samut Prakan", "tr": "Samut Prakan" }
+    },
+    "samut_songkhram": {
+      "names": { "ar": "ساموت سونغخرام (أمفاوا)", "en": "Samut Songkhram", "tr": "Samut Songkhram" }
+    },
+    "phetchaburi": {
+      "names": { "ar": "بيتشابوري (تشا-أم)", "en": "Phetchaburi", "tr": "Phetchaburi" }
+    },
+    "nakhon_pathom": {
+      "names": { "ar": "ناخون باتوم", "en": "Nakhon Pathom", "tr": "Nakhon Pathom" }
+    },
+    "udon_thani": {
+      "names": { "ar": "أودون ثاني", "en": "Udon Thani", "tr": "Udon Thani" }
+    },
+    "khon_kaen": {
+      "names": { "ar": "خون كاين", "en": "Khon Kaen", "tr": "Khon Kaen" }
+    },
+    "trang": {
+      "names": { "ar": "ترانغ", "en": "Trang", "tr": "Trang" }
+    },
+    "satun": {
+      "names": { "ar": "ساتون (كوه ليبيه)", "en": "Satun", "tr": "Satun" }
+    },
+    "ranong": {
+      "names": { "ar": "رانونغ", "en": "Ranong", "tr": "Ranong" }
+    },
+    "chumphon": {
+      "names": { "ar": "تشومفون", "en": "Chumphon", "tr": "Chumphon" }
+    },
+    "chanthaburi": {
+      "names": { "ar": "تشانثابوري", "en": "Chanthaburi", "tr": "Chanthaburi" }
+    },
+    "lopburi": {
+      "names": { "ar": "لوبوري", "en": "Lopburi", "tr": "Lopburi" }
+    },
+    "lampang": {
+      "names": { "ar": "لامبانغ", "en": "Lampang", "tr": "Lampang" }
+    },
+    "phitsanulok": {
+      "names": { "ar": "فيتسانولوك", "en": "Phitsanulok", "tr": "Phitsanulok" }
+    },
+    "phetchabun": {
+      "names": { "ar": "فيتشابون", "en": "Phetchabun", "tr": "Phetchabun" }
+    },
+    "loei": {
+      "names": { "ar": "لويي", "en": "Loei", "tr": "Loei" }
+    },
+    "nan": {
+      "names": { "ar": "نان", "en": "Nan", "tr": "Nan" }
+    },
+    "ubon_ratchathani": {
+      "names": { "ar": "أوبون راتشاثاني", "en": "Ubon Ratchathani", "tr": "Ubon Ratchathani" }
+    },
+    "buriram": {
+      "names": { "ar": "بوريرام", "en": "Buriram", "tr": "Buriram" }
+    },
+    "nong_khai": {
+      "names": { "ar": "نونغ خاي", "en": "Nong Khai", "tr": "Nong Khai" }
+    },
+    "nakhon_si_thammarat": {
+      "names": { "ar": "ناخون سي ثامارات", "en": "Nakhon Si Thammarat", "tr": "Nakhon Si Thammarat" }
+    },
+    "ratchaburi": {
+      "names": { "ar": "راتشابوري", "en": "Ratchaburi", "tr": "Ratchaburi" }
+    },
+    "samut_sakhon": {
+      "names": { "ar": "ساموت ساخون", "en": "Samut Sakhon", "tr": "Samut Sakhon" }
+    },
+    "saraburi": {
+      "names": { "ar": "سارابوري", "en": "Saraburi", "tr": "Saraburi" }
+    },
+    "nakhon_nayok": {
+      "names": { "ar": "ناخون نايوك", "en": "Nakhon Nayok", "tr": "Nakhon Nayok" }
+    },
+    "tak": {
+      "names": { "ar": "تاك", "en": "Tak", "tr": "Tak" }
+    },
+    "phayao": {
+      "names": { "ar": "بايو", "en": "Phayao", "tr": "Phayao" }
+    },
+    "lamphun": {
+      "names": { "ar": "لامفون", "en": "Lamphun", "tr": "Lamphun" }
+    },
+    "nakhon_phanom": {
+      "names": { "ar": "ناخون فانوم", "en": "Nakhon Phanom", "tr": "Nakhon Phanom" }
+    },
+    "sakon_nakhon": {
+      "names": { "ar": "ساكون ناخون", "en": "Sakon Nakhon", "tr": "Sakon Nakhon" }
+    },
+    "surin": {
+      "names": { "ar": "سورين", "en": "Surin", "tr": "Surin" }
+    },
+    "chaiyaphum": {
+      "names": { "ar": "تشايفوم", "en": "Chaiyaphum", "tr": "Chaiyaphum" }
+    },
+    "kamphaeng_phet": {
+      "names": { "ar": "كامفاينغ فيت", "en": "Kamphaeng Phet", "tr": "Kamphaeng Phet" }
+    },
+    "mukdahan": {
+      "names": { "ar": "موكداهان", "en": "Mukdahan", "tr": "Mukdahan" }
+    },
+    "phatthalung": {
+      "names": { "ar": "فاتالونغ", "en": "Phatthalung", "tr": "Phatthalung" }
+    },
+    "phrae": {
+      "names": { "ar": "فراي", "en": "Phrae", "tr": "Phrae" }
+    },
+    "uttaradit": {
+      "names": { "ar": "أوتاراديت", "en": "Uttaradit", "tr": "Uttaradit" }
+    },
+    "nakhon_sawan": {
+      "names": { "ar": "ناخون ساوان", "en": "Nakhon Sawan", "tr": "Nakhon Sawan" }
+    },
+    "uthai_thani": {
+      "names": { "ar": "أوثاي ثاني", "en": "Uthai Thani", "tr": "Uthai Thani" }
+    },
+    "si_sa_ket": {
+      "names": { "ar": "سيساميت (سي سا كيت)", "en": "Si Sa Ket", "tr": "Si Sa Ket" }
+    },
+    "roi_et": {
+      "names": { "ar": "روي إت", "en": "Roi Et", "tr": "Roi Et" }
+    },
+    "kalasin": {
+      "names": { "ar": "كالاسين", "en": "Kalasin", "tr": "Kalasin" }
+    },
+    "maha_sarakham": {
+      "names": { "ar": "ماها ساراخام", "en": "Maha Sarakham", "tr": "Maha Sarakham" }
+    },
+    "yasothon": {
+      "names": { "ar": "ياسوثون", "en": "Yasothon", "tr": "Yasothon" }
+    },
+    "bueng_kan": {
+      "names": { "ar": "بونغ كان", "en": "Bueng Kan", "tr": "Bueng Kan" }
+    },
+    "nong_bua_lamphu": {
+      "names": { "ar": "نونغ بوا لامفو", "en": "Nong Bua Lamphu", "tr": "Nong Bua Lamphu" }
+    },
+    "amnat_charoen": {
+      "names": { "ar": "أمنات تشاروين", "en": "Amnat Charoen", "tr": "Amnat Charoen" }
+    },
+    "phichit": {
+      "names": { "ar": "فيتشيت", "en": "Phichit", "tr": "Phichit" }
+    },
+    "sing_buri": {
+      "names": { "ar": "سينغ بوري", "en": "Sing Buri", "tr": "Sing Buri" }
+    },
+    "ang_thong": {
+      "names": { "ar": "أنغ ثونغ", "en": "Ang Thong", "tr": "Ang Thong" }
+    },
+    "chai_nat": {
+      "names": { "ar": "تشاينات", "en": "Chai Nat", "tr": "Chai Nat" }
+    },
+    "prachinburi": {
+      "names": { "ar": "براشينبوري", "en": "Prachinburi", "tr": "Prachinburi" }
+    },
+    "sa_kaeo": {
+      "names": { "ar": "سا كايو", "en": "Sa Kaeo", "tr": "Sa Kaeo" }
+    },
+    "chachoengsao": {
+      "names": { "ar": "تشاتشونغساو", "en": "Chachoengsao", "tr": "Chachoengsao" }
+    },
+    "yala": {
+      "names": { "ar": "يالا", "en": "Yala", "tr": "Yala" }
+    },
+    "pattani": {
+      "names": { "ar": "باتاني", "en": "Pattani", "tr": "Pattani" }
+    },
+    "narathiwat": {
+      "names": { "ar": "ناراتيوات", "en": "Narathiwat", "tr": "Narathiwat" }
     }
   }
 }

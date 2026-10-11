@@ -1,203 +1,250 @@
 {
-  "philippines": {
-    "needs_ad": false,
-    "cities": {
-      "manila": {
-        "names": {
-          "ar": "مانيلا",
-          "en": "Manila",
-          "tr": "Manila"
-        },
-        "description": {
-          "ar": "عاصمة الفلبين النابضة بالحياة، تشتهر بـ مدينة إنتزاموروس الاستعمارية المسورة، حصن سانتياغو، ومحيط خليج مانيلا.",
-          "en": "The historic capital of the Philippines, famous for walled Intramuros, Fort Santiago, and Manila Bay sunsets.",
-          "tr": "Surlarla çevrili Intramuros, Fort Santiago ve Manila Körfezi ile ünlü Filipinler başkenti."
-        },
-        "image": "res://images/manila.png",
-        "bg_image": "res://images/manila_bg.png",
-        "image_3d": "res://images/manila_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل ذا بينينسولا مانيلا",
-              "en": "The Peninsula Manila",
-              "tr": "The Peninsula Manila"
-            },
-            "image": "res://images/peninsula_manila.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوتيل أوكورا مانيلا (Okura Manila)",
-              "en": "Hotel Okura Manila",
-              "tr": "Hotel Okura Manila"
-            },
-            "image": "res://images/okura_manila.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم أنطونيو بيسترو مانيلا (Antonio's)",
-              "en": "Antonio's Manila",
-              "tr": "Antonio's Restoran Manila"
-            },
-            "image": "res://images/antonios_manila.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "أطباق فلبينية وأوروبية فاخرة وخنزير الأدوبو والمشويات",
-              "en": "Contemporary Filipino & European Fine Dining",
-              "tr": "Modern Filipin ve Avrupa Lüks Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "المدينة التاريخية المسورة إنتزاموروس (Intramuros - Walled City)",
-              "en": "Intramuros (Walled City)",
-              "tr": "Intramuros (Surlarla Çevrili Şehir)"
-            },
-            "image": "res://images/intramuros.png",
-            "description": {
-              "ar": "القلب الاستعماري الإسباني الأثري بني عام 1571 يضم كنيسة سان أغسطين المصنفة باليونيسكو.",
-              "en": "16th-century Spanish colonial walled district holding Manila Cathedral and stone cobblestones.",
-              "tr": "Manila Katedrali ve taş sokaklara sahip 16. yüzyıl İspanyol sömürge mahallesi."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "منتزه ريزال التاريخي (Rizal Park)",
-              "en": "Rizal Park (Luneta)",
-              "tr": "Rizal Parkı (Luneta)"
-            },
-            "image": "res://images/rizal_park.png",
-            "description": {
-              "ar": "أحد أضخم المنتزهات الحضرية بآسيا ويضم نصب البطل القومي خوسيه ريزال حراسة الحرس الملكي.",
-              "en": "Historic urban park dedicated to national hero Dr. José Rizal with ornamental gardens.",
-              "tr": "Ulusal kahraman Dr. José Rizal'a adanmış tarihi şehir parkı."
-            }
-          }
-        ]
-      },
-      "boracay": {
-        "names": {
-          "ar": "بوراكاي (جزيرة الشاطئ الأبيض)",
-          "en": "Boracay",
-          "tr": "Boracay"
-        },
-        "description": {
-          "ar": "عاصمة الاستجمام العالمية، تشتهر بـ الشاطئ الأبيض (White Beach) ذو الرمال الناصعة الفائقة النعومة.",
-          "en": "World-famous small island, renowned for powdery White Beach, Willy's Rock, and water sports.",
-          "tr": "Pudra yumuşaklığındaki White Beach ve Willy's Rock ile dünyaca ünlü ada."
-        },
-        "image": "res://images/boracay.png",
-        "bg_image": "res://images/boracay_bg.png",
-        "image_3d": "res://images/boracay_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع شانغريلا بوراكاي وسبا (Shangri-La Boracay)",
-              "en": "Shangri-La Boracay",
-              "tr": "Shangri-La Boracay"
-            },
-            "image": "res://images/shangrila_boracay.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "منتجع ذا الملاذ الساحلي بوراكاي (Discovery Shores)",
-              "en": "Discovery Shores Boracay",
-              "tr": "Discovery Shores Boracay"
-            },
-            "image": "res://images/discovery_shores.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم سيركل بوراكاي البحر (Dos Mestizos)",
-              "en": "Dos Mestizos Boracay",
-              "tr": "Dos Mestizos Restoran Boracay"
-            },
-            "image": "res://images/dos_mestizos.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "مأكولات إسبانية فلبينية ومأكولات بحرية طازجة",
-              "en": "Traditional Heritage Spanish-Filipino Tapas",
-              "tr": "Geleneksel İspanyol-Filipin Tapasları"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "الشاطئ الأبيض العظيم (White Beach Boracay)",
-              "en": "White Beach",
-              "tr": "White Beach (Beyaz Plaj)"
-            },
-            "image": "res://images/white_beach_boracay.png",
-            "description": {
-              "ar": "شاطئ ساحر يمتد لـ 4 كم برمال ناصعة البياض أبرد من حرارة الشمس ومياه فيروزية زجاجية.",
-              "en": "4km long powdery white sand beach repeatedly voted among the best in the world.",
-              "tr": "Dünyanın en iyileri arasında seçilen 4 km'lik pudra beyaz kumsal."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "صخرة ويليز روك البحرية (Willy's Rock)",
-              "en": "Willy's Rock",
-              "tr": "Willy's Rock Kayalığı"
-            },
-            "image": "res://images/willys_rock.png",
-            "description": {
-              "ar": "تكوين صخري بركاني فريد يمتد وسط المياه الضحلة تعلوه تمثال للعذراء.",
-              "en": "Volcanic rock formation jutting out of shallow water with a statue of Virgin Mary.",
-              "tr": "Sığ sulardan yükselen, Meryem Ana heykelli volkanik kaya oluşumu."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "metro_manila": {
+      "names": { "ar": "مترو مانيلا (إقليم العاصمة)", "en": "Metro Manila (NCR)", "tr": "Metro Manila (NCR)" }
+    },
+    "palawan": {
+      "names": { "ar": "بالاوان (إل نيدو وكورون)", "en": "Palawan", "tr": "Palawan" }
+    },
+    "cebu": {
+      "names": { "ar": "سيبو", "en": "Cebu", "tr": "Cebu" }
+    },
+    "aklan": {
+      "names": { "ar": "أكلان (جزيرة بوراكاي)", "en": "Aklan (Boracay)", "tr": "Aklan (Boracay)" }
+    },
+    "bohol": {
+      "names": { "ar": "بوهول (تلال الشوكولاتة)", "en": "Bohol", "tr": "Bohol" }
+    },
+    "surigao_del_norte": {
+      "names": { "ar": "سوريغاو ديل نورتي (جزيرة سيرجاو)", "en": "Surigao del Norte (Siargao)", "tr": "Surigao del Norte (Siargao)" }
+    },
+    "benguet": {
+      "names": { "ar": "بينغويت (مدينة باجيو)", "en": "Benguet (Baguio)", "tr": "Benguet (Baguio)" }
+    },
+    "ifugao": {
+      "names": { "ar": "إيفوغاو (مدرجات أرز بانايو)", "en": "Ifugao", "tr": "Ifugao" }
+    },
+    "albay": {
+      "names": { "ar": "ألباي (بركان مايون)", "en": "Albay", "tr": "Albay (Mayon Yanardağı)" }
+    },
+    "ilocos_sur": {
+      "names": { "ar": "إيلوكوس سور (مدينة فيغان التاريخية)", "en": "Ilocos Sur (Vigan)", "tr": "Ilocos Sur (Vigan)" }
+    },
+    "ilocos_norte": {
+      "names": { "ar": "إيلوكوس نورتي", "en": "Ilocos Norte", "tr": "Ilocos Norte" }
+    },
+    "batangas": {
+      "names": { "ar": "باتانغاس (بركان تال)", "en": "Batangas", "tr": "Batangas" }
+    },
+    "pangasinan": {
+      "names": { "ar": "بانغاسينان (حديقة المئة جزيرة)", "en": "Pangasinan", "tr": "Pangasinan" }
+    },
+    "batanes": {
+      "names": { "ar": "باتانيس", "en": "Batanes", "tr": "Batanes" }
+    },
+    "siquijor": {
+      "names": { "ar": "سيكيجور", "en": "Siquijor", "tr": "Siquijor" }
+    },
+    "davao_del_sur": {
+      "names": { "ar": "دايفاو ديل سور (مدينة دافاو)", "en": "Davao del Sur", "tr": "Davao del Sur" }
+    },
+    "camiguin": {
+      "names": { "ar": "كاميغوين", "en": "Camiguin", "tr": "Camiguin" }
+    },
+    "la_union": {
+      "names": { "ar": "لا اونيون", "en": "La Union", "tr": "La Union" }
+    },
+    "pampanga": {
+      "names": { "ar": "بامبانغا", "en": "Pampanga", "tr": "Pampanga" }
+    },
+    "laguna": {
+      "names": { "ar": "لاغونا", "en": "Laguna", "tr": "Laguna" }
+    },
+    "cavite": {
+      "names": { "ar": "كافيته (تاغايتاي)", "en": "Cavite", "tr": "Cavite" }
+    },
+    "zambales": {
+      "names": { "ar": "زامباليس (سوبيك)", "en": "Zambales", "tr": "Zambales" }
+    },
+    "bataan": {
+      "names": { "ar": "باتان", "en": "Bataan", "tr": "Bataan" }
+    },
+    "rizal": {
+      "names": { "ar": "ريزال", "en": "Rizal", "tr": "Rizal" }
+    },
+    "bulacan": {
+      "names": { "ar": "بولاكان", "en": "Bulacan", "tr": "Bulacan" }
+    },
+    "iloilo": {
+      "names": { "ar": "إيلويلو", "en": "Iloilo", "tr": "Iloilo" }
+    },
+    "negros_oriental": {
+      "names": { "ar": "نغروس أوريانتال (دوماغويتي)", "en": "Negros Oriental", "tr": "Negros Oriental" }
+    },
+    "negros_occidental": {
+      "names": { "ar": "نغروس أوكسيدنتال (باكولود)", "en": "Negros Occidental", "tr": "Negros Occidental" }
+    },
+    "oriental_mindoro": {
+      "names": { "ar": "أوريانتال ميندورو (بويرتو غاليرا)", "en": "Oriental Mindoro", "tr": "Oriental Mindoro" }
+    },
+    "occidental_mindoro": {
+      "names": { "ar": "أوكسيدنتال ميندورو (شعب أبو المرجاني)", "en": "Occidental Mindoro", "tr": "Occidental Mindoro" }
+    },
+    "south_cotabato": {
+      "names": { "ar": "ساوث كوتاباتو (بحيرة سيبو)", "en": "South Cotabato", "tr": "South Cotabato" }
+    },
+    "romblon": {
+      "names": { "ar": "رومبلون", "en": "Romblon", "tr": "Romblon" }
+    },
+    "leyte": {
+      "names": { "ar": "ليتي", "en": "Leyte", "tr": "Leyte" }
+    },
+    "misamis_oriental": {
+      "names": { "ar": "ميساميس أوريانتال (كاغايان دي أورو)", "en": "Misamis Oriental", "tr": "Misamis Oriental" }
+    },
+    "guimaras": {
+      "names": { "ar": "غيماراس", "en": "Guimaras", "tr": "Guimaras" }
+    },
+    "mountain_province": {
+      "names": { "ar": "ماونتن بروفينس (ساغادا)", "en": "Mountain Province", "tr": "Mountain Province" }
+    },
+    "camarines_sur": {
+      "names": { "ar": "كامارنيس سور (كاراموان)", "en": "Camarines Sur", "tr": "Camarines Sur" }
+    },
+    "surigao_del_sur": {
+      "names": { "ar": "سوريغاو ديل سور (النهر المسحور)", "en": "Surigao del Sur", "tr": "Surigao del Sur" }
+    },
+    "zamboanga_del_sur": {
+      "names": { "ar": "زامبوانجا ديل سور (مدينة زامبوانجا)", "en": "Zamboanga del Sur", "tr": "Zamboanga del Sur" }
+    },
+    "dinagat_islands": {
+      "names": { "ar": "ديناغات آيلاندز", "en": "Dinagat Islands", "tr": "Dinagat Adaları" }
+    },
+    "bukidnon": {
+      "names": { "ar": "بوكيدنون", "en": "Bukidnon", "tr": "Bukidnon" }
+    },
+    "kalinga": {
+      "names": { "ar": "كاليينغا", "en": "Kalinga", "tr": "Kalinga" }
+    },
+    "aurora": {
+      "names": { "ar": "أورورا (بالير)", "en": "Aurora", "tr": "Aurora" }
+    },
+    "sorsogon": {
+      "names": { "ar": "سورسوغون (دونصول)", "en": "Sorsogon", "tr": "Sorsogon" }
+    },
+    "cagayan": {
+      "names": { "ar": "كاغايان", "en": "Cagayan", "tr": "Cagayan" }
+    },
+    "marinduque": {
+      "names": { "ar": "ماريندوك", "en": "Marinduque", "tr": "Marinduque" }
+    },
+    "catanduanes": {
+      "names": { "ar": "كاتاندوانس", "en": "Catanduanes", "tr": "Catanduanes" }
+    },
+    "antique": {
+      "names": { "ar": "أنتيكي", "en": "Antique", "tr": "Antique" }
+    },
+    "capiz": {
+      "names": { "ar": "كابيز", "en": "Capiz", "tr": "Capiz" }
+    },
+    "southern_leyte": {
+      "names": { "ar": "سيمور ليته (ساذرن ليتي)", "en": "Southern Leyte", "tr": "Southern Leyte" }
+    },
+    "davao_oriental": {
+      "names": { "ar": "دايفاو أوريانتال", "en": "Davao Oriental", "tr": "Davao Oriental" }
+    },
+    "davao_del_norte": {
+      "names": { "ar": "دايفاو ديل نورتي (جزيرة سامال)", "en": "Davao del Norte", "tr": "Davao del Norte" }
+    },
+    "nueva_vizcaya": {
+      "names": { "ar": "نويفا فيزكايا", "en": "Nueva Vizcaya", "tr": "Nueva Vizcaya" }
+    },
+    "tarlac": {
+      "names": { "ar": "تارلاك", "en": "Tarlac", "tr": "Tarlac" }
+    },
+    "nueva_ecija": {
+      "names": { "ar": "نويفا إيسيحا", "en": "Nueva Ecija", "tr": "Nueva Ecija" }
+    },
+    "isabela": {
+      "names": { "ar": "إيزابيلا", "en": "Isabela", "tr": "Isabela" }
+    },
+    "biliran": {
+      "names": { "ar": "بيليران", "en": "Biliran", "tr": "Biliran" }
+    },
+    "northern_samar": {
+      "names": { "ar": "نورثرن سامار", "en": "Northern Samar", "tr": "Northern Samar" }
+    },
+    "eastern_samar": {
+      "names": { "ar": "إيسترن سامار", "en": "Eastern Samar", "tr": "Eastern Samar" }
+    },
+    "samar": {
+      "names": { "ar": "سامار", "en": "Samar", "tr": "Samar" }
+    },
+    "camarines_norte": {
+      "names": { "ar": "كامارنيس نورتي", "en": "Camarines Norte", "tr": "Camarines Norte" }
+    },
+    "masbate": {
+      "names": { "ar": "ماسبيت", "en": "Masbate", "tr": "Masbate" }
+    },
+    "misamis_occidental": {
+      "names": { "ar": "ميساميس أوكسيدنتال", "en": "Misamis Occidental", "tr": "Misamis Occidental" }
+    },
+    "zamboanga_del_norte": {
+      "names": { "ar": "زامبوانجا ديل نورتي", "en": "Zamboanga del Norte", "tr": "Zamboanga del Norte" }
+    },
+    "zamboanga_sibugay": {
+      "names": { "ar": "زامبوانجا سيبوجاي", "en": "Zamboanga Sibugay", "tr": "Zamboanga Sibugay" }
+    },
+    "agusan_del_norte": {
+      "names": { "ar": "أغوسان ديل نورتي", "en": "Agusan del Norte", "tr": "Agusan del Norte" }
+    },
+    "agusan_del_sul": {
+      "names": { "ar": "أغوسان ديل سور", "en": "Agusan del Sur", "tr": "Agusan del Sur" }
+    },
+    "sarangani": {
+      "names": { "ar": "سارانغاني", "en": "Sarangani", "tr": "Sarangani" }
+    },
+    "cotabato": {
+      "names": { "ar": "كوتاباتو", "en": "Cotabato", "tr": "Cotabato" }
+    },
+    "sultan_kudarat": {
+      "names": { "ar": "سلطان قدرات", "en": "Sultan Kudarat", "tr": "Sultan Kudarat" }
+    },
+    "davao_occidental": {
+      "names": { "ar": "دايفاو أوتشيدنتال", "en": "Davao Occidental", "tr": "Davao Occidental" }
+    },
+    "lanao_del_norte": {
+      "names": { "ar": "لاناو ديل نورتي", "en": "Lanao del Norte", "tr": "Lanao del Norte" }
+    },
+    "lanao_del_sur": {
+      "names": { "ar": "لاناو ديل سور", "en": "Lanao del Sur", "tr": "Lanao del Sur" }
+    },
+    "maguindanao_del_norte": {
+      "names": { "ar": "ماجوينداناو ديل نورتي", "en": "Maguindanao del Norte", "tr": "Maguindanao del Norte" }
+    },
+    "maguindanao_del_sur": {
+      "names": { "ar": "ماجوينداناو ديل سور", "en": "Maguindanao del Sur", "tr": "Maguindanao del Sur" }
+    },
+    "basilan": {
+      "names": { "ar": "باسيلان", "en": "Basilan", "tr": "Basilan" }
+    },
+    "sulu": {
+      "names": { "ar": "سولو", "en": "Sulu", "tr": "Sulu" }
+    },
+    "tawi_tawi": {
+      "names": { "ar": "تاوي تاوي", "en": "Tawi-Tawi", "tr": "Tawi-Tawi" }
+    },
+    "abra": {
+      "names": { "ar": "أبرا", "en": "Abra", "tr": "Abra" }
+    },
+    "apayao": {
+      "names": { "ar": "أباياو", "en": "Apayao", "tr": "Apayao" }
+    },
+    "quirino": {
+      "names": { "ar": "كويرينو", "en": "Quirino", "tr": "Quirino" }
+    },
+    "compostela_valley": {
+      "names": { "ar": "كومبوستيلا فالي (دافيو دي أورو)", "en": "Compostela Valley (Davao de Oro)", "tr": "Compostela Valley (Davao de Oro)" }
     }
   }
 }

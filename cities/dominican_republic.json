@@ -1,190 +1,175 @@
 {
-  "dominican_republic": {
-    "needs_ad": false,
-    "cities": {
-      "santo_domingo": {
-        "names": {
-          "ar": "سانتو دومينغو",
-          "en": "Santo Domingo",
-          "tr": "Santo Domingo"
-        },
-        "description": {
-          "ar": "أقدم مدينة أوروپية تأسست في العالم الجديد، تشتهر بـ الحي الاستعماري (Zona Colonial) والقصور الإسبانية.",
-          "en": "The oldest European city in the Americas, famous for UNESCO Zona Colonial and Alcázar de Colón.",
-          "tr": "Amerika kıtasındaki en eski Avrupa şehri; UNESCO Zona Colonial bölgesiyle ünlüdür."
-        },
-        "image": "res://images/santo_domingo.png",
-        "bg_image": "res://images/santo_domingo_bg.png",
-        "image_3d": "res://images/santo_domingo_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق كاساس دي إيل سيكلو سانتو دومينغو",
-              "en": "Casas del XVI",
-              "tr": "Casas del XVI"
-            },
-            "image": "res://images/casas_del_xvi.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق إم بانيما سانتو دومينغو",
-              "en": "JW Marriott Hotel Santo Domingo",
-              "tr": "JW Marriott Hotel Santo Domingo"
-            },
-            "image": "res://images/jw_marriott_sd.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم أدريان تروپيكال",
-              "en": "Adrián Tropical",
-              "tr": "Adrián Tropical Restoran"
-            },
-            "image": "res://images/adrian_tropical.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أطباق الموفونغو والدومينيكان على البحر",
-              "en": "Traditional Dominican & Mofongo",
-              "tr": "Geleneksel Dominik ve Mofongo Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "الحي الاستعماري التاريخي (Zona Colonial - UNESCO)",
-              "en": "Zona Colonial",
-              "tr": "Zona Colonial (Tarihi Sömürge Bölgesi)"
-            },
-            "image": "res://images/zona_colonial.png",
-            "description": {
-              "ar": "المركز التاريخي الأول الذي أُقيمت فيه أول كاتدرائية وأول قلعة في الأمريكتين.",
-              "en": "Historic core featuring the first cathedral, hospital, and university in the New World.",
-              "tr": "Yeni Dünya'daki ilk katedral, hastane ve üniversiteye ev sahipliği yapan tarihi merkez."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "قصر الكاسار دي كولون (Alcázar de Colón)",
-              "en": "Alcázar de Colón",
-              "tr": "Alcázar de Colón Sarayı"
-            },
-            "image": "res://images/alcazar_de_colon.png",
-            "description": {
-              "ar": "قصر ابن كريستوفر كولومبوس الملكي المبني عام 1510 بأسلوب قوطي إسباني.",
-              "en": "Palace built for Christopher Columbus's son Diego, now a museum of colonial art.",
-              "tr": "Kristof Kolomb'un oğlu Diego için inşa edilen, şimdi sömürge sanatı müzesi olan saray."
-            }
-          }
-        ]
-      },
-      "punta_cana": {
-        "names": {
-          "ar": "بونتا كانا",
-          "en": "Punta Cana",
-          "tr": "Punta Cana"
-        },
-        "description": {
-          "ar": "عاصمة المنتجعات العالمية الفاخرة، تشتهر بشواطئ بافارو المزدانة بأشجار النخيل والأنشطة المائية.",
-          "en": "World-famous resort region on the eastern tip, famed for Bávaro Beach, all-inclusive resorts, and golf.",
-          "tr": "Doğu ucundaki dünyaca ünlü resort bölgesi; Bávaro Plajı ve golf sahalarıyla tanınır."
-        },
-        "image": "res://images/punta_cana.png",
-        "bg_image": "res://images/punta_cana_bg.png",
-        "image_3d": "res://images/punta_cana_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع بونتا كانا ريزورت آند كلوب",
-              "en": "Tortuga Bay Hotel Puntacana Resort",
-              "tr": "Tortuga Bay Hotel Puntacana"
-            },
-            "image": "res://images/tortuga_bay.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم باشيون باي مارتين بيراساتيغي",
-              "en": "Passion by Martín Berasategui",
-              "tr": "Passion by Martín Berasategui"
-            },
-            "image": "res://images/passion_punta_cana.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات راقية بإشراف شيف عالمي",
-              "en": "Gourmet Spanish & Seafood",
-              "tr": "Gurme İspanyol ve Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "شاطئ بافارو الشرير (Bávaro Beach)",
-              "en": "Bávaro Beach",
-              "tr": "Bávaro Plajı"
-            },
-            "image": "res://images/bavaro_beach.png",
-            "description": {
-              "ar": "شاطئ ساحر بطول 48 كم برمال بيضاء ناصعة ونخيل وجزر مرجانية.",
-              "en": "Endless stretch of white sand, coconut palms, and calm turquoise waters.",
-              "tr": "Beyaz kumlar, hindistan cevizi palmiyeleri ve sakin turkuaz suların uzandığı plaj."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "محمية عيون العيون البيئية (Indigenous Eyes Ecological Park)",
-              "en": "Indigenous Eyes Ecological Park",
-              "tr": "Yerli Gözler Ekolojik Parkı"
-            },
-            "image": "res://images/indigenous_eyes.png",
-            "description": {
-              "ar": "محمية طبيعية تضم 12 بحيرة مياه عذبة نقية للسباحة وسط الغابة.",
-              "en": "Private reserve featuring 12 freshwater lagoons fed by underground rivers.",
-              "tr": "Yeraltı nehirleriyle beslenen 12 tatlı su lagününe sahip özel koruma alanı."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "punta_cana": {
+      "names": { "ar": "بونتا كانا", "en": "Punta Cana", "tr": "Punta Cana" }
+    },
+    "santo_domingo": {
+      "names": { "ar": "سانتو دومينغو (العاصمة)", "en": "Santo Domingo", "tr": "Santo Domingo" }
+    },
+    "puerto_plata": {
+      "names": { "ar": "بويرتو بلاتا", "en": "Puerto Plata", "tr": "Puerto Plata" }
+    },
+    "bavaro": {
+      "names": { "ar": "بافارو (بايا برينسيبي)", "en": "Bávaro", "tr": "Bávaro" }
+    },
+    "isla_saona": {
+      "names": { "ar": "جزيرة ساونا", "en": "Isla Saona", "tr": "Saona Adası (Isla Saona)" }
+    },
+    "la_romana": {
+      "names": { "ar": "لا رومانا", "en": "La Romana", "tr": "La Romana" }
+    },
+    "santiago_de_los_caballeros": {
+      "names": { "ar": "سانتياغو دي لوس كاباييروس", "en": "Santiago de los Caballeros", "tr": "Santiago de los Caballeros" }
+    },
+    "bayahibe": {
+      "names": { "ar": "باياهيبي", "en": "Bayahíbe", "tr": "Bayahíbe" }
+    },
+    "samana": {
+      "names": { "ar": "سامانا", "en": "Samaná", "tr": "Samaná" }
+    },
+    "las_terrenas": {
+      "names": { "ar": "لاس تيريناس", "en": "Las Terrenas", "tr": "Las Terrenas" }
+    },
+    "cabarete": {
+      "names": { "ar": "كاباريتي", "en": "Cabarete", "tr": "Cabarete" }
+    },
+    "sosua": {
+      "names": { "ar": "سوسوا", "en": "Sosúa", "tr": "Sosúa" }
+    },
+    "altos_de_chavon": {
+      "names": { "ar": "ألتوس دي تشافون", "en": "Altos de Chavón", "tr": "Altos de Chavón" }
+    },
+    "cap_cana": {
+      "names": { "ar": "كابا كانا", "en": "Cap Cana", "tr": "Cap Cana" }
+    },
+    "boca_chica": {
+      "names": { "ar": "بوكا تشيكا", "en": "Boca Chica", "tr": "Boca Chica" }
+    },
+    "juan_dolio": {
+      "names": { "ar": "خوان دوليو", "en": "Juan Dolio", "tr": "Juan Dolio" }
+    },
+    "jarabacoa": {
+      "names": { "ar": "جاراباكوا", "en": "Jarabacoa", "tr": "Jarabacoa" }
+    },
+    "constanza": {
+      "names": { "ar": "كونستانزا", "en": "Constanza", "tr": "Constanza" }
+    },
+    "el_limon": {
+      "names": { "ar": "إل ليمون (شلال إل ليمون)", "en": "El Limón", "tr": "El Limón" }
+    },
+    "las_galeras": {
+      "names": { "ar": "لاس غاليراس", "en": "Las Galeras", "tr": "Las Galeras" }
+    },
+    "miches": {
+      "names": { "ar": "ميشيس", "en": "Miches", "tr": "Miches" }
+    },
+    "uvero_alto": {
+      "names": { "ar": "أوفيرو ألتو (أويّا نويفا)", "en": "Uvero Alto", "tr": "Uvero Alto" }
+    },
+    "macao": {
+      "names": { "ar": "ماكاو (شاطئ ماكاو)", "en": "Macao", "tr": "Macao" }
+    },
+    "el_cortecito": {
+      "names": { "ar": "إل كورتيسيتو", "en": "El Cortecito", "tr": "El Cortecito" }
+    },
+    "rio_san_juan": {
+      "names": { "ar": "ريو سان خوان", "en": "Río San Juan", "tr": "Río San Juan" }
+    },
+    "cabrera": {
+      "names": { "ar": "كابريرا", "en": "Cabrera", "tr": "Cabrera" }
+    },
+    "pedernales": {
+      "names": { "ar": "بيديرنالس (باهيا دي لاس أغيلاس)", "en": "Pedernales", "tr": "Pedernales" }
+    },
+    "barahona": {
+      "names": { "ar": "باراهونا", "en": "Barahona", "tr": "Barahona" }
+    },
+    "monte_cristi": {
+      "names": { "ar": "مونتي كريستي", "en": "Monte Cristi", "tr": "Monte Cristi" }
+    },
+    "la_vega": {
+      "names": { "ar": "لا فيغا (كونسيبسيون دي لا فيغا)", "en": "La Vega (Concepción de La Vega)", "tr": "La Vega" }
+    },
+    "higuey": {
+      "names": { "ar": "هيغوي", "en": "Higüey", "tr": "Higüey" }
+    },
+    "san_pedro_de_macoris": {
+      "names": { "ar": "سان بيدرو دي ماكوريس", "en": "San Pedro de Macorís", "tr": "San Pedro de Macorís" }
+    },
+    "la_isabela": {
+      "names": { "ar": "لا إيسابيلا", "en": "La Isabela", "tr": "La Isabela" }
+    },
+    "santo_domingo_este": {
+      "names": { "ar": "سانتو دومينغو إيستي", "en": "Santo Domingo Este", "tr": "Doğu Santo Domingo" }
+    },
+    "bonao": {
+      "names": { "ar": "بوناو", "en": "Bonao", "tr": "Bonao" }
+    },
+    "san_francisco_de_macoris": {
+      "names": { "ar": "سان فرانسيسكو دي ماكوريس", "en": "San Francisco de Macorís", "tr": "San Francisco de Macorís" }
+    },
+    "nagua": {
+      "names": { "ar": "ناغوا", "en": "Nagua", "tr": "Nagua" }
+    },
+    "san_cristobal": {
+      "names": { "ar": "سان كريستوبال", "en": "San Cristóbal", "tr": "San Cristóbal" }
+    },
+    "bani": {
+      "names": { "ar": "بانِي (كثبان باني)", "en": "Baní", "tr": "Baní" }
+    },
+    "las_calderas": {
+      "names": { "ar": "لاس كاليراس", "en": "Las Calderas", "tr": "Las Calderas" }
+    },
+    "las_salinas": {
+      "names": { "ar": "لاس ساليناس", "en": "Las Salinas", "tr": "Las Salinas" }
+    },
+    "santo_domingo_norte": {
+      "names": { "ar": "سانتو دومينغو نورتي", "en": "Santo Domingo Norte", "tr": "Kuzey Santo Domingo" }
+    },
+    "santo_domingo_oeste": {
+      "names": { "ar": "سانتو دومينغو أويستي", "en": "Santo Domingo Oeste", "tr": "Batı Santo Domingo" }
+    },
+    "azua": {
+      "names": { "ar": "أزوا", "en": "Azua", "tr": "Azua" }
+    },
+    "san_juan_de_la_maguana": {
+      "names": { "ar": "سان خوان دي لا ماغوانا", "en": "San Juan de la Maguana", "tr": "San Juan de la Maguana" }
+    },
+    "mao": {
+      "names": { "ar": "ماو", "en": "Mao", "tr": "Mao" }
+    },
+    "dajabon": {
+      "names": { "ar": "داجابون", "en": "Dajabón", "tr": "Dajabón" }
+    },
+    "manzanillo": {
+      "names": { "ar": "مانزانيو", "en": "Manzanillo", "tr": "Manzanillo" }
+    },
+    "enriquillo": {
+      "names": { "ar": "إنريكيّو (بحيرة إنريكيّو)", "en": "Enriquillo", "tr": "Enriquillo" }
+    },
+    "paraiso": {
+      "names": { "ar": "بارايسو", "en": "Paraíso", "tr": "Paraíso" }
+    },
+    "san_rafael_del_yuma": {
+      "names": { "ar": "سان رافاييل ديل يـوما", "en": "San Rafael del Yuma", "tr": "San Rafael del Yuma" }
+    },
+    "el_seibo": {
+      "names": { "ar": "إل سِيبو", "en": "El Seibo", "tr": "El Seibo" }
+    },
+    "hato_mayor_del_rey": {
+      "names": { "ar": "هاتو مايور ديل ري", "en": "Hato Mayor del Rey", "tr": "Hato Mayor del Rey" }
+    },
+    "sabana_de_la_mar": {
+      "names": { "ar": "سابانا دي لا مار", "en": "Sabana de la Mar", "tr": "Sabana de la Mar" }
+    },
+    "monte_plata": {
+      "names": { "ar": "مونتي بلاتا", "en": "Monte Plata", "tr": "Monte Plata" }
+    },
+    "bayaguana": {
+      "names": { "ar": "باياغوانا", "en": "Bayaguana", "tr": "Bayaguana" }
+    },
+    "san_jose_de_ocoa": {
+      "names": { "ar": "سان خوسيه دي أوكوا", "en": "San José de Ocoa", "tr": "San José de Ocoa" }
     }
   }
 }

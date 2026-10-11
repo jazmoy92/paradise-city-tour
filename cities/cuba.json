@@ -1,7 +1,7 @@
 {
   "cities": {
-    "havana": {
-      "names": { "ar": "هافانا", "en": "La Habana", "tr": "Havana" }
+    "la_habana": {
+      "names": { "ar": "هافانا", "en": "Havana (La Habana)", "tr": "Havana" }
     },
     "varadero": {
       "names": { "ar": "فاراديرو", "en": "Varadero", "tr": "Varadero" }
@@ -9,11 +9,11 @@
     "trinidad": {
       "names": { "ar": "ترينيداد", "en": "Trinidad", "tr": "Trinidad" }
     },
-    "santiago_de_cuba": {
-      "names": { "ar": "سانتياغو دي كوبا", "en": "Santiago de Cuba", "tr": "Santiago de Cuba" }
-    },
     "vinales": {
       "names": { "ar": "فينياليس", "en": "Viñales", "tr": "Viñales" }
+    },
+    "santiago_de_cuba": {
+      "names": { "ar": "سانتياغو دي كوبا", "en": "Santiago de Cuba", "tr": "Santiago de Cuba" }
     },
     "cienfuegos": {
       "names": { "ar": "سينفويغوس", "en": "Cienfuegos", "tr": "Cienfuegos" }
@@ -30,14 +30,17 @@
     "holguin": {
       "names": { "ar": "هولغين", "en": "Holguín", "tr": "Holguín" }
     },
-    "matanzas": {
-      "names": { "ar": "ماتانثاس", "en": "Matanzas", "tr": "Matanzas" }
-    },
     "pinar_del_rio": {
       "names": { "ar": "بينار ديل ريو", "en": "Pinar del Río", "tr": "Pinar del Río" }
     },
-    "cardenas": {
-      "names": { "ar": "كارديناس", "en": "Cárdenas", "tr": "Cárdenas" }
+    "matanzas": {
+      "names": { "ar": "ماتانثاس", "en": "Matanzas", "tr": "Matanzas" }
+    },
+    "isla_de_la_juventud": {
+      "names": { "ar": "جزيرة الشباب", "en": "Isla de la Juventud", "tr": "Gençlik Adası (Isla de la Juventud)" }
+    },
+    "nueva_gerona": {
+      "names": { "ar": "نويفا خيرونا", "en": "Nueva Gerona", "tr": "Nueva Gerona" }
     },
     "bayamo": {
       "names": { "ar": "بايامو", "en": "Bayamo", "tr": "Bayamo" }
@@ -46,25 +49,25 @@
       "names": { "ar": "ريميديوس", "en": "Remedios", "tr": "Remedios" }
     },
     "cienaga_de_zapata": {
-      "names": { "ar": "مستنقعات زاباتا", "en": "Ciénaga de Zapata", "tr": "Zapata Bataklığı" }
+      "names": { "ar": "مستنقعات زاباتا (خليج الخنازير)", "en": "Ciénaga de Zapata", "tr": "Ciénaga de Zapata" }
     },
-    "isla_de_la_juventud": {
-      "names": { "ar": "جزيرة الشباب", "en": "Isla de la Juventud", "tr": "Gençlik Adası" }
+    "cardenas": {
+      "names": { "ar": "كارديناس", "en": "Cárdenas", "tr": "Cárdenas" }
     },
-    "ciego_de_avila": {
-      "names": { "ar": "سييغو دي أفيلا", "en": "Ciego de Ávila", "tr": "Ciego de Ávila" }
-    },
-    "sancti_spiritus": {
-      "names": { "ar": "سانكتي سبيريتوس", "en": "Sancti Spíritus", "tr": "Sancti Spíritus" }
+    "gibara": {
+      "names": { "ar": "غيبـارا", "en": "Gibara", "tr": "Gibara" }
     },
     "guantanamo": {
       "names": { "ar": "غوانتانامو", "en": "Guantánamo", "tr": "Guantánamo" }
     },
+    "sancti_spiritus": {
+      "names": { "ar": "سانكتي سبيريتوس", "en": "Sancti Spíritus", "tr": "Sancti Spíritus" }
+    },
+    "ciego_de_avila": {
+      "names": { "ar": "سييغو دي أفيلا", "en": "Ciego de Ávila", "tr": "Ciego de Ávila" }
+    },
     "las_tunas": {
       "names": { "ar": "لاس توناس", "en": "Las Tunas", "tr": "Las Tunas" }
-    },
-    "nueva_gerona": {
-      "names": { "ar": "نويفا خيرونا", "en": "Nueva Gerona", "tr": "Nueva Gerona" }
     },
     "moron": {
       "names": { "ar": "مورون (كايو كوكو)", "en": "Morón", "tr": "Morón" }
@@ -72,68 +75,38 @@
     "caibarien": {
       "names": { "ar": "كايبارين (كايو سانتا ماريا)", "en": "Caibarién", "tr": "Caibarién" }
     },
-    "gibara": {
-      "names": { "ar": "غيبـارا", "en": "Gibara", "tr": "Gibara" }
-    },
     "manzanillo": {
       "names": { "ar": "مانزانيو", "en": "Manzanillo", "tr": "Manzanillo" }
     },
-    "artemisa": {
-      "names": { "ar": "أرتيميسا", "en": "Artemisa", "tr": "Artemisa" }
-    },
-    "san_jose_de_las_lajas": {
-      "names": { "ar": "سان خوسيه دي لاس لاخاس", "en": "San José de las Lajas", "tr": "San José de las Lajas" }
-    },
     "la_habana_vieja": {
-      "names": { "ar": "هافانا القديمة", "en": "La Habana Vieja", "tr": "Eski Havana" }
+      "names": { "ar": "هافانا القديمة", "en": "La Habana Vieja", "tr": "Eski Havana (La Habana Vieja)" }
+    },
+    "plaza_de_la_revolucion": {
+      "names": { "ar": "ساحة الثورة", "en": "Plaza de la Revolución", "tr": "Plaza de la Revolución" }
     },
     "centro_habana": {
       "names": { "ar": "وسط هافانا", "en": "Centro Habana", "tr": "Centro Habana" }
-    },
-    "plaza_de_la_revolucion": {
-      "names": { "ar": "ساحة الثورة", "en": "Plaza de la Revolución", "tr": "Devrim Meydanı" }
     },
     "playa": {
       "names": { "ar": "بلايا (ميرامار)", "en": "Playa", "tr": "Playa" }
     },
     "la_habana_del_este": {
-      "names": { "ar": "شرق هافانا", "en": "La Habana del Este", "tr": "Doğu Havana" }
+      "names": { "ar": "شرق هافانا", "en": "La Habana del Este", "tr": "La Habana del Este" }
     },
     "guanabacoa": {
       "names": { "ar": "غواناباكوا", "en": "Guanabacoa", "tr": "Guanabacoa" }
     },
-    "boyeros": {
-      "names": { "ar": "بوييروس (مطار خوسيه مارتي)", "en": "Boyeros", "tr": "Boyeros" }
+    "artemisa": {
+      "names": { "ar": "أرتيميسا", "en": "Artemisa", "tr": "Artemisa" }
     },
-    "marianao": {
-      "names": { "ar": "مارياناو", "en": "Marianao", "tr": "Marianao" }
-    },
-    "diez_de_octubre": {
-      "names": { "ar": "دييس دي أوكتوبري", "en": "Diez de Octubre", "tr": "Diez de Octubre" }
-    },
-    "cerro": {
-      "names": { "ar": "سيرو", "en": "Cerro", "tr": "Cerro" }
-    },
-    "arroyo_naranjo": {
-      "names": { "ar": "أرويو نارانخو", "en": "Arroyo Naranjo", "tr": "Arroyo Naranjo" }
-    },
-    "la_lisa": {
-      "names": { "ar": "لا ليسا", "en": "La Lisa", "tr": "La Lisa" }
-    },
-    "san_miguel_del_padron": {
-      "names": { "ar": "سان ميغيل ديل بادرون", "en": "San Miguel del Padrón", "tr": "San Miguel del Padrón" }
-    },
-    "cotorro": {
-      "names": { "ar": "كوتورو", "en": "Cotorro", "tr": "Cotorro" }
-    },
-    "regla": {
-      "names": { "ar": "ريغلا", "en": "Regla", "tr": "Regla" }
-    },
-    "mariel": {
-      "names": { "ar": "مارييل", "en": "Mariel", "tr": "Mariel" }
+    "mayari": {
+      "names": { "ar": "مايارِي", "en": "Mayarí", "tr": "Mayarí" }
     },
     "moa": {
       "names": { "ar": "موآ", "en": "Moa", "tr": "Moa" }
+    },
+    "nuevitas": {
+      "names": { "ar": "نويفيتاس", "en": "Nuevitas", "tr": "Nuevitas" }
     },
     "sagua_la_grande": {
       "names": { "ar": "ساغوا لا غراندي", "en": "Sagua la Grande", "tr": "Sagua la Grande" }
@@ -147,8 +120,26 @@
     "banes": {
       "names": { "ar": "بانيس", "en": "Banes", "tr": "Banes" }
     },
+    "jaguey_grande": {
+      "names": { "ar": "خاگوي غراندي", "en": "Jagüey Grande", "tr": "Jagüey Grande" }
+    },
+    "niquero": {
+      "names": { "ar": "نيكيرو", "en": "Niquero", "tr": "Niquero" }
+    },
+    "pilon": {
+      "names": { "ar": "بيلون", "en": "Pilón", "tr": "Pilón" }
+    },
+    "guaimaro": {
+      "names": { "ar": "غوايمارو", "en": "Guáimaro", "tr": "Guáimaro" }
+    },
+    "sagua_de_tanamo": {
+      "names": { "ar": "ساغوا دي تانامو", "en": "Sagua de Tánamo", "tr": "Sagua de Tánamo" }
+    },
     "san_antonio_de_los_banos": {
       "names": { "ar": "سان أنطونيو دي لوس بانيوس", "en": "San Antonio de los Baños", "tr": "San Antonio de los Baños" }
+    },
+    "san_jose_de_las_lajas": {
+      "names": { "ar": "سان خوسيه دي لاس لاخاس", "en": "San José de las Lajas", "tr": "San José de las Lajas" }
     },
     "guines": {
       "names": { "ar": "غوينيس", "en": "Güines", "tr": "Güines" }
@@ -156,38 +147,8 @@
     "contramaestre": {
       "names": { "ar": "كونترامايستري", "en": "Contramaestre", "tr": "Contramaestre" }
     },
-    "san_juan_y_martinez": {
-      "names": { "ar": "سان خوان إي مارتينيث", "en": "San Juan y Martínez", "tr": "San Juan y Martínez" }
-    },
-    "consolacion_del_sur": {
-      "names": { "ar": "كونسولاسيون ديل سور", "en": "Consolación del Sur", "tr": "Consolación del Sur" }
-    },
-    "nuevitas": {
-      "names": { "ar": "نويفيتاس", "en": "Nuevitas", "tr": "Nuevitas" }
-    },
-    "jaguey_grande": {
-      "names": { "ar": "خاگوي غراندي", "en": "Jagüey Grande", "tr": "Jagüey Grande" }
-    },
-    "caimanera": {
-      "names": { "ar": "كايمانيرا", "en": "Caimanera", "tr": "Caimanera" }
-    },
-    "sagua_de_tanamo": {
-      "names": { "ar": "ساغوا دي تانامو", "en": "Sagua de Tánamo", "tr": "Sagua de Tánamo" }
-    },
-    "niquero": {
-      "names": { "ar": "نيكيرو", "en": "Niquero", "tr": "Niquero" }
-    },
-    "mayari": {
-      "names": { "ar": "مايارِي", "en": "Mayarí", "tr": "Mayarí" }
-    },
-    "guaimaro": {
-      "names": { "ar": "غوايمارو", "en": "Guáimaro", "tr": "Guáimaro" }
-    },
-    "pilon": {
-      "names": { "ar": "بيلون", "en": "Pilón", "tr": "Pilón" }
-    },
-    "santa_cruz_del_norte": {
-      "names": { "ar": "سانتا كروز ديل نورتي", "en": "Santa Cruz del Norte", "tr": "Santa Cruz del Norte" }
+    "guisa": {
+      "names": { "ar": "غيسا", "en": "Guisa", "tr": "Guisa" }
     },
     "cumanayagua": {
       "names": { "ar": "كوماناياغوا", "en": "Cumanayagua", "tr": "Cumanayagua" }
@@ -195,128 +156,14 @@
     "jovellanos": {
       "names": { "ar": "خوفيانوس", "en": "Jovellanos", "tr": "Jovellanos" }
     },
-    "colon": {
-      "names": { "ar": "كولون", "en": "Colón", "tr": "Colón" }
+    "san_juan_y_martinez": {
+      "names": { "ar": "سان خوان إي مارتينيث", "en": "San Juan y Martínez", "tr": "San Juan y Martínez" }
     },
-    "placetas": {
-      "names": { "ar": "بلاسيتاس", "en": "Placetas", "tr": "Placetas" }
-    },
-    "florida": {
-      "names": { "ar": "فلوريدا", "en": "Florida", "tr": "Florida" }
-    },
-    "camajuani": {
-      "names": { "ar": "كاماخواني", "en": "Camajuaní", "tr": "Camajuaní" }
-    },
-    "bauta": {
-      "names": { "ar": "باوتا", "en": "Bauta", "tr": "Bauta" }
-    },
-    "bejucal": {
-      "names": { "ar": "بيخوكا", "en": "Bejucal", "tr": "Bejucal" }
-    },
-    "cabaiguan": {
-      "names": { "ar": "كابايغوان", "en": "Cabaiguán", "tr": "Cabaiguán" }
-    },
-    "guane": {
-      "names": { "ar": "غواني", "en": "Guane", "tr": "Guane" }
-    },
-    "minas_de_matahambre": {
-      "names": { "ar": "ميناس دي ماتاهامبري", "en": "Minas de Matahambre", "tr": "Minas de Matahambre" }
-    },
-    "sandino": {
-      "names": { "ar": "ساندينو", "en": "Sandino", "tr": "Sandino" }
-    },
-    "bahia_honda": {
-      "names": { "ar": "باهيا أوندا", "en": "Bahía Honda", "tr": "Bahía Honda" }
-    },
-    "candelaria": {
-      "names": { "ar": "كانديلاريا", "en": "Candelaria", "tr": "Candelaria" }
-    },
-    "san_cristobal": {
-      "names": { "ar": "سان كريستوبال", "en": "San Cristóbal", "tr": "San Cristóbal" }
+    "consolacion_del_sur": {
+      "names": { "ar": "كونسولاسيون ديل سور", "en": "Consolación del Sur", "tr": "Consolación del Sur" }
     },
     "los_palacios": {
       "names": { "ar": "لوس بالاسيوس", "en": "Los Palacios", "tr": "Los Palacios" }
-    },
-    "la_palma": {
-      "names": { "ar": "لا بالما", "en": "La Palma", "tr": "La Palma" }
-    },
-    "mantua": {
-      "names": { "ar": "مانتوا", "en": "Mantua", "tr": "Mantua" }
-    },
-    "guira_de_melena": {
-      "names": { "ar": "غويرا دي ميلينا", "en": "Güira de Melena", "tr": "Güira de Melena" }
-    },
-    "alquizar": {
-      "names": { "ar": "ألكيسار", "en": "Alquízar", "tr": "Alquízar" }
-    },
-    "caimito": {
-      "names": { "ar": "كايميتو", "en": "Caimito", "tr": "Caimito" }
-    },
-    "guanajay": {
-      "names": { "ar": "غواناخاي", "en": "Guanajay", "tr": "Guanajay" }
-    },
-    "batabano": {
-      "names": { "ar": "باتابانو", "en": "Batabanó", "tr": "Batabanó" }
-    },
-    "melena_del_sur": {
-      "names": { "ar": "ميلينا ديل سور", "en": "Melena del Sur", "tr": "Melena del Sur" }
-    },
-    "jaruco": {
-      "names": { "ar": "خاروكو", "en": "Jaruco", "tr": "Jaruco" }
-    },
-    "madruga": {
-      "names": { "ar": "مادروغا", "en": "Madruga", "tr": "Madruga" }
-    },
-    "nueva_paz": {
-      "names": { "ar": "نويفا باس", "en": "Nueva Paz", "tr": "Nueva Paz" }
-    },
-    "quivican": {
-      "names": { "ar": "كيفيكان", "en": "Quivicán", "tr": "Quivicán" }
-    },
-    "san_nicolas": {
-      "names": { "ar": "سان نيكولاس", "en": "San Nicolás", "tr": "San Nicolás" }
-    },
-    "pedro_betancourt": {
-      "names": { "ar": "بيدرو بيتانكورت", "en": "Pedro Betancourt", "tr": "Pedro Betancourt" }
-    },
-    "perico": {
-      "names": { "ar": "بيريكو", "en": "Perico", "tr": "Perico" }
-    },
-    "union_de_reyes": {
-      "names": { "ar": "أونيون دي رييس", "en": "Unión de Reyes", "tr": "Unión de Reyes" }
-    },
-    "calimete": {
-      "names": { "ar": "كاليميتِه", "en": "Calimete", "tr": "Calimete" }
-    },
-    "limonar": {
-      "names": { "ar": "ليمونار", "en": "Limonar", "tr": "Limonar" }
-    },
-    "los_arabos": {
-      "names": { "ar": "لوس أرابوس", "en": "Los Arabos", "tr": "Los Arabos" }
-    },
-    "marti": {
-      "names": { "ar": "مارتي", "en": "Martí", "tr": "Martí" }
-    },
-    "santo_domingo": {
-      "names": { "ar": "سانتو دومينغو", "en": "Santo Domingo", "tr": "Santo Domingo" }
-    },
-    "manicaragua": {
-      "names": { "ar": "مانيكاراغوا", "en": "Manicaragua", "tr": "Manicaragua" }
-    },
-    "quemado_de_guines": {
-      "names": { "ar": "كيمادو دي غوينيس", "en": "Quemado de Güines", "tr": "Quemado de Güines" }
-    },
-    "cifuentes": {
-      "names": { "ar": "سيفوينتس", "en": "Cifuentes", "tr": "Cifuentes" }
-    },
-    "corralillo": {
-      "names": { "ar": "كوراليّو", "en": "Corralillo", "tr": "Corralillo" }
-    },
-    "encrucijada": {
-      "names": { "ar": "إنكروسيخادا", "en": "Encrucijada", "tr": "Encrucijada" }
-    },
-    "ranchuelo": {
-      "names": { "ar": "رانشويلو", "en": "Ranchuelo", "tr": "Ranchuelo" }
     },
     "abreus": {
       "names": { "ar": "أبريوس", "en": "Abreus", "tr": "Abreus" }
@@ -324,92 +171,185 @@
     "aguada_de_pasajeros": {
       "names": { "ar": "أغوادا دي باساخيروس", "en": "Aguada de Pasajeros", "tr": "Aguada de Pasajeros" }
     },
-    "cruces": {
-      "names": { "ar": "كروثيس", "en": "Cruces", "tr": "Cruces" }
-    },
-    "lajas": {
-      "names": { "ar": "لاخاس", "en": "Lajas", "tr": "Lajas" }
-    },
-    "palmira": {
-      "names": { "ar": "بالميرا", "en": "Palmira", "tr": "Palmira" }
-    },
-    "rodas": {
-      "names": { "ar": "روداس", "en": "Rodas", "tr": "Rodas" }
-    },
-    "fomento": {
-      "names": { "ar": "فومينتو", "en": "Fomento", "tr": "Fomento" }
-    },
-    "jatibonico": {
-      "names": { "ar": "خاتيبوينيكو", "en": "Jatibonico", "tr": "Jatibonico" }
-    },
-    "la_sierpe": {
-      "names": { "ar": "لا سيربي", "en": "La Sierpe", "tr": "La Sierpe" }
-    },
-    "taguasco": {
-      "names": { "ar": "تاغواسكو", "en": "Taguasco", "tr": "Taguasco" }
-    },
-    "yaguajay": {
-      "names": { "ar": "ياغواخاي", "en": "Yaguajay", "tr": "Yaguajay" }
-    },
-    "baragua": {
-      "names": { "ar": "باراغوا", "en": "Baraguá", "tr": "Baraguá" }
-    },
-    "chambas": {
-      "names": { "ar": "تشامباس", "en": "Chambas", "tr": "Chambas" }
-    },
-    "ciro_redondo": {
-      "names": { "ar": "سيرو ريدوندو", "en": "Ciro Redondo", "tr": "Ciro Redondo" }
-    },
-    "florencia": {
-      "names": { "ar": "فلورينسيا", "en": "Florencia", "tr": "Florencia" }
-    },
-    "majagua": {
-      "names": { "ar": "ماخاغوا", "en": "Majagua", "tr": "Majagua" }
-    },
-    "primero_de_enero": {
-      "names": { "ar": "بريميرو دي إينيرو", "en": "Primero de Enero", "tr": "Primero de Enero" }
-    },
-    "bolivia": {
-      "names": { "ar": "بوليفيا", "en": "Bolivia", "tr": "Bolivia" }
-    },
-    "carlos_manuel_de_cespedes": {
-      "names": { "ar": "كارلوس مانويل دي سيسبيديس", "en": "Carlos Manuel de Céspedes", "tr": "Carlos Manuel de Céspedes" }
-    },
-    "esmeralda": {
-      "names": { "ar": "إسميرالدا", "en": "Esmeralda", "tr": "Esmeralda" }
-    },
-    "jimaguayu": {
-      "names": { "ar": "خيماغوايو", "en": "Jimaguayú", "tr": "Jimaguayú" }
-    },
-    "minas": {
-      "names": { "ar": "ميناس", "en": "Minas", "tr": "Minas" }
-    },
-    "najasa": {
-      "names": { "ar": "ناخاسا", "en": "Najasa", "tr": "Najasa" }
-    },
-    "santa_cruz_del_sur": {
-      "names": { "ar": "سانتا كروز ديل سور", "en": "Santa Cruz del Sur", "tr": "Santa Cruz del Sur" }
-    },
-    "sibanicu": {
-      "names": { "ar": "سيبانيكو", "en": "Sibanicú", "tr": "Sibanicú" }
-    },
-    "sierra_de_cubitas": {
-      "names": { "ar": "سييرا دي كوبيتاس", "en": "Sierra de Cubitas", "tr": "Sierra de Cubitas" }
-    },
-    "vertientes": {
-      "names": { "ar": "فيرتيينتس", "en": "Vertientes", "tr": "Vertientes" }
+    "alquizar": {
+      "names": { "ar": "ألكيسار", "en": "Alquízar", "tr": "Alquízar" }
     },
     "amancio": {
       "names": { "ar": "أمانسيو", "en": "Amancio", "tr": "Amancio" }
     },
-    "colombia": {
-      "names": { "ar": "كولومبيا", "en": "Colombia", "tr": "Colombia" }
+    "antilla": {
+      "names": { "ar": "أنتيّا", "en": "Antilla", "tr": "Antilla" }
+    },
+    "arroyo_naranjo": {
+      "names": { "ar": "أرويو نارانخو", "en": "Arroyo Naranjo", "tr": "Arroyo Naranjo" }
+    },
+    "bahia_honda": {
+      "names": { "ar": "باهيا أوندا", "en": "Bahía Honda", "tr": "Bahía Honda" }
+    },
+    "baragua": {
+      "names": { "ar": "باراغوا", "en": "Baraguá", "tr": "Baraguá" }
+    },
+    "bartolome_maso": {
+      "names": { "ar": "بارتولومي ماسّو", "en": "Bartolomé Masó", "tr": "Bartolomé Masó" }
+    },
+    "batabano": {
+      "names": { "ar": "باتابانو", "en": "Batabanó", "tr": "Batabanó" }
+    },
+    "bauta": {
+      "names": { "ar": "باوتا", "en": "Bauta", "tr": "Bauta" }
+    },
+    "bejucal": {
+      "names": { "ar": "بيخوكا", "en": "Bejucal", "tr": "Bejucal" }
+    },
+    "boyeros": {
+      "names": { "ar": "بوييروس", "en": "Boyeros", "tr": "Boyeros" }
+    },
+    "buey_arriba": {
+      "names": { "ar": "بوي أريبا", "en": "Buey Arriba", "tr": "Buey Arriba" }
+    },
+    "baguanos": {
+      "names": { "ar": "باغوانوس", "en": "Báguanos", "tr": "Báguanos" }
+    },
+    "cabaiguan": {
+      "names": { "ar": "كابايغوان", "en": "Cabaiguán", "tr": "Cabaiguán" }
+    },
+    "cacocum": {
+      "names": { "ar": "كاكوكوم", "en": "Cacocum", "tr": "Cacocum" }
+    },
+    "caimanera": {
+      "names": { "ar": "كايمانيرا", "en": "Caimanera", "tr": "Caimanera" }
+    },
+    "caimito": {
+      "names": { "ar": "كايميتو", "en": "Caimito", "tr": "Caimito" }
+    },
+    "calimete": {
+      "names": { "ar": "كاليميتِه", "en": "Calimete", "tr": "Calimete" }
+    },
+    "calixto_garcia": {
+      "names": { "ar": "كاليستو غارسيا", "en": "Calixto García", "tr": "Calixto García" }
+    },
+    "camajuani": {
+      "names": { "ar": "كاماخواني", "en": "Camajuaní", "tr": "Camajuaní" }
+    },
+    "campechuela": {
+      "names": { "ar": "كامبيتشيلا", "en": "Campechuela", "tr": "Campechuela" }
+    },
+    "candelaria": {
+      "names": { "ar": "كانديلاريا", "en": "Candelaria", "tr": "Candelaria" }
+    },
+    "carlos_manuel_de_cespedes": {
+      "names": { "ar": "كارلوس مانويل دي سيسبيديس", "en": "Carlos Manuel de Céspedes", "tr": "Carlos Manuel de Céspedes" }
+    },
+    "cauto_cristo": {
+      "names": { "ar": "كاوتو كريستو", "en": "Cauto Cristo", "tr": "Cauto Cristo" }
+    },
+    "cerro": {
+      "names": { "ar": "سيرو", "en": "Cerro", "tr": "Cerro" }
+    },
+    "chambas": {
+      "names": { "ar": "تشامباس", "en": "Chambas", "tr": "Chambas" }
+    },
+    "cifuentes": {
+      "names": { "ar": "سيفوينتس", "en": "Cifuentes", "tr": "Cifuentes" }
+    },
+    "ciro_redondo": {
+      "names": { "ar": "سيرو ريدوندو", "en": "Ciro Redondo", "tr": "Ciro Redondo" }
+    },
+    "colon": {
+      "names": { "ar": "كولون", "en": "Colón", "tr": "Colón" }
+    },
+    "corralillo": {
+      "names": { "ar": "كوراليّو", "en": "Corralillo", "tr": "Corralillo" }
+    },
+    "cotorro": {
+      "names": { "ar": "كوتورو", "en": "Cotorro", "tr": "Cotorro" }
+    },
+    "cruces": {
+      "names": { "ar": "كروثيس", "en": "Cruces", "tr": "Cruces" }
+    },
+    "cueto": {
+      "names": { "ar": "كويتو", "en": "Cueto", "tr": "Cueto" }
+    },
+    "diez_de_octubre": {
+      "names": { "ar": "دييس دي أوكتوبري", "en": "Diez de Octubre", "tr": "Diez de Octubre" }
+    },
+    "encrucijada": {
+      "names": { "ar": "إنكروسيخادا", "en": "Encrucijada", "tr": "Encrucijada" }
+    },
+    "esmeralda": {
+      "names": { "ar": "إسميرالدا", "en": "Esmeralda", "tr": "Esmeralda" }
+    },
+    "florencia": {
+      "names": { "ar": "فلورينسيا", "en": "Florencia", "tr": "Florencia" }
+    },
+    "florida": {
+      "names": { "ar": "فلوريدا", "en": "Florida", "tr": "Florida" }
+    },
+    "fomento": {
+      "names": { "ar": "فومينتو", "en": "Fomento", "tr": "Fomento" }
+    },
+    "frank_pais": {
+      "names": { "ar": "فرانك باييس", "en": "Frank País", "tr": "Frank País" }
+    },
+    "guama": {
+      "names": { "ar": "غوآما", "en": "Guamá", "tr": "Guamá" }
+    },
+    "guanajay": {
+      "names": { "ar": "غواناخاي", "en": "Guanajay", "tr": "Guanajay" }
+    },
+    "guane": {
+      "names": { "ar": "غواني", "en": "Guane", "tr": "Guane" }
+    },
+    "guira_de_melena": {
+      "names": { "ar": "غويرا دي ميلينا", "en": "Güira de Melena", "tr": "Güira de Melena" }
+    },
+    "imias": {
+      "names": { "ar": "إيمياس", "en": "Imías", "tr": "Imías" }
+    },
+    "jaruco": {
+      "names": { "ar": "خاروكو", "en": "Jaruco", "tr": "Jaruco" }
+    },
+    "jatibonico": {
+      "names": { "ar": "خاتيبوينيكو", "en": "Jatibonico", "tr": "Jatibonico" }
     },
     "jesus_menendez": {
       "names": { "ar": "خيسوس مينينديث", "en": "Jesús Menéndez", "tr": "Jesús Menéndez" }
     },
+    "jiguani": {
+      "names": { "ar": "خيخاني", "en": "Jiguaní", "tr": "Jiguaní" }
+    },
+    "jimaguayu": {
+      "names": { "ar": "خيماغوايو", "en": "Jimaguayú", "tr": "Jimaguayú" }
+    },
     "jobabo": {
       "names": { "ar": "خوابو", "en": "Jobabo", "tr": "Jobabo" }
+    },
+    "la_lisa": {
+      "names": { "ar": "لا ليسا", "en": "La Lisa", "tr": "La Lisa" }
+    },
+    "la_palma": {
+      "names": { "ar": "لا بالما", "en": "La Palma", "tr": "La Palma" }
+    },
+    "la_sierpe": {
+      "names": { "ar": "لا سيربي", "en": "La Sierpe", "tr": "La Sierpe" }
+    },
+    "lajas": {
+      "names": { "ar": "لاخاس", "en": "Lajas", "tr": "Lajas" }
+    },
+    "limonar": {
+      "names": { "ar": "ليمونار", "en": "Limonar", "tr": "Limonar" }
+    },
+    "los_arabos": {
+      "names": { "ar": "لوس أرابوس", "en": "Los Arabos", "tr": "Los Arabos" }
+    },
+    "madruga": {
+      "names": { "ar": "مادروغا", "en": "Madruga", "tr": "Madruga" }
+    },
+    "maisi": {
+      "names": { "ar": "مائيسي", "en": "Maisí", "tr": "Maisí" }
+    },
+    "majagua": {
+      "names": { "ar": "ماخاغوا", "en": "Majagua", "tr": "Majagua" }
     },
     "majibacoa": {
       "names": { "ar": "ماخيباكوا", "en": "Majibacoa", "tr": "Majibacoa" }
@@ -417,95 +357,146 @@
     "manati": {
       "names": { "ar": "ماناتي", "en": "Manatí", "tr": "Manatí" }
     },
-    "antilla": {
-      "names": { "ar": "أنتيّا", "en": "Antilla", "tr": "Antilla" }
+    "manicaragua": {
+      "names": { "ar": "مانيكاراغوا", "en": "Manicaragua", "tr": "Manicaragua" }
     },
-    "baguanos": {
-      "names": { "ar": "باغوانوس", "en": "Báguanos", "tr": "Báguanos" }
-    },
-    "cacocum": {
-      "names": { "ar": "كاكوكوم", "en": "Cacocum", "tr": "Cacocum" }
-    },
-    "calixto_garcia": {
-      "names": { "ar": "كاليستو غارسيا", "en": "Calixto García", "tr": "Calixto García" }
-    },
-    "cueto": {
-      "names": { "ar": "كويتو (بيران)", "en": "Cueto", "tr": "Cueto" }
-    },
-    "frank_pais": {
-      "names": { "ar": "فرانك باييس", "en": "Frank País", "tr": "Frank País" }
-    },
-    "rafael_freyre": {
-      "names": { "ar": "رافاييل فرييري", "en": "Rafael Freyre", "tr": "Rafael Freyre" }
-    },
-    "urbano_noris": {
-      "names": { "ar": "أوربانو نوريس", "en": "Urbano Noris", "tr": "Urbano Noris" }
-    },
-    "bartolome_maso": {
-      "names": { "ar": "بارتولومي ماسّو", "en": "Bartolomé Masó", "tr": "Bartolomé Masó" }
-    },
-    "buey_arriba": {
-      "names": { "ar": "بوي أريبا", "en": "Buey Arriba", "tr": "Buey Arriba" }
-    },
-    "campechuela": {
-      "names": { "ar": "كامبيتشيلا", "en": "Campechuela", "tr": "Campechuela" }
-    },
-    "cauto_cristo": {
-      "names": { "ar": "كاوتو كريستو", "en": "Cauto Cristo", "tr": "Cauto Cristo" }
-    },
-    "guisa": {
-      "names": { "ar": "غيسا", "en": "Guisa", "tr": "Guisa" }
-    },
-    "jiguani": {
-      "names": { "ar": "خيخاني", "en": "Jiguaní", "tr": "Jiguaní" }
-    },
-    "media_luna": {
-      "names": { "ar": "ميديا لونا", "en": "Media Luna", "tr": "Media Luna" }
-    },
-    "rio_cauto": {
-      "names": { "ar": "ريو كاوتو", "en": "Río Cauto", "tr": "Río Cauto" }
-    },
-    "yara": {
-      "names": { "ar": "يارا", "en": "Yara", "tr": "Yara" }
-    },
-    "guama": {
-      "names": { "ar": "غوآما", "en": "Guamá", "tr": "Guamá" }
-    },
-    "mella": {
-      "names": { "ar": "مييا", "en": "Mella", "tr": "Mella" }
-    },
-    "san_luis_santiago_de_cuba": {
-      "names": { "ar": "سان لويس (سانتياغو دي كوبا)", "en": "San Luis (Santiago de Cuba)", "tr": "San Luis (Santiago de Cuba)" }
-    },
-    "segundo_frente": {
-      "names": { "ar": "سيغوندو فرينتي", "en": "Segundo Frente", "tr": "Segundo Frente" }
-    },
-    "songo_la_maya": {
-      "names": { "ar": "سونغو لا مايا", "en": "Songo La Maya", "tr": "Songo La Maya" }
-    },
-    "tercer_frente": {
-      "names": { "ar": "تيرسير فرينتي", "en": "Tercer Frente", "tr": "Tercer Frente" }
-    },
-    "san_luis_pinar_del_rio": {
-      "names": { "ar": "سان لويس (بينار ديل ريو)", "en": "San Luis (Pinar del Río)", "tr": "San Luis (Pinar del Río)" }
-    },
-    "el_salvador": {
-      "names": { "ar": "إل سالفادور", "en": "El Salvador", "tr": "El Salvador" }
-    },
-    "imias": {
-      "names": { "ar": "إيمياس", "en": "Imías", "tr": "Imías" }
-    },
-    "maisi": {
-      "names": { "ar": "مائيسي", "en": "Maisí", "tr": "Maisí" }
+    "mantua": {
+      "names": { "ar": "مانتوا", "en": "Mantua", "tr": "Mantua" }
     },
     "manuel_tames": {
       "names": { "ar": "مانويل تاميس", "en": "Manuel Tames", "tr": "Manuel Tames" }
     },
+    "marianao": {
+      "names": { "ar": "مارياناو", "en": "Marianao", "tr": "Marianao" }
+    },
+    "mariel": {
+      "names": { "ar": "مارييل", "en": "Mariel", "tr": "Mariel" }
+    },
+    "marti": {
+      "names": { "ar": "مارتي", "en": "Martí", "tr": "Martí" }
+    },
+    "media_luna": {
+      "names": { "ar": "ميديا لونا", "en": "Media Luna", "tr": "Media Luna" }
+    },
+    "melena_del_sur": {
+      "names": { "ar": "ميلينا ديل سور", "en": "Melena del Sur", "tr": "Melena del Sur" }
+    },
+    "mella": {
+      "names": { "ar": "مييا", "en": "Mella", "tr": "Mella" }
+    },
+    "minas": {
+      "names": { "ar": "ميناس", "en": "Minas", "tr": "Minas" }
+    },
+    "minas_de_matahambre": {
+      "names": { "ar": "ميناس دي ماتاهامبري", "en": "Minas de Matahambre", "tr": "Minas de Matahambre" }
+    },
+    "najasa": {
+      "names": { "ar": "ناخاسا", "en": "Najasa", "tr": "Najasa" }
+    },
     "niceto_perez": {
       "names": { "ar": "نيسيتو بيريس", "en": "Niceto Pérez", "tr": "Niceto Pérez" }
     },
+    "nueva_paz": {
+      "names": { "ar": "نويفا باس", "en": "Nueva Paz", "tr": "Nueva Paz" }
+    },
+    "palmira": {
+      "names": { "ar": "بالميرا", "en": "Palmira", "tr": "Palmira" }
+    },
+    "pedro_betancourt": {
+      "names": { "ar": "بيدرو بيتانكورت", "en": "Pedro Betancourt", "tr": "Pedro Betancourt" }
+    },
+    "perico": {
+      "names": { "ar": "بيريكو", "en": "Perico", "tr": "Perico" }
+    },
+    "placetas": {
+      "names": { "ar": "بلاسيتاس", "en": "Placetas", "tr": "Placetas" }
+    },
+    "primero_de_enero": {
+      "names": { "ar": "بريميرو دي إينيرو", "en": "Primero de Enero", "tr": "Primero de Enero" }
+    },
+    "quemado_de_guines": {
+      "names": { "ar": "كيمادو دي غوينيس", "en": "Quemado de Güines", "tr": "Quemado de Güines" }
+    },
+    "quivican": {
+      "names": { "ar": "كيفيكان", "en": "Quivicán", "tr": "Quivicán" }
+    },
+    "rafael_freyre": {
+      "names": { "ar": "رافاييل فرييري", "en": "Rafael Freyre", "tr": "Rafael Freyre" }
+    },
+    "ranchuelo": {
+      "names": { "ar": "رانشويلو", "en": "Ranchuelo", "tr": "Ranchuelo" }
+    },
+    "regla": {
+      "names": { "ar": "ريغلا", "en": "Regla", "tr": "Regla" }
+    },
+    "rodas": {
+      "names": { "ar": "روداس", "en": "Rodas", "tr": "Rodas" }
+    },
+    "rio_cauto": {
+      "names": { "ar": "ريو كاوتو", "en": "Río Cauto", "tr": "Río Cauto" }
+    },
     "san_antonio_del_sur": {
       "names": { "ar": "سان أنطونيو ديل سور", "en": "San Antonio del Sur", "tr": "San Antonio del Sur" }
+    },
+    "san_cristobal": {
+      "names": { "ar": "سان كريستوبال", "en": "San Cristóbal", "tr": "San Cristóbal" }
+    },
+    "san_luis_pinar_del_rio": {
+      "names": { "ar": "سان لويس (بينار ديل ريو)", "en": "San Luis (Pinar del Río)", "tr": "San Luis (Pinar del Río)" }
+    },
+    "san_luis_santiago_de_cuba": {
+      "names": { "ar": "سان لويس (سانتياغو دي كوبا)", "en": "San Luis (Santiago de Cuba)", "tr": "San Luis (Santiago de Cuba)" }
+    },
+    "san_miguel_del_padron": {
+      "names": { "ar": "سان ميغيل ديل بادرون", "en": "San Miguel del Padrón", "tr": "San Miguel del Padrón" }
+    },
+    "san_nicolas": {
+      "names": { "ar": "سان نيكولاس", "en": "San Nicolás", "tr": "San Nicolás" }
+    },
+    "sandino": {
+      "names": { "ar": "ساندينو", "en": "Sandino", "tr": "Sandino" }
+    },
+    "santa_cruz_del_norte": {
+      "names": { "ar": "سانتا كروز ديل نورتي", "en": "Santa Cruz del Norte", "tr": "Santa Cruz del Norte" }
+    },
+    "santa_cruz_del_sur": {
+      "names": { "ar": "سانتا كروز ديل سور", "en": "Santa Cruz del Sur", "tr": "Santa Cruz del Sur" }
+    },
+    "santo_domingo": {
+      "names": { "ar": "سانتو دومينغو", "en": "Santo Domingo", "tr": "Santo Domingo" }
+    },
+    "segundo_frente": {
+      "names": { "ar": "سيغوندو فرينتي", "en": "Segundo Frente", "tr": "Segundo Frente" }
+    },
+    "sibanicu": {
+      "names": { "ar": "سيبانيكو", "en": "Sibanicú", "tr": "Sibanicú" }
+    },
+    "sierra_de_cubitas": {
+      "names": { "ar": "سييرا دي كوبيتاس", "en": "Sierra de Cubitas", "tr": "Sierra de Cubitas" }
+    },
+    "songo_la_maya": {
+      "names": { "ar": "سونغو لا مايا", "en": "Songo La Maya", "tr": "Songo La Maya" }
+    },
+    "taguasco": {
+      "names": { "ar": "تاغواسكو", "en": "Taguasco", "tr": "Taguasco" }
+    },
+    "tercer_frente": {
+      "names": { "ar": "تيرسير فرينتي", "en": "Tercer Frente", "tr": "Tercer Frente" }
+    },
+    "union_de_reyes": {
+      "names": { "ar": "أونيون دي رييس", "en": "Unión de Reyes", "tr": "Unión de Reyes" }
+    },
+    "urbano_noris": {
+      "names": { "ar": "أوربانو نوريس", "en": "Urbano Noris", "tr": "Urbano Noris" }
+    },
+    "vertientes": {
+      "names": { "ar": "فيرتيينتس", "en": "Vertientes", "tr": "Vertientes" }
+    },
+    "yaguajay": {
+      "names": { "ar": "ياغواخاي", "en": "Yaguajay", "tr": "Yaguajay" }
+    },
+    "yara": {
+      "names": { "ar": "يارا", "en": "Yara", "tr": "Yara" }
     },
     "yateras": {
       "names": { "ar": "ياتيراس", "en": "Yateras", "tr": "Yateras" }

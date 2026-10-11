@@ -1,276 +1,514 @@
 {
-  "cuba": {
-    "needs_ad": false,
-    "cities": {
-      "havana": {
-        "names": {
-          "ar": "هافانا",
-          "en": "Havana",
-          "tr": "Havana"
-        },
-        "description": {
-          "ar": "عاصمة كوبا الأسطورية المليئة بالسيارات الكلاسيكية الملونة، المباني الاستعمارية العريقة، وممشى الماليقون الساحلي.",
-          "en": "Cuba's iconic capital, famous for vintage American cars, historic Havana Vieja, and Malecón oceanfront drive.",
-          "tr": "Küba'nın ikonik başkenti; klasik Amerikan arabaları, tarihi Havana Vieja ve Malecón sahil kordonuyla ünlüdür."
-        },
-        "image": "res://images/havana.png",
-        "bg_image": "res://images/havana_bg.png",
-        "image_3d": "res://images/havana_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق غران مانيزان كيمبينسكي هافانا",
-              "en": "Gran Hotel Manzana Kempinski La Habana",
-              "tr": "Gran Hotel Manzana Kempinski La Habana"
-            },
-            "image": "res://images/kempinski_havana.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق ناسيونايل دي كوبا",
-              "en": "Hotel Nacional de Cuba",
-              "tr": "Hotel Nacional de Cuba"
-            },
-            "image": "res://images/hotel_nacional_cuba.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لا غواريدا هافانا",
-              "en": "La Guarida Paladar",
-              "tr": "La Guarida Restoran"
-            },
-            "image": "res://images/la_guarida.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات كوبية وكاريبية تقليدية فاخرة",
-              "en": "Classic Cuban Paladar Dining",
-              "tr": "Geleneksel Küba Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "هافانا القديمة (Habana Vieja - UNESCO)",
-              "en": "Old Havana (Habana Vieja)",
-              "tr": "Eski Havana (Habana Vieja)"
-            },
-            "image": "res://images/old_havana.png",
-            "description": {
-              "ar": "قلب المدينة التاريخي المكون من ساحات وقصور برتغالية وإسبانية قديمة.",
-              "en": "UNESCO World Heritage site filled with Baroque plazas and colonial architecture.",
-              "tr": "Barok meydanlar ve sömürge mimarisiyle dolu UNESCO Dünya Mirası alanı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "ممشى الماليقون الساحلي (El Malecón)",
-              "en": "El Malecón Sea Drive",
-              "tr": "El Malecón Sahil Şeridi"
-            },
-            "image": "res://images/malecon_havana.png",
-            "description": {
-              "ar": "شارع الكورنيش بطول 8 كم على المحيط الأطلسي يجمع الموسيقيين والسيارات الكلاسيكية.",
-              "en": "Famous 8-kilometer sea wall and esplanade bustling with life at sunset.",
-              "tr": "Gün batımında hareketlenen 8 kilometrelik ünlü sahil kordonu."
-            }
-          }
-        ]
-      },
-      "varadero": {
-        "names": {
-          "ar": "فاراديرو",
-          "en": "Varadero",
-          "tr": "Varadero"
-        },
-        "description": {
-          "ar": "أشهر منتجع شاطئي في الكاريبي، يمتد على شبه جزيرة برمال بيضاء دقيقة ومياه فيروزية صافية.",
-          "en": "Cuba's premier beach resort town, stretching along 20 kilometers of flawless white sand.",
-          "tr": "Küba'nın en ünlü sahil şehri; 20 kilometrelik kusursuz beyaz kumsalıyla tanınır."
-        },
-        "image": "res://images/varadero.png",
-        "bg_image": "res://images/varadero_bg.png",
-        "image_3d": "res://images/varadero_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع الملياء فاراديرو",
-              "en": "Meliá Internacional Varadero",
-              "tr": "Meliá Internacional Varadero"
-            },
-            "image": "res://images/melia_varadero.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم كازا أل كابوني فاراديرو",
-              "en": "Casa de Al Capone Restaurant",
-              "tr": "Casa de Al Capone Restoran"
-            },
-            "image": "res://images/al_capone_varadero.png",
-            "rating": "4.6",
-            "cuisine": {
-              "ar": "أسماك ومأكولات بحرية مطلة على الشاطئ",
-              "en": "Seafood & Beachfront Grill",
-              "tr": "Deniz Ürünleri ve Sahil Izgarası"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "شاطئ فاراديرو الكبير (Varadero Beach)",
-              "en": "Varadero Beach",
-              "tr": "Varadero Plajı"
-            },
-            "image": "res://images/varadero_beach.png",
-            "description": {
-              "ar": "أحد تصنيفات أجمل الشواطئ عالمياً بمياه فيروزية دافئة ورمال مرجانية.",
-              "en": "Consistently ranked among the top beaches in the world.",
-              "tr": "Sürekli olarak dünyanın en iyi plajları arasında gösterilen kumsal."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "منتزه هوسوني الطبيعي (Josone Park)",
-              "en": "Josone Park",
-              "tr": "Josone Parkı"
-            },
-            "image": "res://images/josone_park.png",
-            "description": {
-              "ar": "حديقة استوائية هادئة بنيت عام 1940 وتضم بحيرة وبط وقوارب تجديف.",
-              "en": "Neoclassical tropical garden featuring a lake, swimming pool, and botanical walks.",
-              "tr": "Gölü ve botanik yollarıyla Neoklasik tropikal bahçe."
-            }
-          }
-        ]
-      },
-      "trinidad": {
-        "names": {
-          "ar": "ترينيداد",
-          "en": "Trinidad",
-          "tr": "Trinidad"
-        },
-        "description": {
-          "ar": "مدينة تاريخية مجمدة في الزمن (UNESCO)، تشتهر ببيوتها الاستعمارية الملونة وشوارعها المرصوفة بالحصى.",
-          "en": "A frozen-in-time colonial town (UNESCO) famed for colorful pastel mansions and cobblestone streets.",
-          "tr": "Zamanda donup kalmış sömürge kasabası (UNESCO); renkli konakları ve taş sokaklarıyla ünlü."
-        },
-        "image": "res://images/trinidad_cuba.png",
-        "bg_image": "res://images/trinidad_bg.png",
-        "image_3d": "res://images/trinidad_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل أيبيروستار ترينيداد",
-              "en": "Iberostar Grand Trinidad",
-              "tr": "Iberostar Grand Trinidad"
-            },
-            "image": "res://images/iberostar_trinidad.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم سان خوسيه ترينيداد",
-              "en": "Restaurante San José Trinidad",
-              "tr": "Restaurante San José Trinidad"
-            },
-            "image": "res://images/san_jose_trinidad.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أطباق كوبية ولحوم مطهوة بالفرن الحجري",
-              "en": "Traditional Cuban & Wood-fired Dishes",
-              "tr": "Geleneksel Küba ve Taş Fırın Yemekleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ساحة بلازا مايور (Plaza Mayor Trinidad)",
-              "en": "Plaza Mayor",
-              "tr": "Plaza Mayor Meydanı"
-            },
-            "image": "res://images/plaza_mayor_trinidad.png",
-            "description": {
-              "ar": "الساحة الإسبانية الرئيسية المحاطة بقصور القرن الثامن عشر التاريخية.",
-              "en": "Historic Spanish square flanked by yellow colonial mansions and palm trees.",
-              "tr": "Sarı sömürge konakları ve palmiyelerle çevrili tarihi İspanyol meydanı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "وادي طواحين السكر (Valle de los Ingenios)",
-              "en": "Valley of the Sugar Mills",
-              "tr": "Şeker Değirmenleri Vadisi"
-            },
-            "image": "res://images/valle_de_los_ingenios.png",
-            "description": {
-              "ar": "وادي أثري يضم أبراج مراقبة ومزارع السكر القديمة المصنفة باليونيسكو.",
-              "en": "UNESCO valley containing ruins of 19th-century sugar plantations and watchtowers.",
-              "tr": "19. yüzyıl şeker plantasyonları ve gözetleme kuleleri kalıntılarını içeren vadi."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "havana": {
+      "names": { "ar": "هافانا", "en": "La Habana", "tr": "Havana" }
+    },
+    "varadero": {
+      "names": { "ar": "فاراديرو", "en": "Varadero", "tr": "Varadero" }
+    },
+    "trinidad": {
+      "names": { "ar": "ترينيداد", "en": "Trinidad", "tr": "Trinidad" }
+    },
+    "santiago_de_cuba": {
+      "names": { "ar": "سانتياغو دي كوبا", "en": "Santiago de Cuba", "tr": "Santiago de Cuba" }
+    },
+    "vinales": {
+      "names": { "ar": "فينياليس", "en": "Viñales", "tr": "Viñales" }
+    },
+    "cienfuegos": {
+      "names": { "ar": "سينفويغوس", "en": "Cienfuegos", "tr": "Cienfuegos" }
+    },
+    "santa_clara": {
+      "names": { "ar": "سانتا كلارا", "en": "Santa Clara", "tr": "Santa Clara" }
+    },
+    "baracoa": {
+      "names": { "ar": "باراكوا", "en": "Baracoa", "tr": "Baracoa" }
+    },
+    "camaguey": {
+      "names": { "ar": "كاماغوي", "en": "Camagüey", "tr": "Camagüey" }
+    },
+    "holguin": {
+      "names": { "ar": "هولغين", "en": "Holguín", "tr": "Holguín" }
+    },
+    "matanzas": {
+      "names": { "ar": "ماتانثاس", "en": "Matanzas", "tr": "Matanzas" }
+    },
+    "pinar_del_rio": {
+      "names": { "ar": "بينار ديل ريو", "en": "Pinar del Río", "tr": "Pinar del Río" }
+    },
+    "cardenas": {
+      "names": { "ar": "كارديناس", "en": "Cárdenas", "tr": "Cárdenas" }
+    },
+    "bayamo": {
+      "names": { "ar": "بايامو", "en": "Bayamo", "tr": "Bayamo" }
+    },
+    "remedios": {
+      "names": { "ar": "ريميديوس", "en": "Remedios", "tr": "Remedios" }
+    },
+    "cienaga_de_zapata": {
+      "names": { "ar": "مستنقعات زاباتا", "en": "Ciénaga de Zapata", "tr": "Zapata Bataklığı" }
+    },
+    "isla_de_la_juventud": {
+      "names": { "ar": "جزيرة الشباب", "en": "Isla de la Juventud", "tr": "Gençlik Adası" }
+    },
+    "ciego_de_avila": {
+      "names": { "ar": "سييغو دي أفيلا", "en": "Ciego de Ávila", "tr": "Ciego de Ávila" }
+    },
+    "sancti_spiritus": {
+      "names": { "ar": "سانكتي سبيريتوس", "en": "Sancti Spíritus", "tr": "Sancti Spíritus" }
+    },
+    "guantanamo": {
+      "names": { "ar": "غوانتانامو", "en": "Guantánamo", "tr": "Guantánamo" }
+    },
+    "las_tunas": {
+      "names": { "ar": "لاس توناس", "en": "Las Tunas", "tr": "Las Tunas" }
+    },
+    "nueva_gerona": {
+      "names": { "ar": "نويفا خيرونا", "en": "Nueva Gerona", "tr": "Nueva Gerona" }
+    },
+    "moron": {
+      "names": { "ar": "مورون (كايو كوكو)", "en": "Morón", "tr": "Morón" }
+    },
+    "caibarien": {
+      "names": { "ar": "كايبارين (كايو سانتا ماريا)", "en": "Caibarién", "tr": "Caibarién" }
+    },
+    "gibara": {
+      "names": { "ar": "غيبـارا", "en": "Gibara", "tr": "Gibara" }
+    },
+    "manzanillo": {
+      "names": { "ar": "مانزانيو", "en": "Manzanillo", "tr": "Manzanillo" }
+    },
+    "artemisa": {
+      "names": { "ar": "أرتيميسا", "en": "Artemisa", "tr": "Artemisa" }
+    },
+    "san_jose_de_las_lajas": {
+      "names": { "ar": "سان خوسيه دي لاس لاخاس", "en": "San José de las Lajas", "tr": "San José de las Lajas" }
+    },
+    "la_habana_vieja": {
+      "names": { "ar": "هافانا القديمة", "en": "La Habana Vieja", "tr": "Eski Havana" }
+    },
+    "centro_habana": {
+      "names": { "ar": "وسط هافانا", "en": "Centro Habana", "tr": "Centro Habana" }
+    },
+    "plaza_de_la_revolucion": {
+      "names": { "ar": "ساحة الثورة", "en": "Plaza de la Revolución", "tr": "Devrim Meydanı" }
+    },
+    "playa": {
+      "names": { "ar": "بلايا (ميرامار)", "en": "Playa", "tr": "Playa" }
+    },
+    "la_habana_del_este": {
+      "names": { "ar": "شرق هافانا", "en": "La Habana del Este", "tr": "Doğu Havana" }
+    },
+    "guanabacoa": {
+      "names": { "ar": "غواناباكوا", "en": "Guanabacoa", "tr": "Guanabacoa" }
+    },
+    "boyeros": {
+      "names": { "ar": "بوييروس (مطار خوسيه مارتي)", "en": "Boyeros", "tr": "Boyeros" }
+    },
+    "marianao": {
+      "names": { "ar": "مارياناو", "en": "Marianao", "tr": "Marianao" }
+    },
+    "diez_de_octubre": {
+      "names": { "ar": "دييس دي أوكتوبري", "en": "Diez de Octubre", "tr": "Diez de Octubre" }
+    },
+    "cerro": {
+      "names": { "ar": "سيرو", "en": "Cerro", "tr": "Cerro" }
+    },
+    "arroyo_naranjo": {
+      "names": { "ar": "أرويو نارانخو", "en": "Arroyo Naranjo", "tr": "Arroyo Naranjo" }
+    },
+    "la_lisa": {
+      "names": { "ar": "لا ليسا", "en": "La Lisa", "tr": "La Lisa" }
+    },
+    "san_miguel_del_padron": {
+      "names": { "ar": "سان ميغيل ديل بادرون", "en": "San Miguel del Padrón", "tr": "San Miguel del Padrón" }
+    },
+    "cotorro": {
+      "names": { "ar": "كوتورو", "en": "Cotorro", "tr": "Cotorro" }
+    },
+    "regla": {
+      "names": { "ar": "ريغلا", "en": "Regla", "tr": "Regla" }
+    },
+    "mariel": {
+      "names": { "ar": "مارييل", "en": "Mariel", "tr": "Mariel" }
+    },
+    "moa": {
+      "names": { "ar": "موآ", "en": "Moa", "tr": "Moa" }
+    },
+    "sagua_la_grande": {
+      "names": { "ar": "ساغوا لا غراندي", "en": "Sagua la Grande", "tr": "Sagua la Grande" }
+    },
+    "palma_soriano": {
+      "names": { "ar": "بالما سوريانو", "en": "Palma Soriano", "tr": "Palma Soriano" }
+    },
+    "puerto_padre": {
+      "names": { "ar": "بويرتو بادره", "en": "Puerto Padre", "tr": "Puerto Padre" }
+    },
+    "banes": {
+      "names": { "ar": "بانيس", "en": "Banes", "tr": "Banes" }
+    },
+    "san_antonio_de_los_banos": {
+      "names": { "ar": "سان أنطونيو دي لوس بانيوس", "en": "San Antonio de los Baños", "tr": "San Antonio de los Baños" }
+    },
+    "guines": {
+      "names": { "ar": "غوينيس", "en": "Güines", "tr": "Güines" }
+    },
+    "contramaestre": {
+      "names": { "ar": "كونترامايستري", "en": "Contramaestre", "tr": "Contramaestre" }
+    },
+    "san_juan_y_martinez": {
+      "names": { "ar": "سان خوان إي مارتينيث", "en": "San Juan y Martínez", "tr": "San Juan y Martínez" }
+    },
+    "consolacion_del_sur": {
+      "names": { "ar": "كونسولاسيون ديل سور", "en": "Consolación del Sur", "tr": "Consolación del Sur" }
+    },
+    "nuevitas": {
+      "names": { "ar": "نويفيتاس", "en": "Nuevitas", "tr": "Nuevitas" }
+    },
+    "jaguey_grande": {
+      "names": { "ar": "خاگوي غراندي", "en": "Jagüey Grande", "tr": "Jagüey Grande" }
+    },
+    "caimanera": {
+      "names": { "ar": "كايمانيرا", "en": "Caimanera", "tr": "Caimanera" }
+    },
+    "sagua_de_tanamo": {
+      "names": { "ar": "ساغوا دي تانامو", "en": "Sagua de Tánamo", "tr": "Sagua de Tánamo" }
+    },
+    "niquero": {
+      "names": { "ar": "نيكيرو", "en": "Niquero", "tr": "Niquero" }
+    },
+    "mayari": {
+      "names": { "ar": "مايارِي", "en": "Mayarí", "tr": "Mayarí" }
+    },
+    "guaimaro": {
+      "names": { "ar": "غوايمارو", "en": "Guáimaro", "tr": "Guáimaro" }
+    },
+    "pilon": {
+      "names": { "ar": "بيلون", "en": "Pilón", "tr": "Pilón" }
+    },
+    "santa_cruz_del_norte": {
+      "names": { "ar": "سانتا كروز ديل نورتي", "en": "Santa Cruz del Norte", "tr": "Santa Cruz del Norte" }
+    },
+    "cumanayagua": {
+      "names": { "ar": "كوماناياغوا", "en": "Cumanayagua", "tr": "Cumanayagua" }
+    },
+    "jovellanos": {
+      "names": { "ar": "خوفيانوس", "en": "Jovellanos", "tr": "Jovellanos" }
+    },
+    "colon": {
+      "names": { "ar": "كولون", "en": "Colón", "tr": "Colón" }
+    },
+    "placetas": {
+      "names": { "ar": "بلاسيتاس", "en": "Placetas", "tr": "Placetas" }
+    },
+    "florida": {
+      "names": { "ar": "فلوريدا", "en": "Florida", "tr": "Florida" }
+    },
+    "camajuani": {
+      "names": { "ar": "كاماخواني", "en": "Camajuaní", "tr": "Camajuaní" }
+    },
+    "bauta": {
+      "names": { "ar": "باوتا", "en": "Bauta", "tr": "Bauta" }
+    },
+    "bejucal": {
+      "names": { "ar": "بيخوكا", "en": "Bejucal", "tr": "Bejucal" }
+    },
+    "cabaiguan": {
+      "names": { "ar": "كابايغوان", "en": "Cabaiguán", "tr": "Cabaiguán" }
+    },
+    "guane": {
+      "names": { "ar": "غواني", "en": "Guane", "tr": "Guane" }
+    },
+    "minas_de_matahambre": {
+      "names": { "ar": "ميناس دي ماتاهامبري", "en": "Minas de Matahambre", "tr": "Minas de Matahambre" }
+    },
+    "sandino": {
+      "names": { "ar": "ساندينو", "en": "Sandino", "tr": "Sandino" }
+    },
+    "bahia_honda": {
+      "names": { "ar": "باهيا أوندا", "en": "Bahía Honda", "tr": "Bahía Honda" }
+    },
+    "candelaria": {
+      "names": { "ar": "كانديلاريا", "en": "Candelaria", "tr": "Candelaria" }
+    },
+    "san_cristobal": {
+      "names": { "ar": "سان كريستوبال", "en": "San Cristóbal", "tr": "San Cristóbal" }
+    },
+    "los_palacios": {
+      "names": { "ar": "لوس بالاسيوس", "en": "Los Palacios", "tr": "Los Palacios" }
+    },
+    "la_palma": {
+      "names": { "ar": "لا بالما", "en": "La Palma", "tr": "La Palma" }
+    },
+    "mantua": {
+      "names": { "ar": "مانتوا", "en": "Mantua", "tr": "Mantua" }
+    },
+    "guira_de_melena": {
+      "names": { "ar": "غويرا دي ميلينا", "en": "Güira de Melena", "tr": "Güira de Melena" }
+    },
+    "alquizar": {
+      "names": { "ar": "ألكيسار", "en": "Alquízar", "tr": "Alquízar" }
+    },
+    "caimito": {
+      "names": { "ar": "كايميتو", "en": "Caimito", "tr": "Caimito" }
+    },
+    "guanajay": {
+      "names": { "ar": "غواناخاي", "en": "Guanajay", "tr": "Guanajay" }
+    },
+    "batabano": {
+      "names": { "ar": "باتابانو", "en": "Batabanó", "tr": "Batabanó" }
+    },
+    "melena_del_sur": {
+      "names": { "ar": "ميلينا ديل سور", "en": "Melena del Sur", "tr": "Melena del Sur" }
+    },
+    "jaruco": {
+      "names": { "ar": "خاروكو", "en": "Jaruco", "tr": "Jaruco" }
+    },
+    "madruga": {
+      "names": { "ar": "مادروغا", "en": "Madruga", "tr": "Madruga" }
+    },
+    "nueva_paz": {
+      "names": { "ar": "نويفا باس", "en": "Nueva Paz", "tr": "Nueva Paz" }
+    },
+    "quivican": {
+      "names": { "ar": "كيفيكان", "en": "Quivicán", "tr": "Quivicán" }
+    },
+    "san_nicolas": {
+      "names": { "ar": "سان نيكولاس", "en": "San Nicolás", "tr": "San Nicolás" }
+    },
+    "pedro_betancourt": {
+      "names": { "ar": "بيدرو بيتانكورت", "en": "Pedro Betancourt", "tr": "Pedro Betancourt" }
+    },
+    "perico": {
+      "names": { "ar": "بيريكو", "en": "Perico", "tr": "Perico" }
+    },
+    "union_de_reyes": {
+      "names": { "ar": "أونيون دي رييس", "en": "Unión de Reyes", "tr": "Unión de Reyes" }
+    },
+    "calimete": {
+      "names": { "ar": "كاليميتِه", "en": "Calimete", "tr": "Calimete" }
+    },
+    "limonar": {
+      "names": { "ar": "ليمونار", "en": "Limonar", "tr": "Limonar" }
+    },
+    "los_arabos": {
+      "names": { "ar": "لوس أرابوس", "en": "Los Arabos", "tr": "Los Arabos" }
+    },
+    "marti": {
+      "names": { "ar": "مارتي", "en": "Martí", "tr": "Martí" }
+    },
+    "santo_domingo": {
+      "names": { "ar": "سانتو دومينغو", "en": "Santo Domingo", "tr": "Santo Domingo" }
+    },
+    "manicaragua": {
+      "names": { "ar": "مانيكاراغوا", "en": "Manicaragua", "tr": "Manicaragua" }
+    },
+    "quemado_de_guines": {
+      "names": { "ar": "كيمادو دي غوينيس", "en": "Quemado de Güines", "tr": "Quemado de Güines" }
+    },
+    "cifuentes": {
+      "names": { "ar": "سيفوينتس", "en": "Cifuentes", "tr": "Cifuentes" }
+    },
+    "corralillo": {
+      "names": { "ar": "كوراليّو", "en": "Corralillo", "tr": "Corralillo" }
+    },
+    "encrucijada": {
+      "names": { "ar": "إنكروسيخادا", "en": "Encrucijada", "tr": "Encrucijada" }
+    },
+    "ranchuelo": {
+      "names": { "ar": "رانشويلو", "en": "Ranchuelo", "tr": "Ranchuelo" }
+    },
+    "abreus": {
+      "names": { "ar": "أبريوس", "en": "Abreus", "tr": "Abreus" }
+    },
+    "aguada_de_pasajeros": {
+      "names": { "ar": "أغوادا دي باساخيروس", "en": "Aguada de Pasajeros", "tr": "Aguada de Pasajeros" }
+    },
+    "cruces": {
+      "names": { "ar": "كروثيس", "en": "Cruces", "tr": "Cruces" }
+    },
+    "lajas": {
+      "names": { "ar": "لاخاس", "en": "Lajas", "tr": "Lajas" }
+    },
+    "palmira": {
+      "names": { "ar": "بالميرا", "en": "Palmira", "tr": "Palmira" }
+    },
+    "rodas": {
+      "names": { "ar": "روداس", "en": "Rodas", "tr": "Rodas" }
+    },
+    "fomento": {
+      "names": { "ar": "فومينتو", "en": "Fomento", "tr": "Fomento" }
+    },
+    "jatibonico": {
+      "names": { "ar": "خاتيبوينيكو", "en": "Jatibonico", "tr": "Jatibonico" }
+    },
+    "la_sierpe": {
+      "names": { "ar": "لا سيربي", "en": "La Sierpe", "tr": "La Sierpe" }
+    },
+    "taguasco": {
+      "names": { "ar": "تاغواسكو", "en": "Taguasco", "tr": "Taguasco" }
+    },
+    "yaguajay": {
+      "names": { "ar": "ياغواخاي", "en": "Yaguajay", "tr": "Yaguajay" }
+    },
+    "baragua": {
+      "names": { "ar": "باراغوا", "en": "Baraguá", "tr": "Baraguá" }
+    },
+    "chambas": {
+      "names": { "ar": "تشامباس", "en": "Chambas", "tr": "Chambas" }
+    },
+    "ciro_redondo": {
+      "names": { "ar": "سيرو ريدوندو", "en": "Ciro Redondo", "tr": "Ciro Redondo" }
+    },
+    "florencia": {
+      "names": { "ar": "فلورينسيا", "en": "Florencia", "tr": "Florencia" }
+    },
+    "majagua": {
+      "names": { "ar": "ماخاغوا", "en": "Majagua", "tr": "Majagua" }
+    },
+    "primero_de_enero": {
+      "names": { "ar": "بريميرو دي إينيرو", "en": "Primero de Enero", "tr": "Primero de Enero" }
+    },
+    "bolivia": {
+      "names": { "ar": "بوليفيا", "en": "Bolivia", "tr": "Bolivia" }
+    },
+    "carlos_manuel_de_cespedes": {
+      "names": { "ar": "كارلوس مانويل دي سيسبيديس", "en": "Carlos Manuel de Céspedes", "tr": "Carlos Manuel de Céspedes" }
+    },
+    "esmeralda": {
+      "names": { "ar": "إسميرالدا", "en": "Esmeralda", "tr": "Esmeralda" }
+    },
+    "jimaguayu": {
+      "names": { "ar": "خيماغوايو", "en": "Jimaguayú", "tr": "Jimaguayú" }
+    },
+    "minas": {
+      "names": { "ar": "ميناس", "en": "Minas", "tr": "Minas" }
+    },
+    "najasa": {
+      "names": { "ar": "ناخاسا", "en": "Najasa", "tr": "Najasa" }
+    },
+    "santa_cruz_del_sur": {
+      "names": { "ar": "سانتا كروز ديل سور", "en": "Santa Cruz del Sur", "tr": "Santa Cruz del Sur" }
+    },
+    "sibanicu": {
+      "names": { "ar": "سيبانيكو", "en": "Sibanicú", "tr": "Sibanicú" }
+    },
+    "sierra_de_cubitas": {
+      "names": { "ar": "سييرا دي كوبيتاس", "en": "Sierra de Cubitas", "tr": "Sierra de Cubitas" }
+    },
+    "vertientes": {
+      "names": { "ar": "فيرتيينتس", "en": "Vertientes", "tr": "Vertientes" }
+    },
+    "amancio": {
+      "names": { "ar": "أمانسيو", "en": "Amancio", "tr": "Amancio" }
+    },
+    "colombia": {
+      "names": { "ar": "كولومبيا", "en": "Colombia", "tr": "Colombia" }
+    },
+    "jesus_menendez": {
+      "names": { "ar": "خيسوس مينينديث", "en": "Jesús Menéndez", "tr": "Jesús Menéndez" }
+    },
+    "jobabo": {
+      "names": { "ar": "خوابو", "en": "Jobabo", "tr": "Jobabo" }
+    },
+    "majibacoa": {
+      "names": { "ar": "ماخيباكوا", "en": "Majibacoa", "tr": "Majibacoa" }
+    },
+    "manati": {
+      "names": { "ar": "ماناتي", "en": "Manatí", "tr": "Manatí" }
+    },
+    "antilla": {
+      "names": { "ar": "أنتيّا", "en": "Antilla", "tr": "Antilla" }
+    },
+    "baguanos": {
+      "names": { "ar": "باغوانوس", "en": "Báguanos", "tr": "Báguanos" }
+    },
+    "cacocum": {
+      "names": { "ar": "كاكوكوم", "en": "Cacocum", "tr": "Cacocum" }
+    },
+    "calixto_garcia": {
+      "names": { "ar": "كاليستو غارسيا", "en": "Calixto García", "tr": "Calixto García" }
+    },
+    "cueto": {
+      "names": { "ar": "كويتو (بيران)", "en": "Cueto", "tr": "Cueto" }
+    },
+    "frank_pais": {
+      "names": { "ar": "فرانك باييس", "en": "Frank País", "tr": "Frank País" }
+    },
+    "rafael_freyre": {
+      "names": { "ar": "رافاييل فرييري", "en": "Rafael Freyre", "tr": "Rafael Freyre" }
+    },
+    "urbano_noris": {
+      "names": { "ar": "أوربانو نوريس", "en": "Urbano Noris", "tr": "Urbano Noris" }
+    },
+    "bartolome_maso": {
+      "names": { "ar": "بارتولومي ماسّو", "en": "Bartolomé Masó", "tr": "Bartolomé Masó" }
+    },
+    "buey_arriba": {
+      "names": { "ar": "بوي أريبا", "en": "Buey Arriba", "tr": "Buey Arriba" }
+    },
+    "campechuela": {
+      "names": { "ar": "كامبيتشيلا", "en": "Campechuela", "tr": "Campechuela" }
+    },
+    "cauto_cristo": {
+      "names": { "ar": "كاوتو كريستو", "en": "Cauto Cristo", "tr": "Cauto Cristo" }
+    },
+    "guisa": {
+      "names": { "ar": "غيسا", "en": "Guisa", "tr": "Guisa" }
+    },
+    "jiguani": {
+      "names": { "ar": "خيخاني", "en": "Jiguaní", "tr": "Jiguaní" }
+    },
+    "media_luna": {
+      "names": { "ar": "ميديا لونا", "en": "Media Luna", "tr": "Media Luna" }
+    },
+    "rio_cauto": {
+      "names": { "ar": "ريو كاوتو", "en": "Río Cauto", "tr": "Río Cauto" }
+    },
+    "yara": {
+      "names": { "ar": "يارا", "en": "Yara", "tr": "Yara" }
+    },
+    "guama": {
+      "names": { "ar": "غوآما", "en": "Guamá", "tr": "Guamá" }
+    },
+    "mella": {
+      "names": { "ar": "مييا", "en": "Mella", "tr": "Mella" }
+    },
+    "san_luis_santiago_de_cuba": {
+      "names": { "ar": "سان لويس (سانتياغو دي كوبا)", "en": "San Luis (Santiago de Cuba)", "tr": "San Luis (Santiago de Cuba)" }
+    },
+    "segundo_frente": {
+      "names": { "ar": "سيغوندو فرينتي", "en": "Segundo Frente", "tr": "Segundo Frente" }
+    },
+    "songo_la_maya": {
+      "names": { "ar": "سونغو لا مايا", "en": "Songo La Maya", "tr": "Songo La Maya" }
+    },
+    "tercer_frente": {
+      "names": { "ar": "تيرسير فرينتي", "en": "Tercer Frente", "tr": "Tercer Frente" }
+    },
+    "san_luis_pinar_del_rio": {
+      "names": { "ar": "سان لويس (بينار ديل ريو)", "en": "San Luis (Pinar del Río)", "tr": "San Luis (Pinar del Río)" }
+    },
+    "el_salvador": {
+      "names": { "ar": "إل سالفادور", "en": "El Salvador", "tr": "El Salvador" }
+    },
+    "imias": {
+      "names": { "ar": "إيمياس", "en": "Imías", "tr": "Imías" }
+    },
+    "maisi": {
+      "names": { "ar": "مائيسي", "en": "Maisí", "tr": "Maisí" }
+    },
+    "manuel_tames": {
+      "names": { "ar": "مانويل تاميس", "en": "Manuel Tames", "tr": "Manuel Tames" }
+    },
+    "niceto_perez": {
+      "names": { "ar": "نيسيتو بيريس", "en": "Niceto Pérez", "tr": "Niceto Pérez" }
+    },
+    "san_antonio_del_sur": {
+      "names": { "ar": "سان أنطونيو ديل سور", "en": "San Antonio del Sur", "tr": "San Antonio del Sur" }
+    },
+    "yateras": {
+      "names": { "ar": "ياتيراس", "en": "Yateras", "tr": "Yateras" }
     }
   }
 }

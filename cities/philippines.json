@@ -1,7 +1,7 @@
 {
   "cities": {
-    "metro_manila": {
-      "names": { "ar": "مترو مانيلا (إقليم العاصمة)", "en": "Metro Manila (NCR)", "tr": "Metro Manila (NCR)" }
+    "manila": {
+      "names": { "ar": "مانيلا (مترو مانيلا)", "en": "Manila (Metro Manila)", "tr": "Manila" }
     },
     "palawan": {
       "names": { "ar": "بالاوان (إل نيدو وكورون)", "en": "Palawan", "tr": "Palawan" }
@@ -16,52 +16,46 @@
       "names": { "ar": "بوهول (تلال الشوكولاتة)", "en": "Bohol", "tr": "Bohol" }
     },
     "surigao_del_norte": {
-      "names": { "ar": "سوريغاو ديل نورتي (جزيرة سيرجاو)", "en": "Surigao del Norte (Siargao)", "tr": "Surigao del Norte (Siargao)" }
+      "names": { "ar": "سوريغاو ديل نورتي (جزيرة سيرجاو)", "en": "Surigao del Norte (Siargao)", "tr": "Kuzey Surigao (Siargao)" }
     },
     "benguet": {
       "names": { "ar": "بينغويت (مدينة باجيو)", "en": "Benguet (Baguio)", "tr": "Benguet (Baguio)" }
     },
-    "ifugao": {
-      "names": { "ar": "إيفوغاو (مدرجات أرز بانايو)", "en": "Ifugao", "tr": "Ifugao" }
-    },
     "albay": {
-      "names": { "ar": "ألباي (بركان مايون)", "en": "Albay", "tr": "Albay (Mayon Yanardağı)" }
-    },
-    "ilocos_sur": {
-      "names": { "ar": "إيلوكوس سور (مدينة فيغان التاريخية)", "en": "Ilocos Sur (Vigan)", "tr": "Ilocos Sur (Vigan)" }
-    },
-    "ilocos_norte": {
-      "names": { "ar": "إيلوكوس نورتي", "en": "Ilocos Norte", "tr": "Ilocos Norte" }
+      "names": { "ar": "ألباي (بركان مايون)", "en": "Albay", "tr": "Albay" }
     },
     "batangas": {
-      "names": { "ar": "باتانغاس (بركان تال)", "en": "Batangas", "tr": "Batangas" }
+      "names": { "ar": "باتانغاس", "en": "Batangas", "tr": "Batangas" }
     },
-    "pangasinan": {
-      "names": { "ar": "بانغاسينان (حديقة المئة جزيرة)", "en": "Pangasinan", "tr": "Pangasinan" }
-    },
-    "batanes": {
-      "names": { "ar": "باتانيس", "en": "Batanes", "tr": "Batanes" }
-    },
-    "siquijor": {
-      "names": { "ar": "سيكيجور", "en": "Siquijor", "tr": "Siquijor" }
-    },
-    "davao_del_sur": {
-      "names": { "ar": "دايفاو ديل سور (مدينة دافاو)", "en": "Davao del Sur", "tr": "Davao del Sur" }
-    },
-    "camiguin": {
-      "names": { "ar": "كاميغوين", "en": "Camiguin", "tr": "Camiguin" }
-    },
-    "la_union": {
-      "names": { "ar": "لا اونيون", "en": "La Union", "tr": "La Union" }
-    },
-    "pampanga": {
-      "names": { "ar": "بامبانغا", "en": "Pampanga", "tr": "Pampanga" }
+    "cavite": {
+      "names": { "ar": "كافيته (تاغايتاي)", "en": "Cavite", "tr": "Cavite" }
     },
     "laguna": {
       "names": { "ar": "لاغونا", "en": "Laguna", "tr": "Laguna" }
     },
-    "cavite": {
-      "names": { "ar": "كافيته (تاغايتاي)", "en": "Cavite", "tr": "Cavite" }
+    "pampanga": {
+      "names": { "ar": "بامبانغا", "en": "Pampanga", "tr": "Pampanga" }
+    },
+    "ilocos_norte": {
+      "names": { "ar": "إيلوكوس نورتي", "en": "Ilocos Norte", "tr": "Kuzey Ilocos" }
+    },
+    "ilocos_sur": {
+      "names": { "ar": "إيلوكوس سور (فيغان)", "en": "Ilocos Sur (Vigan)", "tr": "Güney Ilocos" }
+    },
+    "ifugao": {
+      "names": { "ar": "إيفوغاو (مصاطب أرز بانايو)", "en": "Ifugao", "tr": "Ifugao" }
+    },
+    "batanes": {
+      "names": { "ar": "باتانيس", "en": "Batanes", "tr": "Batanes" }
+    },
+    "davao_del_sur": {
+      "names": { "ar": "دايفاو ديل سور (مدينة دافاو)", "en": "Davao del Sur", "tr": "Güney Davao" }
+    },
+    "la_union": {
+      "names": { "ar": "لا اونيون", "en": "La Union", "tr": "La Union" }
+    },
+    "pangasinan": {
+      "names": { "ar": "بانغاسينان", "en": "Pangasinan", "tr": "Pangasinan" }
     },
     "zambales": {
       "names": { "ar": "زامباليس (سوبيك)", "en": "Zambales", "tr": "Zambales" }
@@ -69,71 +63,71 @@
     "bataan": {
       "names": { "ar": "باتان", "en": "Bataan", "tr": "Bataan" }
     },
-    "rizal": {
-      "names": { "ar": "ريزال", "en": "Rizal", "tr": "Rizal" }
+    "siquijor": {
+      "names": { "ar": "سيكيجور", "en": "Siquijor", "tr": "Siquijor" }
+    },
+    "camiguin": {
+      "names": { "ar": "كاميغوين", "en": "Camiguin", "tr": "Camiguin" }
+    },
+    "oriental_mindoro": {
+      "names": { "ar": "أوريانتال ميندورو (بويرتو غاليرا)", "en": "Oriental Mindoro", "tr": "Doğu Mindoro" }
     },
     "bulacan": {
       "names": { "ar": "بولاكان", "en": "Bulacan", "tr": "Bulacan" }
     },
+    "rizal": {
+      "names": { "ar": "ريزال", "en": "Rizal", "tr": "Rizal" }
+    },
+    "south_cotabato": {
+      "names": { "ar": "جنوب كوتاباتو (سيروز ميتسو)", "en": "South Cotabato", "tr": "Güney Cotabato" }
+    },
     "iloilo": {
       "names": { "ar": "إيلويلو", "en": "Iloilo", "tr": "Iloilo" }
     },
-    "negros_oriental": {
-      "names": { "ar": "نغروس أوريانتال (دوماغويتي)", "en": "Negros Oriental", "tr": "Negros Oriental" }
-    },
     "negros_occidental": {
-      "names": { "ar": "نغروس أوكسيدنتال (باكولود)", "en": "Negros Occidental", "tr": "Negros Occidental" }
+      "names": { "ar": "نغروس أوكسيدنتال (باكولود)", "en": "Negros Occidental", "tr": "Batı Negros" }
     },
-    "oriental_mindoro": {
-      "names": { "ar": "أوريانتال ميندورو (بويرتو غاليرا)", "en": "Oriental Mindoro", "tr": "Oriental Mindoro" }
-    },
-    "occidental_mindoro": {
-      "names": { "ar": "أوكسيدنتال ميندورو (شعب أبو المرجاني)", "en": "Occidental Mindoro", "tr": "Occidental Mindoro" }
-    },
-    "south_cotabato": {
-      "names": { "ar": "ساوث كوتاباتو (بحيرة سيبو)", "en": "South Cotabato", "tr": "South Cotabato" }
-    },
-    "romblon": {
-      "names": { "ar": "رومبلون", "en": "Romblon", "tr": "Romblon" }
+    "negros_oriental": {
+      "names": { "ar": "نغروس أوريانتال (دوماغويتي)", "en": "Negros Oriental", "tr": "Doğu Negros" }
     },
     "leyte": {
       "names": { "ar": "ليتي", "en": "Leyte", "tr": "Leyte" }
     },
-    "misamis_oriental": {
-      "names": { "ar": "ميساميس أوريانتال (كاغايان دي أورو)", "en": "Misamis Oriental", "tr": "Misamis Oriental" }
-    },
-    "guimaras": {
-      "names": { "ar": "غيماراس", "en": "Guimaras", "tr": "Guimaras" }
-    },
     "mountain_province": {
       "names": { "ar": "ماونتن بروفينس (ساغادا)", "en": "Mountain Province", "tr": "Mountain Province" }
     },
-    "camarines_sur": {
-      "names": { "ar": "كامارنيس سور (كاراموان)", "en": "Camarines Sur", "tr": "Camarines Sur" }
-    },
-    "surigao_del_sur": {
-      "names": { "ar": "سوريغاو ديل سور (النهر المسحور)", "en": "Surigao del Sur", "tr": "Surigao del Sur" }
-    },
     "zamboanga_del_sur": {
-      "names": { "ar": "زامبوانجا ديل سور (مدينة زامبوانجا)", "en": "Zamboanga del Sur", "tr": "Zamboanga del Sur" }
+      "names": { "ar": "زامبوانجا ديل سور (مدينة زامبوانجا)", "en": "Zamboanga del Sur", "tr": "Güney Zamboanga" }
     },
-    "dinagat_islands": {
-      "names": { "ar": "ديناغات آيلاندز", "en": "Dinagat Islands", "tr": "Dinagat Adaları" }
+    "misamis_oriental": {
+      "names": { "ar": "ميساميس أوريانتال (كاغايان دي أورو)", "en": "Misamis Oriental", "tr": "Doğu Misamis" }
     },
     "bukidnon": {
       "names": { "ar": "بوكيدنون", "en": "Bukidnon", "tr": "Bukidnon" }
     },
+    "guimaras": {
+      "names": { "ar": "غيماراس", "en": "Guimaras", "tr": "Guimaras" }
+    },
     "kalinga": {
       "names": { "ar": "كاليينغا", "en": "Kalinga", "tr": "Kalinga" }
+    },
+    "romblon": {
+      "names": { "ar": "رومبلون", "en": "Romblon", "tr": "Romblon" }
     },
     "aurora": {
       "names": { "ar": "أورورا (بالير)", "en": "Aurora", "tr": "Aurora" }
     },
-    "sorsogon": {
-      "names": { "ar": "سورسوغون (دونصول)", "en": "Sorsogon", "tr": "Sorsogon" }
+    "occidental_mindoro": {
+      "names": { "ar": "أوكسيدنتال ميندورو (أبو ريف)", "en": "Occidental Mindoro", "tr": "Batı Mindoro" }
     },
-    "cagayan": {
-      "names": { "ar": "كاغايان", "en": "Cagayan", "tr": "Cagayan" }
+    "camarines_sur": {
+      "names": { "ar": "كامارنيس سور (كاراموان)", "en": "Camarines Sur", "tr": "Güney Camarines" }
+    },
+    "sorsogon": {
+      "names": { "ar": "سورسوغون (دونسول)", "en": "Sorsogon", "tr": "Sorsogon" }
+    },
+    "davao_del_norte": {
+      "names": { "ar": "دايفاو ديل نورتي (جزيرة سامال)", "en": "Davao del Norte", "tr": "Kuzey Davao" }
     },
     "marinduque": {
       "names": { "ar": "ماريندوك", "en": "Marinduque", "tr": "Marinduque" }
@@ -141,89 +135,107 @@
     "catanduanes": {
       "names": { "ar": "كاتاندوانس", "en": "Catanduanes", "tr": "Catanduanes" }
     },
+    "nueva_ecija": {
+      "names": { "ar": "نويفا إيسيحا", "en": "Nueva Ecija", "tr": "Nueva Ecija" }
+    },
+    "tarlac": {
+      "names": { "ar": "تارلاك", "en": "Tarlac", "tr": "Tarlac" }
+    },
+    "cagayan": {
+      "names": { "ar": "كاغايان", "en": "Cagayan", "tr": "Cagayan" }
+    },
     "antique": {
       "names": { "ar": "أنتيكي", "en": "Antique", "tr": "Antique" }
     },
     "capiz": {
       "names": { "ar": "كابيز", "en": "Capiz", "tr": "Capiz" }
     },
-    "southern_leyte": {
-      "names": { "ar": "سيمور ليته (ساذرن ليتي)", "en": "Southern Leyte", "tr": "Southern Leyte" }
+    "agusan_del_norte": {
+      "names": { "ar": "أغوسان ديل نورتي", "en": "Agusan del Norte", "tr": "Kuzey Agusan" }
+    },
+    "surigao_del_sur": {
+      "names": { "ar": "سوريغاو ديل سور", "en": "Surigao del Sur", "tr": "Güney Surigao" }
+    },
+    "cotabato": {
+      "names": { "ar": "كوتاباتو", "en": "Cotabato", "tr": "Cotabato" }
+    },
+    "sarangani": {
+      "names": { "ar": "سارانغاني", "en": "Sarangani", "tr": "Sarangani" }
     },
     "davao_oriental": {
-      "names": { "ar": "دايفاو أوريانتال", "en": "Davao Oriental", "tr": "Davao Oriental" }
+      "names": { "ar": "دايفاو أوريانتال", "en": "Davao Oriental", "tr": "Doğu Davao" }
     },
-    "davao_del_norte": {
-      "names": { "ar": "دايفاو ديل نورتي (جزيرة سامال)", "en": "Davao del Norte", "tr": "Davao del Norte" }
-    },
-    "nueva_vizcaya": {
-      "names": { "ar": "نويفا فيزكايا", "en": "Nueva Vizcaya", "tr": "Nueva Vizcaya" }
-    },
-    "tarlac": {
-      "names": { "ar": "تارلاك", "en": "Tarlac", "tr": "Tarlac" }
-    },
-    "nueva_ecija": {
-      "names": { "ar": "نويفا إيسيحا", "en": "Nueva Ecija", "tr": "Nueva Ecija" }
-    },
-    "isabela": {
-      "names": { "ar": "إيزابيلا", "en": "Isabela", "tr": "Isabela" }
+    "compostela_valley": {
+      "names": { "ar": "كومبوستيلا فالي (دافاو دي أورو)", "en": "Compostela Valley (Davao de Oro)", "tr": "Compostela Valley" }
     },
     "biliran": {
       "names": { "ar": "بيليران", "en": "Biliran", "tr": "Biliran" }
     },
-    "northern_samar": {
-      "names": { "ar": "نورثرن سامار", "en": "Northern Samar", "tr": "Northern Samar" }
+    "southern_leyte": {
+      "names": { "ar": "سيمور ليته (جنوب ليتي)", "en": "Southern Leyte", "tr": "Güney Leyte" }
     },
     "eastern_samar": {
-      "names": { "ar": "إيسترن سامار", "en": "Eastern Samar", "tr": "Eastern Samar" }
+      "names": { "ar": "إيسترن سامار", "en": "Eastern Samar", "tr": "Doğu Samar" }
     },
     "samar": {
       "names": { "ar": "سامار", "en": "Samar", "tr": "Samar" }
     },
+    "northern_samar": {
+      "names": { "ar": "نورثرن سامار", "en": "Northern Samar", "tr": "Kuzey Samar" }
+    },
     "camarines_norte": {
-      "names": { "ar": "كامارنيس نورتي", "en": "Camarines Norte", "tr": "Camarines Norte" }
+      "names": { "ar": "كامارنيس نورتي", "en": "Camarines Norte", "tr": "Kuzey Camarines" }
     },
     "masbate": {
       "names": { "ar": "ماسبيت", "en": "Masbate", "tr": "Masbate" }
     },
     "misamis_occidental": {
-      "names": { "ar": "ميساميس أوكسيدنتال", "en": "Misamis Occidental", "tr": "Misamis Occidental" }
+      "names": { "ar": "ميساميس أوكسيدنتال", "en": "Misamis Occidental", "tr": "Batı Misamis" }
     },
     "zamboanga_del_norte": {
-      "names": { "ar": "زامبوانجا ديل نورتي", "en": "Zamboanga del Norte", "tr": "Zamboanga del Norte" }
+      "names": { "ar": "زامبوانجا ديل نورتي", "en": "Zamboanga del Norte", "tr": "Kuzey Zamboanga" }
     },
     "zamboanga_sibugay": {
       "names": { "ar": "زامبوانجا سيبوجاي", "en": "Zamboanga Sibugay", "tr": "Zamboanga Sibugay" }
     },
-    "agusan_del_norte": {
-      "names": { "ar": "أغوسان ديل نورتي", "en": "Agusan del Norte", "tr": "Agusan del Norte" }
+    "dinagat_islands": {
+      "names": { "ar": "ديناغات آيلاندز", "en": "Dinagat Islands", "tr": "Dinagat Adaları" }
     },
-    "agusan_del_sul": {
-      "names": { "ar": "أغوسان ديل سور", "en": "Agusan del Sur", "tr": "Agusan del Sur" }
+    "agusan_del_sur": {
+      "names": { "ar": "أغوسان ديل سور", "en": "Agusan del Sur", "tr": "Güney Agusan" }
     },
-    "sarangani": {
-      "names": { "ar": "سارانغاني", "en": "Sarangani", "tr": "Sarangani" }
+    "nueva_vizcaya": {
+      "names": { "ar": "نويفا فيزكايا", "en": "Nueva Vizcaya", "tr": "Nueva Vizcaya" }
     },
-    "cotabato": {
-      "names": { "ar": "كوتاباتو", "en": "Cotabato", "tr": "Cotabato" }
+    "quirino": {
+      "names": { "ar": "كويرينو", "en": "Quirino", "tr": "Quirino" }
+    },
+    "isabela": {
+      "names": { "ar": "إيزابيلا", "en": "Isabela", "tr": "Isabela" }
+    },
+    "abra": {
+      "names": { "ar": "أبرا", "en": "Abra", "tr": "Abra" }
+    },
+    "apayao": {
+      "names": { "ar": "أباياو", "en": "Apayao", "tr": "Apayao" }
+    },
+    "davao_occidental": {
+      "names": { "ar": "دايفاو أوتشيدنتال", "en": "Davao Occidental", "tr": "Batı Davao" }
     },
     "sultan_kudarat": {
       "names": { "ar": "سلطان قدرات", "en": "Sultan Kudarat", "tr": "Sultan Kudarat" }
     },
-    "davao_occidental": {
-      "names": { "ar": "دايفاو أوتشيدنتال", "en": "Davao Occidental", "tr": "Davao Occidental" }
-    },
     "lanao_del_norte": {
-      "names": { "ar": "لاناو ديل نورتي", "en": "Lanao del Norte", "tr": "Lanao del Norte" }
+      "names": { "ar": "لاناو ديل نورتي", "en": "Lanao del Norte", "tr": "Kuzey Lanao" }
     },
     "lanao_del_sur": {
-      "names": { "ar": "لاناو ديل سور", "en": "Lanao del Sur", "tr": "Lanao del Sur" }
+      "names": { "ar": "لاناو ديل سور", "en": "Lanao del Sur", "tr": "Güney Lanao" }
     },
     "maguindanao_del_norte": {
-      "names": { "ar": "ماجوينداناو ديل نورتي", "en": "Maguindanao del Norte", "tr": "Maguindanao del Norte" }
+      "names": { "ar": "ماجوينداناو ديل نورتي", "en": "Maguindanao del Norte", "tr": "Kuzey Maguindanao" }
     },
     "maguindanao_del_sur": {
-      "names": { "ar": "ماجوينداناو ديل سور", "en": "Maguindanao del Sur", "tr": "Maguindanao del Sur" }
+      "names": { "ar": "ماجوينداناو ديل سور", "en": "Maguindanao del Sur", "tr": "Güney Maguindanao" }
     },
     "basilan": {
       "names": { "ar": "باسيلان", "en": "Basilan", "tr": "Basilan" }
@@ -233,18 +245,6 @@
     },
     "tawi_tawi": {
       "names": { "ar": "تاوي تاوي", "en": "Tawi-Tawi", "tr": "Tawi-Tawi" }
-    },
-    "abra": {
-      "names": { "ar": "أبرا", "en": "Abra", "tr": "Abra" }
-    },
-    "apayao": {
-      "names": { "ar": "أباياو", "en": "Apayao", "tr": "Apayao" }
-    },
-    "quirino": {
-      "names": { "ar": "كويرينو", "en": "Quirino", "tr": "Quirino" }
-    },
-    "compostela_valley": {
-      "names": { "ar": "كومبوستيلا فالي (دافيو دي أورو)", "en": "Compostela Valley (Davao de Oro)", "tr": "Compostela Valley (Davao de Oro)" }
     }
   }
 }

@@ -1,0 +1,1439 @@
+{
+ "version": 1,
+ "_comment": "نموذج جاهز: امسح اللي ما تريده وضيف مثله. كل مكان = عنصر داخل places. الاحداثيات تقريبية (تأكد منها). الاديان المقبولة فقط: islam / christianity / judaism",
+ "places": [
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "المسجد الحرام",
+    "en": "Masjid al-Haram (Grand Mosque)",
+    "tr": "Mescid-i Haram"
+   },
+   "country": "saudi_arabia",
+   "city": "mecca",
+   "city_name": {
+    "ar": "مكة المكرمة",
+    "en": "Makkah",
+    "tr": "Mekke"
+   },
+   "lat": 21.4225,
+   "lng": 39.8262,
+   "featured": true,
+   "note": {
+    "ar": "أكبر مسجد في العالم وفيه الكعبة المشرفة",
+    "en": "The largest mosque in the world, home of the Kaaba",
+    "tr": "Dünyanın en büyük camii, Kâbe burada"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "المسجد النبوي الشريف",
+    "en": "Al-Masjid an-Nabawi (Prophet's Mosque)",
+    "tr": "Mescid-i Nebevi"
+   },
+   "country": "saudi_arabia",
+   "city": "medina",
+   "city_name": {
+    "ar": "المدينة المنورة",
+    "en": "Madinah",
+    "tr": "Medine"
+   },
+   "lat": 24.4672,
+   "lng": 39.6111,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد قباء",
+    "en": "Quba Mosque",
+    "tr": "Kuba Mescidi"
+   },
+   "country": "saudi_arabia",
+   "city": "medina",
+   "city_name": {
+    "ar": "المدينة المنورة",
+    "en": "Madinah",
+    "tr": "Medine"
+   },
+   "lat": 24.4393,
+   "lng": 39.6174
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع السلطان أحمد (الجامع الأزرق)",
+    "en": "Sultan Ahmed Mosque (Blue Mosque)",
+    "tr": "Sultanahmet Camii (Mavi Cami)"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "lat": 41.0054,
+   "lng": 28.9768,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع السليمانية",
+    "en": "Süleymaniye Mosque",
+    "tr": "Süleymaniye Camii"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "lat": 41.0162,
+   "lng": 28.964,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع آيا صوفيا الكبير",
+    "en": "Hagia Sophia Grand Mosque",
+    "tr": "Ayasofya-i Kebir Cami-i Şerifi"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "lat": 41.0086,
+   "lng": 28.9802,
+   "featured": true,
+   "note": {
+    "ar": "كاتدرائية بيزنطية تاريخية، تعمل اليوم كمسجد",
+    "en": "A historic Byzantine cathedral, now an active mosque",
+    "tr": "Tarihî Bizans katedrali, bugün cami olarak kullanılıyor"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع أيوب سلطان",
+    "en": "Eyüp Sultan Mosque",
+    "tr": "Eyüp Sultan Camii"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "lat": 41.0477,
+   "lng": 28.9338
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع تشامليجا الكبير",
+    "en": "Büyük Çamlıca Mosque",
+    "tr": "Büyük Çamlıca Camii"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "lat": 41.0275,
+   "lng": 29.0693
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع السليمية",
+    "en": "Selimiye Mosque",
+    "tr": "Selimiye Camii"
+   },
+   "country": "turkey",
+   "city": "edirne",
+   "city_name": {
+    "ar": "أدرنة",
+    "en": "Edirne",
+    "tr": "Edirne"
+   },
+   "lat": 41.6779,
+   "lng": 26.5594
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع الشيخ زايد الكبير",
+    "en": "Sheikh Zayed Grand Mosque",
+    "tr": "Şeyh Zayed Büyük Camii"
+   },
+   "country": "united_arab_emirates",
+   "city": "abu_dhabi",
+   "city_name": {
+    "ar": "أبوظبي",
+    "en": "Abu Dhabi",
+    "tr": "Abu Dabi"
+   },
+   "lat": 24.4128,
+   "lng": 54.475,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد جميرا",
+    "en": "Jumeirah Mosque",
+    "tr": "Cumeyra Camii"
+   },
+   "country": "united_arab_emirates",
+   "city": "dubai",
+   "city_name": {
+    "ar": "دبي",
+    "en": "Dubai",
+    "tr": "Dubai"
+   },
+   "lat": 25.2336,
+   "lng": 55.2656
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "الجامع الأزهر",
+    "en": "Al-Azhar Mosque",
+    "tr": "Ezher Camii"
+   },
+   "country": "egypt",
+   "city": "cairo",
+   "city_name": {
+    "ar": "القاهرة",
+    "en": "Cairo",
+    "tr": "Kahire"
+   },
+   "lat": 30.0458,
+   "lng": 31.2626,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع محمد علي (قلعة صلاح الدين)",
+    "en": "Muhammad Ali Mosque (Cairo Citadel)",
+    "tr": "Kavalalı Mehmed Ali Paşa Camii"
+   },
+   "country": "egypt",
+   "city": "cairo",
+   "city_name": {
+    "ar": "القاهرة",
+    "en": "Cairo",
+    "tr": "Kahire"
+   },
+   "lat": 30.0287,
+   "lng": 31.2599
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد الحسن الثاني",
+    "en": "Hassan II Mosque",
+    "tr": "II. Hasan Camii"
+   },
+   "country": "morocco",
+   "city": "casablanca",
+   "city_name": {
+    "ar": "الدار البيضاء",
+    "en": "Casablanca",
+    "tr": "Kazablanka"
+   },
+   "lat": 33.6086,
+   "lng": -7.6326,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع الكتبية",
+    "en": "Koutoubia Mosque",
+    "tr": "Kütübiyye Camii"
+   },
+   "country": "morocco",
+   "city": "marrakesh",
+   "city_name": {
+    "ar": "مراكش",
+    "en": "Marrakesh",
+    "tr": "Marakeş"
+   },
+   "lat": 31.6237,
+   "lng": -7.9937
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع القيروان الكبير (جامع عقبة بن نافع)",
+    "en": "Great Mosque of Kairouan (Uqba Mosque)",
+    "tr": "Kayrevan Ulu Camii (Ukbe Camii)"
+   },
+   "country": "tunisia",
+   "city": "kairouan",
+   "city_name": {
+    "ar": "القيروان",
+    "en": "Kairouan",
+    "tr": "Kayrevan"
+   },
+   "lat": 35.6816,
+   "lng": 10.0999
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "الجامع الأموي",
+    "en": "Umayyad Mosque",
+    "tr": "Emevi Camii"
+   },
+   "country": "syria",
+   "city": "damascus",
+   "city_name": {
+    "ar": "دمشق",
+    "en": "Damascus",
+    "tr": "Şam"
+   },
+   "lat": 33.5115,
+   "lng": 36.3066,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مرقد الإمام علي بن أبي طالب",
+    "en": "Imam Ali Shrine",
+    "tr": "İmam Ali Türbesi"
+   },
+   "country": "iraq",
+   "city": "najaf",
+   "city_name": {
+    "ar": "النجف",
+    "en": "Najaf",
+    "tr": "Necef"
+   },
+   "kind": {
+    "ar": "مرقد",
+    "en": "Shrine",
+    "tr": "Türbe"
+   },
+   "denomination": {
+    "ar": "شيعي",
+    "en": "Shia",
+    "tr": "Şii"
+   },
+   "lat": 31.9961,
+   "lng": 44.315,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مرقد الإمام الحسين",
+    "en": "Imam Hussein Shrine",
+    "tr": "İmam Hüseyin Türbesi"
+   },
+   "country": "iraq",
+   "city": "karbala",
+   "city_name": {
+    "ar": "كربلاء",
+    "en": "Karbala",
+    "tr": "Kerbela"
+   },
+   "kind": {
+    "ar": "مرقد",
+    "en": "Shrine",
+    "tr": "Türbe"
+   },
+   "denomination": {
+    "ar": "شيعي",
+    "en": "Shia",
+    "tr": "Şii"
+   },
+   "lat": 32.6163,
+   "lng": 44.0324,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مرقد العباس بن علي (أبو الفضل العباس)",
+    "en": "Al-Abbas Shrine",
+    "tr": "Hz. Abbas Türbesi"
+   },
+   "country": "iraq",
+   "city": "karbala",
+   "city_name": {
+    "ar": "كربلاء",
+    "en": "Karbala",
+    "tr": "Kerbela"
+   },
+   "kind": {
+    "ar": "مرقد",
+    "en": "Shrine",
+    "tr": "Türbe"
+   },
+   "denomination": {
+    "ar": "شيعي",
+    "en": "Shia",
+    "tr": "Şii"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مرقد الإمامين الكاظمين",
+    "en": "Al-Kadhimiya Shrine",
+    "tr": "Kazımiyye Türbesi"
+   },
+   "country": "iraq",
+   "city": "baghdad",
+   "city_name": {
+    "ar": "بغداد",
+    "en": "Baghdad",
+    "tr": "Bağdat"
+   },
+   "kind": {
+    "ar": "مرقد",
+    "en": "Shrine",
+    "tr": "Türbe"
+   },
+   "denomination": {
+    "ar": "شيعي",
+    "en": "Shia",
+    "tr": "Şii"
+   },
+   "lat": 33.3798,
+   "lng": 44.3398
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مرقد الإمامين العسكريين",
+    "en": "Al-Askari Shrine",
+    "tr": "Askerî Türbesi"
+   },
+   "country": "iraq",
+   "city": "samarra",
+   "city_name": {
+    "ar": "سامراء",
+    "en": "Samarra",
+    "tr": "Samarra"
+   },
+   "kind": {
+    "ar": "مرقد",
+    "en": "Shrine",
+    "tr": "Türbe"
+   },
+   "denomination": {
+    "ar": "شيعي",
+    "en": "Shia",
+    "tr": "Şii"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع الإمام أبي حنيفة النعمان",
+    "en": "Imam Abu Hanifa Mosque",
+    "tr": "İmam-ı Azam Ebu Hanife Camii"
+   },
+   "country": "iraq",
+   "city": "baghdad",
+   "city_name": {
+    "ar": "بغداد",
+    "en": "Baghdad",
+    "tr": "Bağdat"
+   },
+   "denomination": {
+    "ar": "سني",
+    "en": "Sunni",
+    "tr": "Sünni"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع ومرقد الشيخ عبد القادر الكيلاني",
+    "en": "Sheikh Abdul Qadir al-Gilani Mosque",
+    "tr": "Şeyh Abdülkadir Geylani Camii"
+   },
+   "country": "iraq",
+   "city": "baghdad",
+   "city_name": {
+    "ar": "بغداد",
+    "en": "Baghdad",
+    "tr": "Bağdat"
+   },
+   "denomination": {
+    "ar": "سني",
+    "en": "Sunni",
+    "tr": "Sünni"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد الملك فيصل",
+    "en": "Faisal Mosque",
+    "tr": "Faysal Camii"
+   },
+   "country": "pakistan",
+   "city": "islamabad",
+   "city_name": {
+    "ar": "إسلام آباد",
+    "en": "Islamabad",
+    "tr": "İslamabad"
+   },
+   "lat": 33.7295,
+   "lng": 73.0372,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد بادشاهي",
+    "en": "Badshahi Mosque",
+    "tr": "Badşahi Camii"
+   },
+   "country": "pakistan",
+   "city": "lahore",
+   "city_name": {
+    "ar": "لاهور",
+    "en": "Lahore",
+    "tr": "Lahor"
+   },
+   "lat": 31.5882,
+   "lng": 74.3105
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "المسجد الجامع في دلهي",
+    "en": "Jama Masjid, Delhi",
+    "tr": "Delhi Cuma Camii"
+   },
+   "country": "india",
+   "city": "delhi",
+   "city_name": {
+    "ar": "دلهي",
+    "en": "Delhi",
+    "tr": "Delhi"
+   },
+   "lat": 28.6507,
+   "lng": 77.2334
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "المسجد الوطني (مسجد نغارا)",
+    "en": "National Mosque of Malaysia (Masjid Negara)",
+    "tr": "Ulusal Cami (Masjid Negara)"
+   },
+   "country": "malaysia",
+   "city": "kuala_lumpur",
+   "city_name": {
+    "ar": "كوالالمبور",
+    "en": "Kuala Lumpur",
+    "tr": "Kuala Lumpur"
+   },
+   "lat": 3.142,
+   "lng": 101.6918
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد بوترا",
+    "en": "Putra Mosque",
+    "tr": "Putra Camii"
+   },
+   "country": "malaysia",
+   "city": "putrajaya",
+   "city_name": {
+    "ar": "بوتراجايا",
+    "en": "Putrajaya",
+    "tr": "Putrajaya"
+   },
+   "lat": 2.936,
+   "lng": 101.6897
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد الاستقلال",
+    "en": "Istiqlal Mosque",
+    "tr": "İstiklal Camii"
+   },
+   "country": "indonesia",
+   "city": "jakarta",
+   "city_name": {
+    "ar": "جاكرتا",
+    "en": "Jakarta",
+    "tr": "Cakarta"
+   },
+   "lat": -6.1702,
+   "lng": 106.8315,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع السلطان قابوس الأكبر",
+    "en": "Sultan Qaboos Grand Mosque",
+    "tr": "Sultan Kabus Büyük Camii"
+   },
+   "country": "oman",
+   "city": "muscat",
+   "city_name": {
+    "ar": "مسقط",
+    "en": "Muscat",
+    "tr": "Maskat"
+   },
+   "lat": 23.5836,
+   "lng": 58.3898,
+   "featured": true
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد باريس الكبير",
+    "en": "Grand Mosque of Paris",
+    "tr": "Paris Büyük Camii"
+   },
+   "country": "france",
+   "city": "paris",
+   "city_name": {
+    "ar": "باريس",
+    "en": "Paris",
+    "tr": "Paris"
+   },
+   "lat": 48.842,
+   "lng": 2.3552
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "المسجد الكبير",
+    "en": "Grand Mosque of Kuwait",
+    "tr": "Kuveyt Büyük Camii"
+   },
+   "country": "kuwait",
+   "city": "kuwait_city",
+   "city_name": {
+    "ar": "مدينة الكويت",
+    "en": "Kuwait City",
+    "tr": "Kuveyt"
+   },
+   "lat": 29.3706,
+   "lng": 47.9738
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "جامع الفاتح الكبير",
+    "en": "Al-Fateh Grand Mosque",
+    "tr": "Fatih Büyük Camii"
+   },
+   "country": "bahrain",
+   "city": "manama",
+   "city_name": {
+    "ar": "المنامة",
+    "en": "Manama",
+    "tr": "Manama"
+   }
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "حرم الإمام الرضا",
+    "en": "Imam Reza Shrine",
+    "tr": "İmam Rıza Türbesi"
+   },
+   "country": "iran",
+   "city": "mashhad",
+   "city_name": {
+    "ar": "مشهد",
+    "en": "Mashhad",
+    "tr": "Meşhed"
+   },
+   "kind": {
+    "ar": "مرقد",
+    "en": "Shrine",
+    "tr": "Türbe"
+   },
+   "denomination": {
+    "ar": "شيعي",
+    "en": "Shia",
+    "tr": "Şii"
+   },
+   "lat": 36.2879,
+   "lng": 59.6168
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد الملك عبدالله الأول",
+    "en": "King Abdullah I Mosque",
+    "tr": "Kral I. Abdullah Camii"
+   },
+   "country": "jordan",
+   "city": "amman",
+   "city_name": {
+    "ar": "عمّان",
+    "en": "Amman",
+    "tr": "Amman"
+   },
+   "lat": 31.9578,
+   "lng": 35.917
+  },
+  {
+   "religion": "islam",
+   "name": {
+    "ar": "مسجد محمد الأمين",
+    "en": "Mohammad Al-Amin Mosque",
+    "tr": "Muhammed el-Emin Camii"
+   },
+   "country": "lebanon",
+   "city": "beirut",
+   "city_name": {
+    "ar": "بيروت",
+    "en": "Beirut",
+    "tr": "Beyrut"
+   },
+   "lat": 33.8956,
+   "lng": 35.5062
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية القديس بطرس",
+    "en": "St. Peter's Basilica",
+    "tr": "Aziz Petrus Bazilikası"
+   },
+   "country": "vatican",
+   "city": "vatican_city",
+   "city_name": {
+    "ar": "مدينة الفاتيكان",
+    "en": "Vatican City",
+    "tr": "Vatikan"
+   },
+   "kind": {
+    "ar": "بازيليكا",
+    "en": "Basilica",
+    "tr": "Bazilika"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 41.9022,
+   "lng": 12.4539,
+   "featured": true
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية نوتردام",
+    "en": "Notre-Dame de Paris",
+    "tr": "Notre-Dame Katedrali"
+   },
+   "country": "france",
+   "city": "paris",
+   "city_name": {
+    "ar": "باريس",
+    "en": "Paris",
+    "tr": "Paris"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 48.853,
+   "lng": 2.3499,
+   "featured": true
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كنيسة العائلة المقدسة (ساغرادا فاميليا)",
+    "en": "Sagrada Família",
+    "tr": "Sagrada Família"
+   },
+   "country": "spain",
+   "city": "barcelona",
+   "city_name": {
+    "ar": "برشلونة",
+    "en": "Barcelona",
+    "tr": "Barselona"
+   },
+   "kind": {
+    "ar": "بازيليكا",
+    "en": "Basilica",
+    "tr": "Bazilika"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 41.4036,
+   "lng": 2.1744,
+   "featured": true
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية ميلانو (الدومو)",
+    "en": "Milan Cathedral (Duomo)",
+    "tr": "Milano Katedrali (Duomo)"
+   },
+   "country": "italy",
+   "city": "milan",
+   "city_name": {
+    "ar": "ميلانو",
+    "en": "Milan",
+    "tr": "Milano"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 45.4642,
+   "lng": 9.1916
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية القديس بولس",
+    "en": "St Paul's Cathedral",
+    "tr": "Aziz Pavlus Katedrali"
+   },
+   "country": "united_kingdom",
+   "city": "london",
+   "city_name": {
+    "ar": "لندن",
+    "en": "London",
+    "tr": "Londra"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "أنغليكانية",
+    "en": "Anglican",
+    "tr": "Anglikan"
+   },
+   "lat": 51.5138,
+   "lng": -0.0984
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "دير وستمنستر",
+    "en": "Westminster Abbey",
+    "tr": "Westminster Manastırı"
+   },
+   "country": "united_kingdom",
+   "city": "london",
+   "city_name": {
+    "ar": "لندن",
+    "en": "London",
+    "tr": "Londra"
+   },
+   "kind": {
+    "ar": "دير",
+    "en": "Abbey",
+    "tr": "Manastır"
+   },
+   "denomination": {
+    "ar": "أنغليكانية",
+    "en": "Anglican",
+    "tr": "Anglikan"
+   },
+   "lat": 51.4993,
+   "lng": -0.1273
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية كولونيا",
+    "en": "Cologne Cathedral",
+    "tr": "Köln Katedrali"
+   },
+   "country": "germany",
+   "city": "cologne",
+   "city_name": {
+    "ar": "كولونيا",
+    "en": "Cologne",
+    "tr": "Köln"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 50.9413,
+   "lng": 6.9583
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "بازيليكا القديس مرقس",
+    "en": "St Mark's Basilica",
+    "tr": "San Marco Bazilikası"
+   },
+   "country": "italy",
+   "city": "venice",
+   "city_name": {
+    "ar": "البندقية",
+    "en": "Venice",
+    "tr": "Venedik"
+   },
+   "kind": {
+    "ar": "بازيليكا",
+    "en": "Basilica",
+    "tr": "Bazilika"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 45.4345,
+   "lng": 12.3397
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية القديس ستيفان",
+    "en": "St. Stephen's Cathedral",
+    "tr": "Aziz Stephan Katedrali"
+   },
+   "country": "austria",
+   "city": "vienna",
+   "city_name": {
+    "ar": "فيينا",
+    "en": "Vienna",
+    "tr": "Viyana"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 48.2085,
+   "lng": 16.3731
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية المسيح المخلّص",
+    "en": "Cathedral of Christ the Saviour",
+    "tr": "Kurtarıcı İsa Katedrali"
+   },
+   "country": "russia",
+   "city": "moscow",
+   "city_name": {
+    "ar": "موسكو",
+    "en": "Moscow",
+    "tr": "Moskova"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "أرثوذكسية",
+    "en": "Orthodox",
+    "tr": "Ortodoks"
+   },
+   "lat": 55.7447,
+   "lng": 37.6054
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية القديس باسيل",
+    "en": "Saint Basil's Cathedral",
+    "tr": "Aziz Vasil Katedrali"
+   },
+   "country": "russia",
+   "city": "moscow",
+   "city_name": {
+    "ar": "موسكو",
+    "en": "Moscow",
+    "tr": "Moskova"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "أرثوذكسية",
+    "en": "Orthodox",
+    "tr": "Ortodoks"
+   },
+   "lat": 55.7525,
+   "lng": 37.6231
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "الكنيسة المعلقة",
+    "en": "Hanging Church (Saint Virgin Mary's)",
+    "tr": "Asılı Kilise"
+   },
+   "country": "egypt",
+   "city": "cairo",
+   "city_name": {
+    "ar": "القاهرة",
+    "en": "Cairo",
+    "tr": "Kahire"
+   },
+   "denomination": {
+    "ar": "قبطية أرثوذكسية",
+    "en": "Coptic Orthodox",
+    "tr": "Kıpti Ortodoks"
+   },
+   "lat": 30.0053,
+   "lng": 31.2302
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "الكاتدرائية المرقسية بالعباسية",
+    "en": "Saint Mark's Coptic Orthodox Cathedral",
+    "tr": "Aziz Markos Kıpti Ortodoks Katedrali"
+   },
+   "country": "egypt",
+   "city": "cairo",
+   "city_name": {
+    "ar": "القاهرة",
+    "en": "Cairo",
+    "tr": "Kahire"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "قبطية أرثوذكسية",
+    "en": "Coptic Orthodox",
+    "tr": "Kıpti Ortodoks"
+   }
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية لشبونة (سي)",
+    "en": "Lisbon Cathedral (Sé de Lisboa)",
+    "tr": "Lizbon Katedrali"
+   },
+   "country": "portugal",
+   "city": "lisbon",
+   "city_name": {
+    "ar": "لشبونة",
+    "en": "Lisbon",
+    "tr": "Lizbon"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 38.7099,
+   "lng": -9.1331
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية القديس باتريك",
+    "en": "St. Patrick's Cathedral",
+    "tr": "Aziz Patrick Katedrali"
+   },
+   "country": "united_states_of_america",
+   "city": "new_york",
+   "city_name": {
+    "ar": "نيويورك",
+    "en": "New York",
+    "tr": "New York"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   },
+   "lat": 40.7585,
+   "lng": -73.976
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "الكاتدرائية الوطنية بواشنطن",
+    "en": "Washington National Cathedral",
+    "tr": "Washington Ulusal Katedrali"
+   },
+   "country": "united_states_of_america",
+   "city": "washington_dc",
+   "city_name": {
+    "ar": "واشنطن العاصمة",
+    "en": "Washington, D.C.",
+    "tr": "Washington D.C."
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "أسقفية",
+    "en": "Episcopal",
+    "tr": "Piskoposluk"
+   },
+   "lat": 38.9306,
+   "lng": -77.0707
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية الثالوث المقدس (سامبا)",
+    "en": "Holy Trinity Cathedral of Tbilisi (Sameba)",
+    "tr": "Kutsal Teslis Katedrali (Sameba)"
+   },
+   "country": "georgia",
+   "city": "tbilisi",
+   "city_name": {
+    "ar": "تبليسي",
+    "en": "Tbilisi",
+    "tr": "Tiflis"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "أرثوذكسية جورجية",
+    "en": "Georgian Orthodox",
+    "tr": "Gürcü Ortodoks"
+   },
+   "lat": 41.6975,
+   "lng": 44.8161
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كاتدرائية إتشميادزين",
+    "en": "Etchmiadzin Cathedral",
+    "tr": "Eçmiadzin Katedrali"
+   },
+   "country": "armenia",
+   "city": "vagharshapat",
+   "city_name": {
+    "ar": "إتشميادزين",
+    "en": "Etchmiadzin",
+    "tr": "Eçmiadzin"
+   },
+   "kind": {
+    "ar": "كاتدرائية",
+    "en": "Cathedral",
+    "tr": "Katedral"
+   },
+   "denomination": {
+    "ar": "أرمنية رسولية",
+    "en": "Armenian Apostolic",
+    "tr": "Ermeni Apostolik"
+   }
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كنيسة القديس أنطونيوس البادواني",
+    "en": "St. Anthony of Padua Church",
+    "tr": "Sent Antuan Kilisesi"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "denomination": {
+    "ar": "كاثوليكية",
+    "en": "Catholic",
+    "tr": "Katolik"
+   }
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كنيسة القديس جاورجيوس (البطريركية المسكونية)",
+    "en": "Church of St. George (Ecumenical Patriarchate)",
+    "tr": "Aya Yorgi Kilisesi (Fener Rum Patrikhanesi)"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   },
+   "denomination": {
+    "ar": "روم أرثوذكس",
+    "en": "Greek Orthodox",
+    "tr": "Rum Ortodoks"
+   }
+  },
+  {
+   "religion": "christianity",
+   "name": {
+    "ar": "كنيسة سيدة النجاة",
+    "en": "Our Lady of Salvation Church",
+    "tr": "Kurtuluş Meryem Ana Kilisesi"
+   },
+   "country": "iraq",
+   "city": "baghdad",
+   "city_name": {
+    "ar": "بغداد",
+    "en": "Baghdad",
+    "tr": "Bağdat"
+   },
+   "denomination": {
+    "ar": "سريانية كاثوليكية",
+    "en": "Syriac Catholic",
+    "tr": "Süryani Katolik"
+   }
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "كنيس شارع دوهاني",
+    "en": "Dohány Street Synagogue (Great Synagogue)",
+    "tr": "Dohány Sokağı Sinagogu"
+   },
+   "country": "hungary",
+   "city": "budapest",
+   "city_name": {
+    "ar": "بودابست",
+    "en": "Budapest",
+    "tr": "Budapeşte"
+   },
+   "lat": 47.4963,
+   "lng": 19.0605,
+   "featured": true
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "الكنيس المركزي في موسكو",
+    "en": "Moscow Choral Synagogue",
+    "tr": "Moskova Koro Sinagogu"
+   },
+   "country": "russia",
+   "city": "moscow",
+   "city_name": {
+    "ar": "موسكو",
+    "en": "Moscow",
+    "tr": "Moskova"
+   }
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "الكنيس البرتغالي",
+    "en": "Esnoga (Portuguese Synagogue)",
+    "tr": "Portekiz Sinagogu"
+   },
+   "country": "netherlands",
+   "city": "amsterdam",
+   "city_name": {
+    "ar": "أمستردام",
+    "en": "Amsterdam",
+    "tr": "Amsterdam"
+   },
+   "lat": 52.3672,
+   "lng": 4.9054
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "كنيس نيفيه شالوم",
+    "en": "Neve Shalom Synagogue",
+    "tr": "Neve Şalom Sinagogu"
+   },
+   "country": "turkey",
+   "city": "istanbul",
+   "city_name": {
+    "ar": "إسطنبول",
+    "en": "Istanbul",
+    "tr": "İstanbul"
+   }
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "الكنيس الكبير في روما",
+    "en": "Great Synagogue of Rome",
+    "tr": "Roma Büyük Sinagogu"
+   },
+   "country": "italy",
+   "city": "rome",
+   "city_name": {
+    "ar": "روما",
+    "en": "Rome",
+    "tr": "Roma"
+   },
+   "lat": 41.8919,
+   "lng": 12.4777
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "الكنيس الكبير في باريس",
+    "en": "Grand Synagogue of Paris",
+    "tr": "Paris Büyük Sinagogu"
+   },
+   "country": "france",
+   "city": "paris",
+   "city_name": {
+    "ar": "باريس",
+    "en": "Paris",
+    "tr": "Paris"
+   },
+   "lat": 48.8749,
+   "lng": 2.3395
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "كنيس ألتنوي",
+    "en": "Old New Synagogue (Altneuschul)",
+    "tr": "Eski-Yeni Sinagog"
+   },
+   "country": "czech_republic",
+   "city": "prague",
+   "city_name": {
+    "ar": "براغ",
+    "en": "Prague",
+    "tr": "Prag"
+   },
+   "lat": 50.0902,
+   "lng": 14.4185
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "كنيس بن عزرا",
+    "en": "Ben Ezra Synagogue",
+    "tr": "Ben Ezra Sinagogu"
+   },
+   "country": "egypt",
+   "city": "cairo",
+   "city_name": {
+    "ar": "القاهرة",
+    "en": "Cairo",
+    "tr": "Kahire"
+   },
+   "lat": 30.0056,
+   "lng": 31.2308
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "كنيس الغريبة",
+    "en": "El Ghriba Synagogue",
+    "tr": "El Ghriba Sinagogu"
+   },
+   "country": "tunisia",
+   "city": "djerba",
+   "city_name": {
+    "ar": "جربة",
+    "en": "Djerba",
+    "tr": "Cerbe"
+   }
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "الكنيس المركزي (نيويورك)",
+    "en": "Central Synagogue",
+    "tr": "Central Sinagogu"
+   },
+   "country": "united_states_of_america",
+   "city": "new_york",
+   "city_name": {
+    "ar": "نيويورك",
+    "en": "New York",
+    "tr": "New York"
+   },
+   "lat": 40.7603,
+   "lng": -73.9693
+  },
+  {
+   "religion": "judaism",
+   "name": {
+    "ar": "كنيس سانتا ماريا لا بلانكا",
+    "en": "Santa María la Blanca Synagogue",
+    "tr": "Santa María la Blanca Sinagogu"
+   },
+   "country": "spain",
+   "city": "toledo",
+   "city_name": {
+    "ar": "طليطلة",
+    "en": "Toledo",
+    "tr": "Toledo"
+   }
+  }
+ ]
+}

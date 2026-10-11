@@ -1,0 +1,94 @@
+{
+  "_help": "هذا مثال للحقول الجديدة فقط (كلها اختيارية). انسخ منها اللي تحتاجه الى ملف المدينة cities/<country>/<city>.json بجانب الحقول الموجودة (hotels, places...). احذف سطور _help.",
+  "lat": 41.0082,
+  "lng": 28.9784,
+  "_help_worship": "الاديان المقبولة: islam / christianity / judaism فقط. اي دين ثاني ينتجاهل. كل مكان: name, area, note, denomination, map (رابط الخريطة) او lat/lng.",
+  "worship": {
+    "islam": [
+      {
+        "name": {
+          "ar": "الجامع الأزرق",
+          "en": "Sultanahmet (Blue) Mosque",
+          "tr": "Sultanahmet Camii"
+        },
+        "area": "Sultanahmet",
+        "lat": 41.0054,
+        "lng": 28.9768,
+        "note": {
+          "ar": "يغلق مؤقتاً وقت الصلاة",
+          "en": "Closed to visitors during prayers",
+          "tr": "Namaz vakitlerinde ziyarete kapalı"
+        }
+      },
+      {
+        "name": {
+          "ar": "جامع السليمانية",
+          "en": "Süleymaniye Mosque",
+          "tr": "Süleymaniye Camii"
+        },
+        "area": "Fatih"
+      },
+      {
+        "name": {
+          "ar": "جامع أورتاكوي",
+          "en": "Ortaköy Mosque",
+          "tr": "Ortaköy Camii"
+        },
+        "area": "Ortaköy",
+        "lat": 41.0476,
+        "lng": 29.0273
+      }
+    ],
+    "christianity": [
+      {
+        "name": {
+          "ar": "كنيسة القديس أنطوان البادواني",
+          "en": "St. Anthony of Padua Church",
+          "tr": "Aziz Antuan Kilisesi"
+        },
+        "denomination": {
+          "ar": "كاثوليكية",
+          "en": "Catholic",
+          "tr": "Katolik"
+        },
+        "area": "Beyoğlu",
+        "lat": 41.0334,
+        "lng": 28.9773
+      },
+      {
+        "name": {
+          "ar": "كنيسة آيا تريادا",
+          "en": "Aya Triada Greek Orthodox Church",
+          "tr": "Ayia Triada Rum Ortodoks Kilisesi"
+        },
+        "denomination": {
+          "ar": "أرثوذكسية",
+          "en": "Orthodox",
+          "tr": "Ortodoks"
+        },
+        "area": "Taksim"
+      }
+    ],
+    "judaism": [
+      {
+        "name": {
+          "ar": "كنيس نيفيه شالوم",
+          "en": "Neve Shalom Synagogue",
+          "tr": "Neve Şalom Sinagogu"
+        },
+        "area": "Galata"
+      }
+    ]
+  },
+  "_help_safety": "اختياري: تقييمك لامان هذي المدينة. level: 1 اعتيادي، 2 تنبيه جزئي، 3 تجنّب إلا للضرورة، 4 تجنّب نهائياً. يتقدم على مستوى الدولة.",
+  "safety": {
+    "level": 1,
+    "note": {
+      "ar": "مدينة سياحية كبيرة، انتبه من النشل بالأماكن المزدحمة.",
+      "en": "Large tourist city; watch for pickpockets in crowded places.",
+      "tr": "Büyük turizm şehri; kalabalık yerlerde yankesicilere dikkat."
+    },
+    "updated": "2026-10-01",
+    "source": "Paradise City Tour"
+  }
+}

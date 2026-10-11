@@ -1,0 +1,25 @@
+{
+  "_help": "اختياري. بجذر المستودع. countries: مفتاحها اسم الدولة بحروف صغيرة وشرطة سفلية (turkey, saudi_arabia, united_arab_emirates). cities: مفتاحها دولة/مدينة. force=true يقدّم تقييمك على مصدر وزارة الخارجية البريطانية. بدونه يُستعمل تقييمك فقط اذا المصدر ما توفر.",
+  "updated": "2026-10-01",
+  "countries": {
+    "turkey": {
+      "level": 2,
+      "force": false,
+      "note": {
+        "ar": "ملاحظة اضافية تظهر مع تقييم الدولة",
+        "en": "Extra note",
+        "tr": "Ek not"
+      }
+    }
+  },
+  "cities": {
+    "turkey/antalya": {
+      "level": 1,
+      "note": {
+        "ar": "منطقة منتجعات آمنة عموماً",
+        "en": "Generally safe resort area",
+        "tr": "Genel olarak güvenli tatil bölgesi"
+      }
+    }
+  }
+}

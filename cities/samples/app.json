@@ -1,0 +1,76 @@
+{
+  "_help": "اسم التطبيق والشعار وصورة الدخول والسوشيال. logo = مسار صورة الشعار بالمستودع (مثلا cities/logo.png). اتركه فارغ لاستعمال logo.png الموجود بالمشروع.",
+  "app_name": "Paradise City Tour",
+  "tagline": {
+    "ar": "دليلك السياحي حول العالم",
+    "en": "WORLDWIDE TRAVEL GUIDE",
+    "tr": "DÜNYA SEYAHAT REHBERİ"
+  },
+  "subtitle": {
+    "ar": "اكتشف أجمل وجهات العالم: فنادق وجولات ومواصلات وخدمات سفر.. كل شي بمكان واحد.",
+    "en": "Discover the world's best places: hotels, tours, transport and travel services, all in one place.",
+    "tr": "Dünyanın en güzel yerlerini keşfet: oteller, turlar, ulaşım ve seyahat hizmetleri tek yerde."
+  },
+  "support_email": "jasmineturk92@gmail.com",
+  "privacy_url": "",
+  "store_url": "",
+  "logo": "",
+  "splash": "",
+  "category_images": {
+    "hotels": "cities/hotel.jpeg",
+    "tours": "cities/tour.jpeg",
+    "places": "cities/landmark.jpeg",
+    "restaurants": "cities/dining.jpeg",
+    "beaches": "cities/beach.jpeg",
+    "cars": "",
+    "city transport": "cities/metro.jpeg"
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "handle": "@paradisecitytourco",
+      "icon": "cities/instagram.webp",
+      "url": "https://www.instagram.com/paradisecitytourco",
+      "color": "#e04080"
+    },
+    {
+      "name": "TikTok",
+      "handle": "@pcparadisecitytour",
+      "icon": "cities/tiktok.png",
+      "url": "https://www.tiktok.com/@pcparadisecitytour",
+      "color": "#1a1f29"
+    },
+    {
+      "name": "Snapchat",
+      "handle": "@pctour9692",
+      "icon": "cities/snapchat.webp",
+      "url": "https://www.snapchat.com/add/pctour9692?share_id=JRYib8yEzog&locale=en-GB",
+      "color": "#fad90d"
+    }
+  ],
+  "season": "auto",
+  "icon_mode": "auto",
+  "season_intro": true,
+  "_help_season": "season: auto (حسب شهر الجهاز) | autumn | winter | spring | summer | off (ايقاف كامل). icon_mode: auto | day | night. season_intro: true/false = حركة الاوراق عند فتح التطبيق",
+  "planner": {
+    "enabled": true,
+    "ai_url": "",
+    "ai_key": "",
+    "ai_daily_limit": 5,
+    "ai_timeout": 25,
+    "detail_gate": true,
+    "detail_days_per_ad": 3
+  },
+  "_help_planner": "planner: مخطط الرحلات الذكي. enabled=false يخفيه كلياً. ai_url فارغ = يشتغل محلياً بدون ذكاء اصطناعي (مجاني وسريع). اكتب رابط الـ Worker لتفعيل الذكاء الاصطناعي. ai_key = نفس APP_KEY بالـ Worker. ai_daily_limit = حد استعمال الذكاء لكل مستخدم باليوم (0-100). ai_timeout = ثواني الانتظار (5-60) وبعدها يرجع للخطة المحلية. | detail_gate: true = البرنامج التفصيلي (صباح/ظهر/عصر/ليل) يفتح باعلان، false = مجاني. detail_days_per_ad = كم يوم يفتح كل اعلان (1-14)؛ للرحلات الطويلة يكبر تلقائياً حتى ما يزيد عن 4 اعلانات للخطة. المستخدم يكتب اي عدد ايام (1-30) والذكاء الاصطناعي يشتغل فقط للرحلات 14 يوم او اقل.",
+  "travel_info": {
+    "safety": true,
+    "visa": true,
+    "worship": true,
+    "worship_home": true
+  },
+  "_help_travel_info": "travel_info: تشغيل/ايقاف البطاقات. safety = مستوى الامان، visa = فحص الفيزا حسب الجواز، worship = القبلة واماكن العبادة (بصفحة المدينة)، worship_home = بطاقة دليل اماكن العبادة وبحثها بالصفحة الرئيسية (من ملف worship.json). false يخفي البطاقة.",
+  "ui": {
+    "glass_nav": true
+  },
+  "_help_ui": "ui: glass_nav = الشريط السفلي الزجاجي العائم (بألوان امواج البحر). false = الشريط القديم."
+}

@@ -1,181 +1,286 @@
 {
-  "pakistan": {
-    "needs_ad": false,
-    "cities": {
-      "lahore": {
-        "names": {
-          "ar": "لاهور",
-          "en": "Lahore",
-          "tr": "Lahor"
-        },
-        "description": {
-          "ar": "العاصمة الثقافية والتاريخية لباكستان، تشتهر بـ مسجد بادشاهي العظيم، قلعة لاهور المغولية، وحدائق شاليمار.",
-          "en": "Pakistan's cultural heart, famous for Badshahi Mosque, Lahore Fort (UNESCO), and Shalimar Gardens.",
-          "tr": "Padişah Camii, Lahor Kalesi ve Şalimar Bahçeleri ile ünlü Pakistan'ın kültür kalbi."
-        },
-        "image": "res://images/lahore.png",
-        "bg_image": "res://images/lahore_bg.png",
-        "image_3d": "res://images/lahore_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق بيرل كونتيننتال لاهور (Pearl Continental Lahore)",
-              "en": "Pearl Continental Hotel Lahore",
-              "tr": "Pearl Continental Hotel Lahor"
-            },
-            "image": "res://images/pc_lahore.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم هافيلي لاهور المطل على المسجد (Haveli)",
-              "en": "Haveli Restaurant Fort Road",
-              "tr": "Haveli Restoran Lahor"
-            },
-            "image": "res://images/haveli_lahore.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مشويات الباربيكيو والكرهاي الباكستاني المطل على مسجد بادشاهي المضاء",
-              "en": "Traditional Pakistani Karahi & BBQ with Badshahi Mosque View",
-              "tr": "Padişah Camii Manzaralı Otantik Pakistan Karahi ve Izgara"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "مسجد بادشاهي العظيم (Badshahi Mosque)",
-              "en": "Badshahi Mosque",
-              "tr": "Padişah Camii (Badshahi Mosque)"
-            },
-            "image": "res://images/badshahi_mosque.png",
-            "description": {
-              "ar": "أعظم مسجد مغولي من الحجر الرملي الأحيمر بني عام 1673 يتسع لـ 100,000 مصلي.",
-              "en": "Iconic 17th-century Mughal red-sandstone mosque built by Emperor Aurangzeb.",
-              "tr": "17. yüzyıldan kalma ikonik Babür kırmızı kumtaşı camii."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "قلعة لاهور المغولية (Lahore Fort - UNESCO)",
-              "en": "Lahore Fort (Shahi Qila)",
-              "tr": "Lahor Kalesi (Shahi Qila)"
-            },
-            "image": "res://images/lahore_fort.png",
-            "description": {
-              "ar": "حصن إمبراطوري أثري يضم قصر المرايا الشيش محل والبوابات الضخمة.",
-              "en": "Vast Mughal citadel holding the Sheesh Mahal (Palace of Mirrors) and Alamgiri Gate.",
-              "tr": "Ayna Sarayı (Sheesh Mahal) ve Alamgiri Kapısı'nı barındıran Babür kalesi."
-            }
-          }
-        ]
-      },
-      "islamabad": {
-        "names": {
-          "ar": "إسلام آباد",
-          "en": "Islamabad",
-          "tr": "İslamabad"
-        },
-        "description": {
-          "ar": "عاصمة باكستان الحديثة والمورقة الواقعة عند أقدام تلال مارغالا، تشتهر بـ مسجد الملك فيصل العظيم.",
-          "en": "Pakistan's green planned capital at the Margalla Hills foot, famous for Shah Faisal Mosque.",
-          "tr": "Margalla Tepeleri eteklerinde Şah Faysal Camii ile ünlü yeşil planlı Pakistan başkenti."
-        },
-        "image": "res://images/islamabad.png",
-        "bg_image": "res://images/islamabad_bg.png",
-        "image_3d": "res://images/islamabad_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل سيرينا إسلام آباد (Serena Hotel Islamabad)",
-              "en": "Islamabad Serena Hotel",
-              "tr": "Islamabad Serena Hotel"
-            },
-            "image": "res://images/serena_islamabad.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم المونال إسلام آباد الجبلي (The Monal)",
-              "en": "The Monal Restaurant Margalla Hills",
-              "tr": "The Monal Restoran İslamabad"
-            },
-            "image": "res://images/monal_islamabad.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أطباق كباب ومشويات خضراء فوق قمة جبال مارغالا",
-              "en": "Pakistani Mountaintop Barbecue & Panoramic Views",
-              "tr": "Dağ Zirvesinde Panoramik Pakistan Barbeküsü"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "مسجد الملك فيصل العظيم (Faisal Mosque)",
-              "en": "Faisal Mosque Islamabad",
-              "tr": "Şah Faysal Camii"
-            },
-            "image": "res://images/faisal_mosque.png",
-            "description": {
-              "ar": "أكبر مسجد في باكستان مصمم على شكل خيمة بدوية صحراوية مع 4 مآذن بارتفاع 90 متراً.",
-              "en": "The largest mosque in South Asia designed like a Bedouin tent without a traditional dome.",
-              "tr": "Bedevi çadırı şeklinde tasarlanmış Güney Asya'nın en büyük camii."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "نصب باكستان القومي ومتنزه شاكرباريان (Pakistan Monument)",
-              "en": "Pakistan Monument & Museum",
-              "tr": "Pakistan Anıtı ve Müzesi"
-            },
-            "image": "res://images/pakistan_monument.png",
-            "description": {
-              "ar": "نصب زهرة البتلات المصمم من الجرانيت المذهبي يمثل أقاليم وثقافات باكستان.",
-              "en": "Petal-shaped granite national monument symbolizing the unity of Pakistani provinces.",
-              "tr": "Pakistan eyaletlerinin birliğini simgeleyen taç yaprak şeklindeki anıt."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "karachi": {
+      "names": { "ar": "كراتشي", "en": "Karachi", "tr": "Karaçi" }
+    },
+    "lahore": {
+      "names": { "ar": "لاهور", "en": "Lahore", "tr": "Lahor" }
+    },
+    "islamabad": {
+      "names": { "ar": "إسلام آباد", "en": "Islamabad", "tr": "İslamabad" }
+    },
+    "rawalpindi": {
+      "names": { "ar": "روالبندي", "en": "Rawalpindi", "tr": "Rawalpindi" }
+    },
+    "faisalabad": {
+      "names": { "ar": "فيصل آباد", "en": "Faisalabad", "tr": "Faysalabad" }
+    },
+    "peshawar": {
+      "names": { "ar": "بيشاور", "en": "Peshawar", "tr": "Peşaver" }
+    },
+    "multan": {
+      "names": { "ar": "ملتان", "en": "Multan", "tr": "Multan" }
+    },
+    "hyderabad": {
+      "names": { "ar": "حيدر آباد", "en": "Hyderabad", "tr": "Haydarabad" }
+    },
+    "gujranwala": {
+      "names": { "ar": "جوجرانوالا", "en": "Gujranwala", "tr": "Gujranwala" }
+    },
+    "sialkot": {
+      "names": { "ar": "سيالكوت", "en": "Sialkot", "tr": "Sialkot" }
+    },
+    "mingora_swat": {
+      "names": { "ar": "مينغورا (سوات)", "en": "Mingora / Swat", "tr": "Mingora (Swat)" }
+    },
+    "abbottabad": {
+      "names": { "ar": "أيبت آباد", "en": "Abbottabad", "tr": "Abbottabad" }
+    },
+    "bahawalpur": {
+      "names": { "ar": "بهاولبور", "en": "Bahawalpur", "tr": "Bahavalpur" }
+    },
+    "muzaffarabad": {
+      "names": { "ar": "مظفر آباد", "en": "Muzaffarabad", "tr": "Muzafferabad" }
+    },
+    "balochistan": {
+      "names": { "ar": "بلوشستان", "en": "Balochistan", "tr": "Belucistan" }
+    },
+    "sukkur": {
+      "names": { "ar": "سوكور", "en": "Sukkur", "tr": "Sukkur" }
+    },
+    "mansehra": {
+      "names": { "ar": "مانسيرا", "en": "Mansehra", "tr": "Mansehra" }
+    },
+    "larkana": {
+      "names": { "ar": "لاركانا (موهينجو دارو)", "en": "Larkana", "tr": "Larkana" }
+    },
+    "sargodha": {
+      "names": { "ar": "سرغودها", "en": "Sargodha", "tr": "Sargodha" }
+    },
+    "sheikhupura": {
+      "names": { "ar": "شخوبورا", "en": "Sheikhupura", "tr": "Şeyhupura" }
+    },
+    "haripur": {
+      "names": { "ar": "هاريبر", "en": "Haripur", "tr": "Haripur" }
+    },
+    "mardan": {
+      "names": { "ar": "مردان", "en": "Mardan", "tr": "Mardan" }
+    },
+    "thatta": {
+      "names": { "ar": "ثاتا", "en": "Thatta", "tr": "Thatta" }
+    },
+    "gujrat": {
+      "names": { "ar": "جوجرات", "en": "Gujrat", "tr": "Gujrat" }
+    },
+    "kasur": {
+      "names": { "ar": "قصور", "en": "Kasur", "tr": "Kasur" }
+    },
+    "jhelum": {
+      "names": { "ar": "جيلوم", "en": "Jhelum", "tr": "Jhelum" }
+    },
+    "dera_ismail_khan": {
+      "names": { "ar": "ديرا إسماعيل خان", "en": "Dera Ismail Khan", "tr": "Dera İsmail Han" }
+    },
+    "rahim_yar_khan": {
+      "names": { "ar": "رحيم يار خان", "en": "Rahim Yar Khan", "tr": "Rahim Yar Han" }
+    },
+    "nawabshah": {
+      "names": { "ar": "نوابشاه (بينظير آباد)", "en": "Nawabshah", "tr": "Nawabshah" }
+    },
+    "sahiwal": {
+      "names": { "ar": "ساهيوال (هارابا)", "en": "Sahiwal", "tr": "Sahiwal" }
+    },
+    "sehwan_sharif": {
+      "names": { "ar": "سهوان شريف", "en": "Sehwan Sharif", "tr": "Sehwan Şerif" }
+    },
+    "kohat": {
+      "names": { "ar": "كوهات", "en": "Kohat", "tr": "Kohat" }
+    },
+    "mirpur_khas": {
+      "names": { "ar": "ميربورخاص", "en": "Mirpur Khas", "tr": "Mirpur Khas" }
+    },
+    "chiniot": {
+      "names": { "ar": "تشينيوت", "en": "Chiniot", "tr": "Chiniot" }
+    },
+    "chakwal": {
+      "names": { "ar": "تشاكوال", "en": "Chakwal", "tr": "Chakwal" }
+    },
+    "nowshera": {
+      "names": { "ar": "نوشيرا", "en": "Nowshera", "tr": "Nowshera" }
+    },
+    "charsadda": {
+      "names": { "ar": "تشارسدا", "en": "Charsadda", "tr": "Charsadda" }
+    },
+    "swabi": {
+      "names": { "ar": "صوابي", "en": "Swabi", "tr": "Swabi" }
+    },
+    "khairpur": {
+      "names": { "ar": "خايربور (خيربور ميرس)", "en": "Khairpur", "tr": "Khairpur" }
+    },
+    "wazirabad": {
+      "names": { "ar": "وزير آباد", "en": "Wazirabad", "tr": "Wazirabad" }
+    },
+    "jhang": {
+      "names": { "ar": "جهانغ", "en": "Jhang", "tr": "Jhang" }
+    },
+    "okara": {
+      "names": { "ar": "أوكارا", "en": "Okara", "tr": "Okara" }
+    },
+    "pakpattan": {
+      "names": { "ar": "باكبتان", "en": "Pakpattan", "tr": "Pakpattan" }
+    },
+    "mianwali": {
+      "names": { "ar": "ميانوالي", "en": "Mianwali", "tr": "Mianwali" }
+    },
+    "bannu": {
+      "names": { "ar": "بنو", "en": "Bannu", "tr": "Bannu" }
+    },
+    "umerkot": {
+      "names": { "ar": "أومركوت", "en": "Umerkot", "tr": "Umerkot" }
+    },
+    "kot_adu": {
+      "names": { "ar": "كوت أدو", "en": "Kot Adu", "tr": "Kot Adu" }
+    },
+    "muzaffargarh": {
+      "names": { "ar": "مظفرغار", "en": "Muzaffargarh", "tr": "Muzaffargarh" }
+    },
+    "khanewal": {
+      "names": { "ar": "خانيبور (خانيوال)", "en": "Khanewal", "tr": "Khanewal" }
+    },
+    "burewala": {
+      "names": { "ar": "باريوالا", "en": "Burewala", "tr": "Burewala" }
+    },
+    "vehari": {
+      "names": { "ar": "وهاري", "en": "Vehari", "tr": "Vehari" }
+    },
+    "sadiqabad": {
+      "names": { "ar": "صادق آباد", "en": "Sadiqabad", "tr": "Sadiqabad" }
+    },
+    "toba_tek_singh": {
+      "names": { "ar": "توب تيك سينغ", "en": "Toba Tek Singh", "tr": "Toba Tek Singh" }
+    },
+    "kamoke": {
+      "names": { "ar": "كاموكي", "en": "Kamoke", "tr": "Kamoke" }
+    },
+    "mandi_bahauddin": {
+      "names": { "ar": "مندي بهاء الدين", "en": "Mandi Bahauddin", "tr": "Mandi Bahauddin" }
+    },
+    "hafizabad": {
+      "names": { "ar": "حفيظ آباد", "en": "Hafizabad", "tr": "Hafizabad" }
+    },
+    "bhalwal": {
+      "names": { "ar": "بيلوال", "en": "Bhalwal", "tr": "Bhalwal" }
+    },
+    "chishtian": {
+      "names": { "ar": "تششتيان", "en": "Chishtian", "tr": "Chishtian" }
+    },
+    "ahmedpur_east": {
+      "names": { "ar": "أحمدبور الشرقية", "en": "Ahmedpur East", "tr": "Ahmedpur Doğu" }
+    },
+    "bahawalnagar": {
+      "names": { "ar": "بهاولناغار", "en": "Bahawalnagar", "tr": "Bahawalnagar" }
+    },
+    "jacobabad": {
+      "names": { "ar": "جيكب آباد", "en": "Jacobabad", "tr": "Jacobabad" }
+    },
+    "shikarpur": {
+      "names": { "ar": "شيكاربور", "en": "Shikarpur", "tr": "Şikarpur" }
+    },
+    "dadu": {
+      "names": { "ar": "دادو", "en": "Dadu", "tr": "Dadu" }
+    },
+    "kotri": {
+      "names": { "ar": "كوتري", "en": "Kotri", "tr": "Kotri" }
+    },
+    "tando_adam": {
+      "names": { "ar": "تاندو آدم", "en": "Tando Adam", "tr": "Tando Adam" }
+    },
+    "tando_allahyar": {
+      "names": { "ar": "تاندو الله يار", "en": "Tando Allahyar", "tr": "Tando Allahyar" }
+    },
+    "badin": {
+      "names": { "ar": "بادين", "en": "Badin", "tr": "Badin" }
+    },
+    "pind_dadan_khan": {
+      "names": { "ar": "بند دادي خان", "en": "Pind Dadan Khan", "tr": "Pind Dadan Han" }
+    },
+    "chillianwala": {
+      "names": { "ar": "شيليانوالا", "en": "Chillianwala", "tr": "Chillianwala" }
+    },
+    "dina": {
+      "names": { "ar": "دينا", "en": "Dina", "tr": "Dina" }
+    },
+    "jalalpur_jattan": {
+      "names": { "ar": "جلال بور جتان", "en": "Jalalpur Jattan", "tr": "Jalalpur Jattan" }
+    },
+    "arifwala": {
+      "names": { "ar": "عارف والا", "en": "Arifwala", "tr": "Arifwala" }
+    },
+    "khanpur": {
+      "names": { "ar": "خانبور", "en": "Khanpur", "tr": "Khanpur" }
+    },
+    "layyah": {
+      "names": { "ar": "لياه", "en": "Layyah", "tr": "Layyah" }
+    },
+    "lodhran": {
+      "names": { "ar": "لودهران", "en": "Lodhran", "tr": "Lodhran" }
+    },
+    "mian_channu": {
+      "names": { "ar": "ميان تشانو", "en": "Mian Channu", "tr": "Mian Channu" }
+    },
+    "pattoki": {
+      "names": { "ar": "باتوكي", "en": "Pattoki", "tr": "Pattoki" }
+    },
+    "renala_khurd": {
+      "names": { "ar": "رينالا خورد", "en": "Renala Khurd", "tr": "Renala Khurd" }
+    },
+    "samundri": {
+      "names": { "ar": "ساموندري", "en": "Samundri", "tr": "Samundri" }
+    },
+    "shujabad": {
+      "names": { "ar": "شجاع آباد", "en": "Shujabad", "tr": "Shujabad" }
+    },
+    "shahdadkot": {
+      "names": { "ar": "شهدادكوت", "en": "Shahdadkot", "tr": "Shahdadkot" }
+    },
+    "ghotki": {
+      "names": { "ar": "كهانخوت (غوتكي)", "en": "Ghotki", "tr": "Ghotki" }
+    },
+    "mirpur_mathelo": {
+      "names": { "ar": "ميربور ماتيلو", "en": "Mirpur Mathelo", "tr": "Mirpur Mathelo" }
+    },
+    "kashmore": {
+      "names": { "ar": "كشمور", "en": "Kashmore", "tr": "Kashmore" }
+    },
+    "matiari": {
+      "names": { "ar": "ماتياري", "en": "Matiari", "tr": "Matiari" }
+    },
+    "sanghar": {
+      "names": { "ar": "سانغهار", "en": "Sanghar", "tr": "Sanghar" }
+    },
+    "tando_mohammad_khan": {
+      "names": { "ar": "تاندو محمد خان", "en": "Tando Mohammad Khan", "tr": "Tando Mohammad Han" }
+    },
+    "kambar": {
+      "names": { "ar": "كامبار", "en": "Kambar", "tr": "Kambar" }
+    },
+    "parachinar": {
+      "names": { "ar": "باراتشينار", "en": "Parachinar", "tr": "Paraçınar" }
+    },
+    "timergara": {
+      "names": { "ar": "تيمرغارا", "en": "Timergara", "tr": "Timergara" }
+    },
+    "tank": {
+      "names": { "ar": "تانك", "en": "Tank", "tr": "Tank" }
+    },
+    "hangu": {
+      "names": { "ar": "هارانغ (هانغو)", "en": "Hangu", "tr": "Hangu" }
+    },
+    "garoote": {
+      "names": { "ar": "جروتي (غارو)", "en": "Garoote", "tr": "Garoote" }
+    },
+    "thangwani": {
+      "names": { "ar": "تانجواني", "en": "Thangwani", "tr": "Thangwani" }
     }
   }
 }

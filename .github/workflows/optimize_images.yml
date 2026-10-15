@@ -1,5 +1,6 @@
 name: Optimize images
 # يصغّر ويضغط الصور اللي ترفعها للمستودع (حتى تنزل بالتطبيق أسرع). ما يغيّر اسماء الملفات.
+# يلقى ملف optimize_images.py لحاله (سواء كان بمجلد tools او cities/tools او اي مكان)
 on:
   push:
     branches: [main]
@@ -22,7 +23,10 @@ jobs:
       - name: Install Pillow
         run: pip install pillow
       - name: Optimize images
-        run: python tools/optimize_images.py
+        run: |
+          SCRIPT=$(find . -name optimize_images.py -not -path "./.git/*" | head -n 1)
+          echo "Using script: $SCRIPT"
+          python "$SCRIPT"
       - name: Commit if changed
         run: |
           git config user.name "image-optimizer-bot"

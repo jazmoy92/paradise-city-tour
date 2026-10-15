@@ -71,7 +71,9 @@ def optimize(path):
         else:  # png
             alpha = has_real_alpha(im)
             if not alpha and old > PNG_QUANTIZE_OVER:
-                q = im.convert("RGB").quantize(colors=256, method=Image.Quantize.MEDIANCUT, dither=Image.Dither.FLOYDSTEINBERG)
+                rgb = im.convert("RGB")
+                pal = rgb.quantize(colors=256, method=Image.Quantize.MAXCOVERAGE)
+                q = rgb.quantize(palette=pal, dither=Image.Dither.FLOYDSTEINBERG)   # تنعيم الالوان (بدون خطوط في السماء)
                 q.save(tmp, "PNG", optimize=True)
             else:
                 if im.mode == "P":

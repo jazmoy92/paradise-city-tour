@@ -1,0 +1,31 @@
+name: Optimize images
+# يصغّر ويضغط الصور اللي ترفعها للمستودع (حتى تنزل بالتطبيق أسرع). ما يغيّر اسماء الملفات.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.jpg"
+      - "**/*.jpeg"
+      - "**/*.png"
+      - "**/*.webp"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pillow
+        run: pip install pillow
+      - name: Optimize images
+        run: python tools/optimize_images.py
+      - name: Commit if changed
+        run: |
+          git config user.name "image-optimizer-bot"
+          git config user.email "image-optimizer-bot@users.noreply.github.com"
+          git add -u
+          git diff --cached --quiet || (git commit -m "Optimize images [skip ci]" && git push)

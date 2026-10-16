@@ -1,319 +1,244 @@
 {
-  "germany": {
-    "needs_ad": false,
-    "cities": {
-      "berlin": {
-        "names": {
-          "ar": "برلين",
-          "en": "Berlin",
-          "tr": "Berlin"
-        },
-        "description": {
-          "ar": "عاصمة ألمانيا المفعمة بالتاريخ والفنون العصرية، تشتهر بـ بوابة براندنبورغ، بقايا جدار برلين، وجزيرة المتاحف.",
-          "en": "Germany's dynamic capital, famous for the Brandenburg Gate, Museum Island, Berlin Wall, and night culture.",
-          "tr": "Brandenburg Kapısı, Müzeler Adası, Berlin Duvarı ve canlı kültürüyle ünlü Almanya başkenti."
-        },
-        "image": "res://images/berlin.png",
-        "bg_image": "res://images/berlin_bg.png",
-        "image_3d": "res://images/berlin_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أدلون كيمبينسكي برلين",
-              "en": "Hotel Adlon Kempinski Berlin",
-              "tr": "Hotel Adlon Kempinski Berlin"
-            },
-            "image": "res://images/adlon_kempinski.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق ذا ريتز كارلتون برلين",
-              "en": "The Ritz-Carlton, Berlin",
-              "tr": "The Ritz-Carlton, Berlin"
-            },
-            "image": "res://images/ritz_berlin.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لورنز أدلون برلين (Lorenz Adlon Esszimmer)",
-              "en": "Lorenz Adlon Esszimmer",
-              "tr": "Lorenz Adlon Esszimmer Restoran"
-            },
-            "image": "res://images/lorenz_adlon.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات ألمانية وأوروبية فاخرة مطلة على بوابة براندنبورغ",
-              "en": "Michelin-starred European Fine Dining",
-              "tr": "Michelin Yıldızlı Lüks Avrupa Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "بوابة براندنبورغ (Brandenburg Gate)",
-              "en": "Brandenburg Gate (Brandenburger Tor)",
-              "tr": "Brandenburg Kapısı"
-            },
-            "image": "res://images/brandenburg_gate.png",
-            "description": {
-              "ar": "رمز ألمانيا وبرلين التاريخي الأول بنيت عام 1791 بستايل كلاسيكي نيوي.",
-              "en": "18th-century neoclassical monument, the iconic symbol of German unity.",
-              "tr": "Alman birliğinin ikonik simgesi olan 18. yüzyıl Neoklasik anıtı."
-            }
-          },
-          {
-            "name": {
-              "ar": "معرض السلسلة الشرقية لجدار برلين (East Side Gallery)",
-              "en": "East Side Gallery (Berlin Wall)",
-              "tr": "East Side Gallery (Berlin Duvarı)"
-            },
-            "image": "res://images/east_side_gallery.png",
-            "description": {
-              "ar": "أطول جزء متبقٍ من جدار برلين محول لمعرض جداري مفتوح بطول 1.3 كم.",
-              "en": "1.3km long remaining section of the Berlin Wall covered with international murals.",
-              "tr": "Uluslararası duvar resimleriyle kaplı Berlin Duvarı'nın 1.3 km'lik bölümü."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "مجمع جزيرة المتاحف (Museum Island - UNESCO)",
-              "en": "Museum Island (Museumsinsel)",
-              "tr": "Müzeler Adası (Museumsinsel)"
-            },
-            "image": "res://images/museum_island.png",
-            "description": {
-              "ar": "مجمع يضم 5 متاحف عالمية شهيرة منها متحف بيرغامون ومتحف نيووز.",
-              "en": "UNESCO complex housing five world-renowned museums including the Pergamon Museum.",
-              "tr": "Pergamon Müzesi de dahil dünyaca ünlü beş müzeye ev sahipliği yapan UNESCO adası."
-            }
-          }
-        ]
-      },
-      "munich": {
-        "names": {
-          "ar": "ميونخ",
-          "en": "Munich",
-          "tr": "Münih"
-        },
-        "description": {
-          "ar": "عاصمة إقليم بافاريا الأنيقة، تشتهر بساحة ماريين بلاتس، قصور نيمفينبورغ، متحف بي إم دبليو، وقربها من جبال الألب.",
-          "en": "Bavaria's cultured capital, famous for Marienplatz, Nymphenburg Palace, BMW Museum, and Alpine access.",
-          "tr": "Bavyera'nın kültür başkenti; Marienplatz, Nymphenburg Sarayı ve BMW Müzesi ile ünlüdür."
-        },
-        "image": "res://images/munich.png",
-        "bg_image": "res://images/munich_bg.png",
-        "image_3d": "res://images/munich_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق الماندارين أورينتال ميونخ",
-              "en": "Mandarin Oriental, Munich",
-              "tr": "Mandarin Oriental, Münih"
-            },
-            "image": "res://images/mandarin_munich.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق بايريشير هوف ميونخ",
-              "en": "Hotel Bayerischer Hof Munich",
-              "tr": "Hotel Bayerischer Hof Münih"
-            },
-            "image": "res://images/bayerischer_hof.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم تانتريس ميونخ (Tantris)",
-              "en": "Tantris Maison d'Art Culinaire",
-              "tr": "Tantris Restoran Münih"
-            },
-            "image": "res://images/tantris_munich.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات راقية بلمسات بافارية وفرنسية عالمية",
-              "en": "Two-Michelin-starred Fine Dining",
-              "tr": "İki Michelin Yıldızlı Lüks Yemek"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ساحة ماريين بلاتس وقاعة المدينة (Marienplatz)",
-              "en": "Marienplatz & New Town Hall",
-              "tr": "Marienplatz ve Yeni Belediye Binası"
-            },
-            "image": "res://images/marienplatz.png",
-            "description": {
-              "ar": "قلب ميونخ التاريخي وتضم قاعة المدينة القوطية مع الساعة الراقصة (Glockenspiel).",
-              "en": "Central square dominated by the Gothic Neues Rathaus and its famous Glockenspiel chime.",
-              "tr": "Gotik Yeni Belediye Binası ve ünlü Glockenspiel gösterisiyle merkez meydan."
-            }
-          },
-          {
-            "name": {
-              "ar": "متحف وعالم بي إم دبليو (BMW Welt & Museum)",
-              "en": "BMW Welt & BMW Museum",
-              "tr": "BMW Welt ve BMW Müzesi"
-            },
-            "image": "res://images/bmw_museum.png",
-            "description": {
-              "ar": "معرض ومتحف السيارات المبتكر الذي يروي تاريخ وتطور سيارات بي إم دبليو.",
-              "en": "Futuristic exhibition center and museum detailing BMW automotive history.",
-              "tr": "BMW otomotiv tarihini detaylandıran gelecekçi sergi merkezi ve müze."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "قصر نيمفينبورغ الملكي (Nymphenburg Palace)",
-              "en": "Nymphenburg Palace",
-              "tr": "Nymphenburg Sarayı"
-            },
-            "image": "res://images/nymphenburg.png",
-            "description": {
-              "ar": "قصر باروكي فخم كان مقر الإقامة الصيفي لملوك بافاريا بحدائقه الشاسعة.",
-              "en": "Grand Baroque summer residence of Bavarian monarchs surrounded by canal parks.",
-              "tr": "Bavyera hükümdarlarının kanal parklarıyla çevrili Barok yazlık sarayı."
-            }
-          }
-        ]
-      },
-      "frankfurt": {
-        "names": {
-          "ar": "فرنكفورت",
-          "en": "Frankfurt",
-          "tr": "Frankfurt"
-        },
-        "description": {
-          "ar": "العاصمة المالية لأوروبا ومقر البنك المركزي الأوروبي، تتميز بناطحات السحاب الحديثة وساحة رومربيرغ التراثية.",
-          "en": "Financial capital of Continental Europe, famous for high-rise skyline, Römerberg plaza, and Main river.",
-          "tr": "Avrupa'nın finans başkenti; gökdelenleri, Römerberg meydanı ve Main nehri ile ünlüdür."
-        },
-        "image": "res://images/frankfurt.png",
-        "bg_image": "res://images/frankfurt_bg.png",
-        "image_3d": "res://images/frankfurt_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق روكو فورتيه أوتيل دي فيلا فرنكفورت",
-              "en": "Rocco Forte Villa Kennedy / Jumeirah Frankfurt",
-              "tr": "Jumeirah Hotel Frankfurt"
-            },
-            "image": "res://images/jumeirah_frankfurt.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم ماين تاور البانورامي",
-              "en": "Main Tower Restaurant & Lounge",
-              "tr": "Main Tower Restoran"
-            },
-            "image": "res://images/main_tower_restaurant.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أطباق أوروبية راقية فوق سحاب فرنكفورت",
-              "en": "High-altitude European Fine Dining",
-              "tr": "Panoramik Yüksek İrtifa Avrupa Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ساحة رومربيرغ التاريخية (Römerberg)",
-              "en": "Römerberg Square",
-              "tr": "Römerberg Meydanı"
-            },
-            "image": "res://images/romerberg.png",
-            "description": {
-              "ar": "الساحة التاريخية التي تضم مباني حجرية خشبية ملونة تعود للقرن الخامس عشر.",
-              "en": "Picturesque medieval square featuring timber-framed reconstructed townhouses.",
-              "tr": "Ahşap karkaslı restore edilmiş evlerin bulunduğu resim gibi ortaçağ meydanı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "برج ماين تاور ومطل السحاب (Main Tower)",
-              "en": "Main Tower Observatory",
-              "tr": "Main Tower Gözlem Terası"
-            },
-            "image": "res://images/main_tower.png",
-            "description": {
-              "ar": "ناطحة سحاب يبلغ ارتفاعها 200 متر توفر منصة المراقبة الوحيدة المفتوحة للجمهور.",
-              "en": "200-meter skyscraper offering an open-air public observation deck over Manhattan-like skyline.",
-              "tr": "Şehir siluetine bakan açık hava gözlem terasına sahip 200 metrelik gökdelen."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "berlin": {
+      "names": { "ar": "برلين", "en": "Berlin", "tr": "Berlin" }
+    },
+    "munich": {
+      "names": { "ar": "ميونخ", "en": "Munich", "tr": "Münih" }
+    },
+    "frankfurt": {
+      "names": { "ar": "فرانكفورت", "en": "Frankfurt", "tr": "Frankfurt" }
+    },
+    "hamburg": {
+      "names": { "ar": "هامبورغ", "en": "Hamburg", "tr": "Hamburg" }
+    },
+    "cologne": {
+      "names": { "ar": "كولونيا", "en": "Cologne", "tr": "Köln" }
+    },
+    "dusseldorf": {
+      "names": { "ar": "دوسلدورف", "en": "Düsseldorf", "tr": "Düsseldorf" }
+    },
+    "stuttgart": {
+      "names": { "ar": "شتوتغارت", "en": "Stuttgart", "tr": "Stuttgart" }
+    },
+    "dresden": {
+      "names": { "ar": "دريسدن", "en": "Dresden", "tr": "Dresden" }
+    },
+    "leipzig": {
+      "names": { "ar": "لايبزيغ", "en": "Leipzig", "tr": "Leipzig" }
+    },
+    "nuremberg": {
+      "names": { "ar": "نورنبرغ", "en": "Nuremberg", "tr": "Nürnberg" }
+    },
+    "dortmund": {
+      "names": { "ar": "دورتموند", "en": "Dortmund", "tr": "Dortmund" }
+    },
+    "hanover": {
+      "names": { "ar": "هانوفر", "en": "Hanover", "tr": "Hannover" }
+    },
+    "bremen": {
+      "names": { "ar": "بريمن", "en": "Bremen", "tr": "Bremen" }
+    },
+    "bonn": {
+      "names": { "ar": "بون", "en": "Bonn", "tr": "Bonn" }
+    },
+    "heidelberg": {
+      "names": { "ar": "هايدلبرغ", "en": "Heidelberg", "tr": "Heidelberg" }
+    },
+    "essen": {
+      "names": { "ar": "إيسن", "en": "Essen", "tr": "Essen" }
+    },
+    "aachen": {
+      "names": { "ar": "آخن", "en": "Aachen", "tr": "Aachen" }
+    },
+    "potsdam": {
+      "names": { "ar": "بوتسدام", "en": "Potsdam", "tr": "Potsdam" }
+    },
+    "freiburg": {
+      "names": { "ar": "فرايبورغ", "en": "Freiburg", "tr": "Freiburg" }
+    },
+    "duisburg": {
+      "names": { "ar": "دويسبورغ", "en": "Duisburg", "tr": "Duisburg" }
+    },
+    "mannheim": {
+      "names": { "ar": "مانهايم", "en": "Mannheim", "tr": "Mannheim" }
+    },
+    "karlsruhe": {
+      "names": { "ar": "كارلسروه", "en": "Karlsruhe", "tr": "Karlsruhe" }
+    },
+    "augsburg": {
+      "names": { "ar": "أوغسبورغ", "en": "Augsburg", "tr": "Augsburg" }
+    },
+    "wiesbaden": {
+      "names": { "ar": "فيسبادن", "en": "Wiesbaden", "tr": "Wiesbaden" }
+    },
+    "munster": {
+      "names": { "ar": "مونستر", "en": "Münster", "tr": "Münster" }
+    },
+    "mainz": {
+      "names": { "ar": "ماينتس", "en": "Mainz", "tr": "Mainz" }
+    },
+    "lubeck": {
+      "names": { "ar": "لوبيك", "en": "Lübeck", "tr": "Lübeck" }
+    },
+    "regensburg": {
+      "names": { "ar": "ريغنسبورغ", "en": "Regensburg", "tr": "Regensburg" }
+    },
+    "wurzburg": {
+      "names": { "ar": "فورتسبورغ", "en": "Würzburg", "tr": "Würzburg" }
+    },
+    "trier": {
+      "names": { "ar": "ترير", "en": "Trier", "tr": "Trier" }
+    },
+    "wolfsburg": {
+      "names": { "ar": "فولفسبورغ", "en": "Wolfsburg", "tr": "Wolfsburg" }
+    },
+    "ulm": {
+      "names": { "ar": "أولم", "en": "Ulm", "tr": "Ulm" }
+    },
+    "erfurt": {
+      "names": { "ar": "إرفورت", "en": "Erfurt", "tr": "Erfurt" }
+    },
+    "rostock": {
+      "names": { "ar": "روستوك", "en": "Rostock", "tr": "Rostock" }
+    },
+    "kiel": {
+      "names": { "ar": "كيل", "en": "Kiel", "tr": "Kiel" }
+    },
+    "bielefeld": {
+      "names": { "ar": "بيليفيلد", "en": "Bielefeld", "tr": "Bielefeld" }
+    },
+    "wuppertal": {
+      "names": { "ar": "فوبيرتال", "en": "Wuppertal", "tr": "Wuppertal" }
+    },
+    "bochum": {
+      "names": { "ar": "بوخوم", "en": "Bochum", "tr": "Bochum" }
+    },
+    "gelsenkirchen": {
+      "names": { "ar": "غيلسنكيرشن", "en": "Gelsenkirchen", "tr": "Gelsenkirchen" }
+    },
+    "monchengladbach": {
+      "names": { "ar": "مونشنغلادباخ", "en": "Mönchengladbach", "tr": "Mönchengladbach" }
+    },
+    "chemnitz": {
+      "names": { "ar": "كيمنتس", "en": "Chemnitz", "tr": "Chemnitz" }
+    },
+    "magdeburg": {
+      "names": { "ar": "ماغديبورغ", "en": "Magdeburg", "tr": "Magdeburg" }
+    },
+    "halle": {
+      "names": { "ar": "هاله ", "en": "Halle", "tr": "Halle" }
+    },
+    "kassel": {
+      "names": { "ar": "كاسل", "en": "Kassel", "tr": "Kassel" }
+    },
+    "darmstadt": {
+      "names": { "ar": "دارمشتات", "en": "Darmstadt", "tr": "Darmstadt" }
+    },
+    "saarbrucken": {
+      "names": { "ar": "ساربروكن", "en": "Saarbrücken", "tr": "Saarbrücken" }
+    },
+    "ingolstadt": {
+      "names": { "ar": "إنغولشتات", "en": "Ingolstadt", "tr": "Ingolstadt" }
+    },
+    "leverkusen": {
+      "names": { "ar": "ليفركوزن", "en": "Leverkusen", "tr": "Leverkusen" }
+    },
+    "braunschweig": {
+      "names": { "ar": "براونشفايغ", "en": "Braunschweig", "tr": "Braunschweig" }
+    },
+    "osnabruck": {
+      "names": { "ar": "أوسنابروك", "en": "Osnabrück", "tr": "Osnabrück" }
+    },
+    "oldenburg": {
+      "names": { "ar": "أولدنبورغ", "en": "Oldenburg", "tr": "Oldenburg" }
+    },
+    "krefeld": {
+      "names": { "ar": "كريفيلد", "en": "Krefeld", "tr": "Krefeld" }
+    },
+    "oberhausen": {
+      "names": { "ar": "أوبرهاوزن", "en": "Oberhausen", "tr": "Oberhausen" }
+    },
+    "ludwigshafen": {
+      "names": { "ar": "لودفيغسهافن", "en": "Ludwigshafen", "tr": "Ludwigshafen" }
+    },
+    "mulheim": {
+      "names": { "ar": "مولهايم", "en": "Mülheim", "tr": "Mülheim" }
+    },
+    "hagen": {
+      "names": { "ar": "هاغن", "en": "Hagen", "tr": "Hagen" }
+    },
+    "hamm": {
+      "names": { "ar": "هام", "en": "Hamm", "tr": "Hamm" }
+    },
+    "solingen": {
+      "names": { "ar": "زولينغن", "en": "Solingen", "tr": "Solingen" }
+    },
+    "herne": {
+      "names": { "ar": "هيرنه", "en": "Herne", "tr": "Herne" }
+    },
+    "neuss": {
+      "names": { "ar": "نويس", "en": "Neuss", "tr": "Neuss" }
+    },
+    "paderborn": {
+      "names": { "ar": "بادربورن", "en": "Paderborn", "tr": "Paderborn" }
+    },
+    "furth": {
+      "names": { "ar": "فورت", "en": "Fürth", "tr": "Fürth" }
+    },
+    "offenbach": {
+      "names": { "ar": "أوفنباخ", "en": "Offenbach", "tr": "Offenbach" }
+    },
+    "heilbronn": {
+      "names": { "ar": "هايلبرون", "en": "Heilbronn", "tr": "Heilbronn" }
+    },
+    "pforzheim": {
+      "names": { "ar": "بفورتسهايم", "en": "Pforzheim", "tr": "Pforzheim" }
+    },
+    "bottrop": {
+      "names": { "ar": "بوتروب", "en": "Bottrop", "tr": "Bottrop" }
+    },
+    "gottingen": {
+      "names": { "ar": "غوتينغن", "en": "Göttingen", "tr": "Göttingen" }
+    },
+    "reutlingen": {
+      "names": { "ar": "رويتلينغن", "en": "Reutlingen", "tr": "Reutlingen" }
+    },
+    "koblenz": {
+      "names": { "ar": "كوبلنتس", "en": "Koblenz", "tr": "Koblenz" }
+    },
+    "erlangen": {
+      "names": { "ar": "إرلانغن", "en": "Erlangen", "tr": "Erlangen" }
+    },
+    "bremerhaven": {
+      "names": { "ar": "بريمرهافن", "en": "Bremerhaven", "tr": "Bremerhaven" }
+    },
+    "remscheid": {
+      "names": { "ar": "رمشايد", "en": "Remscheid", "tr": "Remscheid" }
+    },
+    "bergisch_gladbach": {
+      "names": { "ar": "بيرغيش غلادباخ", "en": "Bergisch Gladbach", "tr": "Bergisch Gladbach" }
+    },
+    "recklinghausen": {
+      "names": { "ar": "ركلنغهاوزن", "en": "Recklinghausen", "tr": "Recklinghausen" }
+    },
+    "jena": {
+      "names": { "ar": "يينا", "en": "Jena", "tr": "Jena" }
+    },
+    "moers": {
+      "names": { "ar": "مورس", "en": "Moers", "tr": "Moers" }
+    },
+    "salzgitter": {
+      "names": { "ar": "زالتسغيتر", "en": "Salzgitter", "tr": "Salzgitter" }
+    },
+    "siegen": {
+      "names": { "ar": "سيغن", "en": "Siegen", "tr": "Siegen" }
+    },
+    "gutersloh": {
+      "names": { "ar": "غوترسلوه", "en": "Gütersloh", "tr": "Gütersloh" }
+    },
+    "hildesheim": {
+      "names": { "ar": "هيلدسهايم", "en": "Hildesheim", "tr": "Hildesheim" }
     }
   }
 }

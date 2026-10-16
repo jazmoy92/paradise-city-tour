@@ -1,218 +1,316 @@
 {
-  "georgia": {
-    "needs_ad": false,
-    "cities": {
-      "tbilisi": {
-        "names": {
-          "ar": "تبليسي",
-          "en": "Tbilisi",
-          "tr": "Tiflis"
-        },
-        "description": {
-          "ar": "عاصمة جورجيا التاريخية الساحرة، تشتهر بالحمامات الكبريتية، قلعة ناريقالا، جسر السلام الشفاف، والبلدة القديمة.",
-          "en": "Georgia's enchanting capital, famous for sulfur baths, Narikala Fortress, Bridge of Peace, and Old Town balconies.",
-          "tr": "Sülfür banyoları, Narikala Kalesi, Barış Köprüsü ve ahşap balkonlu Eski Kenti ile ünlü Tiflis."
-        },
-        "image": "res://images/tbilisi.png",
-        "bg_image": "res://images/tbilisi_bg.png",
-        "image_3d": "res://images/tbilisi_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق ستامبا تبليسي (Stamba Hotel)",
-              "en": "Stamba Hotel Tbilisi",
-              "tr": "Stamba Hotel Tiflis"
-            },
-            "image": "res://images/stamba_tbilisi.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق بارك حياة تبليسي (The Biltmore)",
-              "en": "The Biltmore Hotel Tbilisi",
-              "tr": "The Biltmore Hotel Tiflis"
-            },
-            "image": "res://images/biltmore_tbilisi.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم بارباتان تبليسي (Barbarestan)",
-              "en": "Barbarestan Restaurant",
-              "tr": "Barbarestan Restoran"
-            },
-            "image": "res://images/barbarestan.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "أطباق الخاتشابوري والشوربة الجورجية الأصيلة مستوحاة من كتاب طهي القرن 19",
-              "en": "Traditional Georgian Khachapuri & Heritage Recipes",
-              "tr": "Geleneksel Gürcü Haçapurisi ve Tarihi Tarifler"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "قلعة ناريقالا والتلفريك (Narikala Fortress)",
-              "en": "Narikala Fortress & Cable Car",
-              "tr": "Narikala Kalesi ve Teleferik"
-            },
-            "image": "res://images/narikala.png",
-            "description": {
-              "ar": "حصن أثري يعود للقرن الرابع يطل على نهر كورا والمدينة القديمة بالكامل.",
-              "en": "Ancient 4th-century fortress offering sweeping views accessible via aerial tramway.",
-              "tr": "Teleferikle ulaşılan, kentin ve Kura Nehri'nin panoramik manzarasını sunan 4. yüzyıl kalesi."
-            }
-          },
-          {
-            "name": {
-              "ar": "كاتدرائية الثالوث المقدس (Sameba Cathedral)",
-              "en": "Holy Trinity Cathedral (Sameba)",
-              "tr": "Kutsal Üçleme Katedrali (Sameba)"
-            },
-            "image": "res://images/sameba.png",
-            "description": {
-              "ar": "أضخم كنيسة أرثوذكسية في جورجيا ومن بين الأكبر عالمياً بقبتها الذهبية الشاهقة.",
-              "en": "One of the largest Orthodox cathedrals in the world dominating the Tbilisi skyline.",
-              "tr": "Tiflis siluetine hakim, dünyanın en büyük Ortodoks katedrallerinden biri."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "منطقة الحمامات الكبريتية التاريخية (Abanotubani)",
-              "en": "Abanotubani Sulfur Baths",
-              "tr": "Abanotubani Sülfür Banyoları"
-            },
-            "image": "res://images/abanotubani.png",
-            "description": {
-              "ar": "حمام مياه حرارية كبريتية طبيعية ذات القباب الطينية العثمانية والفارسية الشهيرة.",
-              "en": "Historic district featuring brick dome bathhouses fed by natural hot springs.",
-              "tr": "Doğal sıcak kaynaklarla beslenen tuğla kubbeli tarihi hamamlar bölgesi."
-            }
-          }
-        ]
-      },
-      "batumi": {
-        "names": {
-          "ar": "باتومي",
-          "en": "Batumi",
-          "tr": "Batum"
-        },
-        "description": {
-          "ar": "عروس البحر الأسود وجوهرته السياحية، تشتهر بناطحات السحاب الحديثة، ممشى الكورنيش، وتمثال علي ونينو المتحرك.",
-          "en": "Georgia's Black Sea resort capital, famous for futuristic architecture, Batumi Boulevard, and Ali & Nino statue.",
-          "tr": "Karadeniz'in resort başkenti; modern mimarisi, Batum Bulvarı ve Ali ile Nino heykeliyle ünlüdür."
-        },
-        "image": "res://images/batumi.png",
-        "bg_image": "res://images/batumi_bg.png",
-        "image_3d": "res://images/batumi_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق راديسون بلو باتومي",
-              "en": "Radisson Blu Hotel Batumi",
-              "tr": "Radisson Blu Hotel Batumi"
-            },
-            "image": "res://images/radisson_batumi.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق شيراتون باتومي",
-              "en": "Sheraton Batumi Hotel",
-              "tr": "Sheraton Batumi Hotel"
-            },
-            "image": "res://images/sheraton_batumi.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم جولدين أوريو باتومي",
-              "en": "Old Boulevard Restaurant Batumi",
-              "tr": "Old Boulevard Restoran Batum"
-            },
-            "image": "res://images/old_boulevard_batumi.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "خاتشابوري أجارولي بالبيض والمأكولات البحرية",
-              "en": "Adjarian Khachapuri & Black Sea Seafood",
-              "tr": "Acar Kır Pidesi ve Karadeniz Balıkları"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "تمثال علي ونينو المتحرك (Ali and Nino Statue)",
-              "en": "Ali and Nino Moving Statue",
-              "tr": "Ali ve Nino Hareketli Heykeli"
-            },
-            "image": "res://images/ali_and_nino.png",
-            "description": {
-              "ar": "تمثال معدني متحرك بارتفاع 8 أمتار يتحرك ويتداخل كل 10 دقائق يمثل قصة حب أسطورية.",
-              "en": "Kinetic steel sculpture depicting two lovers merging and passing through each other.",
-              "tr": "Her 10 dakikada bir birleşip iç içe geçen iki aşığı simgeleyen kinetik çelik heykel."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "حديقة باتومي النباتية (Batumi Botanical Garden)",
-              "en": "Batumi Botanical Garden",
-              "tr": "Batum Botanik Bahçesi"
-            },
-            "image": "res://images/batumi_botanical.png",
-            "description": {
-              "ar": "إحدى أضخم الحدائق النباتية المطلة على جروف البحر الأسود الخضراء.",
-              "en": "Massive 108-hectare cliffside botanical park with plants from nine phytogeographic realms.",
-              "tr": "Karadeniz dik kayalıklarına bakan 108 hektarlık devasa botanik parkı."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "tbilisi": {
+      "names": { "ar": "تبليسي", "en": "Tbilisi", "tr": "Tiflis" }
+    },
+    "batumi": {
+      "names": { "ar": "باتومي", "en": "Batumi", "tr": "Batum" }
+    },
+    "kutaisi": {
+      "names": { "ar": "كوتايسي", "en": "Kutaisi", "tr": "Kutaisi" }
+    },
+    "gudauri": {
+      "names": { "ar": "غوداوري", "en": "Gudauri", "tr": "Gudauri" }
+    },
+    "borjomi": {
+      "names": { "ar": "بورجومي", "en": "Borjomi", "tr": "Borjomi" }
+    },
+    "stepantsminda": {
+      "names": { "ar": "ستيبانتسميندا (كازبيجي)", "en": "Stepantsminda", "tr": "Stepantsminda (Kazbegi)" }
+    },
+    "mtskheta": {
+      "names": { "ar": "متسخيتا", "en": "Mtskheta", "tr": "Mtsheta" }
+    },
+    "bakuriani": {
+      "names": { "ar": "باكورياني", "en": "Bakuriani", "tr": "Bakuriani" }
+    },
+    "sighnaghi": {
+      "names": { "ar": "سغناغي", "en": "Sighnaghi", "tr": "Siğnaği" }
+    },
+    "mestia": {
+      "names": { "ar": "ميستيا", "en": "Mestia", "tr": "Mestia" }
+    },
+    "martvili": {
+      "names": { "ar": "مارتفيلي", "en": "Martvili", "tr": "Martvili" }
+    },
+    "gori": {
+      "names": { "ar": "غوري", "en": "Gori", "tr": "Gori" }
+    },
+    "rustavi": {
+      "names": { "ar": "روستافي", "en": "Rustavi", "tr": "Rustavi" }
+    },
+    "ushguli": {
+      "names": { "ar": "أوشغولي", "en": "Ushguli", "tr": "Uşguli" }
+    },
+    "kobuleti": {
+      "names": { "ar": "كوبوليتي", "en": "Kobuleti", "tr": "Kobuleti" }
+    },
+    "telavi": {
+      "names": { "ar": "تيلافي", "en": "Telavi", "tr": "Telavi" }
+    },
+    "akhaltsikhe": {
+      "names": { "ar": "أخالتسيخي", "en": "Akhaltsikhe", "tr": "Ahıska" }
+    },
+    "zugdidi": {
+      "names": { "ar": "زوغديدي", "en": "Zugdidi", "tr": "Zugdidi" }
+    },
+    "poti": {
+      "names": { "ar": "فوتي", "en": "Poti", "tr": "Poti" }
+    },
+    "tskaltubo": {
+      "names": { "ar": "تسكالتوبو", "en": "Tskaltubo", "tr": "Tskaltubo" }
+    },
+    "kvareli": {
+      "names": { "ar": "كفاريلي", "en": "Kvareli", "tr": "Kvareli" }
+    },
+    "ureki": {
+      "names": { "ar": "أوريكي", "en": "Ureki", "tr": "Ureki" }
+    },
+    "gagra": {
+      "names": { "ar": "غاغرا", "en": "Gagra", "tr": "Gagra" }
+    },
+    "sukhumi": {
+      "names": { "ar": "سوخومي", "en": "Sukhumi", "tr": "Sohum" }
+    },
+    "new_athos": {
+      "names": { "ar": "نيو آثوس (أخالي أتوني)", "en": "New Athos (Akhali Atoni)", "tr": "Yeni Afon" }
+    },
+    "gonio": {
+      "names": { "ar": "غونيو", "en": "Gonio", "tr": "Gonio" }
+    },
+    "kvariati": {
+      "names": { "ar": "كفارياتي", "en": "Kvariati", "tr": "Kvariati" }
+    },
+    "sarpi": {
+      "names": { "ar": "ساربي", "en": "Sarpi", "tr": "Sarpi" }
+    },
+    "shekvetili": {
+      "names": { "ar": "شيكفيتيلي", "en": "Shekvetili", "tr": "Şekvetili" }
+    },
+    "anaklia": {
+      "names": { "ar": "أناكليا", "en": "Anaklia", "tr": "Anaklia" }
+    },
+    "chakvi": {
+      "names": { "ar": "تشاكفي", "en": "Chakvi", "tr": "Çakvi" }
+    },
+    "juta": {
+      "names": { "ar": "جوتا", "en": "Juta", "tr": "Juta" }
+    },
+    "shatili": {
+      "names": { "ar": "شاتيلي", "en": "Shatili", "tr": "Şatili" }
+    },
+    "bakhmaro": {
+      "names": { "ar": "باخمارو", "en": "Bakhmaro", "tr": "Bakhmaro" }
+    },
+    "sairme": {
+      "names": { "ar": "سايرمي", "en": "Sairme", "tr": "Sairme" }
+    },
+    "pasanauri": {
+      "names": { "ar": "باساناوري", "en": "Pasanauri", "tr": "Pasanauri" }
+    },
+    "chiatura": {
+      "names": { "ar": "تشياتورا", "en": "Chiatura", "tr": "Çiatura" }
+    },
+    "omalo": {
+      "names": { "ar": "أومالو", "en": "Omalo", "tr": "Omalo" }
+    },
+    "dartlo": {
+      "names": { "ar": "دارتلو", "en": "Dartlo", "tr": "Dartlo" }
+    },
+    "mutso": {
+      "names": { "ar": "موتسو", "en": "Mutso", "tr": "Mutso" }
+    },
+    "pitsunda": {
+      "names": { "ar": "بيتسوندا", "en": "Pitsunda", "tr": "Pitsunda" }
+    },
+    "likani": {
+      "names": { "ar": "ليكاني", "en": "Likani", "tr": "Likani" }
+    },
+    "surami": {
+      "names": { "ar": "سورامي", "en": "Surami", "tr": "Surami" }
+    },
+    "samtredia": {
+      "names": { "ar": "سامتريديا", "en": "Samtredia", "tr": "Samtredia" }
+    },
+    "zestaponi": {
+      "names": { "ar": "زيستابوني", "en": "Zestaponi", "tr": "Zestaponi" }
+    },
+    "khashuri": {
+      "names": { "ar": "خاشوري", "en": "Khashuri", "tr": "Khashuri" }
+    },
+    "marneuli": {
+      "names": { "ar": "مارنيولي", "en": "Marneuli", "tr": "Marneuli" }
+    },
+    "ozurgeti": {
+      "names": { "ar": "أوزورغيتي", "en": "Ozurgeti", "tr": "Ozurgeti" }
+    },
+    "senaki": {
+      "names": { "ar": "سيناكي", "en": "Senaki", "tr": "Senaki" }
+    },
+    "akhalkalaki": {
+      "names": { "ar": "أخالكالاكي", "en": "Akhalkalaki", "tr": "Ahılkelek" }
+    },
+    "abastumani": {
+      "names": { "ar": "أباستوماني", "en": "Abastumani", "tr": "Abastumani" }
+    },
+    "bolnisi": {
+      "names": { "ar": "بولنيسي", "en": "Bolnisi", "tr": "Bolnisi" }
+    },
+    "dmanisi": {
+      "names": { "ar": "دمانيسي", "en": "Dmanisi", "tr": "Dmanisi" }
+    },
+    "ambrolauri": {
+      "names": { "ar": "أمبرولاوري", "en": "Ambrolauri", "tr": "Ambrolauri" }
+    },
+    "oni": {
+      "names": { "ar": "أوني", "en": "Oni", "tr": "Oni" }
+    },
+    "shovi": {
+      "names": { "ar": "شوفي", "en": "Shovi", "tr": "Şovi" }
+    },
+    "manglisi": {
+      "names": { "ar": "مانغليسي", "en": "Manglisi", "tr": "Manglisi" }
+    },
+    "tsalka": {
+      "names": { "ar": "تسالكا", "en": "Tsalka", "tr": "Tsalka" }
+    },
+    "tskhinvali": {
+      "names": { "ar": "تسخينفالي", "en": "Tskhinvali", "tr": "Tshinvali" }
+    },
+    "dusheti": {
+      "names": { "ar": "دوشيتي", "en": "Dusheti", "tr": "Duşeti" }
+    },
+    "gardabani": {
+      "names": { "ar": "غارداباني", "en": "Gardabani", "tr": "Gardabani" }
+    },
+    "kaspi": {
+      "names": { "ar": "كاسبي", "en": "Kaspi", "tr": "Kaspi" }
+    },
+    "tkibuli": {
+      "names": { "ar": "تكيبولي", "en": "Tkibuli", "tr": "Tkibuli" }
+    },
+    "vani": {
+      "names": { "ar": "فاني", "en": "Vani", "tr": "Vani" }
+    },
+    "sachkhere": {
+      "names": { "ar": "ساتشخيري", "en": "Sachkhere", "tr": "Saçhere" }
+    },
+    "gurjaani": {
+      "names": { "ar": "غورجاني", "en": "Gurjaani", "tr": "Gurcaani" }
+    },
+    "sagarejo": {
+      "names": { "ar": "ساغاريجو", "en": "Sagarejo", "tr": "Sagareco" }
+    },
+    "lagodekhi": {
+      "names": { "ar": "لاغوديخي", "en": "Lagodekhi", "tr": "Lagodehi" }
+    },
+    "dedoplistskaro": {
+      "names": { "ar": "ديدوبليستسكارو", "en": "Dedoplistskaro", "tr": "Dedoplistskaro" }
+    },
+    "khulo": {
+      "names": { "ar": "خولو", "en": "Khulo", "tr": "Hulo" }
+    },
+    "keda": {
+      "names": { "ar": "كيدا", "en": "Keda", "tr": "Keda" }
+    },
+    "shuakhevi": {
+      "names": { "ar": "شواخيفي", "en": "Shuakhevi", "tr": "Şuahevi" }
+    },
+    "grigoleti": {
+      "names": { "ar": "غريغوليتي", "en": "Grigoleti", "tr": "Grigoleti" }
+    },
+    "gudauta": {
+      "names": { "ar": "غوداوتا", "en": "Gudauta", "tr": "Gudauta" }
+    },
+    "ochamchire": {
+      "names": { "ar": "أوتشامتامشيري", "en": "Ochamchire", "tr": "Oçamçire" }
+    },
+    "gali": {
+      "names": { "ar": "غالي", "en": "Gali", "tr": "Gali" }
+    },
+    "tkvarcheli": {
+      "names": { "ar": "تكفارتشيلي", "en": "Tkvarcheli", "tr": "Tkvarçeli" }
+    },
+    "gulripshi": {
+      "names": { "ar": "غولريبشي", "en": "Gulripshi", "tr": "Gulripshi" }
+    },
+    "lentekhi": {
+      "names": { "ar": "لينتيخي", "en": "Lentekhi", "tr": "Lentehi" }
+    },
+    "tsageri": {
+      "names": { "ar": "تساغيري", "en": "Tsageri", "tr": "Tsageri" }
+    },
+    "khoni": {
+      "names": { "ar": "خوني", "en": "Khoni", "tr": "Honi" }
+    },
+    "baghdati": {
+      "names": { "ar": "باغداتي", "en": "Baghdati", "tr": "Bağdati" }
+    },
+    "terjola": {
+      "names": { "ar": "تيرجولا", "en": "Terjola", "tr": "Terjola" }
+    },
+    "kharagauli": {
+      "names": { "ar": "خاراغولي", "en": "Kharagauli", "tr": "Haragauli" }
+    },
+    "kareli": {
+      "names": { "ar": "كاريلي", "en": "Kareli", "tr": "Kareli" }
+    },
+    "akhmeta": {
+      "names": { "ar": "أخميتا", "en": "Akhmeta", "tr": "Ahmeta" }
+    },
+    "tsnori": {
+      "names": { "ar": "تسنوري", "en": "Tsnori", "tr": "Tsnori" }
+    },
+    "ninotsminda": {
+      "names": { "ar": "نينوتسميندا", "en": "Ninotsminda", "tr": "Ninotsminda" }
+    },
+    "aspindza": {
+      "names": { "ar": "أسبيندزا", "en": "Aspindza", "tr": "Aspindza" }
+    },
+    "adigeni": {
+      "names": { "ar": "أديغيني", "en": "Adigeni", "tr": "Adigeni" }
+    },
+    "vale": {
+      "names": { "ar": "فالي", "en": "Vale", "tr": "Vale" }
+    },
+    "tetritskaro": {
+      "names": { "ar": "تيتريتسكارو", "en": "Tetritskaro", "tr": "Tetritskaro" }
+    },
+    "khobi": {
+      "names": { "ar": "خوبي", "en": "Khobi", "tr": "Hobi" }
+    },
+    "tsalenjikha": {
+      "names": { "ar": "تسالينجيخا", "en": "Tsalenjikha", "tr": "Tsalenciha" }
+    },
+    "chkhorotsku": {
+      "names": { "ar": "تشخوروتسكو", "en": "Chkhorotsku", "tr": "Çhorotsku" }
+    },
+    "jvari": {
+      "names": { "ar": "جفاري", "en": "Jvari", "tr": "Cvari" }
+    },
+    "abasha": {
+      "names": { "ar": "أباشا", "en": "Abasha", "tr": "Abaşa" }
+    },
+    "lanchkhuti": {
+      "names": { "ar": "لانتشخوتي", "en": "Lanchkhuti", "tr": "Lançhuti" }
+    },
+    "chokhatauri": {
+      "names": { "ar": "تشوخاتاوري", "en": "Chokhatauri", "tr": "Çohatauri" }
+    },
+    "tianeti": {
+      "names": { "ar": "تيانيتي", "en": "Tianeti", "tr": "Tianeti" }
+    },
+    "utsera": {
+      "names": { "ar": "أوتسيرا", "en": "Utsera", "tr": "Utsera" }
+    },
+    "lebarde": {
+      "names": { "ar": "ليباري", "en": "Lebarde", "tr": "Lebarde" }
+    },
+    "java": {
+      "names": { "ar": "جافا", "en": "Java", "tr": "Cava" }
+    },
+    "kvaisi": {
+      "names": { "ar": "كفايسي", "en": "Kvaisi", "tr": "Kvaisi" }
     }
   }
 }

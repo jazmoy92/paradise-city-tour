@@ -1,195 +1,124 @@
 {
-  "fiji": {
-    "needs_ad": false,
-    "cities": {
-      "suva": {
-        "names": {
-          "ar": "سوفا",
-          "en": "Suva",
-          "tr": "Suva"
-        },
-        "description": {
-          "ar": "عاصمة جزر فيجي المطلة على المحيط الهادي، تجمع بين المباني الاستعمارية البريطانية، المتحف الوطني، والمرافئ الاستوائية.",
-          "en": "The Pacific capital of Fiji, known for British colonial architecture, Fiji Museum, and vibrant waterfronts.",
-          "tr": "Fiji'nin Pasifik başkenti; İngiliz sömürge mimarisi, Fiji Müzesi ve canlı sahil şeridiyle ünlüdür."
-        },
-        "image": "res://images/suva.png",
-        "bg_image": "res://images/suva_bg.png",
-        "image_3d": "res://images/suva_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل غراند باسيفيك سوفا",
-              "en": "Grand Pacific Hotel Suva",
-              "tr": "Grand Pacific Hotel Suva"
-            },
-            "image": "res://images/grand_pacific_suva.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم إيدن بيسترو سوفا",
-              "en": "Eden Bistro & Bar",
-              "tr": "Eden Bistro & Bar Suva"
-            },
-            "image": "res://images/eden_suva.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "مأكولات بحرية فيجية وجوز الهند",
-              "en": "Fijian Fresh Seafood & Coconut Dishes",
-              "tr": "Taze Fiji Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "متحف فيجي الوطني (Fiji Museum)",
-              "en": "Fiji Museum",
-              "tr": "Fiji Müzesi"
-            },
-            "image": "res://images/fiji_museum.png",
-            "description": {
-              "ar": "متحف يضم قوارب الآلهة والقوارب المزدوجة التاريخية وتاريخ قبائل البولينيزيا.",
-              "en": "Museum housing historical double-hulled canoes, pottery, and cannibal artifacts.",
-              "tr": "Tarihi çift gövdeli kanoları ve yerel eserleri sergileyen müze."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "حدائق ثرستون النباتية (Thurston Gardens)",
-              "en": "Thurston Gardens",
-              "tr": "Thurston Botanik Bahçeleri"
-            },
-            "image": "res://images/thurston_gardens.png",
-            "description": {
-              "ar": "حدائق نباتية استوائية عريقة تعود للقرن التاسع عشر تزخر بالأشجار النادرة.",
-              "en": "Lush Victorian-era botanical gardens packed with indigenous flora and water lilies.",
-              "tr": "Yerel florayla dolu Victoria döneminden kalma botanik bahçesi."
-            }
-          }
-        ]
-      },
-      "nadi": {
-        "names": {
-          "ar": "نادي",
-          "en": "Nadi",
-          "tr": "Nadi"
-        },
-        "description": {
-          "ar": "بوابة السياحة والمنتجعات في فيجي، وتشتهر بمعبد سري سيفا الملون وشواطئ مارينا ديناراو.",
-          "en": "The resort and travel hub of Fiji, home to Port Denarau, Sri Siva Subramaniya Temple, and luxury island tours.",
-          "tr": "Port Denarau, Sri Siva Subramaniya Tapınağı ve lüks ada turlarına ev sahipliği yapan resort merkezi."
-        },
-        "image": "res://images/nadi.png",
-        "bg_image": "res://images/nadi_bg.png",
-        "image_3d": "res://images/nadi_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع شيراتون فيجي مارينا ديناراو",
-              "en": "Sheraton Fiji Golf & Beach Resort",
-              "tr": "Sheraton Fiji Golf & Beach Resort"
-            },
-            "image": "res://images/sheraton_fiji.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "منتجع إنتركونتيننتال فيجي غولف",
-              "en": "InterContinental Fiji Golf Resort & Spa",
-              "tr": "InterContinental Fiji Golf Resort & Spa"
-            },
-            "image": "res://images/intercontinental_fiji.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم كوكودا نادي (Tu's Place)",
-              "en": "Tu's Place Nadi",
-              "tr": "Tu's Place Nadi Restoran"
-            },
-            "image": "res://images/tus_place_fiji.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "طبق الكوكودا (سيفيتشي الأسماك بجوز الهند) والمأكولات المحلية",
-              "en": "Authentic Kokoda & Fresh Fijian Seafood",
-              "tr": "Otantik Kokoda ve Taze Fiji Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "معبد سري سيفا سوبرامانيا الهندوسي",
-              "en": "Sri Siva Subramaniya Temple",
-              "tr": "Sri Siva Subramaniya Tapınağı"
-            },
-            "image": "res://images/sri_siva_temple.png",
-            "description": {
-              "ar": "أكبر معبد هندوسي زاهي الألوان في نصف الكرة الجنوبي مزين بالمنحوتات الهندية.",
-              "en": "The largest Hindu temple in the Southern Hemisphere, known for colorful carved spires.",
-              "tr": "Renkli oymalı kuleleriyle bilinen Güney Yarımküre'nin en büyük Hindu tapınağı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "حديقة العملاق النائم النباتية (Garden of the Sleeping Giant)",
-              "en": "Garden of the Sleeping Giant",
-              "tr": "Uyuya Dev Botanik Bahçesi"
-            },
-            "image": "res://images/sleeping_giant_garden.png",
-            "description": {
-              "ar": "حديقة استوائية ساحرة تضم آلاف الأنواع من زهور الأوركيد والمسارات الخضراء.",
-              "en": "Lush tropical park holding over 2,000 varieties of Asian orchids.",
-              "tr": "2.000'den fazla Asya orkidesi çeşidine sahip gür tropikal park."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "viti_levu": {
+      "names": { "ar": "فيتي ليفو (الجزيرة الرئيسية)", "en": "Viti Levu", "tr": "Viti Levu" }
+    },
+    "denarau_island": {
+      "names": { "ar": "جزيرة ديناراو (منتجعات وميناء ديناراو)", "en": "Denarau Island", "tr": "Denarau Adası" }
+    },
+    "mamanuca_islands": {
+      "names": { "ar": "جزر مامانوكا", "en": "Mamanuca Islands", "tr": "Mamanuca Adaları" }
+    },
+    "yasawa_islands": {
+      "names": { "ar": "جزر ياساوا (البحيرة الزرقاء)", "en": "Yasawa Islands", "tr": "Yasawa Adaları" }
+    },
+    "vanua_levu": {
+      "names": { "ar": "فانوا ليفو (سافوسافو)", "en": "Vanua Levu", "tr": "Vanua Levu" }
+    },
+    "taveuni": {
+      "names": { "ar": "تافيوني (جزيرة الحدائق)", "en": "Taveuni", "tr": "Taveuni" }
+    },
+    "castaway_island": {
+      "names": { "ar": "جزيرة كاستاواي (كاليتو)", "en": "Castaway Island", "tr": "Castaway Adası" }
+    },
+    "malolo_island": {
+      "names": { "ar": "جزيرة مالولو (أكواخ فوق الماء)", "en": "Malolo Island", "tr": "Malolo Adası" }
+    },
+    "malolo_lailai_island": {
+      "names": { "ar": "جزيرة مالولو لايلاي (جزيرة المزارع)", "en": "Malolo Lailai Island", "tr": "Malolo Lailai Adası" }
+    },
+    "mana_island": {
+      "names": { "ar": "جزيرة مانا", "en": "Mana Island", "tr": "Mana Adası" }
+    },
+    "nanuya_levu_island": {
+      "names": { "ar": "جزيرة نانويا ليفو (جزيرة السلاحف)", "en": "Nanuya Levu Island (Turtle Island)", "tr": "Nanuya Levu Adası (Turtle Island)" }
+    },
+    "tokoriki_island": {
+      "names": { "ar": "جزيرة توكوريكي", "en": "Tokoriki Island", "tr": "Tokoriki Adası" }
+    },
+    "beachcomber_island": {
+      "names": { "ar": "جزيرة بيتشكومبر", "en": "Beachcomber Island", "tr": "Beachcomber Adası" }
+    },
+    "treasure_island": {
+      "names": { "ar": "جزيرة الكنز (إيلوفوكا)", "en": "Treasure Island (Eluvuka)", "tr": "Treasure Adası (Eluvuka)" }
+    },
+    "laucala_island": {
+      "names": { "ar": "جزيرة لاوكالا (منتجع الجزيرة الخاصة)", "en": "Laucala Island", "tr": "Laucala Adası" }
+    },
+    "beqa_island": {
+      "names": { "ar": "جزيرة بيكا (غوص القروش والمشي على النار)", "en": "Beqa Island", "tr": "Beqa Adası" }
+    },
+    "kadavu": {
+      "names": { "ar": "كادافو (الحاجز المرجاني أسترولاب)", "en": "Kadavu", "tr": "Kadavu" }
+    },
+    "vomo_island": {
+      "names": { "ar": "جزيرة فومو", "en": "Vomo Island", "tr": "Vomo Adası" }
+    },
+    "matamanoa_island": {
+      "names": { "ar": "جزيرة ماتامانوا", "en": "Matamanoa Island", "tr": "Matamanoa Adası" }
+    },
+    "kuata_island": {
+      "names": { "ar": "جزيرة كواتا (غوص أسماك القرش)", "en": "Kuata Island", "tr": "Kuata Adası" }
+    },
+    "waya_island": {
+      "names": { "ar": "جزيرة وايا", "en": "Waya Island", "tr": "Waya Adası" }
+    },
+    "nanuya_balavu_island": {
+      "names": { "ar": "جزيرة نانويا بالافو (أسماك المانتا)", "en": "Nanuya Balavu Island", "tr": "Nanuya Balavu Adası" }
+    },
+    "wayalailai_island": {
+      "names": { "ar": "جزيرة وايا لايلاي", "en": "Wayalailai Island", "tr": "Wayalailai Adası" }
+    },
+    "naviti_island": {
+      "names": { "ar": "جزيرة نافيتي", "en": "Naviti Island", "tr": "Naviti Adası" }
+    },
+    "ovalau_island": {
+      "names": { "ar": "جزيرة أوفالاو (ليفوكا التاريخية)", "en": "Ovalau Island", "tr": "Ovalau Adası" }
+    },
+    "wakaya_island": {
+      "names": { "ar": "جزيرة واكايا", "en": "Wakaya Island", "tr": "Wakaya Adası" }
+    },
+    "yaukuve_levu_island": {
+      "names": { "ar": "جزيرة ياوكوفي ليفو (كوكومو)", "en": "Yaukuve Levu Island", "tr": "Yaukuve Levu Adası" }
+    },
+    "qamea_island": {
+      "names": { "ar": "جزيرة كاميا", "en": "Qamea Island", "tr": "Qamea Adası" }
+    },
+    "matangi_island": {
+      "names": { "ar": "جزيرة ماتانغي (خليج حدوة الحصان)", "en": "Matangi Island", "tr": "Matangi Adası" }
+    },
+    "vatulele_island": {
+      "names": { "ar": "جزيرة فاتوليلي (الروبيان الأحمر المقدس)", "en": "Vatulele Island", "tr": "Vatulele Adası" }
+    },
+    "nananu_i_ra_island": {
+      "names": { "ar": "جزيرة نانانو-إي-را (ركوب الأمواج بالمظلات)", "en": "Nananu-i-Ra Island", "tr": "Nananu-i-Ra Adası" }
+    },
+    "leleuvia_island": {
+      "names": { "ar": "جزيرة ليليوفيا", "en": "Leleuvia Island", "tr": "Leleuvia Adası" }
+    },
+    "caqalai_island": {
+      "names": { "ar": "جزيرة ثانغالاي", "en": "Caqalai Island", "tr": "Caqalai Adası" }
+    },
+    "toberua_island": {
+      "names": { "ar": "جزيرة توبيروا", "en": "Toberua Island", "tr": "Toberua Adası" }
+    },
+    "rotuma_island": {
+      "names": { "ar": "جزيرة روتوما", "en": "Rotuma Island", "tr": "Rotuma Adası" }
+    },
+    "koro_island": {
+      "names": { "ar": "جزيرة كورو", "en": "Koro Island", "tr": "Koro Adası" }
+    },
+    "lakeba_island": {
+      "names": { "ar": "جزيرة لاكيبا", "en": "Lakeba Island", "tr": "Lakeba Adası" }
+    },
+    "rabi_island": {
+      "names": { "ar": "جزيرة رابي", "en": "Rabi Island", "tr": "Rabi Adası" }
+    },
+    "wadigi_island": {
+      "names": { "ar": "جزيرة واديغي", "en": "Wadigi Island", "tr": "Wadigi Adası" }
+    },
+    "nukulau_island": {
+      "names": { "ar": "جزيرة نوكولاو", "en": "Nukulau Island", "tr": "Nukulau Adası" }
     }
   }
 }

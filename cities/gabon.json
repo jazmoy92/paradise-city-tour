@@ -1,180 +1,148 @@
 {
-  "gabon": {
-    "needs_ad": false,
-    "cities": {
-      "libreville": {
-        "names": {
-          "ar": "ليبرفيل",
-          "en": "Libreville",
-          "tr": "Libreville"
-        },
-        "description": {
-          "ar": "عاصمة الغابون الأنيقة المطلة على المحيط الأطلسي، تشتهر بكورنيشها المشجر، أسواق الحرف، والقصر الرئاسي.",
-          "en": "The oceanfront capital of Gabon, famous for its lively seaside boulevard, museums, and wooden crafts.",
-          "tr": "Gabon'un okyanus kıyısındaki başkenti; sahil bulvarı ve ahşap el sanatlarıyla ünlüdür."
-        },
-        "image": "res://images/libreville.png",
-        "bg_image": "res://images/libreville_bg.png",
-        "image_3d": "res://images/libreville_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق راديسون بلو أوكومي ليبرفيل",
-              "en": "Radisson Blu Okoume Palace Hotel Libreville",
-              "tr": "Radisson Blu Okoume Palace Hotel Libreville"
-            },
-            "image": "res://images/radisson_libreville.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لي بوازار ليبرفيل",
-              "en": "L'Emir Restaurant Libreville",
-              "tr": "L'Emir Restoran Libreville"
-            },
-            "image": "res://images/lemir_libreville.png",
-            "rating": "4.7",
-            "cuisine": {
-              "ar": "مأكولات بحرية وفرنسية وشرقية فاخرة",
-              "en": "Lebanese, French & Fresh Seafood",
-              "tr": "Fransız, Lübnan ve Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "منتزه بيكالي الوطني (Akanda / Pongara National Park)",
-              "en": "Pongara National Park",
-              "tr": "Pongara Milli Parkı"
-            },
-            "image": "res://images/pongara_park.png",
-            "description": {
-              "ar": "محمية غابات وشواطئ تقع مقابل ليبرفيل تشتهر بتعشيش السلاحف الجلدية.",
-              "en": "Coastal park across the estuary known for leatherback turtle nesting sites.",
-              "tr": "Deri sırtlı deniz kaplumbağalarının yuvalama alanlarıyla ünlü sahil parkı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "كنيسة القديس ميخائيل بوندواني (St. Michael's Church Nkembo)",
-              "en": "St. Michael's Church (Église Saint-Michel)",
-              "tr": "Aziz Mikail Kilisesi"
-            },
-            "image": "res://images/st_michael_libreville.png",
-            "description": {
-              "ar": "كنيسة فريدة مدعمة بـ 31 عموداً خشبياً منحوتاً بأيدي فنان خشب غابوني أصم.",
-              "en": "Architectural wonder featuring 31 hand-carved wooden columns depicting biblical stories.",
-              "tr": "Kutsal kitap hikayelerini anlatan 31 el oyması ahşap sütunlu mimari harika."
-            }
-          }
-        ]
-      },
-      "port_gentil": {
-        "names": {
-          "ar": "بوانت جيل (بورت جنتيل)",
-          "en": "Port-Gentil",
-          "tr": "Port-Gentil"
-        },
-        "description": {
-          "ar": "العاصمة الاقتصادية والجزيرية للنفط والغابون، تشتهر بمنتجعات الشواطئ ورياضات الصيد البحري.",
-          "en": "Gabon's second largest city and timber/oil hub, accessible mainly by boat or plane.",
-          "tr": "Gabon'un ikinci büyük şehri; esas olarak tekne veya uçakla ulaşılabilen petrol merkezidir."
-        },
-        "image": "res://images/port_gentil.png",
-        "bg_image": "res://images/port_gentil_bg.png",
-        "image_3d": "res://images/port_gentil_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل ميركيور بورت جنتيل",
-              "en": "Hotel Mercure Port-Gentil",
-              "tr": "Hotel Mercure Port-Gentil"
-            },
-            "image": "res://images/mercure_port_gentil.png",
-            "rating": "4 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لي رويال بورت جنتيل",
-              "en": "Le Wharf Restaurant",
-              "tr": "Le Wharf Restoran Port-Gentil"
-            },
-            "image": "res://images/le_wharf.png",
-            "rating": "4.6",
-            "cuisine": {
-              "ar": "أسماك المحيط والمأكولات البحرية الفرنسية",
-              "en": "French Coastal & Seafood",
-              "tr": "Fransız Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "منارة كاب لوبيز التاريخية (Cape Lopez Lighthouse)",
-              "en": "Cape Lopez Lighthouse",
-              "tr": "Cape Lopez Deniz Feneri"
-            },
-            "image": "res://images/cape_lopez.png",
-            "description": {
-              "ar": "منارة حديدية تاريخية صممها غوستاف إيفل عام 1897 تقع عند طرف شبه الجزيرة.",
-              "en": "Historic 1897 metal lighthouse designed by Gustave Eiffel's workshop.",
-              "tr": "1897 yılında Gustave Eiffel atölyesi tarafından tasarlanan tarihi metal deniz feneri."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "شواطئ كاب لوبيز النظيفة",
-              "en": "Cape Lopez Beaches",
-              "tr": "Cape Lopez Plajları"
-            },
-            "image": "res://images/cape_lopez_beach.png",
-            "description": {
-              "ar": "شواطئ رملية هادئة للاسترخاء والرياضات البحرية والصيد العميق.",
-              "en": "Serene Atlantic beaches popular for deep-sea fishing and sunsets.",
-              "tr": "Derin deniz balıkçılığı ve gün batımı için popüler sakin Atlas Okyanusu plajları."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "libreville": {
+      "names": { "ar": "ليبرفيل (العاصمة)", "en": "Libreville", "tr": "Libreville" }
+    },
+    "port_gentil": {
+      "names": { "ar": "بورت جنتيل (العاصمة الاقتصادية والنفطية)", "en": "Port-Gentil", "tr": "Port-Gentil" }
+    },
+    "franceville": {
+      "names": { "ar": "فرانسفيل (شلالات بوبارا)", "en": "Franceville", "tr": "Franceville" }
+    },
+    "lambarene": {
+      "names": { "ar": "لامباريني (مستشفى ألبرت شفايتزر)", "en": "Lambaréné", "tr": "Lambaréné" }
+    },
+    "akanda": {
+      "names": { "ar": "أكاندا (منتزه أكاندا الوطني)", "en": "Akanda", "tr": "Akanda" }
+    },
+    "owendo": {
+      "names": { "ar": "أويندو (الميناء التجاري الرئيسي)", "en": "Owendo", "tr": "Owendo" }
+    },
+    "oyem": {
+      "names": { "ar": "أوييم (عاصمة الشمال الزراعية)", "en": "Oyem", "tr": "Oyem" }
+    },
+    "moanda": {
+      "names": { "ar": "مواندا (عاصمة مناجم المنغنيز)", "en": "Moanda", "tr": "Moanda" }
+    },
+    "sette_cama": {
+      "names": { "ar": "سيتي كاما (منتزه لوانغو الوطني)", "en": "Setté Cama", "tr": "Setté Cama" }
+    },
+    "makokou": {
+      "names": { "ar": "ماكوكو (شلالات إيفيندو كونغو)", "en": "Makokou", "tr": "Makokou" }
+    },
+    "tchibanga": {
+      "names": { "ar": "تشيبانغا", "en": "Tchibanga", "tr": "Tchibanga" }
+    },
+    "mouila": {
+      "names": { "ar": "مويلا (البحيرة الزرقاء)", "en": "Mouila", "tr": "Mouila" }
+    },
+    "koulamoutou": {
+      "names": { "ar": "كولاموتو", "en": "Koulamoutou", "tr": "Koulamoutou" }
+    },
+    "gamba": {
+      "names": { "ar": "غامبا (بحيرة ندوجو والنفط)", "en": "Gamba", "tr": "Gamba" }
+    },
+    "mayumba": {
+      "names": { "ar": "مايومبا (محمية السلاحف الجلدية)", "en": "Mayumba", "tr": "Mayumba" }
+    },
+    "ntoum": {
+      "names": { "ar": "نتوم", "en": "Ntoum", "tr": "Ntoum" }
+    },
+    "lastoursville": {
+      "names": { "ar": "لاستورسفيل (كهوف لاستورسفيل القديمة)", "en": "Lastoursville", "tr": "Lastoursville" }
+    },
+    "bitam": {
+      "names": { "ar": "بيتام (المدينة الحدودية الشمالية)", "en": "Bitam", "tr": "Bitam" }
+    },
+    "leconi": {
+      "names": { "ar": "لكوني (أخاديد لكوني الحمراء وهضبة باتيكي)", "en": "Léconi", "tr": "Léconi" }
+    },
+    "cocobeach": {
+      "names": { "ar": "كوكوبيتش (خليج كوريسكو)", "en": "Cocobeach", "tr": "Cocobeach" }
+    },
+    "omboue": {
+      "names": { "ar": "أومبوي (بحيرة فيرنان فاز)", "en": "Omboué", "tr": "Omboué" }
+    },
+    "ndjole": {
+      "names": { "ar": "ندجولي (نهر أوغوي)", "en": "Ndjolé", "tr": "Ndjolé" }
+    },
+    "booue": {
+      "names": { "ar": "بووي (بوابة منتزه لوبي الوطني)", "en": "Booué", "tr": "Booué" }
+    },
+    "mounana": {
+      "names": { "ar": "مونانا (مناجم اليورانيوم السابقة)", "en": "Mounana", "tr": "Mounana" }
+    },
+    "nkok": {
+      "names": { "ar": "نكوك (المنطقة الاقتصادية الخاصة)", "en": "Nkok", "tr": "Nkok" }
+    },
+    "bongoville": {
+      "names": { "ar": "بونغوفيل", "en": "Bongoville", "tr": "Bongoville" }
+    },
+    "fougamou": {
+      "names": { "ar": "فوغامو (شلالات الإمبراطورة أوجيني)", "en": "Fougamou", "tr": "Fougamou" }
+    },
+    "mitzic": {
+      "names": { "ar": "ميتزيك", "en": "Mitzic", "tr": "Mitzic" }
+    },
+    "bakoumba": {
+      "names": { "ar": "باكومبا (منتزه ليكيدي للحياة البرية)", "en": "Bakoumba", "tr": "Bakoumba" }
+    },
+    "ndende": {
+      "names": { "ar": "نديندي (كهوف دولا)", "en": "Ndendé", "tr": "Ndendé" }
+    },
+    "okondja": {
+      "names": { "ar": "أوكوندجا", "en": "Okondja", "tr": "Okondja" }
+    },
+    "akieni": {
+      "names": { "ar": "أكيني", "en": "Akiéni", "tr": "Akiéni" }
+    },
+    "mekambo": {
+      "names": { "ar": "ميكامبو (حديد بيلينغا)", "en": "Mékambo", "tr": "Mékambo" }
+    },
+    "minvoul": {
+      "names": { "ar": "مينفول (بوابة منتزه مينكيبي)", "en": "Minvoul", "tr": "Minvoul" }
+    },
+    "medouneu": {
+      "names": { "ar": "ميدونيو (جبال الكريستال)", "en": "Médouneu", "tr": "Médouneu" }
+    },
+    "kango": {
+      "names": { "ar": "كانغو (جسر نهر كومو)", "en": "Kango", "tr": "Kango" }
+    },
+    "bifoun": {
+      "names": { "ar": "بيفون (ملتقى الطرق الاستراتيجي)", "en": "Bifoun", "tr": "Bifoun" }
+    },
+    "mbigou": {
+      "names": { "ar": "مبيغو (منحوتات حجر مبيغو الصابوني)", "en": "Mbigou", "tr": "Mbigou" }
+    },
+    "mimongo": {
+      "names": { "ar": "ميمونغو", "en": "Mimongo", "tr": "Mimongo" }
+    },
+    "iboundji": {
+      "names": { "ar": "إيبوندجي (قمة جبل إيبوندجي)", "en": "Iboundji", "tr": "Iboundji" }
+    },
+    "lalara": {
+      "names": { "ar": "لالارا", "en": "Lalara", "tr": "Lalara" }
+    },
+    "ndindi": {
+      "names": { "ar": "نديندي (بحيرة بانيو الحدودية)", "en": "Ndindi", "tr": "Ndindi" }
+    },
+    "moabi": {
+      "names": { "ar": "موابي", "en": "Moabi", "tr": "Moabi" }
+    },
+    "mabanda": {
+      "names": { "ar": "ماباندا (معبر الكونغو)", "en": "Mabanda", "tr": "Mabanda" }
+    },
+    "malinga": {
+      "names": { "ar": "مالينغا", "en": "Malinga", "tr": "Malinga" }
+    },
+    "pana": {
+      "names": { "ar": "بانا", "en": "Pana", "tr": "Pana" }
+    },
+    "bitouala": {
+      "names": { "ar": "بيتوالا", "en": "Bitouala", "tr": "Bitouala" }
+    },
+    "alanga": {
+      "names": { "ar": "ألانغا", "en": "Alanga", "tr": "Alanga" }
     }
   }
 }

@@ -1,294 +1,256 @@
 {
-  "greece": {
-    "needs_ad": false,
-    "cities": {
-      "athens": {
-        "names": {
-          "ar": "أثينا",
-          "en": "Athens",
-          "tr": "Atina"
-        },
-        "description": {
-          "ar": "عاصمة اليونان التاريخية ومهد الديمقراطية والفلسفة الغربية، تتميز بـ الأكروبوليس ومعبد البارثينون وحي بلاكا.",
-          "en": "The historic heart of Western civilization, famous for the Acropolis, Parthenon, and Plaka district.",
-          "tr": "Batı medeniyetinin tarihi kalbi; Akropolis, Parthenon ve Plaka semtiyle dünyaca ünlüdür."
-        },
-        "image": "res://images/athens.png",
-        "bg_image": "res://images/athens_bg.png",
-        "image_3d": "res://images/athens_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل غراند بريتاني أثينا",
-              "en": "Hotel Grande Bretagne, Athens",
-              "tr": "Hotel Grande Bretagne, Atina"
-            },
-            "image": "res://images/grande_bretagne.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق فورسيزونز أستير بالاس أثينا",
-              "en": "Four Seasons Astir Palace Hotel Athens",
-              "tr": "Four Seasons Astir Palace Hotel Atina"
-            },
-            "image": "res://images/four_seasons_athens.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم سبوندي أثينا (Spondi)",
-              "en": "Spondi Restaurant Athens",
-              "tr": "Spondi Restoran Atina"
-            },
-            "image": "res://images/spondi_athens.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات يونانية وفرنسية راقية حائزة على نجمتي ميشلان",
-              "en": "Two-Michelin-starred French & Mediterranean Fine Dining",
-              "tr": "İki Michelin Yıldızlı Fransız ve Akdeniz Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "جبل الأكروبوليس ومعبد البارثينون (Acropolis & Parthenon)",
-              "en": "Acropolis of Athens & Parthenon",
-              "tr": "Atina Akropolisi ve Parthenon"
-            },
-            "image": "res://images/acropolis.png",
-            "description": {
-              "ar": "القلعة الإغريقية القديمة الشاهقة التي تضم معبد البارثينون الأبيض الخالد.",
-              "en": "Ancient citadel located on a rocky outcrop containing the Parthenon marble temple.",
-              "tr": "Parthenon mermer tapınağını içeren kayalık tepe üzerindeki antik kale."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "حي بلاكا التاريخي (Plaka Neighborhood)",
-              "en": "Plaka Historic Neighborhood",
-              "tr": "Plaka Tarihi Mahallesi"
-            },
-            "image": "res://images/plaka_athens.png",
-            "description": {
-              "ar": "الحي الأثري القديم أسفل الأكروبوليس المليء بالمطاعم اليونانية والأزقة الزهرية.",
-              "en": "Old historical neighborhood under the Acropolis with neoclassical architecture and tavernas.",
-              "tr": "Akropolis'in altındaki, Neoklasik mimarili ve tavernalı tarihi mahalle."
-            }
-          }
-        ]
-      },
-      "santorini": {
-        "names": {
-          "ar": "سانتوريني (ثيرا)",
-          "en": "Santorini (Thira)",
-          "tr": "Santorini (Thira)"
-        },
-        "description": {
-          "ar": "أشهر جزر العالم الرومانسية، تشتهر ببيوت إيا البيضاء ذات القباب الزرقاء، إطلالات الفوهة البركانية والغروب الأسطوري.",
-          "en": "Famous Aegean island, world-renowned for whitewashed Oia cliffside houses, blue domes, and caldera sunsets.",
-          "tr": "Oia'nın beyaz evleri, mavi kubbeleri ve efsanevi gün batımıyla dünyaca ünlü Ege adası."
-        },
-        "image": "res://images/santorini.png",
-        "bg_image": "res://images/santorini_bg.png",
-        "image_3d": "res://images/santorini_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع غريس سانتوريني (Grace Hotel)",
-              "en": "Grace Hotel Santorini, Auberge Resorts Collection",
-              "tr": "Grace Hotel Santorini"
-            },
-            "image": "res://images/grace_santorini.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق كاتوكييس سانتوريني (Katikies)",
-              "en": "Katikies Santorini",
-              "tr": "Katikies Santorini"
-            },
-            "image": "res://images/katikies_santorini.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لاودا سانتوريني (Lauda)",
-              "en": "Lauda Restaurant Oia",
-              "tr": "Lauda Restoran Oia"
-            },
-            "image": "res://images/lauda_santorini.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات بحرية جزرية وفخمة مع طلة الكالديرا",
-              "en": "Gourmet Aegean Seafood & Caldera Views",
-              "tr": "Kaldera Manzaralı Gurme Ege Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "قرية إيا والقباب الزرقاء (Oia Village)",
-              "en": "Oia Village & Blue Domes",
-              "tr": "Oia Köyü ve Mavi Kubbeler"
-            },
-            "image": "res://images/oia_santorini.png",
-            "description": {
-              "ar": "القرية الأيقونية المنحوتة في الصخر المرتفع مع الكنائس ذات القباب الزرقاء.",
-              "en": "Cliffside village famous for blue-domed churches and the world's most photographed sunset.",
-              "tr": "Mavi kubbeli kiliseleri ve dünyaca ünlü gün batımıyla bilinen dik falez köyü."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "الشاطئ الأحمر (Red Beach Santorini)",
-              "en": "Red Beach (Kokkini Paralia)",
-              "tr": "Kızıl Plaj (Red Beach)"
-            },
-            "image": "res://images/red_beach.png",
-            "description": {
-              "ar": "شاطئ فريد بمنحدرات صخرية بركانية حمراء نادرة ومياه دافئة.",
-              "en": "Famous volcanic beach surrounded by towering red lava cliffs.",
-              "tr": "Devasa kırmızı lav kayalıklarıyla çevrili volkanik plaj."
-            }
-          }
-        ]
-      },
-      "mykonos": {
-        "names": {
-          "ar": "ميكونوس",
-          "en": "Mykonos",
-          "tr": "Mikonos"
-        },
-        "description": {
-          "ar": "جزيرة الترفيه والشواطئ الفاخرة، تشتهر بالطواحين الهوائية التاريخية، حي فينيسيا الصغيرة، والمقاهي البيضاء.",
-          "en": "The glamorous Cycladic island, famous for windmills, Little Venice waterfront, and lively beach clubs.",
-          "tr": "Rüzgar değirmenleri, Küçük Venedik sahil şeridi ve sahil kulüpleriyle ünlü lüks ada."
-        },
-        "image": "res://images/mykonos.png",
-        "bg_image": "res://images/mykonos_bg.png",
-        "image_3d": "res://images/mykonos_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق كافو تاغوو ميكونوس",
-              "en": "Cavo Tagoo Mykonos",
-              "tr": "Cavo Tagoo Mikonos"
-            },
-            "image": "res://images/cavo_tagoo.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم ناموس ميكونوس (Nammos Beach)",
-              "en": "Nammos Mykonos",
-              "tr": "Nammos Mikonos"
-            },
-            "image": "res://images/nammos_mykonos.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "مأكولات بحرية ومتوسطية فاخرة على الشاطئ",
-              "en": "Luxury Beachfront Mediterranean Seafood",
-              "tr": "Lüks Sahil Akdeniz Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "طواحين الهواء الكلاسيكية (Kato Mili Windmills)",
-              "en": "Mykonos Windmills (Kato Mili)",
-              "tr": "Mikonos Rüzgar Değirmenleri"
-            },
-            "image": "res://images/mykonos_windmills.png",
-            "description": {
-              "ar": "طواحين قش بيضاء تعود للقرن السادس عشر تطل على البحر والمدينة القديمة.",
-              "en": "Row of 16th-century thatched white windmills standing above the sea.",
-              "tr": "Denizin üzerinde yükselen 16. yüzyıldan kalma saz çatılı beyaz rüzgar değirmenleri."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "حي فينيسيا الصغيرة (Little Venice)",
-              "en": "Little Venice (Alefkandra)",
-              "tr": "Küçük Venedik (Little Venice)"
-            },
-            "image": "res://images/little_venice_mykonos.png",
-            "description": {
-              "ar": "منازل ملونة تعود للقرن الثامن عشر بنيت شرفاتها مباشرة فوق أمواج البحر.",
-              "en": "Charming 18th-century fishing houses with balconies hanging directly over the sea.",
-              "tr": "Balkonları doğrudan denizin üzerine sarkan 18. yüzyıl balıkçı evleri."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "athens": {
+      "names": { "ar": "أثينا", "en": "Athens", "tr": "Atina" }
+    },
+    "santorini": {
+      "names": { "ar": "سانتوريني", "en": "Santorini", "tr": "Santorini" }
+    },
+    "mykonos": {
+      "names": { "ar": "ميكونوس", "en": "Mykonos", "tr": "Mikonos" }
+    },
+    "crete": {
+      "names": { "ar": "كريت", "en": "Crete", "tr": "Girit" }
+    },
+    "rhodes": {
+      "names": { "ar": "رودس", "en": "Rhodes", "tr": "Rodos" }
+    },
+    "corfu": {
+      "names": { "ar": "كورفو", "en": "Corfu", "tr": "Korfu" }
+    },
+    "thessaloniki": {
+      "names": { "ar": "سالونيك", "en": "Thessaloniki", "tr": "Selanik" }
+    },
+    "zakynthos": {
+      "names": { "ar": "زاكينثوس", "en": "Zakynthos", "tr": "Zakintos" }
+    },
+    "oia": {
+      "names": { "ar": "إيا", "en": "Oia", "tr": "Oia" }
+    },
+    "fira": {
+      "names": { "ar": "فيرا", "en": "Fira", "tr": "Fira" }
+    },
+    "heraklion": {
+      "names": { "ar": "إيراكليون", "en": "Heraklion", "tr": "Kandiye (Heraklion)" }
+    },
+    "chania": {
+      "names": { "ar": "خانيا", "en": "Chania", "tr": "Hanya" }
+    },
+    "paros": {
+      "names": { "ar": "باروس", "en": "Paros", "tr": "Paros" }
+    },
+    "naxos": {
+      "names": { "ar": "ناكسوس", "en": "Naxos", "tr": "Nakşa (Naxos)" }
+    },
+    "milos": {
+      "names": { "ar": "ميلوس", "en": "Milos", "tr": "Milos" }
+    },
+    "kos": {
+      "names": { "ar": "كوس", "en": "Kos", "tr": "İstanköy (Kos)" }
+    },
+    "delphi": {
+      "names": { "ar": "دلفي", "en": "Delphi", "tr": "Delfi" }
+    },
+    "olympia": {
+      "names": { "ar": "أولمبيا", "en": "Olympia", "tr": "Olimpiya" }
+    },
+    "kalambaka": {
+      "names": { "ar": "كالامباكا (ميتيورا)", "en": "Kalambaka", "tr": "Kalambaka" }
+    },
+    "nafplio": {
+      "names": { "ar": "نافبليو", "en": "Nafplio", "tr": "Nafplio" }
+    },
+    "patras": {
+      "names": { "ar": "باتراس", "en": "Patras", "tr": "Patra" }
+    },
+    "lefkada": {
+      "names": { "ar": "ليفكادا", "en": "Lefkada", "tr": "Lefkada" }
+    },
+    "kefalonia": {
+      "names": { "ar": "كيفالونيا", "en": "Kefalonia", "tr": "Kefalonya" }
+    },
+    "skiathos": {
+      "names": { "ar": "سياثوس", "en": "Skiathos", "tr": "İskados (Skiathos)" }
+    },
+    "hydra": {
+      "names": { "ar": "هيدرا", "en": "Hydra", "tr": "İdra (Hydra)" }
+    },
+    "lindos": {
+      "names": { "ar": "ليندوس", "en": "Lindos", "tr": "Lindos" }
+    },
+    "rethymno": {
+      "names": { "ar": "ريثيمنو", "en": "Rethymno", "tr": "Resmo (Rethymno)" }
+    },
+    "ios": {
+      "names": { "ar": "إيوس", "en": "Ios", "tr": "Ios" }
+    },
+    "skopelos": {
+      "names": { "ar": "سكوبيلوس", "en": "Skopelos", "tr": "İskopelos (Skopelos)" }
+    },
+    "samos": {
+      "names": { "ar": "ساموس", "en": "Samos", "tr": "Sisam" }
+    },
+    "chios": {
+      "names": { "ar": "خيوس", "en": "Chios", "tr": "Sakız Adası (Chios)" }
+    },
+    "lesvos": {
+      "names": { "ar": "ليسبوس", "en": "Lesvos", "tr": "Midilli (Lesvos)" }
+    },
+    "halkidiki": {
+      "names": { "ar": "خالكيذيكي", "en": "Halkidiki", "tr": "Halkidiki" }
+    },
+    "symi": {
+      "names": { "ar": "سيمي", "en": "Symi", "tr": "Sömbeki (Symi)" }
+    },
+    "parga": {
+      "names": { "ar": "بارغا", "en": "Parga", "tr": "Parga" }
+    },
+    "ioannina": {
+      "names": { "ar": "إيوانينا", "en": "Ioannina", "tr": "Yanya" }
+    },
+    "naoussa": {
+      "names": { "ar": "ناوسا", "en": "Naoussa", "tr": "Naoussa" }
+    },
+    "spetses": {
+      "names": { "ar": "سبتسيس", "en": "Spetses", "tr": "Suluca (Spetses)" }
+    },
+    "aegina": {
+      "names": { "ar": "إيجينا", "en": "Aegina", "tr": "Egine (Aegina)" }
+    },
+    "sifnos": {
+      "names": { "ar": "سيفنوس", "en": "Sifnos", "tr": "Sifnos" }
+    },
+    "syros": {
+      "names": { "ar": "سيروس", "en": "Syros", "tr": "Şira (Syros)" }
+    },
+    "tinos": {
+      "names": { "ar": "تينوس", "en": "Tinos", "tr": "İstendil (Tinos)" }
+    },
+    "patmos": {
+      "names": { "ar": "باتموس", "en": "Patmos", "tr": "Batnaz (Patmos)" }
+    },
+    "thassos": {
+      "names": { "ar": "ثاسوس", "en": "Thassos", "tr": "Taşoz" }
+    },
+    "folegandros": {
+      "names": { "ar": "فوليغاندروس", "en": "Folegandros", "tr": "Folegandros" }
+    },
+    "amorgos": {
+      "names": { "ar": "أمورغوس", "en": "Amorgos", "tr": "Amorgos" }
+    },
+    "sparta": {
+      "names": { "ar": "سبارتا", "en": "Sparta", "tr": "Sparta" }
+    },
+    "monemvasia": {
+      "names": { "ar": "مونيمفاسيا", "en": "Monemvasia", "tr": "Menekşe (Monemvasia)" }
+    },
+    "kalamata": {
+      "names": { "ar": "كالاماتا", "en": "Kalamata", "tr": "Kalamata" }
+    },
+    "kavala": {
+      "names": { "ar": "كافالا", "en": "Kavala", "tr": "Kavala" }
+    },
+    "volos": {
+      "names": { "ar": "فولوس", "en": "Volos", "tr": "Volo" }
+    },
+    "arachova": {
+      "names": { "ar": "أراخوفا", "en": "Arachova", "tr": "Arachova" }
+    },
+    "metsovo": {
+      "names": { "ar": "ميتسوفو", "en": "Metsovo", "tr": "Meçova" }
+    },
+    "paxos": {
+      "names": { "ar": "باكسوس", "en": "Paxos", "tr": "Paksos" }
+    },
+    "ithaca": {
+      "names": { "ar": "إيثاكا", "en": "Ithaca", "tr": "İtaka" }
+    },
+    "samothrace": {
+      "names": { "ar": "ساموثراكي", "en": "Samothrace", "tr": "Semadirek" }
+    },
+    "ikaria": {
+      "names": { "ar": "إيكاريا", "en": "Ikaria", "tr": "Ahikerya (Ikaria)" }
+    },
+    "karpathos": {
+      "names": { "ar": "كارباثوس", "en": "Karpathos", "tr": "Kerpe (Karpathos)" }
+    },
+    "kalymnos": {
+      "names": { "ar": "كاليمنوس", "en": "Kalymnos", "tr": "Kilimli (Kalymnos)" }
+    },
+    "poros": {
+      "names": { "ar": "بوروس", "en": "Poros", "tr": "Poros" }
+    },
+    "agios_nikolaos": {
+      "names": { "ar": "أغيوس نيكولاوس", "en": "Agios Nikolaos", "tr": "Agios Nikolaos" }
+    },
+    "elafonisos": {
+      "names": { "ar": "إلافونيسوس", "en": "Elafonisos", "tr": "Elafonisos" }
+    },
+    "koufonisia": {
+      "names": { "ar": "كوفونيسيا", "en": "Koufonisia", "tr": "Koufonisia" }
+    },
+    "andros": {
+      "names": { "ar": "أندروس", "en": "Andros", "tr": "Andros" }
+    },
+    "larissa": {
+      "names": { "ar": "لاريسا", "en": "Larissa", "tr": "Larisa" }
+    },
+    "alexandroupoli": {
+      "names": { "ar": "أليكساندروبولي", "en": "Alexandroupoli", "tr": "Dedeağaç" }
+    },
+    "preveza": {
+      "names": { "ar": "بريفيزا", "en": "Preveza", "tr": "Preveze" }
+    },
+    "nafpaktos": {
+      "names": { "ar": "نافباكتوس", "en": "Nafpaktos", "tr": "İnebahtı" }
+    },
+    "kastoria": {
+      "names": { "ar": "كاستوريا", "en": "Kastoria", "tr": "Kesriye" }
+    },
+    "edessa": {
+      "names": { "ar": "إيديسا", "en": "Edessa", "tr": "Vodina (Edessa)" }
+    },
+    "mytilene": {
+      "names": { "ar": "ميتيليني", "en": "Mytilene", "tr": "Midilli" }
+    },
+    "argostoli": {
+      "names": { "ar": "أرغوستولي", "en": "Argostoli", "tr": "Argostoli" }
+    },
+    "limnos": {
+      "names": { "ar": "ليمنوس", "en": "Limnos", "tr": "Limni" }
+    },
+    "katerini": {
+      "names": { "ar": "كاتيريني", "en": "Katerini", "tr": "Katerin" }
+    },
+    "serres": {
+      "names": { "ar": "سيريس", "en": "Serres", "tr": "Serez" }
+    },
+    "xanthi": {
+      "names": { "ar": "كسانثي", "en": "Xanthi", "tr": "İskeçe" }
+    },
+    "drama": {
+      "names": { "ar": "دراما", "en": "Drama", "tr": "Drama" }
+    },
+    "florina": {
+      "names": { "ar": "فلورينا", "en": "Florina", "tr": "Filorina" }
+    },
+    "karpenisi": {
+      "names": { "ar": "كاربينيسي", "en": "Karpenisi", "tr": "Karpenisi" }
+    },
+    "astypalaia": {
+      "names": { "ar": "أستيباليا", "en": "Astypalaia", "tr": "İstanbulya (Astypalaia)" }
+    },
+    "leros": {
+      "names": { "ar": "ليروس", "en": "Leros", "tr": "İleryoz (Leros)" }
+    },
+    "kythira": {
+      "names": { "ar": "كيثيرا", "en": "Kythira", "tr": "Çuha Adası (Kythira)" }
+    },
+    "alonissos": {
+      "names": { "ar": "ألونيسوس", "en": "Alonissos", "tr": "Alonissos" }
+    },
+    "meganisi": {
+      "names": { "ar": "ميغانيسي", "en": "Meganisi", "tr": "Meganisi" }
     }
   }
 }

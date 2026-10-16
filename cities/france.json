@@ -1,296 +1,448 @@
 {
-  "france": {
-    "needs_ad": false,
-    "cities": {
-      "paris": {
-        "names": {
-          "ar": "باريس",
-          "en": "Paris",
-          "tr": "Paris"
-        },
-        "description": {
-          "ar": "مدينة الأنوار والعواطف، تشتهر ببرج إيفل الأيقوني، متحف اللوفر العظيم، شارع الشانزلزيه، وكاتدرائية نوتردام.",
-          "en": "The City of Light, iconic for the Eiffel Tower, Louvre Museum, Champs-Élysées, and haute couture.",
-          "tr": "Işık Şehir; Eyfel Kulesi, Louvre Müzesi, Şanzelize Caddesi ve modasıyla dünyaca ünlüdür."
-        },
-        "image": "res://images/paris.png",
-        "bg_image": "res://images/paris_bg.png",
-        "image_3d": "res://images/paris_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق ذا ريتز باريس",
-              "en": "Ritz Paris",
-              "tr": "Ritz Paris"
-            },
-            "image": "res://images/ritz_paris.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق فورسيزونز جورج الخامس باريس",
-              "en": "Four Seasons Hotel George V Paris",
-              "tr": "Four Seasons Hotel George V Paris"
-            },
-            "image": "res://images/four_seasons_paris.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لي جولي فيرن في برج إيفل (Le Jules Verne)",
-              "en": "Le Jules Verne (Eiffel Tower)",
-              "tr": "Le Jules Verne (Eyfel Kulesi)"
-            },
-            "image": "res://images/jules_verne_paris.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات فرنسية فاخرة داخل برج إيفل مباشرة",
-              "en": "Michelin-starred Fine Dining inside Eiffel Tower",
-              "tr": "Eyfel Kulesi İçinde Michelin Yıldızlı Lüks Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "برج إيفل (Eiffel Tower)",
-              "en": "Eiffel Tower (Tour Eiffel)",
-              "tr": "Eyfel Kulesi"
-            },
-            "image": "res://images/eiffel_tower.png",
-            "description": {
-              "ar": "أشهر رمز معمار حديدي في العالم بني عام 1889 بارتفاع 330 متراً.",
-              "en": "Wrought-iron lattice tower on the Champ de Mars, symbol of France.",
-              "tr": "Champ de Mars üzerindeki dövme demir kule, Fransa'nın küresel simgesi."
-            }
-          },
-          {
-            "name": {
-              "ar": "متحف اللوفر العظيم (Louvre Museum)",
-              "en": "Louvre Museum (Musée du Louvre)",
-              "tr": "Louvre Müzesi"
-            },
-            "image": "res://images/louvre_museum.png",
-            "description": {
-              "ar": "أكبر متحف فني في العالم وموطن لوحة الموناليزا الشهيرة.",
-              "en": "The world's largest art museum housing the Mona Lisa and Venus de Milo.",
-              "tr": "Mona Lisa ve Venus de Milo'ya ev sahipliği yapan dünyanın en büyük sanat müzesi."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "شارع الشانزلزيه وقوس النصر (Champs-Élysées & Arc de Triomphe)",
-              "en": "Champs-Élysées & Arc de Triomphe",
-              "tr": "Şanzelize Bulvarı ve Zafer Takı"
-            },
-            "image": "res://images/champs_elysees.png",
-            "description": {
-              "ar": "أجمل جادة في العالم تتوج بقوس النصر التاريخي والمتاجر العالمية.",
-              "en": "Famous avenue connecting Place de la Concorde to the monumental Arc de Triomphe.",
-              "tr": "Concorde Meydanı'nı Zafer Takı'na bağlayan dünyaca ünlü bulvar."
-            }
-          }
-        ]
-      },
-      "nice": {
-        "names": {
-          "ar": "نيس (الكوت دازور)",
-          "en": "Nice",
-          "tr": "Nice"
-        },
-        "description": {
-          "ar": "عاصمة الريفييرا الفرنسية الساحرة، تتميز بـ ممشى الإنكليز (Promenade des Anglais) والشواطئ الفيروزية.",
-          "en": "Capital of the French Riviera, famous for the Promenade des Anglais, Mediterranean sea, and Old Town.",
-          "tr": "Fransız Rivierası'nın başkenti; Promenade des Anglais ve Akdeniz sahil şeridiyle ünlüdür."
-        },
-        "image": "res://images/nice.png",
-        "bg_image": "res://images/nice_bg.png",
-        "image_3d": "res://images/nice_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل لي نيجريسكو نيس",
-              "en": "Hotel Le Negresco",
-              "tr": "Hotel Le Negresco Nice"
-            },
-            "image": "res://images/le_negresco.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم شانتكلير نيس (Le Chantecler)",
-              "en": "Le Chantecler Restaurant",
-              "tr": "Le Chantecler Restoran"
-            },
-            "image": "res://images/chantecler_nice.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات بروفنسية وبحرية حائزة ميشلان",
-              "en": "Michelin-starred Provençal Gastronomy",
-              "tr": "Michelin Yıldızlı Provençal Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "ممشى الإنجليز الساحلي (Promenade des Anglais)",
-              "en": "Promenade des Anglais",
-              "tr": "Promenade des Anglais Sahil Bulvarı"
-            },
-            "image": "res://images/promenade_des_anglais.png",
-            "description": {
-              "ar": "أشهر كورنيش ساحلي مشجر بالنخيل والكراسي الأزرق المطلة على البحر المتوسط.",
-              "en": "Famous 7-kilometer oceanfront promenade lined with blue chairs and palm trees.",
-              "tr": "Mavi sandalyeleri ve palmiyeleriyle ünlü 7 kilometrelik sahil bulvarı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "تلة القلعة والطلة البانورامية (Castle Hill / Colline du Château)",
-              "en": "Castle Hill (Colline du Château)",
-              "tr": "Kale Tepesi (Colline du Château)"
-            },
-            "image": "res://images/castle_hill_nice.png",
-            "description": {
-              "ar": "متنزّه مرتفع يوفر أروع طلة بانورامية على خليج الملائكة والمدينة القديمة.",
-              "en": "Hilltop park featuring a waterfall, ruins, and breathtaking views over Baie des Anges.",
-              "tr": "Şelalesi, kalıntıları ve Melekler Körfezi manzarasıyla tepe parkı."
-            }
-          }
-        ]
-      },
-      "lyon": {
-        "names": {
-          "ar": "ليون",
-          "en": "Lyon",
-          "tr": "Lyon"
-        },
-        "description": {
-          "ar": "عاصمة الطهي والطهي الفرنسي العالمية، تشتهر بـ حارات البوشون التقليدية وعمارة عصر النهضة المصنفة يونسكو.",
-          "en": "France's gastronomic capital, world-famous for historic Traboules passages and Renaissance Lyon.",
-          "tr": "Fransa'nın gastronomi başkenti; tarihi Traboules geçitleri ve Rönesans mimarisiyle ünlüdür."
-        },
-        "image": "res://images/lyon.png",
-        "bg_image": "res://images/lyon_bg.png",
-        "image_3d": "res://images/lyon_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أنتركونتيننتال ليون - جران أوتيل ديو",
-              "en": "InterContinental Lyon - Grand Hôtel-Dieu",
-              "tr": "InterContinental Lyon - Grand Hôtel-Dieu"
-            },
-            "image": "res://images/intercontinental_lyon.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم بول بوكوز العالمي (L'Auberge du Pont de Collonges)",
-              "en": "Restaurant Paul Bocuse",
-              "tr": "Paul Bocuse Restoranı"
-            },
-            "image": "res://images/paul_bocuse_lyon.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "قمة الطهي الفرنسي الكلاسيكي الأسطوري",
-              "en": "Legendary French Culinary Temple",
-              "tr": "Efsanevi Klasik Fransız Gastronomisi"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "بازيليكا فورفيير المرتفعة (Basilica of Notre-Dame de Fourvière)",
-              "en": "Basilica of Notre-Dame de Fourvière",
-              "tr": "Fourvière Notre-Dame Bazilikası"
-            },
-            "image": "res://images/fourviere_lyon.png",
-            "description": {
-              "ar": "كنيسة بيضاء فاخرة تتربع فوق تلة فورفيير وتطل على نهرين والمدينة بالكامل.",
-              "en": "Minor basilica standing on Fourvière hill with grand mosaics and panoramic city views.",
-              "tr": "Fourvière tepesinde görkemli mozaikleri ve şehir manzarasıyla yükselen bazilika."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "حارات وممرات ترابول السريّة (Traboules of Vieux Lyon)",
-              "en": "Traboules of Old Lyon",
-              "tr": "Eski Lyon Traboules Geçitleri"
-            },
-            "image": "res://images/traboules_lyon.png",
-            "description": {
-              "ar": "ممرات مغطاة بين المباني التاريخية كان يستخدمها صانعو الحرير للعبور بين الشوارع.",
-              "en": "Secret pedestrian passageways passing under buildings used by 19th-century silk weavers.",
-              "tr": "19. yüzyıl ipek dokumacılarının kullandığı binaların altından geçen gizli yaya geçitleri."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "paris": {
+      "names": { "ar": "باريس (العاصمة)", "en": "Paris", "tr": "Paris" }
+    },
+    "nice": {
+      "names": { "ar": "نيس (الكوت دازور)", "en": "Nice", "tr": "Nice" }
+    },
+    "lyon": {
+      "names": { "ar": "ليون (عاصمة فن الطهي)", "en": "Lyon", "tr": "Lyon" }
+    },
+    "marseille": {
+      "names": { "ar": "مارسيليا (الميناء القديم)", "en": "Marseille", "tr": "Marsilya" }
+    },
+    "bordeaux": {
+      "names": { "ar": "بوردو (عاصمة النبيذ التراثية)", "en": "Bordeaux", "tr": "Bordo (Bordeaux)" }
+    },
+    "strasbourg": {
+      "names": { "ar": "ستراسبورغ (عاصمة أوروبا والميلاد)", "en": "Strasbourg", "tr": "Strazburg (Strasbourg)" }
+    },
+    "versailles": {
+      "names": { "ar": "فرساي (قصر فرساي الملكي)", "en": "Versailles", "tr": "Versay (Versailles)" }
+    },
+    "cannes": {
+      "names": { "ar": "كان (مهرجان السينما والكوازيت)", "en": "Cannes", "tr": "Cannes" }
+    },
+    "toulouse": {
+      "names": { "ar": "تولوز (المدينة الوردية وعاصمة الفضاء)", "en": "Toulouse", "tr": "Toulouse" }
+    },
+    "lille": {
+      "names": { "ar": "ليل (عاصمة فلاندرز الفرنسية)", "en": "Lille", "tr": "Lille" }
+    },
+    "montpellier": {
+      "names": { "ar": "مونبلييه", "en": "Montpellier", "tr": "Montpellier" }
+    },
+    "nantes": {
+      "names": { "ar": "نانت (قلعة دوقات بريتاني)", "en": "Nantes", "tr": "Nantes" }
+    },
+    "reims": {
+      "names": { "ar": "ريمس (كاتدرائية تتويج الملوك)", "en": "Reims", "tr": "Reims" }
+    },
+    "chamonix_mont_blanc": {
+      "names": { "ar": "شاموني (قمة مون بلان)", "en": "Chamonix-Mont-Blanc", "tr": "Chamonix" }
+    },
+    "annecy": {
+      "names": { "ar": "آنسي (فينيسيا جبال الألب)", "en": "Annecy", "tr": "Annecy" }
+    },
+    "aix_en_provence": {
+      "names": { "ar": "إيكس أون بروفانس (مدينة النوافير وسيزان)", "en": "Aix-en-Provence", "tr": "Aix-en-Provence" }
+    },
+    "avignon": {
+      "names": { "ar": "أفينيون (قصر الباباوات وجسر أفينيون)", "en": "Avignon", "tr": "Avignon" }
+    },
+    "saint_malo": {
+      "names": { "ar": "سان مالو (مدينة القراصنة المسورة)", "en": "Saint-Malo", "tr": "Saint-Malo" }
+    },
+    "biarritz": {
+      "names": { "ar": "بياريتز (منتجع الملوك وعاصمة ركوب الأمواج)", "en": "Biarritz", "tr": "Biarritz" }
+    },
+    "antibes": {
+      "names": { "ar": "أنتيب (متحف بيكاسو وميناء اليخوت)", "en": "Antibes", "tr": "Antibes" }
+    },
+    "carcassonne": {
+      "names": { "ar": "كاركاسون (القلعة القروسطية المسورة)", "en": "Carcassonne", "tr": "Carcassonne" }
+    },
+    "colmar": {
+      "names": { "ar": "كولمار (فينيسيا الصغرى الألزاسية)", "en": "Colmar", "tr": "Colmar" }
+    },
+    "rennes": {
+      "names": { "ar": "رين (عاصمة بريتاني)", "en": "Rennes", "tr": "Rennes" }
+    },
+    "rouen": {
+      "names": { "ar": "روان (مدينة المئة مئذنة وجان دارك)", "en": "Rouen", "tr": "Rouen" }
+    },
+    "tours": {
+      "names": { "ar": "تور (بوابة قصور وادي لوار)", "en": "Tours", "tr": "Tours" }
+    },
+    "dijon": {
+      "names": { "ar": "ديجون (عاصمة بورغندي والخردل)", "en": "Dijon", "tr": "Dijon" }
+    },
+    "grenoble": {
+      "names": { "ar": "غرينوبل (عاصمة جبال الألب)", "en": "Grenoble", "tr": "Grenoble" }
+    },
+    "arles": {
+      "names": { "ar": "آرل (المدرج الروماني وفان غوخ)", "en": "Arles", "tr": "Arles" }
+    },
+    "nimes": {
+      "names": { "ar": "نيم (المدرج الروماني والميزون كاري)", "en": "Nîmes", "tr": "Nîmes" }
+    },
+    "la_rochelle": {
+      "names": { "ar": "لا روشيل (أبراج الميناء القديم)", "en": "La Rochelle", "tr": "La Rochelle" }
+    },
+    "honfleur": {
+      "names": { "ar": "أونفلور (ميناء الانطباعيين القديم)", "en": "Honfleur", "tr": "Honfleur" }
+    },
+    "deauville": {
+      "names": { "ar": "دوفيل (منتجع النورماندي الراقي)", "en": "Deauville", "tr": "Deauville" }
+    },
+    "etretat": {
+      "names": { "ar": "إترتات (منحدرات الطباشير البحرية)", "en": "Étretat", "tr": "Étretat" }
+    },
+    "grasse": {
+      "names": { "ar": "غراس (عاصمة العطور في العالم)", "en": "Grasse", "tr": "Grasse" }
+    },
+    "menton": {
+      "names": { "ar": "مانتون (لؤلؤة فرنسا ومهرجان الليمون)", "en": "Menton", "tr": "Menton" }
+    },
+    "fontainebleau": {
+      "names": { "ar": "فونتينبلو (قصر فونتينبلو الملكي)", "en": "Fontainebleau", "tr": "Fontainebleau" }
+    },
+    "hyeres": {
+      "names": { "ar": "إيير (جزر الذهب وبوركرول)", "en": "Hyères", "tr": "Hyères" }
+    },
+    "chartres": {
+      "names": { "ar": "شارتر (كاتدرائية شارتر القوطية)", "en": "Chartres", "tr": "Chartres" }
+    },
+    "blois": {
+      "names": { "ar": "بلوا (قصر بلوا الملكي)", "en": "Blois", "tr": "Blois" }
+    },
+    "bayeux": {
+      "names": { "ar": "بايو (نسيج بايو التاريخي)", "en": "Bayeux", "tr": "Bayeux" }
+    },
+    "caen": {
+      "names": { "ar": "كان (قلعة ويليام الفاتح ومتحف السلام)", "en": "Caen", "tr": "Caen" }
+    },
+    "ajaccio": {
+      "names": { "ar": "أجاكسيو (مسقط رأس نابليون بونابرت)", "en": "Ajaccio", "tr": "Ajaccio" }
+    },
+    "bastia": {
+      "names": { "ar": "باستيا (ميناء كورسيكا التاريخي)", "en": "Bastia", "tr": "Bastia" }
+    },
+    "le_havre": {
+      "names": { "ar": "لو هافر (بوابة المحيط الأطلسي)", "en": "Le Havre", "tr": "Le Havre" }
+    },
+    "toulon": {
+      "names": { "ar": "تولون (قاعدة البحرية المتوسطية)", "en": "Toulon", "tr": "Toulon" }
+    },
+    "clermont_ferrand": {
+      "names": { "ar": "كليرمون فيران (سلسلة براكين بوي)", "en": "Clermont-Ferrand", "tr": "Clermont-Ferrand" }
+    },
+    "metz": {
+      "names": { "ar": "ميتز (مركز بومبيدو ميتز والكاتدرائية)", "en": "Metz", "tr": "Metz" }
+    },
+    "nancy": {
+      "names": { "ar": "نانسي (ساحة ستانيسلاس الملكية)", "en": "Nancy", "tr": "Nancy" }
+    },
+    "orleans": {
+      "names": { "ar": "أورليان (مدينة جان دارك)", "en": "Orléans", "tr": "Orléans" }
+    },
+    "angers": {
+      "names": { "ar": "أنجيه (قلعة أنجيه ونسيج نهاية العالم)", "en": "Angers", "tr": "Angers" }
+    },
+    "le_mans": {
+      "names": { "ar": "لومان (سباق لومان 24 ساعة)", "en": "Le Mans", "tr": "Le Mans" }
+    },
+    "amiens": {
+      "names": { "ar": "أميان (أكبر كاتدرائية قوطية)", "en": "Amiens", "tr": "Amiens" }
+    },
+    "brest": {
+      "names": { "ar": "بريست (القاعدة البحرية وأوشنوبوليس)", "en": "Brest", "tr": "Brest" }
+    },
+    "perpignan": {
+      "names": { "ar": "بربينيا (قصر ملوك مايوركا)", "en": "Perpignan", "tr": "Perpignan" }
+    },
+    "pau": {
+      "names": { "ar": "بو (قلعة الملك هنري الرابع)", "en": "Pau", "tr": "Pau" }
+    },
+    "saint_etienne": {
+      "names": { "ar": "سانت إتيان (عاصمة التصميم الإبداعي)", "en": "Saint-Étienne", "tr": "Saint-Étienne" }
+    },
+    "limoges": {
+      "names": { "ar": "ليموج (عاصمة البورسلين العالمي)", "en": "Limoges", "tr": "Limoges" }
+    },
+    "besancon": {
+      "names": { "ar": "بيزنسون (قلعة فوبان وصناعة الساعات)", "en": "Besançon", "tr": "Besançon" }
+    },
+    "mulhouse": {
+      "names": { "ar": "ميلوز (مدينة متاحف السيارات والقطارات)", "en": "Mulhouse", "tr": "Mulhouse" }
+    },
+    "bourges": {
+      "names": { "ar": "بورج (كاتدرائية سانت إتيان)", "en": "Bourges", "tr": "Bourges" }
+    },
+    "albi": {
+      "names": { "ar": "ألبي (كاتدرائية القرميد ومتحف تولوز لوتريك)", "en": "Albi", "tr": "Albi" }
+    },
+    "vichy": {
+      "names": { "ar": "فيشي (منتجع المياه المعدنية التاريخي)", "en": "Vichy", "tr": "Vichy" }
+    },
+    "arcachon": {
+      "names": { "ar": "أركاشون (كثيب بيلا الرملي ومزارع المحار)", "en": "Arcachon", "tr": "Arcachon" }
+    },
+    "cognac": {
+      "names": { "ar": "كونياك (موطن مشروب الكونياك العالمي)", "en": "Cognac", "tr": "Konyak (Cognac)" }
+    },
+    "saint_raphael": {
+      "names": { "ar": "سان رافاييل (صخور الإستيريل الحمراء)", "en": "Saint-Raphaël", "tr": "Saint-Raphaël" }
+    },
+    "frejus": {
+      "names": { "ar": "فريجوس (الآثار الرومانية)", "en": "Fréjus", "tr": "Fréjus" }
+    },
+    "troyes": {
+      "names": { "ar": "تروا (مدينة القلوب والبيوت الخشبية)", "en": "Troyes", "tr": "Troyes" }
+    },
+    "chambery": {
+      "names": { "ar": "شامبيري (نافورة الفيلة وقلعة دوقات سافوي)", "en": "Chambéry", "tr": "Chambéry" }
+    },
+    "saint_denis": {
+      "names": { "ar": "سان دوني (كاتدرائية ملوك فرنسا وستاد دو فرانس)", "en": "Saint-Denis", "tr": "Saint-Denis" }
+    },
+    "calais": {
+      "names": { "ar": "كاليه (نفق بحر المانش ونصب بورغرز كاليه)", "en": "Calais", "tr": "Calais" }
+    },
+    "dunkerque": {
+      "names": { "ar": "دونكيرك (شاطئ الإجلاء التاريخي والكرنفال)", "en": "Dunkerque", "tr": "Dunkerque" }
+    },
+    "poitiers": {
+      "names": { "ar": "بواتييه (منتزه فوتوروسكوب الترفيهي)", "en": "Poitiers", "tr": "Poitiers" }
+    },
+    "vannes": {
+      "names": { "ar": "فان (خليج موربيهان والأسوار القروسطية)", "en": "Vannes", "tr": "Vannes" }
+    },
+    "quimper": {
+      "names": { "ar": "كيمبير (عاصمة الخزف البريتوني)", "en": "Quimper", "tr": "Quimper" }
+    },
+    "bayonne": {
+      "names": { "ar": "بايون (عاصمة الباسك الفرنسية والشوكولاتة)", "en": "Bayonne", "tr": "Bayonne" }
+    },
+    "saumur": {
+      "names": { "ar": "سومور (قلعة سومور ومدرسة الفروسية الوطنية)", "en": "Saumur", "tr": "Saumur" }
+    },
+    "narbonne": {
+      "names": { "ar": "ناربون (المستعمرة الرومانية الأولى)", "en": "Narbonne", "tr": "Narbonne" }
+    },
+    "beziers": {
+      "names": { "ar": "بيزييه (أهوسة فونسيران على قناة دو ميدي)", "en": "Béziers", "tr": "Béziers" }
+    },
+    "lorient": {
+      "names": { "ar": "لوريان (مهرجان الثقافة السلتية)", "en": "Lorient", "tr": "Lorient" }
+    },
+    "les_sables_d_olonne": {
+      "names": { "ar": "ليه سابل دولون (سباق فانديه غلوب لليخوت)", "en": "Les Sables-d’Olonne", "tr": "Les Sables-d'Olonne" }
+    },
+    "albertville": {
+      "names": { "ar": "ألبرتفيل (الألعاب الأولمبية الشتوية 1992)", "en": "Albertville", "tr": "Albertville" }
+    },
+    "briancon": {
+      "names": { "ar": "بريانصون (أعلى مدينة محصنة في أوروبا)", "en": "Briançon", "tr": "Briançon" }
+    },
+    "thonon_les_bains": {
+      "names": { "ar": "تونون ليه بان (منتجع بحيرة جنيف)", "en": "Thonon-les-Bains", "tr": "Thonon-les-Bains" }
+    },
+    "auxerre": {
+      "names": { "ar": "أوكسير (كاتدرائية سانت إتيان)", "en": "Auxerre", "tr": "Auxerre" }
+    },
+    "epinal": {
+      "names": { "ar": "إبينال (رسوم إبينال التراثية)", "en": "Épinal", "tr": "Épinal" }
+    },
+    "belfort": {
+      "names": { "ar": "بلفور (نصب أسد بلفور التذكاري)", "en": "Belfort", "tr": "Belfort" }
+    },
+    "compiegne": {
+      "names": { "ar": "كومبيين (قصر كومبيين وموقع هدنة الحرب العالمية الأولى)", "en": "Compiègne", "tr": "Compiègne" }
+    },
+    "beauvais": {
+      "names": { "ar": "بوفيه (أعلى جوقة قوطية في العالم)", "en": "Beauvais", "tr": "Beauvais" }
+    },
+    "brive_la_gaillarde": {
+      "names": { "ar": "بريف لا غايارد (أسواق المأكولات الفاخرة)", "en": "Brive-la-Gaillarde", "tr": "Brive-la-Gaillarde" }
+    },
+    "perigueux": {
+      "names": { "ar": "بيريغو (عاصمة الكمأة والبيزنطية)", "en": "Périgueux", "tr": "Périgueux" }
+    },
+    "bergerac": {
+      "names": { "ar": "بيرجيراك (تمثال سيرانو وكروم الدوردوني)", "en": "Bergerac", "tr": "Bergerac" }
+    },
+    "orange": {
+      "names": { "ar": "أورانج (المسرح الروماني القديم المحفوظ)", "en": "Orange", "tr": "Orange" }
+    },
+    "le_puy_en_velay": {
+      "names": { "ar": "لو بوي أون فيلاي (مسار كامينو والكنائس الصخرية)", "en": "Le Puy-en-Velay", "tr": "Le Puy-en-Velay" }
+    },
+    "rodez": {
+      "names": { "ar": "روديز (كاتدرائية الحجر الرملي ومتحف سولاج)", "en": "Rodez", "tr": "Rodez" }
+    },
+    "montauban": {
+      "names": { "ar": "مونتوبان (متحف آنغر وساحة الأقواس)", "en": "Montauban", "tr": "Montauban" }
+    },
+    "tarbes": {
+      "names": { "ar": "تارب (حديقة ماسي وتربية الخيول)", "en": "Tarbes", "tr": "Tarbes" }
+    },
+    "valence": {
+      "names": { "ar": "فالانس (بوابة جنوب فرنسا وفن الطهي)", "en": "Valence", "tr": "Valence" }
+    },
+    "macon": {
+      "names": { "ar": "ماكون (كروم جنوب بورغندي)", "en": "Mâcon", "tr": "Mâcon" }
+    },
+    "nevers": {
+      "names": { "ar": "نيفير (قصر الدوقات ومزار القديسة برناديت)", "en": "Nevers", "tr": "Nevers" }
+    },
+    "chateauroux": {
+      "names": { "ar": "شاتورو (قصر راؤول وبلاد جورج ساند)", "en": "Châteauroux", "tr": "Châteauroux" }
+    },
+    "angouleme": {
+      "names": { "ar": "أنغوليم (عاصمة القصص المصورة العالمية)", "en": "Angoulême", "tr": "Angoulême" }
+    },
+    "saintes": {
+      "names": { "ar": "سانت (قوس جرمانيكوس والمدرج الروماني)", "en": "Saintes", "tr": "Saintes" }
+    },
+    "rochefort": {
+      "names": { "ar": "روشفور (مصنع الحبال الملكي والفرقاطة إرميون)", "en": "Rochefort", "tr": "Rochefort" }
+    },
+    "dieppe": {
+      "names": { "ar": "دييب (أول منتجع شاطئي ومتحف القلعة)", "en": "Dieppe", "tr": "Dieppe" }
+    },
+    "fecamp": {
+      "names": { "ar": "فيكامب (قصر بنديكتين ومنحدرات الساحل الألباستري)", "en": "Fécamp", "tr": "Fécamp" }
+    },
+    "cherbourg_en_cotentin": {
+      "names": { "ar": "شيربورغ (مدينة البحر ومتحف الغواصة النووية)", "en": "Cherbourg-en-Cotentin", "tr": "Cherbourg" }
+    },
+    "saint_lo": {
+      "names": { "ar": "سان لو (عاصمة الفروسية والأسوار)", "en": "Saint-Lô", "tr": "Saint-Lô" }
+    },
+    "alencon": {
+      "names": { "ar": "ألونسون (دانتيلا ألونسون التراثية)", "en": "Alençon", "tr": "Alençon" }
+    },
+    "evreux": {
+      "names": { "ar": "إفرو (كاتدرائية إفرو والزجاج الأصفر)", "en": "Évreux", "tr": "Évreux" }
+    },
+    "trouville_sur_mer": {
+      "names": { "ar": "تروفيل سور مير (الممشى الخشبي التاريخي)", "en": "Trouville-sur-Mer", "tr": "Trouville-sur-Mer" }
+    },
+    "rambouillet": {
+      "names": { "ar": "رامبوييه (قصر رامبوييه الرئاسي والغابات)", "en": "Rambouillet", "tr": "Rambouillet" }
+    },
+    "senlis": {
+      "names": { "ar": "سانليس (تتويج أوغ كابيه والأزقة القروسطية)", "en": "Senlis", "tr": "Senlis" }
+    },
+    "meaux": {
+      "names": { "ar": "مو (جبن بري دي مو ومتحف الحرب العظمى)", "en": "Meaux", "tr": "Meaux" }
+    },
+    "melun": {
+      "names": { "ar": "ميلان (جزيرة السين وبوابة قصر فو لو فيكونت)", "en": "Melun", "tr": "Melun" }
+    },
+    "saint_brieuc": {
+      "names": { "ar": "سان بريوك (خليج سان بريوك الطبيعي)", "en": "Saint-Brieuc", "tr": "Saint-Brieuc" }
+    },
+    "laval": {
+      "names": { "ar": "لافال (القلعة التاريخية ونهر ماين)", "en": "Laval", "tr": "Laval" }
+    },
+    "cholet": {
+      "names": { "ar": "شوليه (متحف النسيج والمناديل التراثية)", "en": "Cholet", "tr": "Cholet" }
+    },
+    "la_roche_sur_yon": {
+      "names": { "ar": "لا روش سور يون (مدينة نابليون المخططة)", "en": "La Roche-sur-Yon", "tr": "La Roche-sur-Yon" }
+    },
+    "bourg_en_bresse": {
+      "names": { "ar": "بورغ أون بريس (دير بروو الملكي القوطي)", "en": "Bourg-en-Bresse", "tr": "Bourg-en-Bresse" }
+    },
+    "roanne": {
+      "names": { "ar": "روان (فنون الطهي على نهر لوار)", "en": "Roanne", "tr": "Roanne" }
+    },
+    "aurillac": {
+      "names": { "ar": "أورياك (عاصمة المظلات ومهرجان مسرح الشارع)", "en": "Aurillac", "tr": "Aurillac" }
+    },
+    "moulins": {
+      "names": { "ar": "مولان (المركز الوطني لأزياء المسرح)", "en": "Moulins", "tr": "Moulins" }
+    },
+    "montlucon": {
+      "names": { "ar": "مونلوسون (قلعة دوقات بوربون)", "en": "Montluçon", "tr": "Montluçon" }
+    },
+    "niort": {
+      "names": { "ar": "نيور (أبراج الدونجون وبوابة فينيسيا الخضراء)", "en": "Niort", "tr": "Niort" }
+    },
+    "agen": {
+      "names": { "ar": "أجين (عاصمة البرقوق وجسر القناة)", "en": "Agen", "tr": "Agen" }
+    },
+    "dax": {
+      "names": { "ar": "داكس (المنتجع الحراري الأول والنافورة الساخنة)", "en": "Dax", "tr": "Dax" }
+    },
+    "auch": {
+      "names": { "ar": "أوش (تمثال دارتانيان والدرج الأثري)", "en": "Auch", "tr": "Auch" }
+    },
+    "gap": {
+      "names": { "ar": "غاب (طريق نابليون)", "en": "Gap", "tr": "Gap" }
+    },
+    "salon_de_provence": {
+      "names": { "ar": "سالون دي بروفانس (منزل نوستراداموس وصابون مرسيليا)", "en": "Salon-de-Provence", "tr": "Salon-de-Provence" }
+    },
+    "martigues": {
+      "names": { "ar": "مارتيغ (فينيسيا بروفانس)", "en": "Martigues", "tr": "Martigues" }
+    },
+    "istres": {
+      "names": { "ar": "إستر (نافورة بحيرة أوليفييه)", "en": "Istres", "tr": "Istres" }
+    },
+    "draguignan": {
+      "names": { "ar": "دراغينيان (دولمن صخرة الجنيات)", "en": "Draguignan", "tr": "Draguignan" }
+    },
+    "libourne": {
+      "names": { "ar": "ليبورن (بوابة كروم سانت إميليون وبوميرول)", "en": "Libourne", "tr": "Libourne" }
+    },
+    "selestat": {
+      "names": { "ar": "سيليستات (المكتبة الإنسانية وموطن شجرة الميلاد)", "en": "Sélestat", "tr": "Sélestat" }
+    },
+    "haguenau": {
+      "names": { "ar": "هاغونو (غابة هاغونو التاريخية)", "en": "Haguenau", "tr": "Haguenau" }
+    },
+    "saint_quentin": {
+      "names": { "ar": "سان كانتان (عمارة الآرت ديكو والكاتدرائية)", "en": "Saint-Quentin", "tr": "Saint-Quentin" }
+    },
+    "soissons": {
+      "names": { "ar": "سواسون (آثار دير سان جان دي فين)", "en": "Soissons", "tr": "Soissons" }
+    },
+    "cergy": {
+      "names": { "ar": "سيرجي (محور الفن المعماري الأكبر)", "en": "Cergy", "tr": "Cergy" }
+    },
+    "pontoise": {
+      "names": { "ar": "بونتواز (مهد الانطباعية ومتحف بيسارو)", "en": "Pontoise", "tr": "Pontoise" }
+    },
+    "nanterre": {
+      "names": { "ar": "نانتير (حي لاديفانس للمال والأعمال)", "en": "Nanterre", "tr": "Nanterre" }
+    },
+    "boulogne_billancourt": {
+      "names": { "ar": "بولوني-بيانكور (حدائق ومتحف ألبرت كان)", "en": "Boulogne-Billancourt", "tr": "Boulogne-Billancourt" }
+    },
+    "argenteuil": {
+      "names": { "ar": "أرجنتوي (لوحات مونيه على نهر السين)", "en": "Argenteuil", "tr": "Argenteuil" }
+    },
+    "montreuil": {
+      "names": { "ar": "مونتروي (استوديوهات ميلييس السينمائية الأولى)", "en": "Montreuil", "tr": "Montreuil" }
+    },
+    "creteil": {
+      "names": { "ar": "كريتاي (أبراج الكرنب المعمارية وبحيرة كريتاي)", "en": "Créteil", "tr": "Créteil" }
+    },
+    "evry_courcouronnes": {
+      "names": { "ar": "إيفري-كوركورون (كاتدرائية ماريو بوتا الحديثة)", "en": "Évry-Courcouronnes", "tr": "Évry" }
+    },
+    "villeurbanne": {
+      "names": { "ar": "فيلوربان (حي ناطحات السحاب آرت ديكو)", "en": "Villeurbanne", "tr": "Villeurbanne" }
+    },
+    "roubaix": {
+      "names": { "ar": "روبيه (متحف المسبح آرت ديكو ونهاية سباق باريس-روبيه)", "en": "Roubaix", "tr": "Roubaix" }
+    },
+    "tourcoing": {
+      "names": { "ar": "توركوان (الاستوديو الوطني للفنون المعاصرة)", "en": "Tourcoing", "tr": "Tourcoing" }
     }
   }
 }

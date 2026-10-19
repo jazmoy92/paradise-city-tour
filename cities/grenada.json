@@ -1,105 +1,79 @@
 {
-  "grenada": {
-    "needs_ad": false,
-    "cities": {
-      "saint_georges": {
-        "names": {
-          "ar": "سانت جورج",
-          "en": "St. George's",
-          "tr": "St. George's"
-        },
-        "description": {
-          "ar": "عاصمة غرينادا الأجمل في الكاريبي، تلتف حول ميناء حدوة الحصان البركاني وتشتهر برائحة جوزة الطيب والشواطئ.",
-          "en": "The Spice Isle capital, centered around a horseshoe harbor and famous for Grand Anse Beach and nutmeg.",
-          "tr": "Baharat Adası başkenti; at nalı şeklindeki limanı ve Grand Anse Plajı ile ünlüdür."
-        },
-        "image": "res://images/saint_georges.png",
-        "bg_image": "res://images/saint_georges_bg.png",
-        "image_3d": "res://images/saint_georges_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع وسبا سيلفرسانتس غرينادا",
-              "en": "Silversands Grenada",
-              "tr": "Silversands Grenada"
-            },
-            "image": "res://images/silversands_grenada.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوتيل كالاباش غرينادا",
-              "en": "Calabash Luxury Boutique Hotel",
-              "tr": "Calabash Luxury Boutique Hotel"
-            },
-            "image": "res://images/calabash_grenada.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم رودز أت كالاباش (Rhodes Restaurant)",
-              "en": "Rhodes Restaurant at Calabash",
-              "tr": "Rhodes Restoran Calabash"
-            },
-            "image": "res://images/rhodes_grenada.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات كاريبية بتوابل جوزة الطيب المحلية والأسماك",
-              "en": "Gourmet Caribbean Seafood & Nutmeg Spices",
-              "tr": "Gurme Karayip Deniz Ürünleri ve Baharatlar"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "حديقة التماثيل تحت الماء (Underwater Sculpture Park)",
-              "en": "Molinere Underwater Sculpture Park",
-              "tr": "Molinere Su Altı Heykel Parkı"
-            },
-            "image": "res://images/underwater_park_grenada.png",
-            "description": {
-              "ar": "أول متحف تماثيل تحت الماء في العالم مخصص للغوص والغطس والشعاب المرجانية.",
-              "en": "The world's first underwater sculpture park, creating artificial coral reefs for divers.",
-              "tr": "Dalgıçlar için yapay mercan kayalıkları oluşturan dünyanın ilk su altı heykel parkı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "شاطئ غراند أنس (Grand Anse Beach)",
-              "en": "Grand Anse Beach",
-              "tr": "Grand Anse Plajı"
-            },
-            "image": "res://images/grand_anse_beach.png",
-            "description": {
-              "ar": "شاطئ ساحر برمال بيضاء ناعمة يمتد لـ 3 كم ومحاط بالمنتجعات الفاخرة.",
-              "en": "World-famous 3km long white sand beach protected by calm waters.",
-              "tr": "Sakin sularla korunan 3 km uzunluğunda dünyaca ünlü beyaz kumsal."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "st_georges": {
+      "names": { "ar": "سانت جورجز", "en": "St. George's", "tr": "St. George's" }
+    },
+    "grand_anse": {
+      "names": { "ar": "غراند آنس", "en": "Grand Anse", "tr": "Grand Anse" }
+    },
+    "grenada": {
+      "names": { "ar": "جزيرة غرينادا", "en": "Grenada", "tr": "Grenada" }
+    },
+    "carriacou": {
+      "names": { "ar": "كارياكو", "en": "Carriacou", "tr": "Carriacou" }
+    },
+    "morne_rouge": {
+      "names": { "ar": "مورن روج", "en": "Morne Rouge", "tr": "Morne Rouge" }
+    },
+    "lance_aux_epines": {
+      "names": { "ar": "لانس أو إبين", "en": "Lance aux Épines", "tr": "Lance aux Épines" }
+    },
+    "grenville": {
+      "names": { "ar": "غرينفيل", "en": "Grenville", "tr": "Grenville" }
+    },
+    "gouyave": {
+      "names": { "ar": "غوياف", "en": "Gouyave", "tr": "Gouyave" }
+    },
+    "true_blue": {
+      "names": { "ar": "ترو بلو", "en": "True Blue", "tr": "True Blue" }
+    },
+    "prickly_bay": {
+      "names": { "ar": "بريكلي باي", "en": "Prickly Bay", "tr": "Prickly Bay" }
+    },
+    "sauteurs": {
+      "names": { "ar": "سوتور", "en": "Sauteurs", "tr": "Sauteurs" }
+    },
+    "petite_martinique": {
+      "names": { "ar": "بيتيت مارتينيك", "en": "Petite Martinique", "tr": "Petite Martinique" }
+    },
+    "hillsborough": {
+      "names": { "ar": "هيلزبورو", "en": "Hillsborough", "tr": "Hillsborough" }
+    },
+    "sandy_island": {
+      "names": { "ar": "جزيرة ساندي", "en": "Sandy Island", "tr": "Sandy Adası" }
+    },
+    "calivigny_island": {
+      "names": { "ar": "جزيرة كاليفيني", "en": "Calivigny Island", "tr": "Calivigny Adası" }
+    },
+    "la_sagesse": {
+      "names": { "ar": "لا ساجيس", "en": "La Sagesse", "tr": "La Sagesse" }
+    },
+    "st_davids": {
+      "names": { "ar": "سانت ديفيدز", "en": "St. David's", "tr": "St. David's" }
+    },
+    "victoria": {
+      "names": { "ar": "فيكتوريا", "en": "Victoria", "tr": "Victoria" }
+    },
+    "tyrell_bay": {
+      "names": { "ar": "خليج تايرل", "en": "Tyrell Bay", "tr": "Tyrell Bay" }
+    },
+    "hog_island": {
+      "names": { "ar": "جزيرة هوغ", "en": "Hog Island", "tr": "Hog Adası" }
+    },
+    "levera_island": {
+      "names": { "ar": "جزيرة ليفيرا", "en": "Levera Island", "tr": "Levera Adası" }
+    },
+    "isle_de_ronde": {
+      "names": { "ar": "جزيرة روند (إيل دو روند)", "en": "Isle de Ronde", "tr": "Ronde Adası" }
+    },
+    "windward": {
+      "names": { "ar": "ويندوارد", "en": "Windward", "tr": "Windward" }
+    },
+    "saline_island": {
+      "names": { "ar": "جزيرة سالين", "en": "Saline Island", "tr": "Saline Adası" }
+    },
+    "frigate_island": {
+      "names": { "ar": "جزيرة فريغيت", "en": "Frigate Island", "tr": "Frigate Adası" }
     }
   }
 }

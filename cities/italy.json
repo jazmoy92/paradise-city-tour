@@ -1,319 +1,439 @@
 {
-  "italy": {
-    "needs_ad": false,
-    "cities": {
-      "rome": {
-        "names": {
-          "ar": "روما",
-          "en": "Rome",
-          "tr": "Roma"
-        },
-        "description": {
-          "ar": "المدينة الخالدة وعاصمة إيطاليا، تشتهر بـ الكولوسيوم العظيم، نافورة تريفي، البانثيون، ودولة الفاتيكان.",
-          "en": "The Eternal City, famous for the Colosseum, Trevi Fountain, Pantheon, and Vatican City.",
-          "tr": "Ebedi Şehir; Koloseum, Trevi Çeşmesi, Panteon ve Vatikan ile dünyaca ünlüdür."
-        },
-        "image": "res://images/rome.png",
-        "bg_image": "res://images/rome_bg.png",
-        "image_3d": "res://images/rome_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق هاسلير روما (Hotel Hassler Roma)",
-              "en": "Hotel Hassler Roma",
-              "tr": "Hotel Hassler Roma"
-            },
-            "image": "res://images/hassler_rome.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوتيل دي روسي روما (Hotel de Russie)",
-              "en": "Hotel de Russie, Rocco Forte Hotel",
-              "tr": "Hotel de Russie Roma"
-            },
-            "image": "res://images/hotel_de_russie.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم لا بيرغولا روما (La Pergola)",
-              "en": "La Pergola by Heinz Beck",
-              "tr": "La Pergola Restoran Roma"
-            },
-            "image": "res://images/la_pergola_rome.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "مطعم 3 نجوم ميشلان الفاخر الوحيد المطل على روما",
-              "en": "Rome's only Three-Michelin-starred Rooftop Fine Dining",
-              "tr": "Roma'nın Tek Üç Michelin Yıldızlı Lüks Çatı Restoranı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "المدرج الروماني الكولوسيوم (Colosseum)",
-              "en": "Colosseum (Colosseo)",
-              "tr": "Koloseum (Colosseo)"
-            },
-            "image": "res://images/colosseum.png",
-            "description": {
-              "ar": "أضخم مدرج روماني قديم في العالم وإحدى عجائب الدنيا السبع الجديدة.",
-              "en": "The largest ancient amphitheater ever built, symbol of Imperial Rome.",
-              "tr": "İmparatorluk Roma'sının simgesi olan inşa edilmiş en büyük antik amfitiyatro."
-            }
-          },
-          {
-            "name": {
-              "ar": "نافورة تريفي (Trevi Fountain)",
-              "en": "Trevi Fountain (Fontana di Trevi)",
-              "tr": "Trevi Çeşmesi (Aşk Çeşmesi)"
-            },
-            "image": "res://images/trevi_fountain.png",
-            "description": {
-              "ar": "أشهر نافورة باروكية في العالم يرمي السياح فيها النقود للتمني للعودة لروما.",
-              "en": "Most famous Baroque fountain in the world where tourists toss coins for good luck.",
-              "tr": "Turistlerin dilek dileyip para attığı dünyanın en ünlü Barok çeşmesi."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "معبد البانثيون الروماني (Pantheon)",
-              "en": "Pantheon",
-              "tr": "Panteon"
-            },
-            "image": "res://images/pantheon_rome.png",
-            "description": {
-              "ar": "أفضل معبد روماني محفوظ ذو أضخم قبة خرسانية غير مسلحة في العالم.",
-              "en": "Best-preserved Roman monument featuring the world's largest unreinforced concrete dome.",
-              "tr": "Dünyanın en büyük donatısız beton kubbesine sahip en iyi korunmuş Roma anıtı."
-            }
-          }
-        ]
-      },
-      "milan": {
-        "names": {
-          "ar": "ميلانو",
-          "en": "Milan",
-          "tr": "Milano"
-        },
-        "description": {
-          "ar": "عاصمة الموضة والتصميم العالمية، تشتهر بـ كاتدرائية دوومو ميلانو القوطية، وغاليريا فيتوريو إيمانويل للتسوق.",
-          "en": "Global capital of fashion and design, renowned for Duomo di Milano, Galleria Vittorio Emanuele II, and Last Supper.",
-          "tr": "Dünya moda ve tasarım başkenti; Milano Katedrali (Duomo) ve Galleria ile ünlüdür."
-        },
-        "image": "res://images/milan.png",
-        "bg_image": "res://images/milan_bg.png",
-        "image_3d": "res://images/milan_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أرماني ميلانو (Armani Hotel Milano)",
-              "en": "Armani Hotel Milano",
-              "tr": "Armani Hotel Milano"
-            },
-            "image": "res://images/armani_milan.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق بولغاري ميلانو (Bulgari Hotel Milano)",
-              "en": "Bulgari Hotel Milano",
-              "tr": "Bulgari Hotel Milano"
-            },
-            "image": "res://images/bulgari_milan.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم إنريكو بارتوليني ميلانو (Enrico Bartolini)",
-              "en": "Enrico Bartolini mudec",
-              "tr": "Enrico Bartolini Restoran Milano"
-            },
-            "image": "res://images/enrico_bartolini.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "أطباق إيطالية فاخرة 3 نجوم ميشلان",
-              "en": "Three-Michelin-starred Italian Innovation",
-              "tr": "Üç Michelin Yıldızlı İtalyan Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "كاتدرائية دوومو ميلانو (Duomo di Milano)",
-              "en": "Duomo di Milano Cathedral",
-              "tr": "Milano Katedrali (Duomo di Milano)"
-            },
-            "image": "res://images/duomo_milan.png",
-            "description": {
-              "ar": "كاتدرائية قوطية رخامية بيضاء مذهلة بـ 135 أبراجاً مدببة ويمكن الصعود لسطحها.",
-              "en": "Stunning white marble Gothic cathedral taking nearly six centuries to complete.",
-              "tr": "İnşası altı asır süren muhteşem beyaz mermer Gotik katedral."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "غاليريا فيتوريو إيمانويل الثاني (Galleria Vittorio Emanuele II)",
-              "en": "Galleria Vittorio Emanuele II",
-              "tr": "Galleria Vittorio Emanuele II"
-            },
-            "image": "res://images/galleria_vittorio.png",
-            "description": {
-              "ar": "أقدم مجمع تسوق مغطى بالزجاج في العالم ويضم دور الأزياء الإيطالية الفاخرة.",
-              "en": "Italy's oldest active shopping gallery, housed in a four-story double arcade.",
-              "tr": "Dört katlı çift camlı pasajda yer alan İtalya'nın en eski aktif alışveriş galerisi."
-            }
-          }
-        ]
-      },
-      "venice": {
-        "names": {
-          "ar": "البندقية (فينيسيا)",
-          "en": "Venice",
-          "tr": "Venedik"
-        },
-        "description": {
-          "ar": "مدينة العشاق العائمة، تشتهر بـ القناة الكبرى، قوارب الجندول الرومانسية، ساحة القديس ماركو وقصر الدوجي.",
-          "en": "The floating city built on 118 islands, famous for the Grand Canal, gondolas, and St. Mark's Square.",
-          "tr": "118 ada üzerine kurulu yüzen şehir; Büyük Kanal, gondollar ve San Marco Meydanı ile ünlüdür."
-        },
-        "image": "res://images/venice.png",
-        "bg_image": "res://images/venice_bg.png",
-        "image_3d": "res://images/venice_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أمن فينيسيا (Aman Venice)",
-              "en": "Aman Venice",
-              "tr": "Aman Venice"
-            },
-            "image": "res://images/aman_venice.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق ذا غريتي بالاس البندقية (The Gritti Palace)",
-              "en": "The Gritti Palace, a Luxury Collection Hotel",
-              "tr": "The Gritti Palace Venedik"
-            },
-            "image": "res://images/gritti_palace.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم كوادري البندقية (Ristorante Quadri)",
-              "en": "Ristorante Quadri St. Mark's",
-              "tr": "Ristorante Quadri Venedik"
-            },
-            "image": "res://images/quadri_venice.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات بحرية فينيسية راقية بقلب ساحة ماركو",
-              "en": "Michelin-starred Venetian Seafood on St. Mark's Square",
-              "tr": "San Marco Meydanı'nda Michelin Yıldızlı Venedik Deniz Ürünleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "القناة الكبرى وقوارب الجندول (Grand Canal & Gondolas)",
-              "en": "Grand Canal & Gondola Ride",
-              "tr": "Büyük Kanal ve Gondol Turu"
-            },
-            "image": "res://images/grand_canal.png",
-            "description": {
-              "ar": "الشريان المائي الرئيسي للبلدة والمحاط بقصور العصر النهراوي التاريخية.",
-              "en": "Major water-traffic corridor in Venice lined with Renaissance palaces.",
-              "tr": "Rönesans saraylarıyla çevrili Venedik'in ana su trafiği koridoru."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "ساحة وبازيليكا القديس ماركو (St. Mark's Square & Basilica)",
-              "en": "St. Mark's Square & Basilica",
-              "tr": "San Marco Meydanı ve Bazilikası"
-            },
-            "image": "res://images/st_marks_square.png",
-            "description": {
-              "ar": "الساحة الرئيسية التاريخية والبازيليكا البيزنطية المذهبة بالفسيفساء.",
-              "en": "The principal public square of Venice featuring the opulent Byzantine church.",
-              "tr": "Görkemli Bizans kilisesine ev sahipliği yapan Venedik'in ana meydanı."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "rome": {
+      "names": { "ar": "روما", "en": "Rome", "tr": "Roma" }
+    },
+    "venice": {
+      "names": { "ar": "البندقية (فينيسيا)", "en": "Venice", "tr": "Venedik" }
+    },
+    "florence": {
+      "names": { "ar": "فلورنسا", "en": "Florence", "tr": "Floransa" }
+    },
+    "milan": {
+      "names": { "ar": "ميلانو", "en": "Milan", "tr": "Milano" }
+    },
+    "naples": {
+      "names": { "ar": "نابولي", "en": "Naples", "tr": "Napoli" }
+    },
+    "pisa": {
+      "names": { "ar": "بيزا", "en": "Pisa", "tr": "Pisa" }
+    },
+    "amalfi": {
+      "names": { "ar": "أمالفي", "en": "Amalfi", "tr": "Amalfi" }
+    },
+    "positano": {
+      "names": { "ar": "بوزيتانو", "en": "Positano", "tr": "Positano" }
+    },
+    "capri": {
+      "names": { "ar": "كابري", "en": "Capri", "tr": "Capri" }
+    },
+    "verona": {
+      "names": { "ar": "فيرونا", "en": "Verona", "tr": "Verona" }
+    },
+    "cinque_terre": {
+      "names": { "ar": "سينك تيري", "en": "Cinque Terre", "tr": "Cinque Terre" }
+    },
+    "como": {
+      "names": { "ar": "كومو", "en": "Como", "tr": "Como" }
+    },
+    "bellagio": {
+      "names": { "ar": "بيلاجيو", "en": "Bellagio", "tr": "Bellagio" }
+    },
+    "portofino": {
+      "names": { "ar": "بورتوفينو", "en": "Portofino", "tr": "Portofino" }
+    },
+    "sorrento": {
+      "names": { "ar": "سورينتو", "en": "Sorrento", "tr": "Sorrento" }
+    },
+    "turin": {
+      "names": { "ar": "تورينو", "en": "Turin", "tr": "Torino" }
+    },
+    "bologna": {
+      "names": { "ar": "بولونيا", "en": "Bologna", "tr": "Bolonya" }
+    },
+    "genoa": {
+      "names": { "ar": "جنوة", "en": "Genoa", "tr": "Cenova" }
+    },
+    "palermo": {
+      "names": { "ar": "باليرمو", "en": "Palermo", "tr": "Palermo" }
+    },
+    "siena": {
+      "names": { "ar": "سيينا", "en": "Siena", "tr": "Siena" }
+    },
+    "taormina": {
+      "names": { "ar": "تاورمينا", "en": "Taormina", "tr": "Taormina" }
+    },
+    "san_gimignano": {
+      "names": { "ar": "سان جيمينيانو", "en": "San Gimignano", "tr": "San Gimignano" }
+    },
+    "matera": {
+      "names": { "ar": "ماتيرا", "en": "Matera", "tr": "Matera" }
+    },
+    "catania": {
+      "names": { "ar": "كاتانيا", "en": "Catania", "tr": "Katanya" }
+    },
+    "sirmione": {
+      "names": { "ar": "سيرميوني", "en": "Sirmione", "tr": "Sirmione" }
+    },
+    "cortina_dampezzo": {
+      "names": { "ar": "كورتينا دامبيدزو", "en": "Cortina d’Ampezzo", "tr": "Cortina d’Ampezzo" }
+    },
+    "ravello": {
+      "names": { "ar": "رافيلو", "en": "Ravello", "tr": "Ravello" }
+    },
+    "ischia": {
+      "names": { "ar": "إيسكيا", "en": "Ischia", "tr": "Ischia" }
+    },
+    "syracuse": {
+      "names": { "ar": "سيراكيوز (سيراكوزا)", "en": "Syracuse", "tr": "Siraküza" }
+    },
+    "agrigento": {
+      "names": { "ar": "أغريجينتو", "en": "Agrigento", "tr": "Agrigento" }
+    },
+    "cefalu": {
+      "names": { "ar": "تشيفالو", "en": "Cefalù", "tr": "Cefalù" }
+    },
+    "alberobello": {
+      "names": { "ar": "ألبيروبيلو", "en": "Alberobello", "tr": "Alberobello" }
+    },
+    "polignano_a_mare": {
+      "names": { "ar": "بوليناانو آ ماري", "en": "Polignano a Mare", "tr": "Polignano a Mare" }
+    },
+    "assisi": {
+      "names": { "ar": "أسيزي", "en": "Assisi", "tr": "Assisi" }
+    },
+    "lucca": {
+      "names": { "ar": "لوكا", "en": "Lucca", "tr": "Lucca" }
+    },
+    "bari": {
+      "names": { "ar": "باري", "en": "Bari", "tr": "Bari" }
+    },
+    "lecce": {
+      "names": { "ar": "ليتشي", "en": "Lecce", "tr": "Lecce" }
+    },
+    "padua": {
+      "names": { "ar": "بادوفا", "en": "Padua (Padova)", "tr": "Padova" }
+    },
+    "bergamo": {
+      "names": { "ar": "بيرغامو", "en": "Bergamo", "tr": "Bergamo" }
+    },
+    "parma": {
+      "names": { "ar": "بارما", "en": "Parma", "tr": "Parma" }
+    },
+    "modena": {
+      "names": { "ar": "مودينا", "en": "Modena", "tr": "Modena" }
+    },
+    "ravenna": {
+      "names": { "ar": "رافينا", "en": "Ravenna", "tr": "Ravenna" }
+    },
+    "rimini": {
+      "names": { "ar": "ريميني", "en": "Rimini", "tr": "Rimini" }
+    },
+    "trieste": {
+      "names": { "ar": "ترييستي", "en": "Trieste", "tr": "Trieste" }
+    },
+    "bolzano": {
+      "names": { "ar": "بولزانو", "en": "Bolzano", "tr": "Bolzano" }
+    },
+    "tropea": {
+      "names": { "ar": "تروبيا", "en": "Tropea", "tr": "Tropea" }
+    },
+    "costa_smeralda": {
+      "names": { "ar": "كوستا سميرالدا", "en": "Costa Smeralda", "tr": "Costa Smeralda" }
+    },
+    "cagliari": {
+      "names": { "ar": "كالياري", "en": "Cagliari", "tr": "Cagliari" }
+    },
+    "alghero": {
+      "names": { "ar": "ألغيرو", "en": "Alghero", "tr": "Alghero" }
+    },
+    "sanremo": {
+      "names": { "ar": "سان ريمو", "en": "Sanremo", "tr": "Sanremo" }
+    },
+    "monterosso_al_mare": {
+      "names": { "ar": "مونتيروسو أل ماري", "en": "Monterosso al Mare", "tr": "Monterosso al Mare" }
+    },
+    "vernazza": {
+      "names": { "ar": "فيرناتزا", "en": "Vernazza", "tr": "Vernazza" }
+    },
+    "manarola": {
+      "names": { "ar": "مانارولا", "en": "Manarola", "tr": "Manarola" }
+    },
+    "riomaggiore": {
+      "names": { "ar": "ريوماجيوري", "en": "Riomaggiore", "tr": "Riomaggiore" }
+    },
+    "portovenere": {
+      "names": { "ar": "بورتوفينيري", "en": "Portovenere", "tr": "Portovenere" }
+    },
+    "montepulciano": {
+      "names": { "ar": "مونتيبولسيانو", "en": "Montepulciano", "tr": "Montepulciano" }
+    },
+    "pienza": {
+      "names": { "ar": "بينزا", "en": "Pienza", "tr": "Pienza" }
+    },
+    "orvieto": {
+      "names": { "ar": "أورفييتو", "en": "Orvieto", "tr": "Orvieto" }
+    },
+    "perugia": {
+      "names": { "ar": "بيروجيا", "en": "Perugia", "tr": "Perugia" }
+    },
+    "ferrara": {
+      "names": { "ar": "فيرارا", "en": "Ferrara", "tr": "Ferrara" }
+    },
+    "brescia": {
+      "names": { "ar": "بريشيا", "en": "Brescia", "tr": "Brescia" }
+    },
+    "mantua": {
+      "names": { "ar": "مانتوفا", "en": "Mantua (Mantova)", "tr": "Mantova" }
+    },
+    "vicenza": {
+      "names": { "ar": "فيتشنزا", "en": "Vicenza", "tr": "Vicenza" }
+    },
+    "san_vito_lo_capo": {
+      "names": { "ar": "سان فيتو لو كابو", "en": "San Vito Lo Capo", "tr": "San Vito Lo Capo" }
+    },
+    "noto": {
+      "names": { "ar": "نوتو", "en": "Noto", "tr": "Noto" }
+    },
+    "ragusa": {
+      "names": { "ar": "راغوزا", "en": "Ragusa", "tr": "Ragusa" }
+    },
+    "modica": {
+      "names": { "ar": "موديكا", "en": "Modica", "tr": "Modica" }
+    },
+    "ostuni": {
+      "names": { "ar": "أوستوني", "en": "Ostuni", "tr": "Ostuni" }
+    },
+    "monopoli": {
+      "names": { "ar": "مونوبولي", "en": "Monopoli", "tr": "Monopoli" }
+    },
+    "gallipoli": {
+      "names": { "ar": "غاليبولي", "en": "Gallipoli", "tr": "Gallipoli" }
+    },
+    "otranto": {
+      "names": { "ar": "أوترانتو", "en": "Otranto", "tr": "Otranto" }
+    },
+    "vieste": {
+      "names": { "ar": "فييستي", "en": "Vieste", "tr": "Vieste" }
+    },
+    "rapallo": {
+      "names": { "ar": "رابالو", "en": "Rapallo", "tr": "Rapallo" }
+    },
+    "santa_margherita_ligure": {
+      "names": { "ar": "سانتا مارغريتا ليغوري", "en": "Santa Margherita Ligure", "tr": "Santa Margherita Ligure" }
+    },
+    "camogli": {
+      "names": { "ar": "كامولي", "en": "Camogli", "tr": "Camogli" }
+    },
+    "forte_dei_marmi": {
+      "names": { "ar": "فورتي دي مارمي", "en": "Forte dei Marmi", "tr": "Forte dei Marmi" }
+    },
+    "viareggio": {
+      "names": { "ar": "فياريجيو", "en": "Viareggio", "tr": "Viareggio" }
+    },
+    "livorno": {
+      "names": { "ar": "ليفورنو", "en": "Livorno", "tr": "Livorno" }
+    },
+    "arezzo": {
+      "names": { "ar": "أريتسو", "en": "Arezzo", "tr": "Arezzo" }
+    },
+    "volterra": {
+      "names": { "ar": "فولتيرا", "en": "Volterra", "tr": "Volterra" }
+    },
+    "cortona": {
+      "names": { "ar": "كورتونا", "en": "Cortona", "tr": "Cortona" }
+    },
+    "gubbio": {
+      "names": { "ar": "غوبيو", "en": "Gubbio", "tr": "Gubbio" }
+    },
+    "urbino": {
+      "names": { "ar": "أوربينو", "en": "Urbino", "tr": "Urbino" }
+    },
+    "trento": {
+      "names": { "ar": "ترينتو", "en": "Trento", "tr": "Trento" }
+    },
+    "merano": {
+      "names": { "ar": "ميرانو", "en": "Merano", "tr": "Merano" }
+    },
+    "ortisei": {
+      "names": { "ar": "أورتيسي", "en": "Ortisei", "tr": "Ortisei" }
+    },
+    "courmayeur": {
+      "names": { "ar": "كورمايور", "en": "Courmayeur", "tr": "Courmayeur" }
+    },
+    "cervinia": {
+      "names": { "ar": "تشيرفينيا", "en": "Cervinia", "tr": "Cervinia" }
+    },
+    "madonna_di_campiglio": {
+      "names": { "ar": "مادونا دي كامبيليو", "en": "Madonna di Campiglio", "tr": "Madonna di Campiglio" }
+    },
+    "canazei": {
+      "names": { "ar": "كانازي", "en": "Canazei", "tr": "Canazei" }
+    },
+    "bressanone": {
+      "names": { "ar": "بريسانوني", "en": "Bressanone", "tr": "Bressanone" }
+    },
+    "aosta": {
+      "names": { "ar": "أوستا", "en": "Aosta", "tr": "Aosta" }
+    },
+    "udine": {
+      "names": { "ar": "أوديني", "en": "Udine", "tr": "Udine" }
+    },
+    "treviso": {
+      "names": { "ar": "تريفيزو", "en": "Treviso", "tr": "Treviso" }
+    },
+    "desenzano_del_garda": {
+      "names": { "ar": "ديسينزانو دل غاردا", "en": "Desenzano del Garda", "tr": "Desenzano del Garda" }
+    },
+    "peschiera_del_garda": {
+      "names": { "ar": "بيسكييرا دل غاردا", "en": "Peschiera del Garda", "tr": "Peschiera del Garda" }
+    },
+    "verona_lake_garda_area": {
+      "names": { "ar": "منطقة بحيرة غاردا (فيرونا)", "en": "Verona Lake Garda Area", "tr": "Garda Gölü Bölgesi (Verona)" }
+    },
+    "riccione": {
+      "names": { "ar": "ريتشوني", "en": "Riccione", "tr": "Riccione" }
+    },
+    "jesolo": {
+      "names": { "ar": "ييزولو", "en": "Jesolo", "tr": "Jesolo" }
+    },
+    "olbia": {
+      "names": { "ar": "أولبيا", "en": "Olbia", "tr": "Olbia" }
+    },
+    "la_maddalena": {
+      "names": { "ar": "لا مادالينا", "en": "La Maddalena", "tr": "La Maddalena" }
+    },
+    "san_teodoro": {
+      "names": { "ar": "سان تيودورو", "en": "San Teodoro", "tr": "San Teodoro" }
+    },
+    "villasimius": {
+      "names": { "ar": "فيلاسيميوس", "en": "Villasimius", "tr": "Villasimius" }
+    },
+    "stintino": {
+      "names": { "ar": "ستينتينو", "en": "Stintino", "tr": "Stintino" }
+    },
+    "bosa": {
+      "names": { "ar": "بوزا", "en": "Bosa", "tr": "Bosa" }
+    },
+    "trapani": {
+      "names": { "ar": "تراباني", "en": "Trapani", "tr": "Trapani" }
+    },
+    "marsala": {
+      "names": { "ar": "مارسالا", "en": "Marsala", "tr": "Marsala" }
+    },
+    "scilla": {
+      "names": { "ar": "شيلا", "en": "Scilla", "tr": "Scilla" }
+    },
+    "reggio_calabria": {
+      "names": { "ar": "ريجو كالابريا", "en": "Reggio Calabria", "tr": "Reggio Calabria" }
+    },
+    "maratea": {
+      "names": { "ar": "ماراتييا", "en": "Maratea", "tr": "Maratea" }
+    },
+    "castelmezzano": {
+      "names": { "ar": "كاستيلميزانو", "en": "Castelmezzano", "tr": "Castelmezzano" }
+    },
+    "chianciano_terme": {
+      "names": { "ar": "كيانتشانو تيرمي", "en": "Chianciano Terme", "tr": "Chianciano Terme" }
+    },
+    "abano_terme": {
+      "names": { "ar": "أبانو تيرمي", "en": "Abano Terme", "tr": "Abano Terme" }
+    },
+    "caorle": {
+      "names": { "ar": "كاورلي", "en": "Caorle", "tr": "Caorle" }
+    },
+    "bibione": {
+      "names": { "ar": "بيبيوني", "en": "Bibione", "tr": "Bibione" }
+    },
+    "ancona": {
+      "names": { "ar": "أنكونا", "en": "Ancona", "tr": "Ancona" }
+    },
+    "pesaro": {
+      "names": { "ar": "بيزارو", "en": "Pesaro", "tr": "Pesaro" }
+    },
+    "senigallia": {
+      "names": { "ar": "سينيغاليا", "en": "Senigallia", "tr": "Senigallia" }
+    },
+    "san_benedetto_del_tronto": {
+      "names": { "ar": "سان بينيديتو دل ترونتو", "en": "San Benedetto del Tronto", "tr": "San Benedetto del Tronto" }
+    },
+    "pescara": {
+      "names": { "ar": "بيسكارا", "en": "Pescara", "tr": "Pescara" }
+    },
+    "sulmona": {
+      "names": { "ar": "سولمونا", "en": "Sulmona", "tr": "Sulmona" }
+    },
+    "roccaraso": {
+      "names": { "ar": "روكاراسو", "en": "Roccaraso", "tr": "Roccaraso" }
+    },
+    "scanno": {
+      "names": { "ar": "سكانو", "en": "Scanno", "tr": "Scanno" }
+    },
+    "termoli": {
+      "names": { "ar": "تيرمولي", "en": "Termoli", "tr": "Termoli" }
+    },
+    "campobasso": {
+      "names": { "ar": "كامبوباسو", "en": "Campobasso", "tr": "Campobasso" }
+    },
+    "isernia": {
+      "names": { "ar": "إيزيرنيا", "en": "Isernia", "tr": "Isernia" }
+    },
+    "foggia": {
+      "names": { "ar": "فوجيا", "en": "Foggia", "tr": "Foggia" }
+    },
+    "taranto": {
+      "names": { "ar": "تارانتو", "en": "Taranto", "tr": "Taranto" }
+    },
+    "brindisi": {
+      "names": { "ar": "برينديزي", "en": "Brindisi", "tr": "Brindisi" }
+    },
+    "trani": {
+      "names": { "ar": "تراني", "en": "Trani", "tr": "Trani" }
+    },
+    "barletta": {
+      "names": { "ar": "بارليتا", "en": "Barletta", "tr": "Barletta" }
+    },
+    "peschici": {
+      "names": { "ar": "بيشيتشي", "en": "Peschici", "tr": "Peschici" }
+    },
+    "cosenza": {
+      "names": { "ar": "كوزنسا", "en": "Cosenza", "tr": "Cosenza" }
+    },
+    "catanzaro": {
+      "names": { "ar": "كاتانزارو", "en": "Catanzaro", "tr": "Catanzaro" }
+    },
+    "lamezia_terme": {
+      "names": { "ar": "لاميتسيا تيرمي", "en": "Lamezia Terme", "tr": "Lamezia Terme" }
+    },
+    "crotone": {
+      "names": { "ar": "كروتوني", "en": "Crotone", "tr": "Crotone" }
+    },
+    "vibo_valentia": {
+      "names": { "ar": "فيبو فالينتيا", "en": "Vibo Valentia", "tr": "Vibo Valentia" }
+    },
+    "caltagirone": {
+      "names": { "ar": "كالتاغيروني", "en": "Caltagirone", "tr": "Caltagirone" }
+    },
+    "sciacca": {
+      "names": { "ar": "شاكا", "en": "Sciacca", "tr": "Sciacca" }
+    },
+    "enna": {
+      "names": { "ar": "إنا", "en": "Enna", "tr": "Enna" }
+    },
+    "sassari": {
+      "names": { "ar": "ساساري", "en": "Sassari", "tr": "Sassari" }
+    },
+    "nuoro": {
+      "names": { "ar": "نوورو", "en": "Nuoro", "tr": "Nuoro" }
+    },
+    "oristano": {
+      "names": { "ar": "أوريستانو", "en": "Oristano", "tr": "Oristano" }
+    },
+    "iglesias": {
+      "names": { "ar": "إغليسياس", "en": "Iglesias", "tr": "Iglesias" }
+    },
+    "tempio_pausania": {
+      "names": { "ar": "تيمبيو باوسانيا", "en": "Tempio Pausania", "tr": "Tempio Pausania" }
     }
   }
 }

@@ -1,207 +1,154 @@
 {
-  "netherlands": {
-    "needs_ad": false,
-    "cities": {
-      "amsterdam": {
-        "names": {
-          "ar": "أمستردام",
-          "en": "Amsterdam",
-          "tr": "Amsterdam"
-        },
-        "description": {
-          "ar": "عاصمة القنوات المائية الساحرة، تشتهر بـ متحف فان جوخ، متحف ريكس، حديقة فوندل بارك، وثقافة الدراجات الهوائية.",
-          "en": "The iconic canal capital, famous for Van Gogh Museum, Rijksmuseum, Vondelpark, and cycling culture.",
-          "tr": "Van Gogh Müzesi, Rijksmuseum ve bisiklet kültürüyle ünlü ikonik kanal başkenti."
-        },
-        "image": "res://images/amsterdam.png",
-        "bg_image": "res://images/amsterdam_bg.png",
-        "image_3d": "res://images/amsterdam_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل والدورف أستوريا أمستردام",
-              "en": "Waldorf Astoria Amsterdam",
-              "tr": "Waldorf Astoria Amsterdam"
-            },
-            "image": "res://images/waldorf_amsterdam.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق ذا أمستل أمستردام (InterContinental Amstel)",
-              "en": "InterContinental Amstel Amsterdam",
-              "tr": "InterContinental Amstel Amsterdam"
-            },
-            "image": "res://images/amstel_hotel.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم سبيكتور أمستردام (Spectrum)",
-              "en": "Spectrum Restaurant Amsterdam",
-              "tr": "Spectrum Restoran Amsterdam"
-            },
-            "image": "res://images/spectrum_amsterdam.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات أورپية وهولندية راقية 2 نجوم ميشلان",
-              "en": "Two-Michelin-starred Dutch & European Fine Dining",
-              "tr": "İki Michelin Yıldızlı Lüks Hollanda Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "حلقة القنوات المائية التاريخية (Canal Ring - UNESCO)",
-              "en": "Amsterdam Canal Ring (Grachtengordel)",
-              "tr": "Amsterdam Kanal Bölgesi (Grachtengordel)"
-            },
-            "image": "res://images/amsterdam_canals.png",
-            "description": {
-              "ar": "شبكة قنوات مائية تعود للقرن السابع عشر تضم أكثر من 1,500 جسر وبيوت هولندية ملونة.",
-              "en": "17th-century UNESCO waterway network lined with historic narrow gabled townhouses.",
-              "tr": "17. yüzyıldan kalma tarihi dar evlerle çevrili UNESCO su yolu ağı."
-            }
-          },
-          {
-            "name": {
-              "ar": "متحف فان جوخ (Van Gogh Museum)",
-              "en": "Van Gogh Museum",
-              "tr": "Van Gogh Müzesi"
-            },
-            "image": "res://images/van_gogh_museum.png",
-            "description": {
-              "ar": "يضم أكبر مجموعة من اللوحات والأعمال الفنية الأصلية للرسام الهولندي العظيم فينست فان جوخ.",
-              "en": "Houses the world's largest collection of artworks by Vincent van Gogh.",
-              "tr": "Vincent van Gogh'un eserlerinden oluşan dünyanın en büyük koleksiyonuna ev sahipliği yapar."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "المتحف الوطني ريكس (Rijksmuseum)",
-              "en": "Rijksmuseum",
-              "tr": "Rijksmuseum (Ulusal Müze)"
-            },
-            "image": "res://images/rijksmuseum.png",
-            "description": {
-              "ar": "المتحف الوطني الهولندي الأضخم والذي يضم تحفة حارس الليل للرسام رمبرانت.",
-              "en": "Dutch national museum dedicated to arts and history from the Middle Ages to the present.",
-              "tr": "Orta Çağ'dan günümüze Hollanda sanatına ve tarihine adanmış ulusal müze."
-            }
-          }
-        ]
-      },
-      "rotterdam": {
-        "names": {
-          "ar": "روتردام",
-          "en": "Rotterdam",
-          "tr": "Rotterdam"
-        },
-        "description": {
-          "ar": "عاصمة الهندسة والمعمار الحديث وأضخم ميناء في أوروبا، تشتهر بـ البيوت المكعبة، جسر إراسموس، وسوق ماركت هول.",
-          "en": "Europe's largest port city, world-famous for modern architecture like Cube Houses and Markthal.",
-          "tr": "Küp Evler ve Markthal gibi modern mimarisiyle ünlü Avrupa'nın en büyük liman şehri."
-        },
-        "image": "res://images/rotterdam.png",
-        "bg_image": "res://images/rotterdam_bg.png",
-        "image_3d": "res://images/rotterdam_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل ماينبورت روتردام (Mainport Hotel)",
-              "en": "Mainport Design Hotel Rotterdam",
-              "tr": "Mainport Design Hotel Rotterdam"
-            },
-            "image": "res://images/mainport_rotterdam.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم بارك هيفين روتردام (Parkheuvel)",
-              "en": "Restaurant Parkheuvel",
-              "tr": "Parkheuvel Restoran Rotterdam"
-            },
-            "image": "res://images/parkheuvel.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات فرنسية وهولندية راقية 2 نجوم ميشلان المطلة على النهر",
-              "en": "Two-Michelin-starred Riverfront French Dining",
-              "tr": "İki Michelin Yıldızlı Nehir Manzaralı Fransız Yemekleri"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "منازل المكعبات المعمارية (Cube Houses / Kubuswoningen)",
-              "en": "Cube Houses (Kubuswoningen)",
-              "tr": "Küp Evler (Kubuswoningen)"
-            },
-            "image": "res://images/cube_houses.png",
-            "description": {
-              "ar": "مجموعة منازل مبتكرة مائلة بزاوية 45 درجة صممها المعماري بيت بلوم لتشبه الغابة.",
-              "en": "Set of innovative tilted cube-shaped houses designed by Piet Blom.",
-              "tr": "Piet Blom tarafından tasarlanmış 45 derece eğimli yenilikçi küp evler."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "مجمع وسوق ماركت هول (Markthal Rotterdam)",
-              "en": "Markthal Rotterdam",
-              "tr": "Markthal Rotterdam Kapalı Pazarı"
-            },
-            "image": "res://images/markthal.png",
-            "description": {
-              "ar": "مجمع سكني وتجاري مقوس ضخم مغطى بـ أضخم لوحة سقفية فنية تجسد الفواكه والزهور.",
-              "en": "Horse-shoe shaped food hall featuring the world's largest artwork 'Horn of Plenty' on its ceiling.",
-              "tr": "Tavanında dünyanın en büyük sanat eserini barındıran at nalı şeklinde kapalı pazar."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "amsterdam": {
+      "names": { "ar": "أمستردام", "en": "Amsterdam", "tr": "Amsterdam" }
+    },
+    "rotterdam": {
+      "names": { "ar": "روتردام", "en": "Rotterdam", "tr": "Rotterdam" }
+    },
+    "den_haag": {
+      "names": { "ar": "لاهاي (دن هاغ)", "en": "The Hague (Den Haag)", "tr": "Lahey (Den Haag)" }
+    },
+    "utrecht": {
+      "names": { "ar": "أوترخت", "en": "Utrecht", "tr": "Utrecht" }
+    },
+    "giethoorn": {
+      "names": { "ar": "خيثورن", "en": "Giethoorn", "tr": "Giethoorn" }
+    },
+    "eindhoven": {
+      "names": { "ar": "أيندهوفن", "en": "Eindhoven", "tr": "Eindhoven" }
+    },
+    "maastricht": {
+      "names": { "ar": "ماستريخت", "en": "Maastricht", "tr": "Maastricht" }
+    },
+    "delft": {
+      "names": { "ar": "دلفت", "en": "Delft", "tr": "Delft" }
+    },
+    "lisse": {
+      "names": { "ar": "ليسه (كويكنهوف)", "en": "Lisse", "tr": "Lisse" }
+    },
+    "haarlem": {
+      "names": { "ar": "هارلم", "en": "Haarlem", "tr": "Haarlem" }
+    },
+    "gouda": {
+      "names": { "ar": "خاودا", "en": "Gouda", "tr": "Gouda" }
+    },
+    "leiden": {
+      "names": { "ar": "لايدن", "en": "Leiden", "tr": "Leiden" }
+    },
+    "volendam": {
+      "names": { "ar": "فولندام", "en": "Volendam", "tr": "Volendam" }
+    },
+    "zaandam": {
+      "names": { "ar": "زاندم (زانس شانس)", "en": "Zaandam", "tr": "Zaandam" }
+    },
+    "alkmaar": {
+      "names": { "ar": "ألكمار", "en": "Alkmaar", "tr": "Alkmaar" }
+    },
+    "groningen": {
+      "names": { "ar": "خرونينغن", "en": "Groningen", "tr": "Groningen" }
+    },
+    "scheveningen": {
+      "names": { "ar": "سخيفينينغن", "en": "Scheveningen", "tr": "Scheveningen" }
+    },
+    "breda": {
+      "names": { "ar": "بريدا", "en": "Breda", "tr": "Breda" }
+    },
+    "arnhem": {
+      "names": { "ar": "أرنهيم", "en": "Arnhem", "tr": "Arnhem" }
+    },
+    "nijmegen": {
+      "names": { "ar": "نايميخن", "en": "Nijmegen", "tr": "Nijmegen" }
+    },
+    "tilburg": {
+      "names": { "ar": "تيلبورغ", "en": "Tilburg", "tr": "Tilburg" }
+    },
+    "den_bosch": {
+      "names": { "ar": "دن بوش (سيرتوخيمبوس)", "en": "Den Bosch ('s-Hertogenbosch)", "tr": "Den Bosch ('s-Hertogenbosch)" }
+    },
+    "amersfoort": {
+      "names": { "ar": "أمرسفورت", "en": "Amersfoort", "tr": "Amersfoort" }
+    },
+    "zandvoort": {
+      "names": { "ar": "زاندفورت", "en": "Zandvoort", "tr": "Zandvoort" }
+    },
+    "marken": {
+      "names": { "ar": "ماركن", "en": "Marken", "tr": "Marken" }
+    },
+    "valkenburg": {
+      "names": { "ar": "فالكنبورغ", "en": "Valkenburg", "tr": "Valkenburg" }
+    },
+    "dordrecht": {
+      "names": { "ar": "دوردريخت", "en": "Dordrecht", "tr": "Dordrecht" }
+    },
+    "aalsmeer": {
+      "names": { "ar": "ألسماير", "en": "Aalsmeer", "tr": "Aalsmeer" }
+    },
+    "zwolle": {
+      "names": { "ar": "زفوله", "en": "Zwolle", "tr": "Zwolle" }
+    },
+    "roermond": {
+      "names": { "ar": "رورموند", "en": "Roermond", "tr": "Roermond" }
+    },
+    "leeuwarden": {
+      "names": { "ar": "ليوواردن", "en": "Leeuwarden", "tr": "Leeuwarden" }
+    },
+    "apeldoorn": {
+      "names": { "ar": "أبلدورن", "en": "Apeldoorn", "tr": "Apeldoorn" }
+    },
+    "noordwijk": {
+      "names": { "ar": "نوردفايك", "en": "Noordwijk", "tr": "Noordwijk" }
+    },
+    "deventer": {
+      "names": { "ar": "ديفينتر", "en": "Deventer", "tr": "Deventer" }
+    },
+    "hoorn": {
+      "names": { "ar": "هورن", "en": "Hoorn", "tr": "Hoorn" }
+    },
+    "hilversum": {
+      "names": { "ar": "هيلفرسوم", "en": "Hilversum", "tr": "Hilversum" }
+    },
+    "enkhuizen": {
+      "names": { "ar": "إنخايزن", "en": "Enkhuizen", "tr": "Enkhuizen" }
+    },
+    "middelburg": {
+      "names": { "ar": "ميدلبورغ", "en": "Middelburg", "tr": "Middelburg" }
+    },
+    "katwijk_aan_zee": {
+      "names": { "ar": "كاتفايك آن زي", "en": "Katwijk aan Zee", "tr": "Katwijk aan Zee" }
+    },
+    "enschede": {
+      "names": { "ar": "إنسخيده", "en": "Enschede", "tr": "Enschede" }
+    },
+    "venlo": {
+      "names": { "ar": "فينلو", "en": "Venlo", "tr": "Venlo" }
+    },
+    "vlissingen": {
+      "names": { "ar": "فليسينغن", "en": "Vlissingen", "tr": "Vlissingen" }
+    },
+    "sneek": {
+      "names": { "ar": "سنيك", "en": "Sneek", "tr": "Sneek" }
+    },
+    "harlingen": {
+      "names": { "ar": "هارلينغن", "en": "Harlingen", "tr": "Harlingen" }
+    },
+    "zierikzee": {
+      "names": { "ar": "زيريكزي", "en": "Zierikzee", "tr": "Zierikzee" }
+    },
+    "assen": {
+      "names": { "ar": "أسن", "en": "Assen", "tr": "Assen" }
+    },
+    "renesse": {
+      "names": { "ar": "رينيسه", "en": "Renesse", "tr": "Renesse" }
+    },
+    "emmen": {
+      "names": { "ar": "إمين", "en": "Emmen", "tr": "Emmen" }
+    },
+    "drachten": {
+      "names": { "ar": "دراختن", "en": "Drachten", "tr": "Drachten" }
+    },
+    "oisterwijk": {
+      "names": { "ar": "أويسترفايك", "en": "Oisterwijk", "tr": "Oisterwijk" }
     }
   }
 }

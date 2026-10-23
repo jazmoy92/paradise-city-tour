@@ -1,192 +1,358 @@
 {
-  "switzerland": {
-    "needs_ad": false,
-    "cities": {
-      "zurich": {
-        "names": {
-          "ar": "زوريخ",
-          "en": "Zurich",
-          "tr": "Zürih"
-        },
-        "description": {
-          "ar": "العاصمة المالية الأنيقة على بحيرة زوريخ، تشتهر بـ شارع باهنهوفشتراسه للتسوق، المدينة القديمة، وإطلالة جبال الألب.",
-          "en": "Global financial center on Lake Zurich, famous for Bahnhofstrasse, Altstadt, and Lindt Home of Chocolate.",
-          "tr": "Bahnhofstrasse, Altstadt ve Lindt Çikolata Evi ile ünlü Lake Zürih kıyısındaki finans merkezi."
-        },
-        "image": "res://images/zurich.png",
-        "bg_image": "res://images/zurich_bg.png",
-        "image_3d": "res://images/zurich_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle",
-          "rent house"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "city transport",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق ذا دولدر غراند زوريخ (The Dolder Grand)",
-              "en": "The Dolder Grand Zurich",
-              "tr": "The Dolder Grand Zürih"
-            },
-            "image": "res://images/dolder_grand.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "فندق أوتيل باو أو لاك زوريخ (Baur au Lac)",
-              "en": "Baur au Lac Zurich",
-              "tr": "Baur au Lac Zürih"
-            },
-            "image": "res://images/baur_au_lac.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم أوتيل دولدر غراند زوريخ (The Restaurant)",
-              "en": "The Restaurant by Heiko Nieder",
-              "tr": "The Restaurant Zürih"
-            },
-            "image": "res://images/the_restaurant_zurich.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "مأكولات سويسرية وأوروبية راقية 2 نجوم ميشلان",
-              "en": "Two-Michelin-starred Alpine Fine Dining",
-              "tr": "İki Michelin Yıldızlı Lüks Alp Mutfağı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "شارع باهنهوفشتراسه الفاخر (Bahnhofstrasse)",
-              "en": "Bahnhofstrasse Shopping Avenue",
-              "tr": "Bahnhofstrasse Alışveriş Bulvarı"
-            },
-            "image": "res://images/bahnhofstrasse.png",
-            "description": {
-              "ar": "أفخم وأغلى شارع تسوق عالمي يضم الساعات السويسرية الفاخرة والبنوك العالمية.",
-              "en": "World's most exclusive downtown shopping boulevard lined with haute horlogerie boutiques.",
-              "tr": "Lüks saat butikleriyle dolu dünyanın en seçkin alışveriş caddesi."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "متحف ومتحف ليندت للشوكولاتة (Lindt Home of Chocolate)",
-              "en": "Lindt Home of Chocolate",
-              "tr": "Lindt Çikolata Müzesi"
-            },
-            "image": "res://images/lindt_zurich.png",
-            "description": {
-              "ar": "متحف تفاعلي فريد يضم أطول نافورة شوكولاتة سائلة في العالم بارتفاع 9 أمتار.",
-              "en": "Interactive chocolate museum featuring a 9-meter tall free-standing chocolate fountain.",
-              "tr": "9 metre yüksekliğinde çikolata fıskiyesine sahip etkileşimli çikolata müzesi."
-            }
-          }
-        ]
-      },
-      "interlaken": {
-        "names": {
-          "ar": "إنترلاكن (قلب جبال الألب)",
-          "en": "Interlaken",
-          "tr": "Interlaken"
-        },
-        "description": {
-          "ar": "عاصمة الطبيعة والمغامرات السويسرية الواقعة بين بحيرتي ثون وبرينز، بوابة قمة يونغفراوجوخ الشاهقة.",
-          "en": "Swiss alpine resort town flanked by Lake Thun and Lake Brienz, gateway to Jungfraujoch Top of Europe.",
-          "tr": "Thun ve Brienz gölleri arasında, Jungfraujoch'a açılan kapı olan İsviçre alp şehri."
-        },
-        "image": "res://images/interlaken.png",
-        "bg_image": "res://images/interlaken_bg.png",
-        "image_3d": "res://images/interlaken_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "driver",
-          "luxury lifstyle"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق أوتيل فيكتوريا يونغفراو إنترلاكن (Victoria-Jungfrau)",
-              "en": "Victoria-Jungfrau Grand Hotel & Spa",
-              "tr": "Victoria-Jungfrau Grand Hotel & Spa"
-            },
-            "image": "res://images/victoria_jungfrau.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم بيسترو ههويمايت إنترلاكن (La Terrasse)",
-              "en": "La Terrasse Brasserie Interlaken",
-              "tr": "La Terrasse Restoran Interlaken"
-            },
-            "image": "res://images/la_terrasse_interlaken.png",
-            "rating": "4.9",
-            "cuisine": {
-              "ar": "فوندو الجبن السويسري وشنيتزل وجبات جبال الألب",
-              "en": "Traditional Swiss Cheese Fondue & Alpine Fine Dining",
-              "tr": "Geleneksel İsviçre Peynir Fondu ve Alp Yemeği"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "قمة يونغفراوجوخ (Jungfraujoch - Top of Europe)",
-              "en": "Jungfraujoch Top of Europe",
-              "tr": "Jungfraujoch (Avrupa'nın Zirvesi)"
-            },
-            "image": "res://images/jungfraujoch.png",
-            "description": {
-              "ar": "أعلى محطة قطار في أوروبا بارتفاع 3,454 متراً يضم قصر الجليد ومطل نهر أليتش الجليدي.",
-              "en": "Highest railway station in Europe at 3,454 meters overlooking the Great Aletsch Glacier.",
-              "tr": "Büyük Aletsch Buzulu'na bakan 3.454 metre ile Avrupa'nın en yüksek tren istasyonu."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "قرية وشلالات غريندلفالد ولاوتربرونين (Grindelwald & Lauterbrunnen)",
-              "en": "Lauterbrunnen Valley & Staubbach Falls",
-              "tr": "Lauterbrunnen Vadisi ve Şelaleleri"
-            },
-            "image": "res://images/lauterbrunnen.png",
-            "description": {
-              "ar": "وادي الـ 72 شلالاً الخرافي المحاط بالأكواخ الخشبية والقمم الثلجية.",
-              "en": "Fairy-tale valley featuring 72 cascading waterfalls and sheer vertical cliffs.",
-              "tr": "72 şelalesi ve dik kayalıklarıyla ünlü masalsı İsviçre vadisi."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "zurich": {
+      "names": { "ar": "زيورخ", "en": "Zurich", "tr": "Zürih" }
+    },
+    "geneva": {
+      "names": { "ar": "جنيف", "en": "Geneva", "tr": "Cenevre" }
+    },
+    "lucerne": {
+      "names": { "ar": "لوزيرن", "en": "Lucerne", "tr": "Luzern" }
+    },
+    "interlaken": {
+      "names": { "ar": "إنترلاكن", "en": "Interlaken", "tr": "Interlaken" }
+    },
+    "zermatt": {
+      "names": { "ar": "زيرمات", "en": "Zermatt", "tr": "Zermatt" }
+    },
+    "bern": {
+      "names": { "ar": "برن", "en": "Bern", "tr": "Bern" }
+    },
+    "lauterbrunnen": {
+      "names": { "ar": "لاوتربرونن", "en": "Lauterbrunnen", "tr": "Lauterbrunnen" }
+    },
+    "grindelwald": {
+      "names": { "ar": "غريندلفالد", "en": "Grindelwald", "tr": "Grindelwald" }
+    },
+    "jungfrau_region": {
+      "names": { "ar": "منطقة يونغفراو", "en": "Jungfrau Region", "tr": "Jungfrau Bölgesi" }
+    },
+    "basel": {
+      "names": { "ar": "بازل", "en": "Basel", "tr": "Basel" }
+    },
+    "montreux": {
+      "names": { "ar": "مونترو", "en": "Montreux", "tr": "Montrö" }
+    },
+    "lausanne": {
+      "names": { "ar": "لوزان", "en": "Lausanne", "tr": "Lozan" }
+    },
+    "st_moritz": {
+      "names": { "ar": "سانت موريتز", "en": "St. Moritz", "tr": "St. Moritz" }
+    },
+    "davos": {
+      "names": { "ar": "دافوس", "en": "Davos", "tr": "Davos" }
+    },
+    "lugano": {
+      "names": { "ar": "لوغانو", "en": "Lugano", "tr": "Lugano" }
+    },
+    "bernese_oberland": {
+      "names": { "ar": "بيرنيز أوبرلاند", "en": "Bernese Oberland", "tr": "Bernese Oberland" }
+    },
+    "lauterbrunnen_valley": {
+      "names": { "ar": "وادي لاوتربرونن", "en": "Lauterbrunnen Valley", "tr": "Lauterbrunnen Vadisi" }
+    },
+    "wengen": {
+      "names": { "ar": "فينغن", "en": "Wengen", "tr": "Wengen" }
+    },
+    "murren": {
+      "names": { "ar": "مورن", "en": "Mürren", "tr": "Mürren" }
+    },
+    "gstaad": {
+      "names": { "ar": "غشتاد", "en": "Gstaad", "tr": "Gstaad" }
+    },
+    "engelberg": {
+      "names": { "ar": "إنغلبرغ", "en": "Engelberg", "tr": "Engelberg" }
+    },
+    "lavaux": {
+      "names": { "ar": "لافو", "en": "Lavaux", "tr": "Lavaux" }
+    },
+    "gruyeres": {
+      "names": { "ar": "غرويير", "en": "Gruyères", "tr": "Gruyères" }
+    },
+    "thun": {
+      "names": { "ar": "تون", "en": "Thun", "tr": "Thun" }
+    },
+    "brienz": {
+      "names": { "ar": "برينز", "en": "Brienz", "tr": "Brienz" }
+    },
+    "crans_montana": {
+      "names": { "ar": "كرانس مونتانا", "en": "Crans-Montana", "tr": "Crans-Montana" }
+    },
+    "verbier": {
+      "names": { "ar": "فيربييه", "en": "Verbier", "tr": "Verbier" }
+    },
+    "saas_fee": {
+      "names": { "ar": "ساس في", "en": "Saas-Fee", "tr": "Saas-Fee" }
+    },
+    "andermatt": {
+      "names": { "ar": "أندرمات", "en": "Andermatt", "tr": "Andermatt" }
+    },
+    "locarno": {
+      "names": { "ar": "لوكارنو", "en": "Locarno", "tr": "Locarno" }
+    },
+    "ascona": {
+      "names": { "ar": "أسكونا", "en": "Ascona", "tr": "Ascona" }
+    },
+    "vevey": {
+      "names": { "ar": "فيفي", "en": "Vevey", "tr": "Vevey" }
+    },
+    "st_gallen": {
+      "names": { "ar": "سانت غالن", "en": "St. Gallen", "tr": "St. Gallen" }
+    },
+    "stein_am_rhein": {
+      "names": { "ar": "شتاين أم راين", "en": "Stein am Rhein", "tr": "Stein am Rhein" }
+    },
+    "schaffhausen": {
+      "names": { "ar": "شافهاوزن", "en": "Schaffhausen", "tr": "Schaffhausen" }
+    },
+    "valais": {
+      "names": { "ar": "فاليه", "en": "Valais", "tr": "Valais (Wallis)" }
+    },
+    "ticino": {
+      "names": { "ar": "تيتشينو", "en": "Ticino", "tr": "Ticino" }
+    },
+    "vaud": {
+      "names": { "ar": "فو", "en": "Vaud", "tr": "Vaud" }
+    },
+    "graubunden": {
+      "names": { "ar": "غراوبوندن", "en": "Graubünden", "tr": "Graubünden" }
+    },
+    "klosters": {
+      "names": { "ar": "كلوسترز", "en": "Klosters", "tr": "Klosters" }
+    },
+    "arosa": {
+      "names": { "ar": "أروزا", "en": "Arosa", "tr": "Arosa" }
+    },
+    "kandersteg": {
+      "names": { "ar": "كانديرشتيغ", "en": "Kandersteg", "tr": "Kandersteg" }
+    },
+    "adelboden": {
+      "names": { "ar": "أدلبودن", "en": "Adelboden", "tr": "Adelboden" }
+    },
+    "leukerbad": {
+      "names": { "ar": "لوكرباد", "en": "Leukerbad", "tr": "Leukerbad" }
+    },
+    "meiringen": {
+      "names": { "ar": "مايرينغن", "en": "Meiringen", "tr": "Meiringen" }
+    },
+    "spiez": {
+      "names": { "ar": "شبيز", "en": "Spiez", "tr": "Spiez" }
+    },
+    "sion": {
+      "names": { "ar": "سيون", "en": "Sion", "tr": "Sion" }
+    },
+    "chur": {
+      "names": { "ar": "خور", "en": "Chur", "tr": "Chur" }
+    },
+    "engadine_valley": {
+      "names": { "ar": "وادي إنغادين", "en": "Engadine Valley", "tr": "Engadin Vadisi" }
+    },
+    "verzasca_valley": {
+      "names": { "ar": "وادي فيرزاسكا", "en": "Verzasca Valley", "tr": "Verzasca Vadisi" }
+    },
+    "appenzell": {
+      "names": { "ar": "أبينزيل", "en": "Appenzell", "tr": "Appenzell" }
+    },
+    "einsiedeln": {
+      "names": { "ar": "أينسيديلن", "en": "Einsiedeln", "tr": "Einsiedeln" }
+    },
+    "bellinzona": {
+      "names": { "ar": "بيلينزونا", "en": "Bellinzona", "tr": "Bellinzona" }
+    },
+    "neuchatel": {
+      "names": { "ar": "نوشاتيل", "en": "Neuchâtel", "tr": "Neuchâtel" }
+    },
+    "fribourg": {
+      "names": { "ar": "فريبورغ", "en": "Fribourg", "tr": "Fribourg" }
+    },
+    "zug": {
+      "names": { "ar": "زوغ", "en": "Zug", "tr": "Zug" }
+    },
+    "nyon": {
+      "names": { "ar": "نيون", "en": "Nyon", "tr": "Nyon" }
+    },
+    "rapperswil_jona": {
+      "names": { "ar": "رابرسبيل يونا", "en": "Rapperswil-Jona", "tr": "Rapperswil-Jona" }
+    },
+    "weggis": {
+      "names": { "ar": "فيغيس", "en": "Weggis", "tr": "Weggis" }
+    },
+    "vitznau": {
+      "names": { "ar": "فيتسناو", "en": "Vitznau", "tr": "Vitznau" }
+    },
+    "grindelwald_first": {
+      "names": { "ar": "غريندلفالد فيرست", "en": "Grindelwald-First", "tr": "Grindelwald-First" }
+    },
+    "gimmelwald": {
+      "names": { "ar": "غيملفالد", "en": "Gimmelwald", "tr": "Gimmelwald" }
+    },
+    "pontresina": {
+      "names": { "ar": "بونتريسينا", "en": "Pontresina", "tr": "Pontresina" }
+    },
+    "villars_sur_ollon": {
+      "names": { "ar": "فيلار سور أولون", "en": "Villars-sur-Ollon", "tr": "Villars-sur-Ollon" }
+    },
+    "leysin": {
+      "names": { "ar": "ليزان", "en": "Leysin", "tr": "Leysin" }
+    },
+    "champery": {
+      "names": { "ar": "شامبيري", "en": "Champéry", "tr": "Champéry" }
+    },
+    "nendaz": {
+      "names": { "ar": "ناندا", "en": "Nendaz", "tr": "Nendaz" }
+    },
+    "fiesch": {
+      "names": { "ar": "فيش", "en": "Fiesch", "tr": "Fiesch" }
+    },
+    "lenk_im_simmental": {
+      "names": { "ar": "لينك إم زيمنتال", "en": "Lenk im Simmental", "tr": "Lenk im Simmental" }
+    },
+    "brunnen": {
+      "names": { "ar": "برونن", "en": "Brunnen", "tr": "Brunnen" }
+    },
+    "baden": {
+      "names": { "ar": "بادن", "en": "Baden", "tr": "Baden" }
+    },
+    "solothurn": {
+      "names": { "ar": "سولوثورن", "en": "Solothurn", "tr": "Solothurn" }
+    },
+    "murten": {
+      "names": { "ar": "مورتن", "en": "Murten", "tr": "Murten" }
+    },
+    "yverdon_les_bains": {
+      "names": { "ar": "إيفردون ليه با", "en": "Yverdon-les-Bains", "tr": "Yverdon-les-Bains" }
+    },
+    "beatenberg": {
+      "names": { "ar": "بياتنبرغ", "en": "Beatenberg", "tr": "Beatenberg" }
+    },
+    "wilderswil": {
+      "names": { "ar": "فيلدرسفيل", "en": "Wilderswil", "tr": "Wilderswil" }
+    },
+    "maggia_valley": {
+      "names": { "ar": "وادي ماجيا", "en": "Maggia Valley", "tr": "Maggia Vadisi" }
+    },
+    "matter_valley": {
+      "names": { "ar": "وادي ماترتال", "en": "Matter Valley", "tr": "Matter Vadisi" }
+    },
+    "saastal": {
+      "names": { "ar": "وادي ساس", "en": "Saastal", "tr": "Saastal" }
+    },
+    "emmental": {
+      "names": { "ar": "إمنتال", "en": "Emmental", "tr": "Emmental" }
+    },
+    "simmental": {
+      "names": { "ar": "زيمنتال", "en": "Simmental", "tr": "Simmental" }
+    },
+    "kandertal": {
+      "names": { "ar": "كانديرتال", "en": "Kandertal", "tr": "Kandertal" }
+    },
+    "haslital": {
+      "names": { "ar": "هازليتال", "en": "Haslital", "tr": "Haslital" }
+    },
+    "val_danniviers": {
+      "names": { "ar": "فال دانيفييه", "en": "Val d’Anniviers", "tr": "Val d’Anniviers" }
+    },
+    "val_dherens": {
+      "names": { "ar": "فال ديران", "en": "Val d’Hérens", "tr": "Val d’Hérens" }
+    },
+    "lotschental": {
+      "names": { "ar": "لوتشنتال", "en": "Lötschental", "tr": "Lötschental" }
+    },
+    "saanenland": {
+      "names": { "ar": "سانينلاند", "en": "Saanenland", "tr": "Saanenland" }
+    },
+    "goms": {
+      "names": { "ar": "غومز", "en": "Goms", "tr": "Goms" }
+    },
+    "valposchiavo": {
+      "names": { "ar": "فالبوسكيافو", "en": "Valposchiavo", "tr": "Valposchiavo" }
+    },
+    "val_bregaglia": {
+      "names": { "ar": "فال بريغاليا", "en": "Val Bregaglia", "tr": "Val Bregaglia" }
+    },
+    "appenzell_innerrhoden": {
+      "names": { "ar": "أبينزيل إينرهودن", "en": "Appenzell Innerrhoden", "tr": "Appenzell Innerrhoden" }
+    },
+    "appenzell_ausserrhoden": {
+      "names": { "ar": "أبينزيل أوسرهودن", "en": "Appenzell Ausserrhoden", "tr": "Appenzell Ausserrhoden" }
+    },
+    "appenzell_alps": {
+      "names": { "ar": "جبال الألب الأبينزيلية", "en": "Appenzell Alps", "tr": "Appenzell Alpleri" }
+    },
+    "aargau": {
+      "names": { "ar": "أرغاو", "en": "Aargau", "tr": "Aargau" }
+    },
+    "thurgau": {
+      "names": { "ar": "تورغاو", "en": "Thurgau", "tr": "Thurgau" }
+    },
+    "schwyz": {
+      "names": { "ar": "شفيتس", "en": "Schwyz", "tr": "Schwyz" }
+    },
+    "uri": {
+      "names": { "ar": "أوري", "en": "Uri", "tr": "Uri" }
+    },
+    "obwalden": {
+      "names": { "ar": "أوبفالدن", "en": "Obwalden", "tr": "Obwalden" }
+    },
+    "nidwalden": {
+      "names": { "ar": "نيدفالدن", "en": "Nidwalden", "tr": "Nidwalden" }
+    },
+    "glarus": {
+      "names": { "ar": "غلاروس", "en": "Glarus", "tr": "Glarus" }
+    },
+    "basel_landschaft": {
+      "names": { "ar": "بازل-لاندشافت", "en": "Basel-Landschaft", "tr": "Basel-Landschaft" }
+    },
+    "jura": {
+      "names": { "ar": "جورا", "en": "Jura", "tr": "Jura" }
+    },
+    "mendrisio": {
+      "names": { "ar": "مندريزيو", "en": "Mendrisio", "tr": "Mendrisio" }
+    },
+    "rolle": {
+      "names": { "ar": "رول", "en": "Rolle", "tr": "Rolle" }
+    },
+    "estavayer_le_lac": {
+      "names": { "ar": "إستافاييه لو لاك", "en": "Estavayer-le-Lac", "tr": "Estavayer-le-Lac" }
+    },
+    "porrentruy": {
+      "names": { "ar": "بورينتري", "en": "Porrentruy", "tr": "Porrentruy" }
+    },
+    "heiden": {
+      "names": { "ar": "هايدن", "en": "Heiden", "tr": "Heiden" }
+    },
+    "morgins": {
+      "names": { "ar": "مورجين", "en": "Morgins", "tr": "Morgins" }
+    },
+    "champoussin": {
+      "names": { "ar": "شامبوسان", "en": "Champoussin", "tr": "Champoussin" }
+    },
+    "toggenburg": {
+      "names": { "ar": "توغينبورغ", "en": "Toggenburg", "tr": "Toggenburg" }
+    },
+    "surselva": {
+      "names": { "ar": "سورسيلفا", "en": "Surselva", "tr": "Surselva" }
+    },
+    "val_mustair": {
+      "names": { "ar": "فال موستير", "en": "Val Müstair", "tr": "Val Müstair" }
+    },
+    "urseren_valley": {
+      "names": { "ar": "وادي أورزيرن", "en": "Urseren Valley", "tr": "Urseren Vadisi" }
+    },
+    "val_dilliez": {
+      "names": { "ar": "فال ديلييه", "en": "Val d’Illiez", "tr": "Val d’Illiez" }
+    },
+    "val_de_travers": {
+      "names": { "ar": "فال دو ترافير", "en": "Val-de-Travers", "tr": "Val-de-Travers" }
+    },
+    "blenio_valley": {
+      "names": { "ar": "وادي بلينيو", "en": "Blenio Valley", "tr": "Blenio Vadisi" }
+    },
+    "three_lakes_region": {
+      "names": { "ar": "منطقة البحيرات الثلاث", "en": "Three-Lakes Region", "tr": "Üç Göller Bölgesi" }
+    },
+    "fricktal": {
+      "names": { "ar": "فريكستال", "en": "Fricktal", "tr": "Fricktal" }
     }
   }
 }

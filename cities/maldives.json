@@ -1,190 +1,304 @@
 {
-  "maldives": {
-    "needs_ad": false,
-    "cities": {
-      "male": {
-        "names": {
-          "ar": "ماليه",
-          "en": "Male",
-          "tr": "Male"
-        },
-        "description": {
-          "ar": "عاصمة جزر المالديف المكتظة والجذابة، تشتهر بـ المسجد الكبير المذهب، سوق الأسماك، والموانئ المائية الملونة.",
-          "en": "The densely populated island capital, home to the Grand Friday Mosque and bustling Fish Market.",
-          "tr": "Büyük Cuma Camii ve Balık Pazarı'na ev sahipliği yapan yoğun nüfuslu ada başkenti."
-        },
-        "image": "res://images/male.png",
-        "bg_image": "res://images/male_bg.png",
-        "image_3d": "res://images/male_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "taxi",
-          "rent_car",
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "cultural Places",
-          "religious places",
-          "restaurant",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "فندق شيراتون المالديف المائي (Sheraton Full Moon)",
-              "en": "Sheraton Maldives Full Moon Resort & Spa",
-              "tr": "Sheraton Maldives Full Moon Resort & Spa"
-            },
-            "image": "res://images/sheraton_maldives.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم سيغراس كافيه ماليه (Symphony Solo)",
-              "en": "Seagull Café House Malé",
-              "tr": "Seagull Café House Malé"
-            },
-            "image": "res://images/seagull_male.png",
-            "rating": "4.8",
-            "cuisine": {
-              "ar": "أسماك المالديف الطازجة وآيس كريم جوز الهند",
-              "en": "Fresh Maldivian Seafood & Gelato",
-              "tr": "Taze Maldiv Deniz Ürünleri ve Dondurma"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "مسجد الجمعة الكبير (Grand Friday Mosque)",
-              "en": "Grand Friday Mosque (Islamic Centre)",
-              "tr": "Büyük Cuma Camii (İslam Merkezi)"
-            },
-            "image": "res://images/grand_friday_mosque.png",
-            "description": {
-              "ar": "أضخم مسجد في المالديف بقبة ذهبية متلألئة تتسع لأكثر من 5,000 مصلي.",
-              "en": "Imposing white-marble architectural landmark topped with a golden dome.",
-              "tr": "Altın kubbe ile taçlandırılmış beyaz mermer mimari simge."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "سوق الأسماك المركزي في ماليه (Malé Fish Market)",
-              "en": "Malé Fish Market",
-              "tr": "Malé Balık Pazarı"
-            },
-            "image": "res://images/male_fish_market.png",
-            "description": {
-              "ar": "قلب التجارة اليومية لرؤية صيد أسماك التونة العملاقة الطازجة من المحيط.",
-              "en": "Vibrant waterfront market where fishermen bring giant yellowfin tuna daily.",
-              "tr": "Balıkçıların dev sarıkanat ton balıklarını getirdiği canlı sahil pazarı."
-            }
-          }
-        ]
-      },
-      "ari_atoll": {
-        "names": {
-          "ar": "آري أتول (الفيلات المائية)",
-          "en": "Ari Atoll",
-          "tr": "Ari Atoll"
-        },
-        "description": {
-          "ar": "أشهر حلقة جزر المالديف للفنادق المعلقة فوق الماء والسباحة مع أسماك قرش الحوت والمانتا راي.",
-          "en": "Premier atoll ring, famous for overwater bungalows, crystal lagoons, and whale shark diving.",
-          "tr": "Su üstü bungalovları, berrak lagünleri ve balina köpekbalığı dalışlarıyla ünlü atol."
-        },
-        "image": "res://images/ari_atoll.png",
-        "bg_image": "res://images/ari_atoll_bg.png",
-        "image_3d": "res://images/ari_atoll_3d.png",
-        "is_soon": false,
-        "available_services": [
-          "luxury lifstyle",
-          "cruise"
-        ],
-        "available_categories": [
-          "hotels",
-          "places",
-          "restaurant",
-          "beaches",
-          "attractions"
-        ],
-        "hotels": [
-          {
-            "name": {
-              "ar": "منتجع كونراد رانغالي المالديف (فندق تحت الماء)",
-              "en": "Conrad Maldives Rangali Island",
-              "tr": "Conrad Maldives Rangali Island"
-            },
-            "image": "res://images/conrad_maldives.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          },
-          {
-            "name": {
-              "ar": "منتجع وولدورف أستوريا المالديف إيثافوشي",
-              "en": "Waldorf Astoria Maldives Ithaafushi",
-              "tr": "Waldorf Astoria Maldives Ithaafushi"
-            },
-            "image": "res://images/waldorf_maldives.png",
-            "rating": "5 Stars",
-            "website": "https://example.com"
-          }
-        ],
-        "restaurants": [
-          {
-            "name": {
-              "ar": "مطعم إيثا المائي تحت البحر (Ithaa Undersea Restaurant)",
-              "en": "Ithaa Undersea Restaurant",
-              "tr": "Ithaa Su Altı Restoranı"
-            },
-            "image": "res://images/ithaa_undersea.png",
-            "rating": "5.0",
-            "cuisine": {
-              "ar": "أول مطعم زجاجي بالكامل تحت سطح المحيط بـ 5 أمتار",
-              "en": "The world's first all-glass undersea fine dining restaurant",
-              "tr": "Dünyanın ilk tamamen cam su altı lüks restoranı"
-            }
-          }
-        ],
-        "attractions": [
-          {
-            "name": {
-              "ar": "السباحة مع القرش الحوتي (Whale Shark Sanctuary Ari Atoll)",
-              "en": "South Ari Atoll Whale Shark Reserve",
-              "tr": "Güney Ari Atolu Balına Köpekbalığı Alanı"
-            },
-            "image": "res://images/whale_shark_maldives.png",
-            "description": {
-              "ar": "الموقع الوحيد في العالم الذي يمكن فيه رؤية وتأمل القرش الحوتي على مدار العام.",
-              "en": "Protected marine area famous for year-round whale shark snorkeling encounters.",
-              "tr": "Yıl boyunca balina köpekbalıklarıyla şnorkel imkanı sunan korumalı deniz alanı."
-            }
-          }
-        ],
-        "places": [
-          {
-            "name": {
-              "ar": "شواطئ الفيلات الفيروزية المائية (Overwater Villa Lagoons)",
-              "en": "Overwater Villa Lagoons",
-              "tr": "Su Üstü Lagünleri"
-            },
-            "image": "res://images/overwater_villas.png",
-            "description": {
-              "ar": "بحيرات زجاجية زرقاء تحوي الفيلات ذات المسبح الخاص مع نزول مباشر للشعب المرجانية.",
-              "en": "Crystal clear shallow lagoons with private overwater sundecks and house reefs.",
-              "tr": "Özel su üstü teraslarına ve ev resiflerine sahip berrak sığ lagünler."
-            }
-          }
-        ]
-      }
+  "cities": {
+    "male": {
+      "names": { "ar": "ماليه", "en": "Malé", "tr": "Male" }
+    },
+    "hulhumale": {
+      "names": { "ar": "هولهوماليه", "en": "Hulhumalé", "tr": "Hulhumalé" }
+    },
+    "maafushi": {
+      "names": { "ar": "مافوشي", "en": "Maafushi", "tr": "Maafushi" }
+    },
+    "soneva_jani": {
+      "names": { "ar": "سونيڤا جاني", "en": "Soneva Jani", "tr": "Soneva Jani" }
+    },
+    "soneva_fushi": {
+      "names": { "ar": "سونيڤا فوشي", "en": "Soneva Fushi", "tr": "Soneva Fushi" }
+    },
+    "baa_atoll": {
+      "names": { "ar": "باء أتول", "en": "Baa Atoll", "tr": "Baa Atolü" }
+    },
+    "kaafu_atoll": {
+      "names": { "ar": "كافو أتول", "en": "Kaafu Atoll", "tr": "Kaafu Atolü" }
+    },
+    "hurawalhi": {
+      "names": { "ar": "هوروالهي", "en": "Hurawalhi", "tr": "Hurawalhi" }
+    },
+    "kuramathi": {
+      "names": { "ar": "كوراماتي", "en": "Kuramathi", "tr": "Kuramathi" }
+    },
+    "fuvahmulah": {
+      "names": { "ar": "فوفامولاه", "en": "Fuvahmulah", "tr": "Fuvahmulah" }
+    },
+    "dhigurah": {
+      "names": { "ar": "ديغورا", "en": "Dhigurah", "tr": "Dhigurah" }
+    },
+    "meeru": {
+      "names": { "ar": "ميرو", "en": "Meeru", "tr": "Meeru" }
+    },
+    "baros": {
+      "names": { "ar": "باروس", "en": "Baros", "tr": "Baros" }
+    },
+    "bandos": {
+      "names": { "ar": "باندوس", "en": "Bandos", "tr": "Bandos" }
+    },
+    "kuredu": {
+      "names": { "ar": "كوريدو", "en": "Kuredu", "tr": "Kuredu" }
+    },
+    "thoddoo": {
+      "names": { "ar": "تودو", "en": "Thoddoo", "tr": "Thoddoo" }
+    },
+    "fulidhoo": {
+      "names": { "ar": "فوليدو", "en": "Fulidhoo", "tr": "Fulidhoo" }
+    },
+    "alifu_alifu_atoll": {
+      "names": { "ar": "أليفو أليفو أتول", "en": "Alifu Alifu Atoll", "tr": "Alifu Alifu Atolü" }
+    },
+    "alifu_dhaalu_atoll": {
+      "names": { "ar": "أليفو دالو أتول", "en": "Alifu Dhaalu Atoll", "tr": "Alifu Dhaalu Atolü" }
+    },
+    "joali": {
+      "names": { "ar": "جوالي", "en": "Joali", "tr": "Joali" }
+    },
+    "sun_island": {
+      "names": { "ar": "صن آيلاند", "en": "Sun Island", "tr": "Sun Island" }
+    },
+    "rasdhoo": {
+      "names": { "ar": "راسدو", "en": "Rasdhoo", "tr": "Rasdhoo" }
+    },
+    "ukulhas": {
+      "names": { "ar": "أوكولهاس", "en": "Ukulhas", "tr": "Ukulhas" }
+    },
+    "thulusdhoo": {
+      "names": { "ar": "تولوسدو", "en": "Thulusdhoo", "tr": "Thulusdhoo" }
+    },
+    "lily_beach": {
+      "names": { "ar": "ليلي بيتش", "en": "Lily Beach", "tr": "Lily Beach" }
+    },
+    "kudadoo": {
+      "names": { "ar": "كودادو", "en": "Kudadoo", "tr": "Kudadoo" }
+    },
+    "anantara_dhigu": {
+      "names": { "ar": "أنانتارا ديغو", "en": "Anantara Dhigu", "tr": "Anantara Dhigu" }
+    },
+    "anantara_veli": {
+      "names": { "ar": "أنانتارا فيلي", "en": "Anantara Veli", "tr": "Anantara Veli" }
+    },
+    "ozen_reserve_bolifushi": {
+      "names": { "ar": "أوزين بوليفوشي", "en": "Ozen Reserve Bolifushi", "tr": "Ozen Reserve Bolifushi" }
+    },
+    "joali_being": {
+      "names": { "ar": "جوالي بيينغ", "en": "Joali Being", "tr": "Joali Being" }
+    },
+    "milaidhoo": {
+      "names": { "ar": "ملايدو", "en": "Milaidhoo", "tr": "Milaidhoo" }
+    },
+    "amilla_fushi": {
+      "names": { "ar": "أميلا فوشي", "en": "Amilla Fushi", "tr": "Amilla Fushi" }
+    },
+    "vakkaru": {
+      "names": { "ar": "فاكارو", "en": "Vakkaru", "tr": "Vakkaru" }
+    },
+    "finolhu": {
+      "names": { "ar": "فينولهو", "en": "Finolhu", "tr": "Finolhu" }
+    },
+    "seenu_atoll": {
+      "names": { "ar": "سينو (أدو أتول)", "en": "Seenu (Addu) Atoll", "tr": "Seenu (Addu) Atolü" }
+    },
+    "lhaviyani_atoll": {
+      "names": { "ar": "لهافياني أتول", "en": "Lhaviyani Atoll", "tr": "Lhaviyani Atolü" }
+    },
+    "raa_atoll": {
+      "names": { "ar": "را أتول", "en": "Raa Atoll", "tr": "Raa Atolü" }
+    },
+    "noonu_atoll": {
+      "names": { "ar": "نونو أتول", "en": "Noonu Atoll", "tr": "Noonu Atolü" }
+    },
+    "dhiffushi": {
+      "names": { "ar": "ديفوشي", "en": "Dhiffushi", "tr": "Dhiffushi" }
+    },
+    "gulhi": {
+      "names": { "ar": "جولهي", "en": "Gulhi", "tr": "Gulhi" }
+    },
+    "fulhadhoo": {
+      "names": { "ar": "فولهادو", "en": "Fulhadhoo", "tr": "Fulhadhoo" }
+    },
+    "veligandu": {
+      "names": { "ar": "فيليغاندو", "en": "Veligandu", "tr": "Veligandu" }
+    },
+    "vilamendhoo": {
+      "names": { "ar": "فيلاميندو", "en": "Vilamendhoo", "tr": "Vilamendhoo" }
+    },
+    "kandooma": {
+      "names": { "ar": "كاندوما", "en": "Kandooma", "tr": "Kandooma" }
+    },
+    "olhuveli": {
+      "names": { "ar": "أولهوفيلي", "en": "Olhuveli", "tr": "Olhuveli" }
+    },
+    "fihalhohi": {
+      "names": { "ar": "فيهالهوهي", "en": "Fihalhohi", "tr": "Fihalhohi" }
+    },
+    "adaaran_rannalhi": {
+      "names": { "ar": "أداران رانالهي", "en": "Adaaran Rannalhi", "tr": "Adaaran Rannalhi" }
+    },
+    "adaaran_hudhuranfushi": {
+      "names": { "ar": "أداران هودهورانفوشي", "en": "Adaaran Hudhuranfushi", "tr": "Adaaran Hudhuranfushi" }
+    },
+    "adaaran_meedhupparu": {
+      "names": { "ar": "أداران ميدهوبارو", "en": "Adaaran Meedhupparu", "tr": "Adaaran Meedhupparu" }
+    },
+    "reethi_beach": {
+      "names": { "ar": "ريثي بيتش", "en": "Reethi Beach", "tr": "Reethi Beach" }
+    },
+    "coco_palm_dhuni_kolhu": {
+      "names": { "ar": "كوكو بالم دوني كولهو", "en": "Coco Palm Dhuni Kolhu", "tr": "Coco Palm Dhuni Kolhu" }
+    },
+    "komandoo": {
+      "names": { "ar": "كوماندو", "en": "Komandoo", "tr": "Komandoo" }
+    },
+    "dhigali": {
+      "names": { "ar": "ديغالي", "en": "Dhigali", "tr": "Dhigali" }
+    },
+    "dharavandhoo": {
+      "names": { "ar": "دارافاندو", "en": "Dharavandhoo", "tr": "Dharavandhoo" }
+    },
+    "himmafushi": {
+      "names": { "ar": "هيمافوشي", "en": "Himmafushi", "tr": "Himmafushi" }
+    },
+    "guraidhoo": {
+      "names": { "ar": "غورايدو", "en": "Guraidhoo", "tr": "Guraidhoo" }
+    },
+    "dhangethi": {
+      "names": { "ar": "دانغيتي", "en": "Dhangethi", "tr": "Dhangethi" }
+    },
+    "huraa": {
+      "names": { "ar": "هورا", "en": "Huraa", "tr": "Huraa" }
+    },
+    "biyadhoo": {
+      "names": { "ar": "بيادو", "en": "Biyadhoo", "tr": "Biyadhoo" }
+    },
+    "embudu": {
+      "names": { "ar": "إمبودو", "en": "Embudu", "tr": "Embudu" }
+    },
+    "kulhudhuffushi": {
+      "names": { "ar": "كولهودوفوشي", "en": "Kulhudhuffushi", "tr": "Kulhudhuffushi" }
+    },
+    "hithadhoo": {
+      "names": { "ar": "هيثادو", "en": "Hithadhoo", "tr": "Hithadhoo" }
+    },
+    "gan": {
+      "names": { "ar": "غان", "en": "Gan", "tr": "Gan" }
+    },
+    "rihiveli": {
+      "names": { "ar": "ريهيفيلي", "en": "Rihiveli", "tr": "Rihiveli" }
+    },
+    "vaavu_atoll": {
+      "names": { "ar": "فافو أتول", "en": "Vaavu Atoll", "tr": "Vaavu Atolü" }
+    },
+    "dhaalu_atoll": {
+      "names": { "ar": "دالو أتول", "en": "Dhaalu Atoll", "tr": "Dhaalu Atolü" }
+    },
+    "gaafu_alifu_atoll": {
+      "names": { "ar": "غافو أليفو أتول", "en": "Gaafu Alifu Atoll", "tr": "Gaafu Alifu Atolü" }
+    },
+    "gaafu_dhaalu_atoll": {
+      "names": { "ar": "غافو دالو أتول", "en": "Gaafu Dhaalu Atoll", "tr": "Gaafu Dhaalu Atolü" }
+    },
+    "laamu_atoll": {
+      "names": { "ar": "لامو أتول", "en": "Laamu Atoll", "tr": "Laamu Atolü" }
+    },
+    "meemu_atoll": {
+      "names": { "ar": "ميمو أتول", "en": "Meemu Atoll", "tr": "Meemu Atolü" }
+    },
+    "faafu_atoll": {
+      "names": { "ar": "فافو أتول", "en": "Faafu Atoll", "tr": "Faafu Atolü" }
+    },
+    "thaa_atoll": {
+      "names": { "ar": "ثاء أتول", "en": "Thaa Atoll", "tr": "Thaa Atolü" }
+    },
+    "shaviyani_atoll": {
+      "names": { "ar": "شافياني أتول", "en": "Shaviyani Atoll", "tr": "Shaviyani Atolü" }
+    },
+    "haa_alifu_atoll": {
+      "names": { "ar": "هاء أليفو أتول", "en": "Haa Alifu Atoll", "tr": "Haa Alifu Atolü" }
+    },
+    "haa_dhaalu_atoll": {
+      "names": { "ar": "هاء دالو أتول", "en": "Haa Dhaalu Atoll", "tr": "Haa Dhaalu Atolü" }
+    },
+    "gnaviyani_atoll": {
+      "names": { "ar": "غنافياني أتول", "en": "Gnaviyani Atoll", "tr": "Gnaviyani Atolü" }
+    },
+    "thinadhoo": {
+      "names": { "ar": "تينادو", "en": "Thinadhoo", "tr": "Thinadhoo" }
+    },
+    "eydhafushi": {
+      "names": { "ar": "إيدافوشي", "en": "Eydhafushi", "tr": "Eydhafushi" }
+    },
+    "mathiveri": {
+      "names": { "ar": "ماثيفيري", "en": "Mathiveri", "tr": "Mathiveri" }
+    },
+    "feridhoo": {
+      "names": { "ar": "فيريدو", "en": "Feridhoo", "tr": "Feridhoo" }
+    },
+    "omadhoo": {
+      "names": { "ar": "أومادو", "en": "Omadhoo", "tr": "Omadhoo" }
+    },
+    "keyodhoo": {
+      "names": { "ar": "كيوذو", "en": "Keyodhoo", "tr": "Keyodhoo" }
+    },
+    "felidhoo": {
+      "names": { "ar": "فيليدو", "en": "Felidhoo", "tr": "Felidhoo" }
+    },
+    "hanimaadhoo": {
+      "names": { "ar": "هانيمادو", "en": "Hanimaadhoo", "tr": "Hanimaadhoo" }
+    },
+    "naifaru": {
+      "names": { "ar": "نايفارو", "en": "Naifaru", "tr": "Naifaru" }
+    },
+    "kudahuvadhoo": {
+      "names": { "ar": "كوداهوفادو", "en": "Kudahuvadhoo", "tr": "Kudahuvadhoo" }
+    },
+    "kamadhoo": {
+      "names": { "ar": "كامادو", "en": "Kamadhoo", "tr": "Kamadhoo" }
+    },
+    "maalhos": {
+      "names": { "ar": "مالهوس", "en": "Maalhos", "tr": "Maalhos" }
+    },
+    "kelaa": {
+      "names": { "ar": "كيلا", "en": "Kelaa", "tr": "Kelaa" }
+    },
+    "dhidhdhoo": {
+      "names": { "ar": "ديدو", "en": "Dhidhdhoo", "tr": "Dhidhdhoo" }
+    },
+    "manadhoo": {
+      "names": { "ar": "مانادو", "en": "Manadhoo", "tr": "Manadhoo" }
+    },
+    "velidhoo": {
+      "names": { "ar": "فيليدو", "en": "Velidhoo", "tr": "Velidhoo" }
+    },
+    "funadhoo": {
+      "names": { "ar": "فونادو", "en": "Funadhoo", "tr": "Funadhoo" }
+    },
+    "hoarafushi": {
+      "names": { "ar": "هورافوشي", "en": "Hoarafushi", "tr": "Hoarafushi" }
+    },
+    "maradhoo": {
+      "names": { "ar": "مارادو", "en": "Maradhoo", "tr": "Maradhoo" }
+    },
+    "feydhoo": {
+      "names": { "ar": "فيدو", "en": "Feydhoo", "tr": "Feydhoo" }
+    },
+    "meedhoo": {
+      "names": { "ar": "ميدو", "en": "Meedhoo", "tr": "Meedhoo" }
+    },
+    "muli": {
+      "names": { "ar": "مولي", "en": "Muli", "tr": "Muli" }
+    },
+    "fonadhoo": {
+      "names": { "ar": "فونادو", "en": "Fonadhoo", "tr": "Fonadhoo" }
+    },
+    "isdhoo": {
+      "names": { "ar": "إسدو", "en": "Isdhoo", "tr": "Isdhoo" }
     }
   }
 }

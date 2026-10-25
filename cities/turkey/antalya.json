@@ -6,10 +6,19 @@
       "tr": "Antalya"
     },
     "description": {
-      "ar": "تُلقب أنطاليا بعروس الساحل التركي وعاصمة السياحة والمنتجعات على البحر الأبيض المتوسط. تجمع المدينة بين زرقة البحر الفيروزي وجبال طوروس الشاهقة المكسوة بغابات الصنوبر، محتضنةً شواطئ رملية ذهبية ومنتجعات شاطئية تُعد من الأرقى عالمياً. تزخر أنطاليا بإرث أثري يمتد لآلاف السنين في أزقة بلدتها القديمة (كالييتشي) ومدرجاتها الرومانية وشلالاتها المتدفقة مباشرة في البحر.",
-      "en": "Antalya is the pearl of the Turkish Riviera and the resort capital of the Mediterranean. The city seamlessly combines turquoise waters with the majestic Taurus Mountains, boasting golden sandy beaches and world-class luxury resorts. Rich with ancient heritage from the narrow alleys of Kaleiçi old town to Greco-Roman amphitheaters and waterfalls cascading directly into the sea.",
-      "tr": "Türk Rivierası'nın incisi ve Akdeniz'in turizm başkenti olan Antalya, turkuaz denizi ve çam ormanlarıyla kaplı görkemli Toros Dağları'nı bir araya getirir. Dünyaca ünlü lüks tatil köyleri, altın kumsalları, tarihi Kaleiçi sokakları, antik tiyatroları ve doğrudan denize dökülen şelaleleriyle benzersiz bir Akdeniz cennetidir."
+      "ar": "تتربع أنطاليا على عرش السياحة التركية وعاصمة الريفييرا الساحرة المطلة على مياه البحر الأبيض المتوسط الفيروزية الدافئة. تحتضن المدينة تمازجاً فريداً بين الطبيعة الخلابة والتاريخ العريق، حيث تعانق جبال طوروس الشاهقة المغطاة بغابات الصنوبر الشواطئ الرملية الممتدة والمنحدرات الصخرية المذهلة والشلالات الهادرة. تفتخر الحاضرة بإرث تاريخي يعود إلى آلاف السنين، مروراً بالحقب الهلنستية والرومانية والبيزنطية والسلجوقية والعثمانية. واليوم، تعد أنطاليا إحدى أكثر الوجهات استقطاباً للزوار في العالم بفضل منتجعاتها الفاخرة، وموانئها التاريخية، وتنوعها الترفيهي والثقافي الاستثنائي.",
+      "en": "Antalya reigns supreme as Turkey's tourism capital and the shining jewel of the Turkish Riviera along the turquoise waters of the Mediterranean Sea. The city boasts an extraordinary harmony between breathtaking nature and ancient history, where the majestic pine-clad Taurus Mountains embrace golden beaches, scenic cliffs, and cascading waterfalls. Antalya is steeped in a rich heritage spanning the Hellenistic, Roman, Byzantine, Seljuk, and Ottoman eras. Today, it ranks among the world's most sought-after holiday destinations, renowned for its world-class resorts, historic harbors, and vibrant cultural and entertainment scene.",
+      "tr": "Antalya, Akdeniz'in turkuaz suları boyunca uzanan büyüleyici Türk Rivierası'nın başkenti ve Türkiye'nin turizm cenneti olarak zirvede yer alır. Şehir, çam ormanlarıyla kaplı görkemli Toros Dağları'nın altın kumsallar, falezler ve coşkulu şelalelerle kucaklaştığı eşsiz bir doğa ve tarih ahengine ev sahipliği yapar. Helenistik, Roma, Bizans, Selçuklu ve Osmanlı dönemlerine uzanan köklü bir geçmişe sahip olan bu metropol; dünya standartlarındaki lüks tatil köyleri, tarihi yat limanı ve dinamik kültürel zenginliğiyle dünyanın en çok ziyaret edilen tatil merkezlerinden biridir."
     },
+    "available_categories": [
+      "hotels",
+      "tours",
+      "places",
+      "cultural Places",
+      "beaches",
+      "restaurants",
+      "city transport"
+    ],
     "airports": [
       {
         "name": {
@@ -20,11 +29,12 @@
         "code": "AYT",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
         "desc": {
-          "ar": "المطار الدولي الرئيسي في منطقة البحر الأبيض المتوسط، ويعد البوابة الجوية الأولى لاستقبال ملايين السياح القادمين إلى منتجعات أنطاليا، بيليك، كيمير، وسيدا. يقع على بعد 13 كم شرق وسط المدينة ويرتبط مباشرة بشبكة ترامواي AntRay وباصات HAVAŞ.",
-          "en": "The primary international gateway to the Turkish Mediterranean, welcoming millions of tourists to Antalya, Belek, Kemer, and Side resorts. Located 13 km east of city center, directly connected via AntRay tram and Havaş airport shuttles.",
-          "tr": "Akdeniz bölgesinin ana uluslararası havalimanıdır. Şehir merkezine 13 km mesafede olup AntRay tramvayı ve HAVAŞ servisleri ile doğrudan şehir merkezine ve otogara bağlanır."
+          "ar": "هو المطار الدولي الرئيسي والمركز المحوري لحركة الطيران والسياحة في جنوب تركيا وساحل البحر الأبيض المتوسط. يقع على بعد حوالي 13 كيلومتراً شرق وسط مدينة أنطاليا في منطقة مراد باشا. يتميز بطاقته الاستيعابية الهائلة ومبانيه الحديثة المخصصة للرحلات الدولية والداخلية، حيث يصنف دائماً بين أكثر المطارات ازدحاماً في تركيا والقارة الأوروبية وخاصة خلال الموسم السياحي الصيفي.",
+          "en": "Antalya Airport (AYT) is the primary international gateway and aviation hub for southern Turkey and the Mediterranean coast. Located approximately 13 kilometers east of Antalya city center in the Muratpaşa district. Featuring modern domestic and international terminals with massive passenger capacity, it consistently ranks among the busiest airports in Turkey and across Europe, especially during the summer holiday season.",
+          "tr": "Antalya Havalimanı (AYT), Güney Türkiye'nin ve Akdeniz kıyısının ana uluslararası giriş kapısı ve temel havacılık merkezidir. Antalya şehir merkezinin yaklaşık 13 kilometre doğusunda, Muratpaşa ilçesinde yer almaktadır. Yüksek yolcu kapasitesine sahip modern iç ve dış hatlar terminalleri ile özellikle yaz sezonunda Türkiye'nin ve Avrupa'nın en yoğun havalimanları arasında düzenli olarak ilk sıralarda yer alır."
         },
-        "location_url": "https://maps.google.com/?q=Antalya+Airport"
+        "location_url": "https://maps.google.com/?q=Antalya+Airport",
+        "needs_ad": true
       },
       {
         "name": {
@@ -35,648 +45,1021 @@
         "code": "GZP",
         "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/flight.png",
         "desc": {
-          "ar": "المطار الدولي المخصص لخدمة منتجعات الجانب الشرقي من مقاطعة أنطاليا ومدينة ألانيا، يبعد حوالي 40 كم عن مركز ألانيا ويستقبل الرحلات الدولية والمحلية المباشرة.",
-          "en": "An international airport serving the eastern coast of Antalya province and Alanya resorts, located approximately 40 km from central Alanya.",
-          "tr": "Antalya'nın doğu kıyısı ve Alanya bölgesindeki turizm merkezlerine hizmet veren uluslararası havalimanıdır."
+          "ar": "هو المطار الدولي الثاني الذي يخدم مقاطعة أنطاليا ووجهاتها الشرقية الشهيرة مثل ألانيا وغازي باشا وأنامور. يقع في منطقة غازي باشا على بعد نحو 40 كيلومتراً جنوب شرق مدينة ألانيا الساحلية. يقدم المطار رحلات داخلية منتظمة ورحلات طيران عارض (شارتر) دولية مباشرة، مما يوفر وصولاً سريعاً ومريحاً لمنتجعات شرق الريفييرا التركية.",
+          "en": "Gazipaşa-Alanya Airport (GZP) is the second international airport serving Antalya province, catering directly to popular eastern resort destinations such as Alanya, Gazipaşa, and Anamur. Located roughly 40 kilometers southeast of Alanya. It offers regular domestic flights and international charter routes, providing convenient access to eastern Turkish Riviera resorts.",
+          "tr": "Gazipaşa-Alanya Havalimanı (GZP), Antalya iline hizmet veren ikinci uluslararası havalimanıdır ve Alanya, Gazipaşa ile Anamur gibi doğu sahil şeridinin popüler tatil merkezlerine doğrudan ulaşım sağlar. Alanya merkezine yaklaşık 40 kilometre mesafede yer alır. Tarifeli iç hat uçuşlarının yanı sıra uluslararası charter seferlerine ev sahipliği yaparak tatilcilere büyük kolaylık sunar."
         },
-        "location_url": "https://maps.google.com/?q=Gazipasa+Alanya+Airport"
+        "location_url": "https://maps.google.com/?q=Gazipasa+Alanya+Airport",
+        "needs_ad": true
       }
-    ],
-    "available_categories": [
-      "hotels",
-      "tours",
-      "places",
-      "cultural Places",
-      "beaches",
-      "restaurants",
-      "religious places",
-      "city transport"
     ],
     "featured_apps": [
       {
         "name": {
-          "ar": "أنطاليا كارت",
-          "en": "AntalyaKart",
-          "tr": "AntalyaKart"
+          "ar": "بي تاكسي",
+          "en": "BiTaksi",
+          "tr": "BiTaksi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "website": "https://www.antalyakart.com.tr",
-        "needs_ad": true,
-        "description": {
-          "ar": "التطبيق الرسمي لإدارة وتعبئة بطاقات المواصلات العامة في أنطاليا وتتبع حركة الباصات والترامواي في الوقت الفعلي.",
-          "en": "Official public transport app in Antalya for card balance recharge, live bus schedules, and tram routes tracking.",
-          "tr": "Antalya toplu taşıma kartı bakiye yükleme, hat ve canlı otobüs takip uygulaması."
-        }
-      },
-      {
-        "name": {
-          "ar": "بي تاكسي أنطاليا",
-          "en": "BiTaksi Antalya",
-          "tr": "BiTaksi Antalya"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/BiTaksi.png",
         "website": "https://www.bitaksi.com",
         "needs_ad": true,
         "description": {
-          "ar": "تطبيق طلب سيارات الأجرة الرسمية المرخصة مع نظام التتبع والدفع الإلكتروني المباشر في أنطاليا والمنتجعات.",
-          "en": "Licensed taxi-hailing app in Antalya with transparent meter fares, route tracking, and in-app card payments.",
-          "tr": "Antalya'da resmi taksi çağırma, canlı rota takibi ve kartla güvenli ödeme uygulaması."
+          "ar": "التطبيق التركي الرائد لحجز سيارات الأجرة الرسمية والآمنة المرخصة عبر الهاتف الذكي. يوفر تتبعاً مباشراً لمسار الرحلة وتحديداً دقيقاً لبيانات السائق وسعر الرحلة التقريبي، مع دعم خيارات الدفع نقداً أو ببطاقات الائتمان.",
+          "en": "Turkey's leading app for booking licensed official municipality taxis via smartphone. Offers live GPS trip tracking, upfront fare estimates, driver credentials, and convenient payments via cash or credit cards.",
+          "tr": "Akıllı telefon üzerinden belediye lisanslı resmi taksi çağırmayı sağlayan Türkiye'nin lider yerli uygulaması. Canlı rota takibi, tahmini ücret bilgisi ve kredi kartı veya nakit ödeme kolaylığı sunar."
         }
       },
       {
         "name": {
-          "ar": "مارتي سكوتر",
-          "en": "Marti Scooter",
-          "tr": "Martı Scooter"
+          "ar": "أوبر",
+          "en": "Uber",
+          "tr": "Uber"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "website": "https://www.marti.tech",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/uber.png",
+        "website": "https://www.uber.com",
         "needs_ad": true,
         "description": {
-          "ar": "استئجار السكوترات الكهربائية والدراجات للتنقل السريع والممتع على طول كورنيش كونيالتي وممشى لارا الشاطئي.",
-          "en": "Electric scooter and e-bike rental app for fun coastal rides along Konyaaltı and Lara beach promenades.",
-          "tr": "Konyaaltı ve Lara sahil şeridinde elektrikli scooter ve bisiklet kiralama uygulaması."
+          "ar": "يعمل في أنطاليا كوسيط موثوق لطلب سيارات الأجرة الصفراء الرسمية، بالإضافة إلى فئات السيارات الكبيرة (Uber XL) خلال المواسم السياحية لنقل العائلات والمجموعات وحقائب السفر بأمان وشفافية تسعيرية عالية.",
+          "en": "Operates seamlessly in Antalya connecting users with official yellow taxis, as well as spacious vehicles (Uber XL) suited for families, group tours, and luggage, featuring upfront fare estimates and in-app credit card payments.",
+          "tr": "Antalya'da sarı taksiler ve geniş araç sınıfları (Uber XL) ile yolcuları güvenle buluşturan uluslararası aracı platform. Canlı takip, şeffaf fiyatlandırma ve uygulama içi güvenli ödeme seçeneği sunar."
+        }
+      },
+      {
+        "name": {
+          "ar": "يمك سيبيتي",
+          "en": "Yemeksepeti",
+          "tr": "Yemeksepeti"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/yemeksepeti.png",
+        "website": "https://www.yemeksepeti.com",
+        "needs_ad": true,
+        "description": {
+          "ar": "المنصة الأولى لطلب الوجبات السريعة والمأكولات البحرية والتركية الأصيلة والبقالة مع التوصيل السريع إلى الفنادق والمنتجعات في جميع مناطق أنطاليا.",
+          "en": "Turkey's foremost on-demand food and grocery delivery platform connecting thousands of local restaurants and supermarkets across Antalya.",
+          "tr": "Antalya'nın tüm bölgelerinde binlerce restorandan otele ve adrese hızlı yemek ve market siparişi ulaştıran lider platform."
+        }
+      },
+      {
+        "name": {
+          "ar": "تطبيق أنطاليا كارت",
+          "en": "AntalyaKart Mobil",
+          "tr": "AntalyaKart Mobil"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/antalyakart.png",
+        "website": "https://www.antalyakart.com.tr",
+        "needs_ad": true,
+        "description": {
+          "ar": "التطبيق الرقمي الرسمي لبلدية أنطاليا، يتيح شحن بطاقات المواصلات، توليد كود QR للمرور عبر البوابات، معرفة مسارات الحافلات وترام أنطراي، وتتبع أوقات الوصول الحية.",
+          "en": "Official smart transit app of Antalya Metropolitan Municipality for topping up cards, QR-code turnstile boarding, bus line tracking, and real-time transit schedules.",
+          "tr": "Antalya Büyükşehir Belediyesi'nin resmi ulaşım uygulaması. Kart bakiye yükleme, karekod (QR) ile biniş, otobüs ve AntRay hat takibi imkanı sunar."
         }
       }
     ],
     "hotels": [
       {
         "name": {
-          "ar": "منتجع وفندق أرض الأساطير كينغدوم",
-          "en": "The Land of Legends Kingdom Hotel",
-          "tr": "The Land of Legends Kingdom Otel"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "rating": "5 Stars",
-        "category": "Resort",
-        "website": "https://www.agoda.com",
-        "needs_ad": false,
-        "description": {
-          "ar": "منتجع ترفيهي ملكي 5 نجوم مصمم بطابع خيالي مخصص للعائلات في منطقة بيليك، يمنح النزلاء دخولاً مجانياً وغير محدود لأضخم مدينة ملاهي وأكوابارك مائي في تركيا مع عروض الدلافين ومول تسوق مفتوح وقنوات مائية.",
-          "en": "A 5-star fantasy-themed kingdom resort in Belek designed for families, offering free unlimited access to Turkey's largest theme park and aqua water park with dolphin shows, shopping avenue, and canal gondolas.",
-          "tr": "Belek'te yer alan 5 yıldızlı masalsı aile resortu. Türkiye'nin en büyük tema parkına ve su parkına ücretsiz sınırsız giriş imkanı sunar."
-        }
-      },
-      {
-        "name": {
-          "ar": "منتجع ماكس رويال بيليك جولف ريزورت",
-          "en": "Maxx Royal Belek Golf Resort",
-          "tr": "Maxx Royal Belek Golf Resort"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "rating": "5 Stars",
-        "category": "Resort",
-        "website": "https://www.agoda.com",
-        "needs_ad": false,
-        "description": {
-          "ar": "أحد أفخم المنتجعات الشاطئية في العالم بنظام الشامل كلياً الفاخر (Maxx All Inclusive)، يضم أجنحة وفيلات شاطئية بمسابح خاصة، شاطئاً رملياً خاصاً، ملعب جولف دولي للمحترفين، ومطاعم حاصلة على تصنيفات راقية.",
-          "en": "One of the world's most luxurious ultra all-inclusive beachfront resorts in Belek, featuring private pool villas, pristine beach, Montgomerie championship golf course, and Michelin-caliber dining.",
-          "tr": "Dünyanın en prestijli ultra lüks her şey dahil sahil resortlarından biri. Özel havuzlu villalar, şampiyona golf sahası ve seçkin restoranlar sunar."
-        }
-      },
-      {
-        "name": {
-          "ar": "فندق ومنتجع ريكسوس بريميوم بيليك",
-          "en": "Rixos Premium Belek",
-          "tr": "Rixos Premium Belek"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "rating": "5 Stars",
-        "category": "Resort",
-        "website": "https://www.agoda.com",
-        "needs_ad": true,
-        "description": {
-          "ar": "منتجع شاطئي فاخر محاط بغابات الصنوبر وبحيرات مائية واسعة على شاطئ البحر الأبيض المتوسط بطول كيلومتر من الرمال الذهبية، يضم سبا أنجانا الفاخر ومطاعم إيطالية وعالمية وفعاليات ترفيهية حية يومياً.",
-          "en": "A 5-star beachfront resort surrounded by pine forests, featuring a 1 km golden beach, Anjana luxury spa, world-class restaurants, and live evening concerts.",
-          "tr": "Çam ormanlarıyla çevrili, 1 km'lik özel kumsalı, Anjana spa merkezi ve seçkin lezzetler sunan 5 yıldızlı lüks sahil resortu."
-        }
-      },
-      {
-        "name": {
           "ar": "فندق أكرا أنطاليا",
           "en": "Akra Hotel Antalya",
           "tr": "Akra Hotel Antalya"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
+        "category": "5 stars",
         "rating": "5 Stars",
-        "category": "Hotels",
-        "website": "https://www.agoda.com",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/akra20.png"
+        ],
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=291079",
         "needs_ad": true,
         "description": {
-          "ar": "فندق حضري فاخر ذو 5 نجوم يتربع على منحدر صخري ساحلي في منطقة لارا بإطلالة بانورامية خلابة على جبال طوروس والبحر الأبيض المتوسط، يتميز بمسابح إنفينيتي ومركز سبا متطور ومطعم أسماني الشهير.",
-          "en": "A 5-star urban seaside hotel set on the Mediterranean cliffs of Lara, offering panoramic views of Taurus Mountains, infinity pools, wellness spa, and fine dining.",
-          "tr": "Lara falezleri üzerinde Akdeniz ve Toros Dağları manzaralı, sonsuzluk havuzları ve Asmani restoranı ile ünlü 5 yıldızlı lüks şehir oteli."
+          "ar": "فندق فاخر بتصنيف 5 نجوم يتربع مباشرة فوق منحدرات وجروف أنطاليا الصخرية الساحرة، موفراً إطلالات لا تُنسى على زرقة البحر الأبيض المتوسط وجبال طوروس الشامخة. يتميز بغرف عصرية واسعة بشرفات خاصة، ومنصة سباحة بحرية مباشرة، ومسابح لامتناهية في الهواء الطلق، ومركز سبا متطور (LifeCo)، فضلاً عن مطعم 'أسماني' الراقي في الطابق العلوي.",
+          "en": "A premier 5-star luxury hotel perched dramatically atop the coastal cliffs of Antalya, boasting mesmerizing Mediterranean and Taurus Mountain vistas. Features contemporary rooms with sea-view balconies, private cliffside swimming platforms, infinity pools, the world-renowned LifeCo wellness spa, and the iconic rooftop Asmani Restaurant.",
+          "tr": "Antalya'nın falezleri üzerinde görkemli bir konuma sahip 5 yıldızlı lüks bir oteldir. Akdeniz ve Beydağları'nın panoramik manzarasını sunan geniş balkonlu modern odaları, denize sıfır platform plajı, sonsuzluk havuzları, kapsamlı The LifeCo spa merkezi ve çatı katında yer alan seçkin Asmani Restoranı ile unutulmaz bir konaklama sunar."
         }
       },
       {
         "name": {
-          "ar": "منتجع تيتانيك ماردان بالاس لارا",
+          "ar": "فندق ريكسوس داون تاون أنطاليا",
+          "en": "Rixos Downtown Antalya",
+          "tr": "Rixos Downtown Antalya"
+        },
+        "category": "5 stars",
+        "rating": "5 Stars",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rixosdowntown20.png"
+        ],
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=257630",
+        "needs_ad": true,
+        "description": {
+          "ar": "منتجع فندقي خمس نجوم يقع وسط حدائق أتاتورك الثقافية الخضراء بالقرب من شاطئ كونيالتي الشهير ومتحف أنطاليا الأثري. يجمع بين أجواء المدينة النابضة وفخامة المنتجعات الترفيهية، مع مسبح على طراز البحيرات محاط بأشجار النخيل، وخدمة نقل خاصة ونادي شاطئي على ساحل كونيالتي، وإمكانية الدخول المجاني لمدينة ملاهي The Land of Legends.",
+          "en": "An urban resort nestled within lush exotic gardens of Atatürk Culture Park, overlooking Konyaaltı Beach and the Mediterranean Sea. Blends city life with resort luxury, featuring a lagoon-style outdoor pool, exclusive access to its Arpège beach club, multiple upscale dining venues, and complimentary shuttle and entry privileges to The Land of Legends Theme Park.",
+          "tr": "Atatürk Kültür Parkı'nın yemyeşil bahçeleri içinde, dünyaca ünlü Konyaaltı Plajı'na bakan 5 yıldızlı bir şehir resortudur. Şehir merkezinin dinamizmini resort konforuyla birleştiren otel, lagün tarzı açık havuzu, Konyaaltı'ndaki özel plaj kulübü, seçkin restoranları ve The Land of Legends Tema Parkı'na ücretsiz transfer ve giriş avantajıyla öne çıkar."
+        }
+      },
+      {
+        "name": {
+          "ar": "منتجع تيتانيك ماردان بالاس",
           "en": "Titanic Mardan Palace",
           "tr": "Titanic Mardan Palace"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
+        "category": "5 stars",
         "rating": "5 Stars",
-        "category": "Resort",
-        "website": "https://www.agoda.com",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/mardanpalace20.png"
+        ],
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=157642",
         "needs_ad": true,
         "description": {
-          "ar": "قصر أسطوري فاخر يجسد العمارة العثمانية الإمبراطورية في منطقة لارا كوندو، يضم مسبحاً ضخماً على طراز البحيرات الملكية، شاطئاً برمال بيضاء مستوردة، وسبا فاخر ممتد على مساحة 7500 متر مربع.",
-          "en": "An iconic Ottoman palace resort on the Lara coast, featuring giant lagoon-style pools, white-sand private beach, and a massive 7,500 sqm luxury spa.",
-          "tr": "Lara Kundu sahilinde Osmanlı saray mimarisiyle inşa edilmiş, dev lagün havuzu ve beyaz kumlu özel plajı olan 5 yıldızlı saray resortu."
+          "ar": "قصر أسطوري فائق الفخامة في منطقة لارا كوندو، مستوحى تصميمه المعماري من معالم إسطنبول الإمبراطورية كقصر دولما بهجة وجسر غلطة. يمتلك أحد أكبر المسابح المفتوحة في العالم، وشاطئاً رملياً خاصاً من الرمال البيضاء المستوردة، وأكثر من 30 مطعماً ومقهى راقياً، وسبا ملكي على مساحة 7500 متر مربع.",
+          "en": "An iconic, ultra-luxury palace resort in Lara-Kundu, architecturally celebrating Istanbul's historic imperial monuments such as Dolmabahçe Palace and Galata Bridge. Boasts one of the world's largest lagoon pools, a private white-sand beach, over 30 international gourmet restaurants and bars, and a palatial 7,500 sqm spa center.",
+          "tr": "Lara Kundu sahilinde yer alan, Dolmabahçe Sarayı ve Galata Köprüsü gibi Osmanlı ve İstanbul simgelerinden esinlenilerek inşa edilmiş ultra lüks saray oteli. Dünyanın en büyük lagün havuzlarından birine, bembeyaz kumlu özel plaja, 30'un üzerinde seçkin restoran ve bara ve 7.500 metrekarelik devasa bir spa merkezine sahiptir."
         }
       },
       {
         "name": {
-          "ar": "فندق توفانا كالييتشي التاريخي",
-          "en": "Tuvana Hotel Kaleici",
-          "tr": "Tuvana Otel Kaleiçi"
+          "ar": "فندق ذا لاند أوف ليجندز كينغدوم",
+          "en": "The Land of Legends Kingdom Hotel",
+          "tr": "The Land of Legends Kingdom Hotel"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "category": "5 stars",
+        "rating": "5 Stars",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegends20.png"
         ],
-        "rating": "4 Stars",
-        "category": "Hotels",
-        "website": "https://www.agoda.com",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=1246944",
         "needs_ad": true,
         "description": {
-          "ar": "فندق بوتيك تاريخي 4 نجوم يتألف من قصور عثمانية أصيلة تم ترميمها داخل أزقة كالييتشي القديمة، تحيط به حدائق أشجار البرتقال ومسبح هادئ ويبعد دقائق سيراً عن بوابة هادريان.",
-          "en": "A 4-star historic boutique hotel composed of restored 18th-century Ottoman mansions in Kaleiçi old town, set in secret orange gardens with a pool.",
-          "tr": "Kaleiçi'nde restore edilmiş 18. yüzyıl Osmanlı konaklarından oluşan, narenciye bahçeleri ve havuzuyla büyüleyen 4 yıldızlı butik otel."
+          "ar": "الفندق العائلي الترفيهي الأول من نوعه في تركيا، يقع مباشرة داخل مجمع أرض الأساطير الضخم في منطقة بيليك بأنطاليا. صُممت غرفه وأجنحته بأسلوب خيالي مستوحى من القصص والألعاب مع أجهزة بلايستيشن وشاشات مزدوجة، ويتيح للنزلاء دخولا غير محدود إلى مدينة الملاهي والحديقة المائية وأطول قطارات الموت في المنطقة.",
+          "en": "Turkey's premier concept-designed family and entertainment hotel, located right inside the massive The Land of Legends Theme Park in Belek, Antalya. Offers colorful fantasy-themed rooms and suites fitted with dual-screen LED TVs and PlayStations, accompanied by unlimited free access to the Theme Park, Aqua Land, and high-speed roller coasters.",
+          "tr": "Türkiye'nin ilk konsept aile ve eğlence temalı oteli olup, Belek'teki devasa The Land of Legends kompleksinin tam kalbinde yer alır. Çocuklar ve aileler için masalsı konseptlerle tasarlanmış, PlayStation ve çift ekranlı LED TV donanımlı odalara sahiptir. Konaklayan misafirlere Tema Park ve dev su parkına sınırsız ücretsiz giriş hakkı sunulur."
         }
       },
       {
         "name": {
           "ar": "فندق فالكون أنطاليا",
           "en": "Falcon Hotel Antalya",
-          "tr": "Falcon Otel Antalya"
+          "tr": "Falcon Hotel Antalya"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
+        "category": "4 stars",
         "rating": "4 Stars",
-        "category": "Hotels",
-        "website": "https://www.agoda.com",
-        "needs_ad": true,
-        "description": {
-          "ar": "فندق 4 نجوم شاطئي يقع على منحدرات لارا الصخرية، يوفر منصة سباحة خاصة مباشرة على البحر الأبيض المتوسط، مسبحاً خارجياً مع زلاقات مائية، ونظام إقامة شامل كلياً.",
-          "en": "A 4-star seafront hotel on Lara cliffs with a private direct-access swimming platform over the sea, outdoor water slide pools, and all-inclusive packages.",
-          "tr": "Lara falezlerinde denize sıfır özel güneşlenme platformu, su kaydıraklı açık havuzu ve her şey dahil konsepti sunan 4 yıldızlı otel."
-        }
-      }
-    ],
-    "tours": [
-      {
-        "name": {
-          "ar": "رحلة يخت جزيرة سولوادا (مالديف تركيا)",
-          "en": "Suluada Island Boat Cruise (Turkish Maldives)",
-          "tr": "Suluada Tekne Turu (Türkiye'nin Maldivleri)"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/falconhotel20.png"
         ],
-        "website": "https://gyg.me",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=237734",
         "needs_ad": true,
         "description": {
-          "ar": "رحلة بحرية مذهلة باليخت نحو جزيرة سولوادا البركانية العذراء المشهورة برمالها البيضاء النقية ومياهها الفيروزية الكريستالية وكهوف الحب البحرية مع وجبة غداء طازجة على متن القارب.",
-          "en": "A boat cruise to the volcanic island of Suluada, famous for white sands, turquoise crystal waters, and sea caves with lunch served onboard.",
-          "tr": "Berrak turkuaz suları ve beyaz kumsalıyla Maldivler'i aratmayan volkanik Suluada'ya tekne turu ve öğle yemeği."
-        }
-      },
-      {
-        "name": {
-          "ar": "كروز سفينة القراصنة وسواحل كيمير",
-          "en": "Kemer Pirate Ship Cruise & Phaselis Bay",
-          "tr": "Kemer Korsan Tekne Turu & Phaselis Koyu"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "website": "https://gyg.me",
-        "needs_ad": true,
-        "description": {
-          "ar": "سفينة قراصنة خشبية عملاقة تبحر عبر خلجان كيمير وغار فاسيليس الأثري، تتضمن حفلات رغوة موسيقية، استراحات سباحة في مياه البحر المفتوحة، وبوفيه غداء ممتع لجميع الأعمار.",
-          "en": "A mega wooden pirate ship cruise exploring Kemer bays and ancient Phaselis, featuring foam parties, open-sea swimming stops, and lunch buffet.",
-          "tr": "Kemer koylarında ve Phaselis antik koyunda köpük partisi, yüzme molaları ve öğle yemeği içeren eğlenceli korsan tekne turu."
+          "ar": "فندق أربع نجوم مميز ومطل على البحر من فوق منحدرات لارا الصخرية في قلب مدينة أنطاليا. يوفر منصة خاصة للاستجمام والسباحة المباشرة في البحر عبر مصعد وجسور خشبية، ومسابح متعددة مع منزلقات مائية، وخيارات إقامة شاملة (All Inclusive) تناسب العائلات والأزواج وبأسعار اقتصادية مقارنة بالمنتجعات الكبرى.",
+          "en": "A prominent 4-star all-inclusive hotel situated on the cliffs of Lara in central Antalya. Features a private seaside sunbathing and swimming wooden deck accessed directly via cliff-path stairs and elevators, outdoor pools with waterslides, a traditional Turkish bath, and excellent value-for-money all-inclusive packages.",
+          "tr": "Antalya Lara'nın merkezinde falezler üzerine kurulu 4 yıldızlı popüler 'her şey dahil' otelidir. Merdiven ve asansörle ulaşılan özel ahşap güneşlenme ve denize iniş platformu, su kaydıraklı açık havuzları, Türk hamamı ve şehir merkezine yakınlığıyla konforlu ve ekonomik bir tatil imkanı sunar."
         }
       },
       {
         "name": {
-          "ar": "رحلة قارب الوادي الأخضر (Green Canyon Cruise)",
-          "en": "Green Canyon Boat Tour & Lake Safari",
-          "tr": "Yeşil Kanyon Tekne Turu (Green Canyon)"
+          "ar": "شقق مارينا ريزيدنس الفندقية كاليتشي",
+          "en": "Marina Residence Kaleici",
+          "tr": "Marina Residence Kaleiçi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "category": "apartment",
+        "rating": "Apartments",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/marinaresidence20.png"
         ],
-        "website": "https://gyg.me",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=311225",
         "needs_ad": true,
         "description": {
-          "ar": "رحلة استرخاء بالقارب في قلب بحيرة السد الجبلية وسط مضائق وأشجار الوادي الأخضر في مانافجات، توفر فرص صيد الأسماك والسباحة في المياه العذبة الزمردية.",
-          "en": "A tranquil boat tour through the canyons and emerald lake of Oymapınar dam in Manavgat, offering swimming and mountain scenery.",
-          "tr": "Manavgat Oymapınar baraj gölünde kanyonlar arasında zümrüt yeşili sularda dinlendirici tekne turu."
+          "ar": "شقق وأجنحة فندقية تاريخية ساحرة تقع في قلب البلدة القديمة (كاليتشي) بأنطاليا، على بُعد خطوات من الميناء الروماني القديم. تجمع بين الطابع العثماني التراثي والمطابخ المجهزة ووسائل الراحة الحديثة، مع حديقة برتقال هادئة ومسبح خاص يوفر خصوصية تامة للعائلات والإقامات الطويلة.",
+          "en": "Charming historical boutique apartments located right in the atmospheric heart of Kaleiçi (Old Town), just steps from the historic Roman Marina. Blends traditional Ottoman architecture with modern self-catering kitchens, featuring a private citrus garden and an outdoor courtyard swimming pool ideal for families.",
+          "tr": "Antalya'nın tarihi Kaleiçi semtinin merkezinde, Yat Limanı'na yalnızca birkaç adım mesafede yer alan tarihi konaklama tesisidir. Otantik Osmanlı mimarisini modern donanımlı mutfaklar ve süitlerle buluşturur; narenciye ağaçlarıyla çevrili avlusundaki sakin havuzuyla aileler için huzurlu bir ortam sunar."
         }
       },
       {
         "name": {
-          "ar": "مغامرة الرافتينغ وسفاري وادي كوبرولو",
-          "en": "Köprülü Canyon Rafting & Buggy Safari",
-          "tr": "Köprülü Kanyon Rafting & Buggy Safari"
+          "ar": "فندق آي سي إيربورت أنطاليا",
+          "en": "IC Hotels Airport Antalya",
+          "tr": "IC Hotels Airport Antalya"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "category": "4 stars",
+        "rating": "4 Stars",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport2.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport3.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport4.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport5.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport6.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport7.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport8.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport9.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport10.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport11.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport12.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport13.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport14.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport15.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport16.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport17.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport18.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport19.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/icairport20.png"
         ],
-        "website": "https://gyg.me",
+        "website": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1967059&hl=en-us&hid=59207",
         "needs_ad": true,
         "description": {
-          "ar": "تجربة حماسية متكاملة لركوب قوارب التجديف المائي في المنحدرات النهرية لوادي كوبرولو التاريخي مع جولات سيارات الدفع الرباعي الباغي وزيبلاين بين الجبال.",
-          "en": "An action-packed whitewater rafting adventure in Köprülü Canyon National Park combined with buggy off-road safari and zipline.",
-          "tr": "Köprülü Kanyon Milli Parkı'nda coşkulu rafting heyecanı, arazi buggy safari ve zipline macerası."
-        }
-      }
-    ],
-    "places": [
-      {
-        "name": {
-          "ar": "شلالات دودين الساحلية السفلى",
-          "en": "Lower Düden Waterfalls (Karpuzkaldıran)",
-          "tr": "Aşağı Düden Şelalesi (Karpuzkaldıran)"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "website": "https://maps.google.com/?q=Lower+Duden+Waterfall",
-        "needs_ad": true,
-        "description": {
-          "ar": "مشهد طبيعي ساحر لتدفق مياه نهر دودين من ارتفاع 40 متراً مباشرة فوق المنحدرات الصخرية لتصب في البحر الأبيض المتوسط داخل حديقة دودين بارك في لارا.",
-          "en": "A dramatic 40-meter waterfall pouring directly off the rocky cliffs into the Mediterranean Sea, located in Düden Park, Lara.",
-          "tr": "Düden Çayı'nın 40 metre yükseklikteki falezlerden Akdeniz'e döküldüğü muazzam doğa harikası."
-        }
-      },
-      {
-        "name": {
-          "ar": "مدينة ملاهي وأكوابارك أرض الأساطير",
-          "en": "The Land of Legends Theme Park",
-          "tr": "The Land of Legends Tema Parkı"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "website": "https://klook.com",
-        "needs_ad": true,
-        "description": {
-          "ar": "ديزني لاند تركيا في بيليك؛ تضم أكثر من 40 زلاقة مائية عملاقة، قطار الموت فائق السرعة Hyper Coaster بارتفاع 62 متراً، ومسرح عروض مائية وقنوات مائية للتسوق.",
-          "en": "Turkey's premier amusement hub in Belek with 40+ water slides, the 62-meter Hyper Coaster, marine shows, and luxury shopping avenue.",
-          "tr": "40'tan fazla su kaydırağı, 62 metrelik Hyper Coaster ve su gösterileri sunan dev eğlence parkı."
-        }
-      },
-      {
-        "name": {
-          "ar": "تلفريك جبل تونكتيبي",
-          "en": "Tünektepe Cable Car (Teleferik)",
-          "tr": "Tünektepe Teleferik"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "website": "https://maps.google.com/?q=Tunektepe+Teleferik",
-        "needs_ad": true,
-        "description": {
-          "ar": "رحلة تلفريك معلقة تصعد بك إلى قمة جبل تونكتيبي على ارتفاع 605 أمتار لتمنحك إطلالة بانورامية بزاوية 360 درجة على شاطئ كونيالتي وخليج أنطاليا بالكامل.",
-          "en": "A scenic cable car ride ascending 605 meters to Tünektepe summit, offering 360-degree views over Konyaaltı beach and Antalya bay.",
-          "tr": "Sarısu'dan 605 metre zirveye çıkan ve tüm Antalya körfezi ile Konyaaltı sahilini gören teleferik."
-        }
-      },
-      {
-        "name": {
-          "ar": "أكواريوم أنطاليا وعالم الثلج",
-          "en": "Antalya Aquarium & Snow World",
-          "tr": "Antalya Akvaryum & Kar Dünyası"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "website": "https://klook.com",
-        "needs_ad": true,
-        "description": {
-          "ar": "يضم أطول نفق مائي للأحياء البحرية في العالم بطول 131 متراً، بالإضافة إلى قاعة عالم الثلج مع إمكانية التزلج وصنع كرات الثلج في أجواء شتوية حقيقية.",
-          "en": "Features the world's longest tunnel aquarium (131 meters) alongside Snow World indoor snow park and tropical reptile house.",
-          "tr": "131 metre uzunluğuyla dünyanın en uzun tünel akvaryumlarından biri ve gerçek karlı Kar Dünyası müzesi."
+          "ar": "الفندق الفاخر الأقرب إلى مطار أنطاليا الدولي (AYT)، حيث يبعد حوالي 800 متر فقط عن صالات الركاب. يضم غرفاً هادئة ذات عزل صوتي كامل محاطة بحدائق غناء من الصنوبر، ومسبحاً خارجياً ضخماً ومركز سبا وساونا، مما يجعله المحطة المثالية لركاب الترانزيت والرحلات المبكرة ورجال الأعمال.",
+          "en": "The prime upscale transit hotel adjacent to Antalya International Airport (AYT), situated only 800 meters from the airport terminals. Features soundproofed elegant rooms enveloped by pine forest greenery, a sprawling outdoor pool, wellness spa, and round-the-clock airport shuttle service.",
+          "tr": "Antalya Uluslararası Havalimanı (AYT) terminallerine sadece 800 metre mesafede yer alan en konforlu transit oteldir. Çam ağaçlarıyla çevrili huzurlu bir bahçe içinde ses yalıtımlı lüks odalar, açık yüzme havuzu, kapsamlı spa merkezi ve 24 saat havalimanı transfer hizmeti sunar."
         }
       }
     ],
     "cultural Places": [
       {
         "name": {
-          "ar": "البلدة القديمة كالييتشي والميناء التاريخي",
-          "en": "Kaleiçi Old Town & Roman Marina",
-          "tr": "Tarihi Kaleiçi ve Yat Limanı"
-        },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
-        "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
-        ],
-        "website": "https://maps.google.com/?q=Kaleici+Antalya",
-        "needs_ad": false,
-        "description": {
-          "ar": "قلب أنطاليا التاريخي العريق بأزقته الحجرية المرصوفة ومنازله الخشبية العثمانية المحاطة بأسوار رومانية وبيزنطية تنحدر نحو ميناء اليخوت الروماني القديم.",
-          "en": "The historic heart of Antalya featuring cobblestone lanes, preserved Ottoman mansions, Roman defensive walls, and an ancient harbor.",
-          "tr": "Antalya'nın Arnavut kaldırımlı sokakları, tarihi Osmanlı evleri ve antik yat limanını barındıran tarihi merkezi."
-        }
-      },
-      {
-        "name": {
-          "ar": "بوابة هادريان الإمبراطورية (Üçkapılar)",
-          "en": "Hadrian's Gate (Three Gates)",
+          "ar": "بوابة هادريان (الأبواب الثلاثة)",
+          "en": "Hadrian's Gate",
           "tr": "Hadrian Kapısı (Üçkapılar)"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/hadrian1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/hadrian1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/hadrian2.png"
         ],
-        "website": "https://maps.google.com/?q=Hadrian+Gate+Antalya",
+        "website": "https://maps.app.goo.gl",
         "needs_ad": true,
         "description": {
-          "ar": "قوس نصر روماني أثري مبني من الرخام الأبيض بثلاثة أقواس وأعمدة كورنثية شيّد عام 130 ميلادي تخليداً لزيارة الإمبراطور الروماني هادريان لأنطاليا.",
-          "en": "A monumental triumphal Roman marble gate with three arches erected in 130 AD to honor the visit of Roman Emperor Hadrian.",
-          "tr": "Roma İmparatoru Hadrianus'un kenti ziyareti onuruna M.S. 130 yılında inşa edilen mermer üç kemerli anıtsal kapı."
+          "ar": "قوس نصر رخامي مهيب شُيّد تخليداً لزيارة الإمبراطور الروماني هادريان لأنطاليا عام 130 ميلادية، ويعد المدخل التاريخي الأبرز لحي كاليتشي القديم.",
+          "en": "A monumental triumphal marble arch built to commemorate the Roman Emperor Hadrian's visit in 130 AD, serving as the grand historic gate into Kaleiçi.",
+          "tr": "Roma İmparatoru Hadrianus'un M.S. 130 yılındaki şehri ziyareti onuruna inşa edilmiş, üç kemerli anıtsal mermer kapı ve Kaleiçi'nin ana tarihi girişi."
         }
       },
       {
         "name": {
-          "ar": "مدرج أسبندوس الأثري الروماني",
-          "en": "Aspendos Ancient Roman Theatre",
-          "tr": "Aspendos Antik Tiyatrosu"
+          "ar": "البلدة القديمة وميناء كاليتشي",
+          "en": "Kaleici & Historic Marina",
+          "tr": "Kaleiçi ve Tarihi Yat Limanı"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kaleici1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kaleici1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kaleici2.png"
         ],
-        "website": "https://gyg.me",
+        "website": "https://maps.app.goo.gl",
         "needs_ad": true,
         "description": {
-          "ar": "أفضل مسرح روماني قديم محفوظ بالكامل في العالم يتسع لأكثر من 12 ألف متفرج ويشتهر بنظام صوتيات هندسي خارق حتى اليوم يستضيف مهرجانات الأوبرا الدولية.",
-          "en": "The best-preserved ancient Roman theatre in the world, accommodating 12,000 spectators with world-renowned acoustic architecture.",
-          "tr": "Akustiği ve kusursuz korunmuş mimarisiyle dünyanın en iyi korunmuş antik Roma tiyatrosu."
+          "ar": "قلب أنطاليا التاريخي بأزقته الحجرية المرصوفة ومنازله العثمانية الخشبية المرممة وأسواره البيزنطية التي تنحدر نحو الميناء الروماني الأثري الساحر.",
+          "en": "The historic heart of Antalya featuring cobblestone alleys, preserved Ottoman mansions, Byzantine city walls, and a picturesque ancient Roman yacht harbor.",
+          "tr": "Arnavut kaldırımlı sokakları, restore edilmiş Osmanlı konakları, Roma ve Bizans surları ile antik Roma Yat Limanı'nı kucaklayan tarihi şehir merkezi."
+        }
+      },
+      {
+        "name": {
+          "ar": "مسرح أسبندوس الأثري",
+          "en": "Aspendos Ancient Theatre",
+          "tr": "Aspendos Antik Tiyatrosu"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aspendos1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aspendos1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aspendos2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أفضل المسارح الرومانية القديمة المحفوظة في العالم حتى اليوم، يتمتع بنظام صوتيات مدهش ويتسع لأكثر من 12 ألف متفرج وما زال يستضيف المهرجانات الدولية.",
+          "en": "One of the world's best-preserved Roman theatres, renowned for its acoustics and capacity of over 12,000 spectators, still hosting international opera festivals.",
+          "tr": "Dünyanın günümüze kadar en iyi korunmuş antik Roma tiyatrolarından biri. Kusursuz akustiği ve 12 bin kişilik kapasitesiyle uluslararası festivallere ev sahipliği yapar."
+        }
+      },
+      {
+        "name": {
+          "ar": "مدينة بيرغي الأثرية",
+          "en": "Perge Ancient City",
+          "tr": "Perge Antik Kenti"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/perge1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/perge1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/perge2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "عاصمة إقليم بامفيليا القديم، وتضم أعمدة هائلة، وحمامات رومانية فخمة، وقنوات مياه متقنة، واستاداً رياضياً ضخماً يعد من الأكبر في الأناضول.",
+          "en": "The glorious capital of ancient Pamphylia, featuring grand colonnaded streets, monumental Roman baths, aqueducts, and a massive ancient athletics stadium.",
+          "tr": "Antik Pamfilya bölgesinin başkenti; anıtsal sütunlu caddeleri, görkemli Roma hamamları, su kanalları ve Anadolu'nun en büyük antik stadyumlarından birini barındırır."
         }
       }
     ],
-    "beaches": [
+    "tours": [
       {
         "name": {
-          "ar": "شاطئ كونيالتي الشهير (Konyaaltı)",
-          "en": "Konyaalti Blue Flag Beach",
-          "tr": "Konyaaltı Mavi Bayraklı Halk Plajı"
+          "ar": "مغامرة كوبرولو: رافتنج وسفاري وزيبلاين",
+          "en": "Koprulu Canyon Rafting, Quad Safari & Zipline",
+          "tr": "Köprülü Kanyon Rafting, ATV Safari & Zipline"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rafting1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rafting1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/rafting2.png"
         ],
-        "website": "https://maps.google.com/?q=Konyaalti+Beach",
-        "needs_ad": false,
+        "website": "https://gyg.me/rafting-antalya",
+        "needs_ad": true,
         "description": {
-          "ar": "شاطئ العلم الأزرق الحائز على جوائز عالمية بطول 7 كيلومترات، يتميز بمياهه الكريستالية وخلفية جبال طوروس مع ممشى شاطئي يضم مطاعم ومقاهي ومسارات دراجات.",
-          "en": "A 7-km Blue Flag beach with crystalline waters and Taurus Mountain views, bordered by a modern promenade with cafes and parks.",
-          "tr": "Toros Dağları manzaralı, 7 km uzunluğunda mavi bayraklı ünlü sahil ve sahil yaşam parkı."
+          "ar": "يوم حافل بالإثارة في وادي كوبرولو الوطني يشمل التجديف بالقوارب المطاطية في المياه الباردة، وركوب دراجات الدفع الرباعي الجبلية، والتحليق بالحبل المعلق.",
+          "en": "An adrenaline-packed adventure in Köprülü Canyon National Park combining white-water rafting, thrilling off-road quad biking, and ziplining through the canyon.",
+          "tr": "Köprülü Kanyon Milli Parkı'nda coşkulu nehir sularında rafting, heyecan dolu ATV safari ve kanyon üzerinde zipline uçuşunu içeren tam günlük macera turu."
         }
       },
       {
         "name": {
-          "ar": "شاطئ لارا الرملي الذهبي (Lara Beach)",
-          "en": "Lara Golden Sand Beach",
-          "tr": "Lara Altın Kum Plajı"
+          "ar": "جولة شلالات دودين وتلفريك تونيك تبه والمدينة",
+          "en": "Antalya City Tour, Duden Falls & Tunektepe Cable Car",
+          "tr": "Antalya Şehir Turu, Düden Şelalesi & Tünektepe Teleferik"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dudentour1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dudentour1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dudentour2.png"
         ],
-        "website": "https://maps.google.com/?q=Lara+Beach+Antalya",
+        "website": "https://gyg.me/antalya-city-tour",
         "needs_ad": true,
         "description": {
-          "ar": "أشهر الشواطئ الرملية الدافئة والضحلة المناسبة للأطفال والعائلات، يضم مرافق رياضات مائية ومخيمات ومنطقة مهرجان منحوتات الرمال العالمي (Sandland).",
-          "en": "Popular golden sandy beach with warm shallow waters ideal for families, water sports clubs, and the Sandland sand sculpture exhibition.",
-          "tr": "İnce altın kumu ve ılık sığ deniziyle ünlü, su sporları ve Kum Heykel Müzesi'ne ev sahipliği yapan plaj."
+          "ar": "جولة استكشافية متكاملة تشمل مشاهدة انصباب شلال دودين في البحر، الصعود بالتلفريك لإطلالة بانورامية ساحرة على الجبال والشواطئ، والتجول في كاليتشي القديمة.",
+          "en": "A comprehensive city sightseeing tour covering Lower Düden Waterfall tumbling into the sea, panoramic cable car ride to Tünektepe peak, and a guided Old Town walk.",
+          "tr": "Denize dökülen Aşağı Düden Şelalesi'ni, Tünektepe teleferik zirvesinden panoramik şehir manzarasını ve tarihi Kaleiçi sokaklarını kapsayan rehberli şehir turu."
         }
       },
       {
         "name": {
-          "ar": "شاطئ كابوتاش الفيروزي (Kaputaş Beach)",
-          "en": "Kaputas Canyon Beach (Kas)",
-          "tr": "Kaputaş Plajı (Kaş - Kalkan)"
+          "ar": "رحلة يخت جزيرة سولو أدا (مالديف تركيا)",
+          "en": "Suluada Island 'Turkish Maldives' Boat Trip",
+          "tr": "Suluada 'Türkiye'nin Maldivleri' Tekne Turu"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/suluada1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/suluada1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/suluada2.png"
         ],
-        "website": "https://maps.google.com/?q=Kaputas+Beach",
+        "website": "https://gyg.me/suluada-boat-tour",
         "needs_ad": true,
         "description": {
-          "ar": "أيقونة الساحل التركي وأجمل خلجان البحر المتوسط، يقع في مضيق جبلي ساحر بين كاش وكالكان بدرجات مياه فيروزية لا مثيل لها يتم الوصول إليه عبر 187 درجة حجرية.",
-          "en": "One of the most photogenic beaches in the Mediterranean, nestled in a canyon gorge between Kaş and Kalkan with vivid turquoise water.",
-          "tr": "Kaş ile Kalkan arasında bir kanyon ağzında yer alan, turkuaz rengiyle dünyaca ünlü doğa harikası plaj."
+          "ar": "رحلة بحرية فاخرة باليخت إلى جزيرة سولو أدا البركانية الملقبة بمالديف تركيا بفضل مياهها البلورية شديدة الصفاء وشواطئها البيضاء مع وجبة غداء طازجة.",
+          "en": "A scenic yacht cruise to the pristine volcanic island of Suluada, nicknamed the Turkish Maldives for its crystal-clear turquoise lagoons and white pebbled beaches.",
+          "tr": "Bembeyaz kumsalları ve cam gibi berrak turkuaz sularıyla 'Türkiye'nin Maldivleri' olarak bilinen volkanik Suluada'ya öğle yemekli büyüleyici tekne turu."
+        }
+      }
+    ],
+    "places": [
+      {
+        "name": {
+          "ar": "مدينة ملاهي ذا لاند أوف ليجندز",
+          "en": "The Land of Legends Theme Park",
+          "tr": "The Land of Legends Tema Parkı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegendsplace1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegendsplace1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/landoflegendsplace2.png"
+        ],
+        "website": "https://klook.tpx.li/antalya-legends",
+        "needs_ad": true,
+        "description": {
+          "ar": "ديزني لاند تركيا، أضخم منتزه ترفيهي ومائي في البلاد يضم قطارات أفعوانية فائقة السرعة، وأمواجاً اصطناعية، وعروض دلافين، وشارع تسوق فاخر مفتوح.",
+          "en": "Often called the Disneyland of Turkey, this gigantic theme and water park features thrilling hyper-coasters, water slides, dolphin shows, and an open-air luxury shopping avenue.",
+          "tr": "Türkiye'nin en büyük eğlence ve su parkı kompleksi. Heyecan verici dev hız trenleri, su kaydırakları, yunus gösterileri ve görkemli açık hava alışveriş caddesi sunar."
+        }
+      },
+      {
+        "name": {
+          "ar": "أكواريوم أنطاليا",
+          "en": "Antalya Aquarium",
+          "tr": "Antalya Akvaryum"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aquarium1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aquarium1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/aquarium2.png"
+        ],
+        "website": "https://klook.tpx.li/antalya-aquarium",
+        "needs_ad": true,
+        "description": {
+          "ar": "يضم أطول نفق مائي تحت الماء في العالم بطول 131 متراً، مع آلاف الكائنات البحرية وأسماك القرش، بالإضافة إلى متحف الثلج ومتحف الشمع العالمي.",
+          "en": "Features the world's longest underwater tunnel aquarium at 131 meters, showcasing thousands of marine species and sharks, alongside a Snow World and Ice Museum.",
+          "tr": "131 metre uzunluğuyla dünyanın en uzun tünel akvaryumuna ev sahipliği yapan tesis, binlerce deniz canlısı, Kar Dünyası ve Buz Müzesi gibi eğlence alanları sunar."
+        }
+      },
+      {
+        "name": {
+          "ar": "شلالات دودين السفلى والعليا",
+          "en": "Duden Waterfalls",
+          "tr": "Aşağı ve Yukarı Düden Şelaleleri"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dudenfall1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dudenfall1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/dudenfall2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "لوحة طبيعية آسرة تتألف من شلالين؛ الشلال العلوي وسط واحة طبيعية خضراء وكهوف صخرية، والشلال السفلي الذي ينحدر من ارتفاع 40 متراً مباشرة في مياه البحر الأبيض المتوسط.",
+          "en": "A pair of breathtaking waterfalls: Upper Düden nestled in a lush canyon park with caves, and Lower Düden cascading 40 meters off the cliffs directly into the Mediterranean.",
+          "tr": "Doğal bir kanyon içinde mağaralarla bezeli Yukarı Düden ile falezlerden 40 metre yükseklikten doğrudan Akdeniz'e dökülen Aşağı Düden Şelalesi'nin büyüleyici buluşması."
+        }
+      },
+      {
+        "name": {
+          "ar": "تلفريك تونيك تبه",
+          "en": "Tunektepe Teleferik",
+          "tr": "Tünektepe Teleferik"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tunektepe1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tunektepe1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/tunektepe2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "تلفريك سياحي يرتفع بالزوار إلى قمة جبل تونيك تبه على علو 605 أمتار، مقدماً مشهداً بانورامياً خلاباً يجمع ساحل كونيالتي، الميناء، وخليج أنطاليا بالكامل.",
+          "en": "A scenic cable car journey ascending to the 605-meter peak of Tünektepe, providing spectacular 360-degree views over Konyaaltı beach, Antalya harbor, and the Mediterranean.",
+          "tr": "Ziyaretçilerini 605 metre rakımlı tepeye ulaştıran teleferik hattı; Konyaaltı Sahili, liman ve tüm Antalya körfezini kucaklayan nefes kesici bir seyir keyfi sunar."
         }
       }
     ],
     "restaurants": [
       {
         "name": {
-          "ar": "مطعم 7 محمد العريق (7 Mehmet)",
-          "en": "7 Mehmet Restaurant Antalya",
-          "tr": "7 Mehmet Restoranı"
+          "ar": "مطعم 7 محمد الشهير",
+          "en": "7 Mehmet Restaurant",
+          "tr": "7 Mehmet Restoran"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/7mehmet1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/7mehmet1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/7mehmet2.png"
         ],
-        "website": "https://maps.google.com/?q=7+Mehmet+Antalya",
+        "website": "https://www.7mehmet.com",
         "needs_ad": true,
         "description": {
-          "ar": "أسطورة الطهي في أنطاليا منذ عام 1937 على تلة حديقة أتاتورك، يقدم أشهى مأكولات المطبخ المتوسطي والتركي واللحوم المطهوة ببطء مع إطلالة بحرية ساحرة.",
-          "en": "Antalya's culinary landmark since 1937 perched above Atatürk Park, renowned for modern Mediterranean and classic Turkish cuisine.",
-          "tr": "1937'den beri Akdeniz ve geleneksel Türk mutfağının en seçkin lezzetlerini sunan Antalya'nın gastronomi simgesi."
+          "ar": "أشهر صرح لتذوق الطعام في أنطاليا وتاريخ يمتد لقرابة قرن من الزمان، يقع على تلة تطل على شاطئ كونيالتي ويقدم أطباق المطبخ التركي والمتوسطي واللحوم والأسماك الفاخرة بأعلى معايير الجودة.",
+          "en": "Antalya's most revered culinary institution with nearly a century of gastronomic heritage, perched overlooking Konyaaltı beach, serving refined Mediterranean and Turkish cuisine.",
+          "tr": "Cumhuriyet döneminden bu yana neredeyse bir asırlık geçmişe sahip, Antalya gastronomi kültürünün zirvesi sayılan; Akdeniz ve Türk mutfağının seçkin lezzetlerini sunan ikonik restoran."
         }
       },
       {
         "name": {
-          "ar": "مطعم أرما كالييتشي (Arma Restaurant)",
-          "en": "Club Arma Restaurant & Marina View",
-          "tr": "Arma Restoran Kaleiçi Yat Limanı"
+          "ar": "مطعم لارا باليك للمأكولات البحرية",
+          "en": "Lara Balik Evi",
+          "tr": "Lara Balık Evi"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/larabalik1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/larabalik1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/larabalik2.png"
         ],
-        "website": "https://maps.google.com/?q=Arma+Restaurant+Antalya",
+        "website": "https://www.larabalikevi.com",
         "needs_ad": true,
         "description": {
-          "ar": "مطعم مأكولات بحرية فاخر يقع داخل مبنى أثري على صخور الميناء الروماني القديم في كالييتشي، يوفر أجواء رومانسية وإطلالات ساحرة على غروب الشمس وجبال طوروس.",
-          "en": "A premier seafood restaurant set in a historic building on the cliff edge of the old Roman marina with sunset vistas.",
-          "tr": "Tarihi Kaleiçi Yat Limanı kayalıkları üzerinde yer alan, deniz ürünleri ve gün batımı manzarasıyla ünlü restoran."
+          "ar": "أحد أرقى مطاعم الأسماك والمأكولات البحرية في المدينة، يقع على جرف صخري في لارا ويتميز بالمقبلات البحرية الطازجة والأسماك المشوية مع إطلالة بحرية ساحرة على غروب الشمس.",
+          "en": "One of Antalya's premier seafood restaurants situated right on the Lara cliffside, famous for fresh Mediterranean fish varieties, gourmet mezze, and romantic sunset sea vistas.",
+          "tr": "Lara falezleri üzerinde Akdeniz manzarasına karşı konumlanmış, günlük taze deniz ürünleri ve zengin meze çeşitleriyle kentin en gözde balık restoranlarından biri."
+        }
+      },
+      {
+        "name": {
+          "ar": "مطعم أرما كاليتشي",
+          "en": "Arma Restaurant",
+          "tr": "Arma Restaurant Kaleiçi"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/arma1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/arma1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/arma2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "مطعم راقٍ مبني داخل مبنى تاريخي شيدته شركة إيطالية في القرن التاسع عشر، يوفر أروع إطلالة على الميناء القديم، البحر، وجبال طوروس مع قائمة طعام متوسطية وعالمية متميزة.",
+          "en": "An elegant fine-dining venue housed in a 19th-century historic stone building by the sea, offering unmatched views of the Old Marina, the bay, and the Taurus Mountains.",
+          "tr": "19. yüzyılda İtalyanlar tarafından inşa edilen tarihi taş yapıda hizmet veren, Tarihi Yat Limanı ve Beydağları'na hakim benzersiz manzarasıyla ünlü lüks deniz ürünleri restoranı."
         }
       }
     ],
-    "religious places": [
+    "beaches": [
       {
         "name": {
-          "ar": "جامع المئذنة المخددة (Yivliminare)",
-          "en": "Yivli Minare Mosque (Fluted Minaret)",
-          "tr": "Yivli Minare Camii"
+          "ar": "شاطئ كونيالتي الشهير",
+          "en": "Konyaalti Beach",
+          "tr": "Konyaaltı Sahili"
         },
-        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png",
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/konyaalti1.png",
         "images": [
-          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/elisyumtaksim.png"
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/konyaalti1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/konyaalti2.png"
         ],
-        "website": "https://maps.google.com/?q=Yivli+Minare+Antalya",
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "شاطئ العلم الأزرق الأشهر في أنطاليا بطول 7 كيلومترات من الحصى الناعم، محاط بممشى حديث ومقاه ومطاعم وحدائق وخلفية مهيبة لقمم جبال طوروس.",
+          "en": "Antalya's famous 7-kilometer Blue Flag pebble beach, flanked by a scenic promenade, cycling paths, lush parks, trendy cafes, and the towering Taurus Mountains.",
+          "tr": "7 kilometre uzunluğundaki Mavi Bayraklı çakıl plajı, yürüyüş ve bisiklet yolları, kafeleri ve arkasında yükselen Beydağları manzarasıyla kentin simge sahili."
+        }
+      },
+      {
+        "name": {
+          "ar": "شاطئ لارا الرملي الذهبي",
+          "en": "Lara Beach",
+          "tr": "Lara Halk Plajı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/larabeach1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/larabeach1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/larabeach2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "أحد أوسع الشواطئ الرملية في المنطقة برماله الذهبية الدافئة ومياهه الضحلة المناسبة للعائلات والأطفال، ويحتضن سنوياً معرض منحوتات الرمال العالمي (Sandland).",
+          "en": "A wide, golden-sand Blue Flag beach with warm shallow waters ideal for families, lined with beach clubs and home to the annual International Sand Sculpture Festival (Sandland).",
+          "tr": "İncecik altın rengi kumu ve sığ deniziyle ailelerin gözdesi olan Mavi Bayraklı plaj. Çevresinde zengin sosyal tesisler ve Uluslararası Kum Heykel Festivali (Sandland) bulunur."
+        }
+      },
+      {
+        "name": {
+          "ar": "شاطئ كابوتاش الفيروزي",
+          "en": "Kaputas Beach",
+          "tr": "Kaputaş Plajı"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kaputas1.png",
+        "images": [
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kaputas1.png",
+          "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/turkey.json/kaputas2.png"
+        ],
+        "website": "https://maps.app.goo.gl",
+        "needs_ad": true,
+        "description": {
+          "ar": "أيقونة السواحل التركية وأحد أجمل شواطئ العالم، يقع في مضيق وادٍ صخري بين قاش وكالكان ويشتهر بتدرجات لونه الفيروزي الخارق التي يمكن الوصول إليها عبر درجات صخرية.",
+          "en": "A postcard-perfect cove nestled at the foot of a stunning canyon between Kaş and Kalkan, renowned worldwide for its striking turquoise waters accessed via cliffside steps.",
+          "tr": "Kaş ile Kalkan arasında kanyon ağzında yer alan, kartpostalları süsleyen dünyaca ünlü doğa harikası koy. Turkuazın her tonunu barındıran büyüleyici bir kumsala sahiptir."
+        }
+      }
+    ],
+    "transit_cards": [
+      {
+        "name": {
+          "ar": "بطاقة أنطاليا كارت العادية (Anonim)",
+          "en": "Standard Antalyakart (Anonim)",
+          "tr": "Anonim Antalyakart"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ant.jpg",
+        "price": "50 TL",
+        "needs_ad": true,
+        "url": "https://www.antalyakart.com.tr",
+        "desc": {
+          "ar": "البطاقة البلاستيكية الذكية القابلة لإعادة الشحن، والمعتمدة في جميع حافلات النقل العام وترام أنطراي والترام التاريخي بأنطاليا.",
+          "en": "The standard contactless reusable smart transit card valid on all public buses, AntRay light rail, and the Heritage Nostalgic Tram in Antalya.",
+          "tr": "Antalya'daki tüm belediye otobüsleri, AntRay hafif raylı sistemi ve Nostaljik Tramvay'da geçerli doldurulabilir temassız akıllı ulaşım kartı."
+        }
+      },
+      {
+        "name": {
+          "ar": "الدفع المباشر بالبطاقة البنكية اللاتلامسية",
+          "en": "Contactless Bank/Credit Card Boarding",
+          "tr": "Temassız Banka/Kredi Kartı ile Geçiş"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ant.jpg",
+        "price": "سعر التذكرة العادية + عمولة بسيطة",
         "needs_ad": false,
-        "description": {
-          "ar": "رمز مدينة أنطاليا التاريخي، بُني عام 1230 ميلادي في العهد السلجوقي بمئذنة قرميدية مخددة فريدة بارتفاع 38 متراً تتوسط البلدة القديمة كالييتشي.",
-          "en": "The iconic symbol of Antalya, built in 1230 AD by the Seljuks with a distinctive 38-meter fluted red-brick minaret in Kaleiçi.",
-          "tr": "1230 yılında Selçuklu Sultanı Alaaddin Keykubad tarafından yaptırılan, 38 metre yüksekliğindeki yivli tuğla minaresiyle kentin simgesi."
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "إمكانية الصعود مباشرة في الحافلات والترام عبر تمرير أي بطاقة فيزا أو ماستركارد بنكية دولية أو هواتف تدعم Apple Pay و Google Pay دون شراء كارت مسبقاً.",
+          "en": "Direct tap-and-go boarding on all buses and trams using any international contactless Visa/Mastercard credit or debit card, Apple Pay, or Google Pay.",
+          "tr": "Fiziksel ulaşım kartı almaya gerek kalmadan tüm otobüs ve tramvaylarda temassız Visa/Mastercard kredi kartı veya telefonla temassız biniş imkanı."
+        }
+      },
+      {
+        "name": {
+          "ar": "تذاكر الركوب المحدود (Kullan-At Bilet)",
+          "en": "Limited-Use Disposable Transit Tickets",
+          "tr": "Kullan-At Biletler (2-4 Binişlik)"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ant.jpg",
+        "price": "2 - 4 Biniş",
+        "needs_ad": false,
+        "url": "https://www.antalyakart.com.tr",
+        "desc": {
+          "ar": "تذاكر ورقية إلكترونية مسبقة الشحن لركبتين أو 4 ركبات، مناسبة للمسافرين والزوار في الإقامات السريعة والمؤقتة.",
+          "en": "Pre-loaded disposable electronic transit tickets offering 2 or 4 rides, ideal for short-stay tourists without purchasing a permanent card.",
+          "tr": "Kısa süreli ziyaretçiler için geliştirilmiş, 2 veya 4 biniş hakkı içeren ekonomik kullan-at elektronik biletler."
+        }
+      },
+      {
+        "name": {
+          "ar": "بطاقة أنطاليا كارت الرقمية (QR موبايل)",
+          "en": "Digital Antalyakart (Mobile App QR)",
+          "tr": "Dijital Antalyakart (Mobil QR)"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ant.jpg",
+        "price": "مجانية (Free App)",
+        "needs_ad": true,
+        "url": "https://www.antalyakart.com.tr",
+        "desc": {
+          "ar": "استخدام الهاتف الذكي مباشرة لتوليد كود QR ومسحه على بوابات الترام والحافلات عبر تطبيق AntalyaKart الرسمي بسهولة.",
+          "en": "Use your smartphone directly at bus validators and tram turnstiles via dynamic QR codes generated within the official AntalyaKart mobile app.",
+          "tr": "Fiziksel karta ihtiyaç duymadan AntalyaKart Mobil uygulaması üzerinden oluşturulan QR kod ile doğrudan turnike ve otobüs geçişi."
         }
       }
     ],
-    "transport": [
+    "ticket_machines": [
       {
         "name": {
-          "ar": "ترامواي أنترأي T1A (مطار أنطاليا - كاباز - كالييتشي)",
-          "en": "AntRay T1A (Antalya Airport - Otogar - Fatih)",
-          "tr": "AntRay T1A (Havalimanı - Otogar - Fatih)"
+          "ar": "أجهزة بيلمتاتيك أنطاليا كارت (نقود وبطاقة)",
+          "en": "Antalyakart Automated Kiosks (Cash & Card)",
+          "tr": "Antalyakart Otomatları (Nakit & Kart)"
         },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ant.jpg",
+        "needs_ad": true,
+        "desc": {
+          "ar": "مكائن آلية متوفرة عند محطات الترام الرئيسية والمطار ومحطة الحافلات لشراء بطاقات جديدة وشحن الرصيد نقداً بالليرة أو ببطاقة الائتمان.",
+          "en": "Automated kiosks positioned at all AntRay tram stations, the airport, and main bus terminals for buying new cards and top-ups with cash or card.",
+          "tr": "Tüm AntRay tramvay istasyonlarında, havalimanında ve otogarda bulunan nakit para ve kredi kartı ile kart satışı ve bakiye dolumu yapan otomatlar."
+        }
+      },
+      {
+        "name": {
+          "ar": "نقاط المطار ومحطة الحافلات السريعة",
+          "en": "Airport & Bus Terminal Transit Desks",
+          "tr": "Havalimanı ve Otogar Hızlı İşlem Noktaları"
+        },
+        "image": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/ant.jpg",
+        "needs_ad": true,
+        "desc": {
+          "ar": "أكشاك ومراكز مخصصة خارج صالات الوصول في مطار أنطاليا ومحطة الحافلات لخدمة السياح وتوفير البطاقات ومساعدتهم في خطوط السير.",
+          "en": "Dedicated service kiosks and kiosks outside airport arrival gates and the central bus terminal offering card sales and route assistance.",
+          "tr": "Antalya Havalimanı gelen yolcu çıkışlarında ve Şehirlerarası Otobüs Terminali'nde yer alan resmi kart temin ve bilgilendirme noktaları."
+        }
+      }
+    ],
+    "transport_lines": [
+      {
+        "type": "trans",
         "line_code": "T1A",
-        "category": "tram",
-        "color": "#1976D2",
-        "desc": {
-          "ar": "الخط السريع الذي يربط صالات مطار أنطاليا الدولي (Terminal 1) مباشرة بمركز المدينة، محطة الحافلات المركزية (Otogar)، ومحطة فاتح.",
-          "en": "Direct light rail tram line linking Antalya Airport Terminal 1 directly with city center, intercity bus station (Otogar), and Fatih.",
-          "tr": "Antalya Havalimanı Dış Hatlar Terminali'ni şehir merkezi ve Şehirlerarası Otobüs Terminali'ne bağlayan tramvay hattı."
-        },
-        "stations": [
-          { "name": { "ar": "Havalimanı (مطار أنطاليا الدولي ✈️)", "en": "Antalya Airport", "tr": "Havalimanı" } },
-          { "name": { "ar": "Cihadiye (جيهادية)", "en": "Cihadiye", "tr": "Cihadiye" } },
-          { "name": { "ar": "Meydan (ميدان - محطة التبديل المركزية)", "en": "Meydan Transfer", "tr": "Meydan" } },
-          { "name": { "ar": "Doğu Garajı (دوجو غاراج - سوق كالييتشي القديم)", "en": "Dogu Garaji / Kaleici", "tr": "Doğu Garajı" } },
-          { "name": { "ar": "İsmetpaşa (عصمت باشا - بوابة هادريان والشارع التجاري)", "en": "Ismetpasa / Hadrian Gate", "tr": "İsmetpaşa" } },
-          { "name": { "ar": "Muratpaşa (مراد باشا - وسط المدينة ومارك أنطاليا مول)", "en": "Muratpasa / MarkAntalya Mall", "tr": "Muratpaşa" } },
-          { "name": { "ar": "Otogar (محطة الحافلات المركزية بين المدن)", "en": "Intercity Bus Terminal (Otogar)", "tr": "Otogar" } },
-          { "name": { "ar": "Fatih (محطة فاتح)", "en": "Fatih", "tr": "Fatih" } }
-        ]
-      },
-      {
-        "name": {
-          "ar": "ترامواي أنترأي T1B (معرض إكسبو - كاباز - كالييتشي)",
-          "en": "AntRay T1B (EXPO - Meydan - Otogar - Fatih)",
-          "tr": "AntRay T1B (EXPO - Meydan - Fatih)"
-        },
-        "line_code": "T1B",
-        "category": "tram",
-        "color": "#00897B",
-        "desc": {
-          "ar": "يربط مجمع معارض إكسبو أنطاليا وبرج إكسبو بوسط المدينة ومحطة الباصات ومول مارك أنطاليا.",
-          "en": "Connects Antalya EXPO Exhibition Park & Tower with city center, MarkAntalya, and central bus terminal.",
-          "tr": "EXPO Fuar Alanı'nı şehir merkezi, MarkAntalya ve otogara bağlayan tramvay hattı."
-        },
-        "stations": [
-          { "name": { "ar": "EXPO (معرض وحدائق إكسبو أنطاليا 🌸)", "en": "Antalya EXPO", "tr": "EXPO" } },
-          { "name": { "ar": "Aksu (أكسو - مفرق أسبندوس وبيرغي)", "en": "Aksu", "tr": "Aksu" } },
-          { "name": { "ar": "Meydan (ميدان)", "en": "Meydan", "tr": "Meydan" } },
-          { "name": { "ar": "Doğu Garajı (دوجو غاراج)", "en": "Dogu Garaji", "tr": "Doğu Garajı" } },
-          { "name": { "ar": "İsmetpaşa (عصمت باشا)", "en": "Ismetpasa", "tr": "İsmetpaşa" } },
-          { "name": { "ar": "Muratpaşa (مراد باشا - مارك أنطاليا)", "en": "Muratpasa", "tr": "Muratpaşa" } },
-          { "name": { "ar": "Otogar (محطة الحافلات)", "en": "Otogar", "tr": "Otogar" } },
-          { "name": { "ar": "Fatih (فاتح)", "en": "Fatih", "tr": "Fatih" } }
-        ]
-      },
-      {
-        "name": {
-          "ar": "الترامواي التراثي الساحلي T2 (متحف أنطاليا - كالييتشي)",
-          "en": "Nostalgic Tram T2 (Museum - Kaleiçi - Zerdalilik)",
-          "tr": "Nostalji Tramvayı T2 (Müze - Kaleiçi - Zerdalilik)"
-        },
-        "line_code": "T2",
-        "category": "tram",
-        "color": "#E65100",
-        "desc": {
-          "ar": "ترام تاريخي كلاسيكي ألماني يسير بمحاذاة الساحل الصخري، يربط متحف أنطاليا الأثري بأسوار كالييتشي القديمة وشارع إيشيكلار.",
-          "en": "A vintage coastal tramway running along the cliff seaside, connecting Antalya Archaeology Museum with Kaleiçi Old Town.",
-          "tr": "Antalya Müzesi ile Işıklar Caddesi ve Kaleiçi arasında falezler boyunca uzanan nostaljik tramvay hattı."
-        },
-        "stations": [
-          { "name": { "ar": "Müze (متحف أنطاليا الأثري وشاطئ كونيالتي 🏛️)", "en": "Antalya Museum / Konyaalti", "tr": "Müze" } },
-          { "name": { "ar": "Barbaros (بارباروس)", "en": "Barbaros", "tr": "Barbaros" } },
-          { "name": { "ar": "Meslek Lisesi (المدرسة المهنية)", "en": "Meslek Lisesi", "tr": "Meslek Lisesi" } },
-          { "name": { "ar": "Cumhuriyet Meydanı (ميدان الجمهورية والنوافير)", "en": "Republic Square", "tr": "Cumhuriyet Meydanı" } },
-          { "name": { "ar": "Kale Kapısı (بوابة القلعة وبرج الساعة)", "en": "Castle Gate / Clock Tower", "tr": "Kale Kapısı" } },
-          { "name": { "ar": "Üçkapılar (بوابة هادريان الرومانية 🏛️)", "en": "Hadrian Gate", "tr": "Üçkapılar" } },
-          { "name": { "ar": "Belediye (مبنى البلدية ومنتزه أتاتورك)", "en": "Municipality / Karaalioglu Park", "tr": "Büyükşehir Belediye" } },
-          { "name": { "ar": "Işıklar (شارع إيشيكلار والمطاعم)", "en": "Isiklar Street", "tr": "Işıklar" } },
-          { "name": { "ar": "Zerdalilik (زرداليليك)", "en": "Zerdalilik", "tr": "Zerdalilik" } }
-        ]
-      },
-      {
-        "name": {
-          "ar": "الباص البحري السريع (أنطاليا - كيمير)",
-          "en": "Antalya - Kemer Sea Bus (Deniz Otobüsü)",
-          "tr": "Antalya - Kemer Deniz Otobüsü"
-        },
-        "line_code": "SEA-BUS",
-        "category": "sea",
         "color": "#0288D1",
+        "name": {
+          "ar": "ترام T1A (مطار أنطاليا الدولي ⇄ الفاتح)",
+          "en": "Tram T1A (Antalya Airport ⇄ Fatih)",
+          "tr": "T1A Fatih - Havalimanı Tramvay Hattı"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
         "desc": {
-          "ar": "رحلة بحرية ممتعة وسريعة تنقل الركاب عبر مياه البحر المتوسط بين ميناء كالييتشي التاريخي وميناء منتجعات كيمير السياحي.",
-          "en": "A scenic sea bus shuttle operating across the bay between historic Kaleiçi marina and Kemer yacht marina.",
-          "tr": "Tarihi Kaleiçi Yat Limanı ile Kemer Marina arasında çalışan deniz otobüsü seferleri."
+          "ar": "الخط الرئيسي الأهم للسياح، يربط مطار أنطاليا الدولي بمركز المدينة ومحطة الحافلات المركزية (Otogar) مباشرة.",
+          "en": "The vital tourist link connecting Antalya International Airport (AYT) directly to the city center and Central Bus Terminal (Otogar).",
+          "tr": "Antalya Havalimanı'nı doğrudan şehir merkezine, Doğu Garajı'na ve Şehirlerarası Otobüs Terminali'ne (Otogar) bağlayan ana hafif raylı sistem hattı."
         },
         "stations": [
-          { "name": { "ar": "Kaleiçi Yat Limanı (ميناء كالييتشي التاريخي ⚓)", "en": "Kaleici Marina", "tr": "Kaleiçi Yat Limanı" } },
-          { "name": { "ar": "Kemer Marina (ميناء كيمير لليخوت 🏖️)", "en": "Kemer Marina", "tr": "Kemer Marina" } }
+          { "name": { "ar": "Fatih (الفاتح - المحطة المركزية الأولى)", "en": "Fatih", "tr": "Fatih" } },
+          { "name": { "ar": "Otogar (محطة الحافلات بين المدن / أوتوجار 🚌)", "en": "Otogar (Central Bus Terminal)", "tr": "Otogar" } },
+          { "name": { "ar": "Çallı (تشاللي)", "en": "Calli", "tr": "Çallı" } },
+          { "name": { "ar": "Muratpaşa (مراد باشا - وسط المدينة ومارك أنطاليا مول)", "en": "Muratpasa / MarkAntalya Mall", "tr": "Muratpaşa" } },
+          { "name": { "ar": "İsmetpaşa (عصمت باشا - مدخل كاليتشي وبوابة هادريان 🏛️)", "en": "Ismetpasa / Old Town Kaleici", "tr": "İsmetpaşa" } },
+          { "name": { "ar": "Doğu Garajı (الكراج الشرقي - البازار القديم)", "en": "Dogu Garaji", "tr": "Doğu Garajı" } },
+          { "name": { "ar": "Meydan (الميدان - محطة التفرع الرئيسية)", "en": "Meydan", "tr": "Meydan" } },
+          { "name": { "ar": "Cırnık (جيرنيك - ديبوبو مول ومول أوف أنطاليا)", "en": "Cirnik / Mall of Antalya", "tr": "Cırnık" } },
+          { "name": { "ar": "Havalimanı 1 & 2 (مطار أنطاليا الدولي صالة 1 وصالة 2 ✈️)", "en": "Antalya Airport (Terminals 1 & 2)", "tr": "Havalimanı" } }
         ]
       },
       {
+        "type": "trans",
+        "line_code": "T1B",
+        "color": "#0097A7",
         "name": {
-          "ar": "باصات المطار السريعة (HAVAŞ)",
-          "en": "HAVAŞ Airport Shuttles",
+          "ar": "ترام T1B (الفاتح ⇄ معرض إكسبو EXPO)",
+          "en": "Tram T1B (Fatih ⇄ EXPO Exhibition Center)",
+          "tr": "T1B Fatih - EXPO Tramvay Hattı"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "يتطابق مع مسار خط T1 ويواصل طريقه بعد الميدان ليصل إلى مركز معارض إكسبو أنطاليا الضخم.",
+          "en": "Follows the T1 trunk route through central Antalya and extends directly to the large Antalya EXPO Convention Center.",
+          "tr": "Fatih ve şehir merkezinden geçerek Doğu aksındaki EXPO fuar ve kongre alanına kadar uzanan kesintisiz tramvay hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Fatih (الفاتح)", "en": "Fatih", "tr": "Fatih" } },
+          { "name": { "ar": "Otogar (الأوتوجار)", "en": "Otogar", "tr": "Otogar" } },
+          { "name": { "ar": "Muratpaşa (مراد باشا)", "en": "Muratpasa", "tr": "Muratpaşa" } },
+          { "name": { "ar": "İsmetpaşa (عصمت باشا - كاليتشي)", "en": "Ismetpasa", "tr": "İsmetpaşa" } },
+          { "name": { "ar": "Meydan (الميدان)", "en": "Meydan", "tr": "Meydan" } },
+          { "name": { "ar": "Aksu (أكسو - مدخل مدينة بيرغي الأثرية)", "en": "Aksu (Near Perge Ancient City)", "tr": "Aksu" } },
+          { "name": { "ar": "EXPO (معرض إكسبو أنطاليا 🌸)", "en": "EXPO Antalya", "tr": "EXPO" } }
+        ]
+      },
+      {
+        "type": "trans",
+        "line_code": "T2",
+        "color": "#E64A19",
+        "name": {
+          "ar": "الترامواي التاريخي التراثي T2 (المتحف ⇄ زردالليك)",
+          "en": "Heritage Nostalgic Tram T2 (Museum ⇄ Zerdalilik)",
+          "tr": "T2 Nostaljik Tramvay (Müze - Zerdalilik)"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "خط الترام التراثي الكلاسيكي الساحر، يسير على طول الساحل والبلدة القديمة بمحاذاة البحر وبوابة هادريان ومتحف أنطاليا.",
+          "en": "The iconic scenic historic tramway running along the scenic cliffs, Old Town Kaleiçi, Hadrian's Gate, and the Antalya Archaeological Museum.",
+          "tr": "Antalya Müzesi ile Işıklar caddesi arasında, falezlerin ve Kaleiçi surlarının yanından geçen tarihi nostaljik tramvay hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Müze (متحف أنطاليا الأثري وبداية شاطئ كونيالتي 🏛️)", "en": "Museum / Konyaalti Beach Head", "tr": "Müze" } },
+          { "name": { "ar": "Barbaros (بارباروس)", "en": "Barbaros", "tr": "Barbaros" } },
+          { "name": { "ar": "Meserret (ميسيريت)", "en": "Meserret", "tr": "Meserret" } },
+          { "name": { "ar": "Kale Kapısı (بوابة القلعة وبرج الساعة الشهير 🕰️)", "en": "Clock Tower / Kaleici Gate", "tr": "Kale Kapısı" } },
+          { "name": { "ar": "Üçkapılar (بوابة هادريان التاريخية ⛩️)", "en": "Hadrian's Gate (Uckapilar)", "tr": "Üçkapılar" } },
+          { "name": { "ar": "Büyükşehir Belediye (بلدية أنطاليا الكبرى وحديقة كارا علي أوغلو)", "en": "Municipality / Karaalioglu Park", "tr": "Büyükşehir Belediye" } },
+          { "name": { "ar": "Işıklar (شارع إشيكلار للمطاعم والتسوق)", "en": "Isiklar Street", "tr": "Işıklar" } },
+          { "name": { "ar": "Zerdalilik (زردالليك - نهاية الخط)", "en": "Zerdalilik Terminal", "tr": "Zerdalilik" } }
+        ]
+      },
+      {
+        "type": "trans",
+        "line_code": "T3",
+        "color": "#7B1FA2",
+        "name": {
+          "ar": "ترام T3 (فارساك ⇄ جامعة أقدنيز ⇄ المتحف)",
+          "en": "Tram T3 (Varsak ⇄ Akdeniz University ⇄ Museum)",
+          "tr": "T3 Varsak - Müze Tramvay Hattı"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "يربط شمال المدينة ومنطقة كيبيز بالجامعة ومستشفى البحوث وصولاً إلى المتحف الأثري وشاطئ كونيالتي.",
+          "en": "Modern northern line linking Kepez and Varsak districts with Akdeniz University, Research Hospital, and Antalya Museum.",
+          "tr": "Varsak'tan başlayıp Otogar, Akdeniz Üniversitesi ve Eğitim Araştırma Hastanesi üzerinden Antalya Müzesi'ne bağlanan modern hat."
+        },
+        "stations": [
+          { "name": { "ar": "Varsak (فارساك)", "en": "Varsak", "tr": "Varsak" } },
+          { "name": { "ar": "Kepezaltı (كيبيز)", "en": "Kepezalti", "tr": "Kepezaltı" } },
+          { "name": { "ar": "Otogar (تقاطع محطة الحافلات المركزية)", "en": "Otogar Transfer", "tr": "Otogar" } },
+          { "name": { "ar": "Akdeniz Üniversitesi (جامعة أقدنيز)", "en": "Akdeniz University", "tr": "Akdeniz Üniversitesi" } },
+          { "name": { "ar": "Eğitim Araştırma Hastanesi (مستشفى الأبحاث)", "en": "Research Hospital", "tr": "Eğitim Araştırma" } },
+          { "name": { "ar": "Müze (متحف أنطاليا - تقاطع الترام التراثي T2)", "en": "Museum (T2 Transfer)", "tr": "Müze" } }
+        ]
+      },
+      {
+        "type": "bus",
+        "line_code": "KL08",
+        "color": "#388E3C",
+        "name": {
+          "ar": "باص KL08 السياحي الأسطوري (ساري سو كونيالتي ⇄ لارا)",
+          "en": "Bus KL08 Tourist Line (Sarisu / Konyaalti ⇄ Lara)",
+          "tr": "KL08 Sarısu / Konyaaltı - Lara Sahil Hattı"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "أهم شريان باصات سياحي في أنطاليا، يربط شاطئ وتلفريك كونيالتي وساري سو بمركز المدينة وكاليتشي وشاطئ لارا بالكامل.",
+          "en": "Antalya's most popular tourist bus line connecting Sarisu Cable Car and Konyaaltı Beach to City Center, MarkAntalya, and Lara Beach.",
+          "tr": "Sarısu teleferik ve Konyaaltı sahilinden kalkıp MarkAntalya, Işıklar ve Lara plajlarına kadar uzanan en popüler sahil otobüs hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Sarısu Depolama (محطة ساري سو وتلفريك تونيك تبه 🚡)", "en": "Sarisu / Tunektepe Cable Car", "tr": "Sarısu Depolama" } },
+          { "name": { "ar": "Konyaaltı Sahili (كورنيش وشاطئ كونيالتي 🏖️)", "en": "Konyaalti Beach Boulevard", "tr": "Konyaaltı Sahili" } },
+          { "name": { "ar": "5M Migros (مول 5M ميغروس وأكواريوم أنطاليا 🐠)", "en": "5M Migros Mall / Aquarium", "tr": "5M Migros" } },
+          { "name": { "ar": "MarkAntalya (مركز تسوق مارك أنطاليا ووسط المدينة)", "en": "MarkAntalya Mall", "tr": "MarkAntalya" } },
+          { "name": { "ar": "Doğu Garajı (الكراج الشرقي وكاليتشي)", "en": "Dogu Garaji / Kaleici", "tr": "Doğu Garajı" } },
+          { "name": { "ar": "Shemall & Laura (مراكز تسوق لارا)", "en": "Lara Shopping Malls", "tr": "Shemall / Laura" } },
+          { "name": { "ar": "Aşağı Düden (شلال دودين السفلي المصب في البحر 🌊)", "en": "Lower Duden Waterfall", "tr": "Düden Parkı" } },
+          { "name": { "ar": "Lara Plajları (شواطئ ومنتجعات لارا الذهبية)", "en": "Lara Public Beaches", "tr": "Lara Plajları" } }
+        ]
+      },
+      {
+        "type": "bus",
+        "line_code": "600-800",
+        "color": "#1976D2",
+        "name": {
+          "ar": "باصات مطار أنطاليا البلدية (خط 600 و 800)",
+          "en": "Antalya Airport Municipal Buses (Routes 600 & 800)",
+          "tr": "Havalimanı Otobüs Hatları (600 Otogar & 800 Lara)"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "حافلات النقل العام التي تخدم مطار أنطاليا على مدار الساعة؛ خط 600 يربط بالأوتوجار ومركز المدينة، وخط 800 يربط بمنطقة ومنتجعات لارا.",
+          "en": "24/7 official municipal buses connecting Airport: Line 600 heads to Otogar (Central Bus Terminal), Line 800 serves Lara Coast and Resorts.",
+          "tr": "Antalya Havalimanı ile şehir arası çalışan belediye otobüsleri: 600 nolu hat Otogar'a, 800 nolu hat ise Lara bölgesine 24 saat ulaşım sağlar."
+        },
+        "stations": [
+          { "name": { "ar": "Havalimanı Dış & İç Hatlar (مطار أنطاليا صالات 1 و 2 والداخلية ✈️)", "en": "Antalya Airport Terminals (T1, T2 & Domestic)", "tr": "Antalya Havalimanı" } },
+          { "name": { "ar": "Hat 600: Meydan ⇄ Muratpaşa ⇄ Otogar (محطة الأوتوجار)", "en": "Line 600: City Center ⇄ Otogar Bus Station", "tr": "600: Şehir Merkezi - Otogar" } },
+          { "name": { "ar": "Hat 800: Terracity AVM ⇄ Lara Sahil (لارا والمجمعات)", "en": "Line 800: Terracity Mall ⇄ Lara Beach Coast", "tr": "800: Lara - Sarısu Sahil" } }
+        ]
+      },
+      {
+        "type": "bus",
+        "line_code": "HAVAS",
+        "color": "#0D47A1",
+        "name": {
+          "ar": "باصات هافاش الفاخرة للمطار (HAVAŞ)",
+          "en": "Havas Airport Luxury Shuttles",
           "tr": "HAVAŞ Havalimanı Servisleri"
         },
-        "line_code": "HAVAS",
-        "category": "bus",
-        "color": "#303F9F",
+        "url": "https://www.havas.net",
         "desc": {
-          "ar": "حافلات المطار السياحية المكيفة والمخصصة لنقل الركاب مباشرة من مطار أنطاليا إلى محطة الأوتوغار وكورنيش كونيالتي ومول ميغروس 5M.",
-          "en": "Direct airport shuttle buses running from Antalya Airport to Intercity Bus Terminal (Otogar) and 5M Migros Konyaaltı.",
-          "tr": "Antalya Havalimanı ile 5M Migros AVM ve Şehirlerarası Otogar arasında çalışan direkt ekspres servisler."
+          "ar": "حافلات النقل السريع المريحة والمكيفة المخصصة للمسافرين وحقائبهم بين مطار أنطاليا الدولي ومجمع 5M ميغروس والأوتوجار.",
+          "en": "Dedicated high-comfort airport shuttles transporting passengers with luggage between Antalya Airport and 5M Migros Mall / Otogar.",
+          "tr": "Antalya Havalimanı gelen yolcu çıkışından hareket ederek Otogar ve Konyaaltı 5M Migros yönüne kesintisiz hizmet veren konforlu yolcu servisleri."
         },
         "stations": [
-          { "name": { "ar": "Antalya Havalimanı (مطار أنطاليا ✈️)", "en": "Antalya Airport", "tr": "Antalya Havalimanı" } },
-          { "name": { "ar": "Kepez (كيبيز)", "en": "Kepez", "tr": "Kepez" } },
-          { "name": { "ar": "Otogar (محطة الحافلات المركزية)", "en": "Bus Terminal (Otogar)", "tr": "Otogar" } },
-          { "name": { "ar": "Akdeniz Üniversitesi (جامعة البحر الأبيض المتوسط)", "en": "Akdeniz University", "tr": "Akdeniz Üniversitesi" } },
-          { "name": { "ar": "5M Migros AVM / Konyaaltı (كونيالتي ومول ميغروس)", "en": "5M Migros / Konyaalti", "tr": "5M Migros AVM" } }
+          { "name": { "ar": "Antalya Havalimanı (مطار أنطاليا الدولي ✈️)", "en": "Antalya Airport Terminal", "tr": "Antalya Havalimanı" } },
+          { "name": { "ar": "Kepez Kavşağı (تقاطع كيبيز)", "en": "Kepez Interchange", "tr": "Kepez Kavşağı" } },
+          { "name": { "ar": "Antalya Şehirlerarası Otobüs Terminali (محطة الأوتوجار 🚌)", "en": "Intercity Bus Terminal (Otogar)", "tr": "Otogar" } },
+          { "name": { "ar": "Akdeniz Üniversitesi (جامعة أقدنيز)", "en": "Akdeniz University", "tr": "Akdeniz Üniversitesi" } },
+          { "name": { "ar": "Konyaaltı 5M Migros AVM (مول 5M ميغروس كونيالتي)", "en": "5M Migros Mall Konyaalti", "tr": "5M Migros AVM" } }
+        ]
+      },
+      {
+        "type": "ferry",
+        "line_code": "SEA-BUS",
+        "color": "#00ACC1",
+        "name": {
+          "ar": "العبارة البحرية السياحية (أنطاليا ⇄ كيمير)",
+          "en": "Antalya - Kemer Coastal Sea Bus",
+          "tr": "Antalya - Kemer Deniz Otobüsü"
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "desc": {
+          "ar": "رحلة بحرية رائعة تربط ميناء كاليتشي التاريخي بأنطاليا بمنتجع كيمير الساحلي في 45 دقيقة مع إطلالة بحرية بانورامية على جبال طوروس.",
+          "en": "Scenic 45-minute coastal catamaran journey connecting Antalya's Historic Kaleiçi Marina with the resort town of Kemer.",
+          "tr": "Tarihi Kaleiçi Yat Limanı ile Kemer Marina arasında çalışan, Beydağları manzaralı keyifli deniz ulaşımı ve gezi hattı."
+        },
+        "stations": [
+          { "name": { "ar": "Kaleiçi Yat Limanı (ميناء كاليتشي القديم بأنطاليا ⛵)", "en": "Kaleici Historic Marina", "tr": "Kaleiçi Yat Limanı" } },
+          { "name": { "ar": "Kemer Marina (ميناء ومنتجع كيمير الساحلي 🏖️)", "en": "Kemer Marina", "tr": "Kemer Marina" } }
         ]
       }
-    ]
+    ],
+    "bus_apps": [
+      {
+        "name": {
+          "ar": "تطبيق أنطاليا كارت الموحد",
+          "en": "AntalyaKart Official App",
+          "tr": "AntalyaKart Resmi Uygulama"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "تطبيق النقل الرسمي لمتابعة وصول الحافلات بالدقيقة ومسارات ترام أنطراي وشحن الرصيد والدفع بالباركود الذكي.",
+          "en": "Official transit app for real-time bus tracking, AntRay tram lines, timetable checks, card recharges, and QR boarding.",
+          "tr": "Otobüslerin durak varış saatlerini, AntRay hatlarını canlı takip etme, bakiye yükleme ve QR biniş resmi uygulaması."
+        },
+        "url": "https://www.antalyakart.com.tr",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "بوابة أنطاليا للمواصلات التفاعلية",
+          "en": "Antalya Ulasim Live Portal",
+          "tr": "Antalya Ulaşım Canlı Ağ Portalı"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "دليل المسارات والخرائط الحية التفاعلية لكافة شبكات الترام وحافلات المطار والخطوط الساحلية في أنطاليا.",
+          "en": "Live interactive route maps, schedule changes, and complete network navigation for all Antalya trams and regional buses.",
+          "tr": "Antalya'daki tüm tramvay ve otobüs hatlarının interaktif güzergah haritaları ve güncel sefer tarifeleri."
+        },
+        "url": "https://www.antalyaulasim.com.tr",
+        "needs_ad": true
+      },
+      {
+        "name": {
+          "ar": "تطبيق موفيت أنطاليا",
+          "en": "Moovit Antalya Transit Guide",
+          "tr": "Moovit Antalya Toplu Taşıma"
+        },
+        "icon": "https://raw.githubusercontent.com/jazmoy92/paradise-city-tour/main/cities/metro.jpeg",
+        "desc": {
+          "ar": "تخطيط الرحلات خطوة بخطوة باللغة العربية والإنجليزية، يوضح أفضل طرق الانتقال بين المعالم والفنادق وشواطئ أنطاليا.",
+          "en": "Step-by-step urban transit navigation connecting tourist landmarks, resorts, and beaches across Antalya.",
+          "tr": "Antalya'nın tüm turistik noktaları ve plajları arasında adım adım yol tarifi sunan toplu taşıma rehberi."
+        },
+        "url": "https://moovitapp.com",
+        "needs_ad": true
+      }
+    ],
+    "official_transit_portal": "https://www.antalyaulasim.com.tr"
   }
 }
